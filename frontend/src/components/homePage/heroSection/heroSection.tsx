@@ -30,15 +30,15 @@ export const HeroSection = () => {
             Trusted and reliable data. Fresh and growing community.
           </h2>
           <div>
-            <b className="text-accent">Connect </b>
+            <b>Connect </b>
             with like-minded peers through meetups & activities.
           </div>
           <div>
-            <b className="text-accent">Discover </b>
+            <b>Discover </b>
             the ideal place to settle down.
           </div>
           <div>
-            <b className="text-accent">Track </b>
+            <b>Track </b>
             your journeys and show the world the places you've visited.
           </div>
           <button className="btn btn-accent mt-6">GO NOMAD</button>
