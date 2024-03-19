@@ -3,9 +3,9 @@ import {
   createRoutesFromElements,
   Route,
 } from "react-router-dom";
-import { HomePage } from "../toplevelcomponents/homePage/homePage";
-import { ProfilePage } from "../toplevelcomponents/profilePage/profilePage";
-import { MeetupsPage } from "../toplevelcomponents/meetupsPage/meetupsPage";
+import { HomePage } from "../components/homePage/homePage";
+import { ProfilePage } from "../components/profilePage/profilePage";
+import { MeetupsPage } from "../components/meetupsPage/meetupsPage";
 
 export const router = createBrowserRouter(
   createRoutesFromElements(
