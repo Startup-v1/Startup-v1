@@ -4,7 +4,7 @@ import mongoose, { ConnectOptions } from "mongoose";
 const app = express();
 const port = process.env.PORT || 3000;
 
-//FIXME: Replace with db uri
+//FIXME: Replacee with db uri
 const dbUri = "test";
 
 /*
