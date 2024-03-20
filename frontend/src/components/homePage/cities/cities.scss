@@ -1,0 +1,22 @@
+@import "./../../../scss/variables";
+
+.card-body {
+    .cityName {
+        font-size: 40px;
+    }
+
+    .cityCountry {
+        font-size: 20px;
+    }
+
+    .cityCost {
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+    }
+}
+
+
+.card.image-full:before {
+    opacity: 0.35;
+}
