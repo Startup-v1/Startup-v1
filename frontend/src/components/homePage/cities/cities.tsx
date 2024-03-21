@@ -2,7 +2,22 @@ import "./cities.scss";
 
 export const CitiesGrid = () => {
   //TODO: This should come from the Database
-  const totalCities = [
+  const cities = [
+    {
+      name: "Tokyo",
+      country: "Japan",
+      cost: 100,
+    },
+    {
+      name: "Tokyo",
+      country: "Japan",
+      cost: 100,
+    },
+    {
+      name: "Tokyo",
+      country: "Japan",
+      cost: 100,
+    },
     {
       name: "Tokyo",
       country: "Japan",
@@ -42,9 +57,9 @@ export const CitiesGrid = () => {
   return (
     <section className="flex justify-center mt-28">
       <div className="grid gap-4 grid-cols-3 gap-x-16 gap-y-16">
-        {totalCities.map((city) => {
+        {cities.map((city) => {
           return (
-            <div className="card w-96 bg-base-100 shadow-xl image-full">
+            <div key={city.name} className="card w-96 bg-base-100 shadow-xl image-full">
               <figure>
                 <img
                   src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
