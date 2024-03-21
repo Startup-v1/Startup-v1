@@ -3,7 +3,7 @@ import { RoutePaths } from "../routes/routePaths";
 
 export function Navbar() {
   return (
-    <div className="navbar bg-base-100">
+    <div className="navbar bg-base-100 absolute z-10">
       <div className="flex-1">
         <a className="btn btn-ghost text-xl">daisyUI</a>
       </div>

@@ -1,0 +1,26 @@
+@import "./../../../scss/variables";
+
+.card-body {
+    font-family: 'Montserrat';
+
+    .cityName {
+        font-size: 40px;
+        font-weight: bold;
+
+    }
+
+    .cityCountry {
+        font-size: 20px;
+    }
+
+    .cityCost {
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+    }
+}
+
+
+.card.image-full:before {
+    opacity: 0.30;
+}

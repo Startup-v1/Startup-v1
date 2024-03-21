@@ -2,3 +2,17 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+// UTILITY CLASSES -----------------
+
+// Utility class to add to the body of every page
+.page {
+    width: 1400px;
+    margin: 0 auto;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
