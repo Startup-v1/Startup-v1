@@ -1,0 +1,1202 @@
+[
+    {
+        "name": "Amsterdam",
+        "population": 921468
+    },
+    {
+        "name": "Athens",
+        "population": 717373
+    },
+    {
+        "name": "Auckland",
+        "population": 1470100
+    },
+    {
+        "name": "Austin",
+        "population": 961855
+    },
+    {
+        "name": "Canggu",
+        "population": 40000
+    },
+    {
+        "name": "Bangkok",
+        "population": 11676648
+    },
+    {
+        "name": "Barcelona",
+        "population": 5704697
+    },
+    {
+        "name": "Belgrade",
+        "population": 1681405
+    },
+    {
+        "name": "Berlin",
+        "population": 3755251
+    },
+    {
+        "name": "Bogotá",
+        "population": 7743955
+    },
+    {
+        "name": "Bordeaux",
+        "population": 1013121
+    },
+    {
+        "name": "Brasília",
+        "population": 2817068
+    },
+    {
+        "name": "Bratislava",
+        "population": 475503
+    },
+    {
+        "name": "Brisbane",
+        "population": 2287896
+    },
+    {
+        "name": "Bristol",
+        "population": 579200
+    },
+    {
+        "name": "Ko Pha Ngan",
+        "population": 17747
+    },
+    {
+        "name": "Brussels",
+        "population": 1219970
+    },
+    {
+        "name": "Budapest",
+        "population": 1671004
+    },
+    {
+        "name": "Bucharest",
+        "population": 1716961
+    },
+    {
+        "name": "Buenos Aires",
+        "population": 3120612
+    },
+    {
+        "name": "Cairns",
+        "population": 166943
+    },
+    {
+        "name": "Cairo",
+        "population": 9606916
+    },
+    {
+        "name": "Cape Town",
+        "population": 4005016
+    },
+    {
+        "name": "Chiang Mai",
+        "population": 1198000
+    },
+    {
+        "name": "Chicago",
+        "population": 2746388
+    },
+    {
+        "name": "Christchurch",
+        "population": 385500
+    },
+    {
+        "name": "Cologne",
+        "population": 4472956
+    },
+    {
+        "name": "Penang",
+        "population": 1740405
+    },
+    {
+        "name": "Copenhagen",
+        "population": 644431
+    },
+    {
+        "name": "Cusco",
+        "population": 447588
+    },
+    {
+        "name": "Da Nang",
+        "population": 1230847
+    },
+    {
+        "name": "Dallas",
+        "population": 2613539
+    },
+    {
+        "name": "Denver",
+        "population": 715522
+    },
+    {
+        "name": "Detroit",
+        "population": 639111
+    },
+    {
+        "name": "Dubai",
+        "population": 3564931
+    },
+    {
+        "name": "Dublin",
+        "population": 592713
+    },
+    {
+        "name": "Dubrovnik",
+        "population": 41562
+    },
+    {
+        "name": "Edinburgh",
+        "population": 524930
+    },
+    {
+        "name": "Florence",
+        "population": 1013513
+    },
+    {
+        "name": "Cebu",
+        "population": 3325385
+    },
+    {
+        "name": "Florianópolis",
+        "population": 537213
+    },
+    {
+        "name": "Frankfurt",
+        "population": 773068
+    },
+    {
+        "name": "Geneva",
+        "population": 203840
+    },
+    {
+        "name": "Ghent",
+        "population": 556916
+    },
+    {
+        "name": "Glasgow",
+        "population": 635640
+    },
+    {
+        "name": "Granada",
+        "population": 921338
+    },
+    {
+        "name": "Guadalajara",
+        "population": 1460148
+    },
+    {
+        "name": "Guangzhou",
+        "population": 18676605
+    },
+    {
+        "name": "Hamburg",
+        "population": 1892122
+    },
+    {
+        "name": "Hanoi",
+        "population": 8330800
+    },
+    {
+        "name": "Helsinki",
+        "population": 664921
+    },
+    {
+        "name": "Ho Chi Minh City",
+        "population": 10380000
+    },
+    {
+        "name": "Hong Kong",
+        "population": 7413070
+    },
+    {
+        "name": "Honolulu",
+        "population": 1016508
+    },
+    {
+        "name": "Houston",
+        "population": 2304580
+    },
+    {
+        "name": "Istanbul",
+        "population": 15462452
+    },
+    {
+        "name": "Jakarta",
+        "population": 10562088
+    },
+    {
+        "name": "Johannesburg",
+        "population": 4949347
+    },
+    {
+        "name": "Kansas City",
+        "population": 508090
+    },
+    {
+        "name": "Kyiv",
+        "population": 3020000
+    },
+    {
+        "name": "Kraków",
+        "population": 769000
+    },
+    {
+        "name": "Kuala Lumpur",
+        "population": 1982100
+    },
+    {
+        "name": "Kyoto",
+        "population": 1448964
+    },
+    {
+        "name": "Lagos",
+        "population": 15070000
+    },
+    {
+        "name": "Las Palmas de Gran Canaria",
+        "population": 378517
+    },
+    {
+        "name": "Leeds",
+        "population": 789194
+    },
+    {
+        "name": "Lima",
+        "population": 9943800
+    },
+    {
+        "name": "Lisbon",
+        "population": 547733
+    },
+    {
+        "name": "Liverpool",
+        "population": 513441
+    },
+    {
+        "name": "Ljubljana",
+        "population": 284293
+    },
+    {
+        "name": "London",
+        "population": 8866180
+    },
+    {
+        "name": "Los Angeles",
+        "population": 10014009
+    },
+    {
+        "name": "Lyon",
+        "population": 1637827
+    },
+    {
+        "name": "Madrid",
+        "population": 6661949
+    },
+    {
+        "name": "Málaga",
+        "population": 1695651
+    },
+    {
+        "name": "Manchester",
+        "population": 547627
+    },
+    {
+        "name": "Manila",
+        "population": 1846513
+    },
+    {
+        "name": "Marrakech",
+        "population": 166711
+    },
+    {
+        "name": "Marseille",
+        "population": 1090221
+    },
+    {
+        "name": "Medellín",
+        "population": 2529403
+    },
+    {
+        "name": "Melbourne",
+        "population": 5031195
+    },
+    {
+        "name": "Mexico City",
+        "population": 9209944
+    },
+    {
+        "name": "Miami",
+        "population": 2701767
+    },
+    {
+        "name": "Delhi",
+        "population": 26495000
+    },
+    {
+        "name": "Milan",
+        "population": 3202397
+    },
+    {
+        "name": "Minneapolis",
+        "population": 429954
+    },
+    {
+        "name": "Montreal",
+        "population": 2004265
+    },
+    {
+        "name": "Moscow",
+        "population": 13010112
+    },
+    {
+        "name": "Mumbai",
+        "population": 15414288
+    },
+    {
+        "name": "Munich",
+        "population": 1512491
+    },
+    {
+        "name": "Nairobi",
+        "population": 5545000
+    },
+    {
+        "name": "Nashville",
+        "population": 689447
+    },
+    {
+        "name": "New Orleans",
+        "population": 383997
+    },
+    {
+        "name": "New York City",
+        "population": 8804190
+    },
+    {
+        "name": "Nice",
+        "population": 530694
+    },
+    {
+        "name": "Nicosia",
+        "population": 330000
+    },
+    {
+        "name": "Osaka",
+        "population": 2751862
+    },
+    {
+        "name": "Oslo",
+        "population": 711300
+    },
+    {
+        "name": "Panama City",
+        "population": 880691
+    },
+    {
+        "name": "Paris",
+        "population": 2145906
+    },
+    {
+        "name": "Perth",
+        "population": 2043762
+    },
+    {
+        "name": "Philadelphia",
+        "population": 1603797
+    },
+    {
+        "name": "Phnom Penh",
+        "population": 2129371
+    },
+    {
+        "name": "Phoenix",
+        "population": 1608139
+    },
+    {
+        "name": "Porto",
+        "population": 1488252
+    },
+    {
+        "name": "Prague",
+        "population": 1357326
+    },
+    {
+        "name": "Providence",
+        "population": 660741
+    },
+    {
+        "name": "Quebec City",
+        "population": 556066
+    },
+    {
+        "name": "Quito",
+        "population": 2679722
+    },
+    {
+        "name": "Raleigh",
+        "population": 467665
+    },
+    {
+        "name": "Reykjavík",
+        "population": 139875
+    },
+    {
+        "name": "Rio de Janeiro",
+        "population": 11900000
+    },
+    {
+        "name": "Rome",
+        "population": 4227059
+    },
+    {
+        "name": "Saint Petersburg",
+        "population": 5384342
+    },
+    {
+        "name": "Salt Lake City",
+        "population": 199723
+    },
+    {
+        "name": "Salvador",
+        "population": 2711840
+    },
+    {
+        "name": "San Diego",
+        "population": 3298634
+    },
+    {
+        "name": "San Francisco",
+        "population": 873965
+    },
+    {
+        "name": "San Jose",
+        "population": 1013240
+    },
+    {
+        "name": "San Juan",
+        "population": 1117629
+    },
+    {
+        "name": "Santiago",
+        "population": 6257516
+    },
+    {
+        "name": "São Paulo",
+        "population": 12396372
+    },
+    {
+        "name": "Seattle",
+        "population": 737015
+    },
+    {
+        "name": "Seoul",
+        "population": 9668465
+    },
+    {
+        "name": "Seville",
+        "population": 1947852
+    },
+    {
+        "name": "Shanghai",
+        "population": 24870895
+    },
+    {
+        "name": "Siem Reap",
+        "population": 139458
+    },
+    {
+        "name": "Singapore",
+        "population": 5866139
+    },
+    {
+        "name": "Sofia",
+        "population": 1399286
+    },
+    {
+        "name": "Split",
+        "population": 160577
+    },
+    {
+        "name": "St. Louis",
+        "population": 301578
+    },
+    {
+        "name": "Stockholm",
+        "population": 988943
+    },
+    {
+        "name": "Stuttgart",
+        "population": 4150949
+    },
+    {
+        "name": "Sydney",
+        "population": 4698656
+    },
+    {
+        "name": "Taipei",
+        "population": 4364124
+    },
+    {
+        "name": "Tallinn",
+        "population": 461346
+    },
+    {
+        "name": "Tbilisi",
+        "population": 1241700
+    },
+    {
+        "name": "Tel Aviv",
+        "population": 467875
+    },
+    {
+        "name": "Tokyo",
+        "population": 14264798
+    },
+    {
+        "name": "Toronto",
+        "population": 2794356
+    },
+    {
+        "name": "Toulouse",
+        "population": 1125390
+    },
+    {
+        "name": "Valencia",
+        "population": 2589312
+    },
+    {
+        "name": "Vancouver",
+        "population": 2463431
+    },
+    {
+        "name": "Venice",
+        "population": 857841
+    },
+    {
+        "name": "Vienna",
+        "population": 1973403
+    },
+    {
+        "name": "Vilnius",
+        "population": 581475
+    },
+    {
+        "name": "Warsaw",
+        "population": 1860281
+    },
+    {
+        "name": "Wellington",
+        "population": 222726
+    },
+    {
+        "name": "Wrocław",
+        "population": 642357
+    },
+    {
+        "name": "Xiamen",
+        "population": 5163970
+    },
+    {
+        "name": "Yangon",
+        "population": 6874000
+    },
+    {
+        "name": "Zagreb",
+        "population": 767131
+    },
+    {
+        "name": "Zürich",
+        "population": 447082
+    },
+    {
+        "name": "Adelaide",
+        "population": 1387290
+    },
+    {
+        "name": "Ahmedabad",
+        "population": 7645000
+    },
+    {
+        "name": "Albuquerque",
+        "population": 564559
+    },
+    {
+        "name": "Alicante",
+        "population": 1881762
+    },
+    {
+        "name": "Antalya",
+        "population": 2426356
+    },
+    {
+        "name": "Antwerp",
+        "population": 1085832
+    },
+    {
+        "name": "Asheville",
+        "population": 94589
+    },
+    {
+        "name": "Asunción",
+        "population": 477346
+    },
+    {
+        "name": "Baku",
+        "population": 2300500
+    },
+    {
+        "name": "Baltimore",
+        "population": 854535
+    },
+    {
+        "name": "Bangalore",
+        "population": 14008262
+    },
+    {
+        "name": "Banja Luka",
+        "population": 185042
+    },
+    {
+        "name": "Basel",
+        "population": 200973
+    },
+    {
+        "name": "Belfast",
+        "population": 345006
+    },
+    {
+        "name": "Bergen",
+        "population": 955732
+    },
+    {
+        "name": "Bern",
+        "population": 445000
+    },
+    {
+        "name": "Bilbao",
+        "population": 346096
+    },
+    {
+        "name": "Birmingham",
+        "population": 1137100
+    },
+    {
+        "name": "Braga",
+        "population": 181494
+    },
+    {
+        "name": "Bremen",
+        "population": 661000
+    },
+    {
+        "name": "Brno",
+        "population": 396101
+    },
+    {
+        "name": "Buffalo",
+        "population": 834997
+    },
+    {
+        "name": "Bursa",
+        "population": 2994521
+    },
+    {
+        "name": "Busan",
+        "population": 3453198
+    },
+    {
+        "name": "Calgary",
+        "population": 1306784
+    },
+    {
+        "name": "Canberra",
+        "population": 452670
+    },
+    {
+        "name": "Cardiff",
+        "population": 364248
+    },
+    {
+        "name": "Casablanca",
+        "population": 3499000
+    },
+    {
+        "name": "Changsha",
+        "population": 10047914
+    },
+    {
+        "name": "Charleston",
+        "population": 408235
+    },
+    {
+        "name": "Chengdu",
+        "population": 20937757
+    },
+    {
+        "name": "Chennai",
+        "population": 6599000
+    },
+    {
+        "name": "Columbus",
+        "population": 905748
+    },
+    {
+        "name": "Colombo",
+        "population": 2273260
+    },
+    {
+        "name": "Cork",
+        "population": 542196
+    },
+    {
+        "name": "Curitiba",
+        "population": 1963726
+    },
+    {
+        "name": "Dalian",
+        "population": 7450785
+    },
+    {
+        "name": "Dar es Salaam",
+        "population": 4715000
+    },
+    {
+        "name": "Davao City",
+        "population": 1776949
+    },
+    {
+        "name": "Dhaka",
+        "population": 16800000
+    },
+    {
+        "name": "Doha",
+        "population": 1186023
+    },
+    {
+        "name": "Dortmund",
+        "population": 593317
+    },
+    {
+        "name": "Dresden",
+        "population": 563311
+    },
+    {
+        "name": "Durban",
+        "population": 595061
+    },
+    {
+        "name": "Edmonton",
+        "population": 1010899
+    },
+    {
+        "name": "Yekaterinburg",
+        "population": 1468833
+    },
+    {
+        "name": "Essen",
+        "population": 584580
+    },
+    {
+        "name": "Fortaleza",
+        "population": 2428678
+    },
+    {
+        "name": "Foshan",
+        "population": 9498863
+    },
+    {
+        "name": "Fukuoka",
+        "population": 1603043
+    },
+    {
+        "name": "Puerto del Rosario",
+        "population": 43390
+    },
+    {
+        "name": "Gaziantep",
+        "population": 1680723
+    },
+    {
+        "name": "Gdańsk",
+        "population": 486022
+    },
+    {
+        "name": "Genoa",
+        "population": 580097
+    },
+    {
+        "name": "Georgetown",
+        "population": 200500
+    },
+    {
+        "name": "Oaxaca",
+        "population": 300050
+    },
+    {
+        "name": "Gothenburg",
+        "population": 604829
+    },
+    {
+        "name": "Groningen",
+        "population": 238147
+    },
+    {
+        "name": "Gwangju",
+        "population": 1422999
+    },
+    {
+        "name": "Halifax",
+        "population": 440072
+    },
+    {
+        "name": "Halle",
+        "population": 643415
+    },
+    {
+        "name": "Hamilton",
+        "population": 830639
+    },
+    {
+        "name": "Hangzhou",
+        "population": 11936010
+    },
+    {
+        "name": "Harare",
+        "population": 2150000
+    },
+    {
+        "name": "Havana",
+        "population": 2492618
+    },
+    {
+        "name": "Hiroshima",
+        "population": 1198021
+    },
+    {
+        "name": "Hobart",
+        "population": 197451
+    },
+    {
+        "name": "Hội An",
+        "population": 121716
+    },
+    {
+        "name": "Atlanta",
+        "population": 498715
+    },
+    {
+        "name": "Yerevan",
+        "population": 1092800
+    },
+    {
+        "name": "Hyderabad",
+        "population": 9305000
+    },
+    {
+        "name": "Incheon",
+        "population": 2993492
+    },
+    {
+        "name": "Innsbruck",
+        "population": 180453
+    },
+    {
+        "name": "Islamabad",
+        "population": 1014825
+    },
+    {
+        "name": "İzmir",
+        "population": 4367251
+    },
+    {
+        "name": "Jaipur",
+        "population": 6626178
+    },
+    {
+        "name": "Jersey City",
+        "population": 292449
+    },
+    {
+        "name": "Jinan",
+        "population": 9202432
+    },
+    {
+        "name": "Kampala",
+        "population": 1680600
+    },
+    {
+        "name": "Kathmandu",
+        "population": 845767
+    },
+    {
+        "name": "Kingston",
+        "population": 583958
+    },
+    {
+        "name": "Kobe",
+        "population": 1521707
+    },
+    {
+        "name": "Kochi",
+        "population": 677381
+    },
+    {
+        "name": "Kolkata",
+        "population": 4496694
+    },
+    {
+        "name": "Kunming",
+        "population": 8460000
+    },
+    {
+        "name": "Kuwait City",
+        "population": 2989000
+    },
+    {
+        "name": "La Paz",
+        "population": 2867504
+    },
+    {
+        "name": "Lahore",
+        "population": 19581281
+    },
+    {
+        "name": "Lanzarote",
+        "population": 64826
+    },
+    {
+        "name": "Lille",
+        "population": 1260060
+    },
+    {
+        "name": "Lombok",
+        "population": 1343901
+    },
+    {
+        "name": "Macau",
+        "population": 682100
+    },
+    {
+        "name": "Malmö",
+        "population": 324002
+    },
+    {
+        "name": "Manaus",
+        "population": 2063547
+    },
+    {
+        "name": "Mendoza",
+        "population": 114822
+    },
+    {
+        "name": "Monterrey",
+        "population": 1135512
+    },
+    {
+        "name": "Montevideo",
+        "population": 1319108
+    },
+    {
+        "name": "Muscat",
+        "population": 1421409
+    },
+    {
+        "name": "Nagoya",
+        "population": 2326844
+    },
+    {
+        "name": "Naples",
+        "population": 3107006
+    },
+    {
+        "name": "Nara",
+        "population": 352377
+    },
+    {
+        "name": "Nassau",
+        "population": 1395774
+    },
+    {
+        "name": "Nizhny Novgorod",
+        "population": 1244254
+    },
+    {
+        "name": "Novi Sad",
+        "population": 380000
+    },
+    {
+        "name": "Novosibirsk",
+        "population": 1625631
+    },
+    {
+        "name": "Odessa",
+        "population": 114428
+    },
+    {
+        "name": "Okayama",
+        "population": 720043
+    },
+    {
+        "name": "Ottawa",
+        "population": 1017449
+    },
+    {
+        "name": "Oxford",
+        "population": 163257
+    },
+    {
+        "name": "Paphos",
+        "population": 35961
+    },
+    {
+        "name": "Patong",
+        "population": 20363
+    },
+    {
+        "name": "Pattaya",
+        "population": 119532
+    },
+    {
+        "name": "Phuket",
+        "population": 247115
+    },
+    {
+        "name": "Plovdiv",
+        "population": 370449
+    },
+    {
+        "name": "Podgorica",
+        "population": 150977
+    },
+    {
+        "name": "Poznań",
+        "population": 546859
+    },
+    {
+        "name": "Pune",
+        "population": 9429408
+    },
+    {
+        "name": "Qingdao",
+        "population": 10071722
+    },
+    {
+        "name": "Queenstown",
+        "population": 118599
+    },
+    {
+        "name": "Rabat",
+        "population": 572717
+    },
+    {
+        "name": "Recife",
+        "population": 1653461
+    },
+    {
+        "name": "Riga",
+        "population": 660187
+    },
+    {
+        "name": "Riyadh",
+        "population": 7009100
+    },
+    {
+        "name": "Rotterdam",
+        "population": 664311
+    },
+    {
+        "name": "Saint-Denis",
+        "population": 1668670
+    },
+    {
+        "name": "Saint-Martin",
+        "population": 38454
+    },
+    {
+        "name": "San José",
+        "population": 342000
+    },
+    {
+        "name": "Santa Cruz de Tenerife",
+        "population": 1044405
+    },
+    {
+        "name": "Santo Domingo",
+        "population": 1128678
+    },
+    {
+        "name": "Sarajevo",
+        "population": 413593
+    },
+    {
+        "name": "Santorini",
+        "population": 15500
+    },
+    {
+        "name": "Semarang",
+        "population": 1621384
+    },
+    {
+        "name": "Sendai",
+        "population": 1061177
+    },
+    {
+        "name": "Shenzhen",
+        "population": 17494398
+    },
+    {
+        "name": "Southampton",
+        "population": 271173
+    },
+    {
+        "name": "Stavanger",
+        "population": 146011
+    },
+    {
+        "name": "Strasbourg",
+        "population": 291313
+    },
+    {
+        "name": "Surabaya",
+        "population": 2885555
+    },
+    {
+        "name": "Suzhou",
+        "population": 12748262
+    },
+    {
+        "name": "Tainan",
+        "population": 1874686
+    },
+    {
+        "name": "Tampere",
+        "population": 244315
+    },
+    {
+        "name": "Taoyuan",
+        "population": 2293509
+    },
+    {
+        "name": "Tashkent",
+        "population": 2956384
+    },
+    {
+        "name": "Tehran",
+        "population": 8737510
+    },
+    {
+        "name": "Thessaloniki",
+        "population": 884945
+    },
+    {
+        "name": "St. Louis",
+        "population": 1004125
+    },
+    {
+        "name": "Hefei",
+        "population": 9369881
+    }
+]
