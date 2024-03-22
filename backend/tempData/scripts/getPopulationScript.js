@@ -1,6 +1,10 @@
+// THIS SCRIPT ADDS POPULATION DATA FOR A LIST OF CITIES PROVIDED
+// IMPORTANT: SUBSCRIBE TO FREE PLAN: https://rapidapi.com/wirefreethought/api/geodb-cities/pricing
+// TEST (CHECK THAT THE API KEY IS STILL VALID): https://rapidapi.com/wirefreethought/api/geodb-cities
+
 import axios from "axios";
 import fs from "fs";
-import initialCities from './initialCities.js';
+import initialCities from "./initialCities.js";
 
 const cities = [];
 const missingCities = [];
@@ -55,11 +59,7 @@ async function makeDelayedAPICall(cityName) {
   }
 }
 
-const isCityFound = (
-  cityResponse,
-  cityInitialData,
-  regex
-) => {
+const isCityFound = (cityResponse, cityInitialData, regex) => {
   return (
     cityResponse === cityInitialData ||
     (cityResponse?.includes(cityInitialData) && cityResponse.match(regex))
