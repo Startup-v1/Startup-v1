@@ -4,7 +4,7 @@
 
 import axios from "axios";
 import fs from "fs";
-import initialCities from "./initialCities.js";
+import initialCities from "../initialCities.js";
 
 console.log("starting script");
 

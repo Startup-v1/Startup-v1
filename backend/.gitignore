@@ -6,7 +6,8 @@ node_modules/
 *.js.map
 
 # Exclude JavaScript files in the tempData folder
-!tempData/scripts/*.js
+!tools/scripts/*.js
+!tools/*.js
 
 # Environment variables
 .env

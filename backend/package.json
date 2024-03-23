@@ -8,7 +8,7 @@
     "dev": "nodemon src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
     "testdb": "npx json-server --watch db.json --port 5999",
-    "lint": "tsc"
+    "lint": "tsc --noEmit"
   },
   "keywords": [],
   "author": "",
