@@ -1,0 +1,3889 @@
+[
+    {
+        "name": "Amsterdam",
+        "population": 921468,
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "latitude": 52.372777777,
+        "longitude": 4.893611111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Netherlands.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Athens",
+        "population": 643452,
+        "country": "Greece",
+        "countryCode": "GR",
+        "latitude": 37.98376,
+        "longitude": 23.72784,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Auckland",
+        "population": 1470100,
+        "country": "New Zealand",
+        "countryCode": "NZ",
+        "latitude": -36.849166666,
+        "longitude": 174.765277777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Zealand.svg",
+        "currency": {
+            "code": "NZD",
+            "symbol": "NZ$"
+        }
+    },
+    {
+        "name": "Austin",
+        "population": 961855,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 30.3,
+        "longitude": -97.733333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Canggu",
+        "population": 0,
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "latitude": -7.428611111,
+        "longitude": 112.459166666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indonesia.svg",
+        "currency": {
+            "code": "IDR",
+            "symbol": "IDR"
+        }
+    },
+    {
+        "name": "Bangkok",
+        "population": 5676648,
+        "country": "Thailand",
+        "countryCode": "TH",
+        "latitude": 13.75,
+        "longitude": 100.516666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg",
+        "currency": {
+            "code": "THB",
+            "symbol": "THB"
+        }
+    },
+    {
+        "name": "Barcelona",
+        "population": 1660122,
+        "country": "Spain",
+        "countryCode": "ES",
+        "latitude": 41.3825,
+        "longitude": 2.176944444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Belgrade",
+        "population": 1681405,
+        "country": "Serbia",
+        "countryCode": "RS",
+        "latitude": 44.81666668,
+        "longitude": 20.46666668,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Serbia.svg",
+        "currency": {
+            "code": "RSD",
+            "symbol": "RSD"
+        }
+    },
+    {
+        "name": "Berlin",
+        "population": 3755251,
+        "country": "Germany",
+        "countryCode": "DE",
+        "latitude": 52.516666666,
+        "longitude": 13.383333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Bogotá",
+        "population": 7743955,
+        "country": "Colombia",
+        "countryCode": "CO",
+        "latitude": 4.60971,
+        "longitude": -74.08175,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg",
+        "currency": {
+            "code": "COP",
+            "symbol": "COP"
+        }
+    },
+    {
+        "name": "Bordeaux",
+        "population": 261804,
+        "country": "France",
+        "countryCode": "FR",
+        "latitude": 44.837777777,
+        "longitude": -0.579444444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France%20%281958%E2%80%931976%29.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Brasília",
+        "population": 2817068,
+        "country": "Brazil",
+        "countryCode": "BR",
+        "latitude": -15.77972,
+        "longitude": -47.92972,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg",
+        "currency": {
+            "code": "BRL",
+            "symbol": "R$"
+        }
+    },
+    {
+        "name": "Bratislava",
+        "population": 475503,
+        "country": "Slovakia",
+        "countryCode": "SK",
+        "latitude": 48.144722222,
+        "longitude": 17.112777777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovakia.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Brisbane",
+        "population": 2287896,
+        "country": "Australia",
+        "countryCode": "AU",
+        "latitude": -27.467777777,
+        "longitude": 153.027777777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg",
+        "currency": {
+            "code": "AUD",
+            "symbol": "A$"
+        }
+    },
+    {
+        "name": "Bristol",
+        "population": 472465,
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "latitude": 51.453611111,
+        "longitude": -2.5975,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg",
+        "currency": {
+            "code": "GBP",
+            "symbol": "£"
+        }
+    },
+    {
+        "name": "Ko Pha Ngan",
+        "population": 11846,
+        "country": "Thailand",
+        "countryCode": "TH",
+        "latitude": 9.75778,
+        "longitude": 100.02914,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg",
+        "currency": {
+            "code": "THB",
+            "symbol": "THB"
+        }
+    },
+    {
+        "name": "Brussels",
+        "population": 1218255,
+        "country": "Belgium",
+        "countryCode": "BE",
+        "latitude": 50.846666666,
+        "longitude": 4.3525,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium%20%28civil%29.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Budapest",
+        "population": 1671004,
+        "country": "Hungary",
+        "countryCode": "HU",
+        "latitude": 47.498333333,
+        "longitude": 19.040833333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hungary.svg",
+        "currency": {
+            "code": "HUF",
+            "symbol": "HUF"
+        }
+    },
+    {
+        "name": "Bucharest",
+        "population": 1716961,
+        "country": "Romania",
+        "countryCode": "RO",
+        "latitude": 44.4,
+        "longitude": 26.083333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Romania.svg",
+        "currency": {
+            "code": "RON",
+            "symbol": "RON"
+        }
+    },
+    {
+        "name": "Buenos Aires",
+        "population": 3120612,
+        "country": "Argentina",
+        "countryCode": "AR",
+        "latitude": -34.599722222,
+        "longitude": -58.381944444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Argentina.svg",
+        "currency": {
+            "code": "ARS",
+            "symbol": "ARS"
+        }
+    },
+    {
+        "name": "Cairns",
+        "population": 153181,
+        "country": "Australia",
+        "countryCode": "AU",
+        "latitude": -16.92366,
+        "longitude": 145.76613,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg",
+        "currency": {
+            "code": "AUD",
+            "symbol": "A$"
+        }
+    },
+    {
+        "name": "Cairo",
+        "population": 9606916,
+        "country": "Egypt",
+        "countryCode": "EG",
+        "latitude": 30.044444444,
+        "longitude": 31.235833333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Egypt.svg",
+        "currency": {
+            "code": "EGP",
+            "symbol": "EGP"
+        }
+    },
+    {
+        "name": "Cape Town",
+        "population": 4005016,
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "latitude": -34,
+        "longitude": 18.5,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg",
+        "currency": {
+            "code": "ZAR",
+            "symbol": "ZAR"
+        }
+    },
+    {
+        "name": "Chiang Mai",
+        "population": 1198000,
+        "country": "Thailand",
+        "countryCode": "TH",
+        "latitude": 18.788888888,
+        "longitude": 98.983333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg",
+        "currency": {
+            "code": "THB",
+            "symbol": "THB"
+        }
+    },
+    {
+        "name": "Chicago",
+        "population": 2746388,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 41.85003,
+        "longitude": -87.65005,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Christchurch",
+        "population": 383200,
+        "country": "New Zealand",
+        "countryCode": "NZ",
+        "latitude": -43.530888888,
+        "longitude": 172.6365,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Zealand.svg",
+        "currency": {
+            "code": "NZD",
+            "symbol": "NZ$"
+        }
+    },
+    {
+        "name": "Cologne",
+        "population": 1084831,
+        "country": "Germany",
+        "countryCode": "DE",
+        "latitude": 50.942222222,
+        "longitude": 6.957777777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Penang",
+        "population": 1740405,
+        "country": "Malaysia",
+        "countryCode": "MY",
+        "latitude": 5.2632,
+        "longitude": 100.4846,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malaysia.svg",
+        "currency": {
+            "code": "MYR",
+            "symbol": "MYR"
+        }
+    },
+    {
+        "name": "Copenhagen",
+        "population": 644431,
+        "country": "Denmark",
+        "countryCode": "DK",
+        "latitude": 55.676111111,
+        "longitude": 12.568888888,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Denmark.svg",
+        "currency": {
+            "code": "DKK",
+            "symbol": "DKK"
+        }
+    },
+    {
+        "name": "Cusco",
+        "population": 447588,
+        "country": "Peru",
+        "countryCode": "PE",
+        "latitude": -13.526111111,
+        "longitude": -71.971388888,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Peru.svg",
+        "currency": {
+            "code": "PEN",
+            "symbol": "PEN"
+        }
+    },
+    {
+        "name": "Da Nang",
+        "population": 1230847,
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "latitude": 16.08333,
+        "longitude": 108.08333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vietnam.svg",
+        "currency": {
+            "code": "VND",
+            "symbol": "₫"
+        }
+    },
+    {
+        "name": "Dallas",
+        "population": 1304379,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 32.779166666,
+        "longitude": -96.808888888,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Denver",
+        "population": 715522,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 39.739166666,
+        "longitude": -104.984722222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Detroit",
+        "population": 639111,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 42.331666666,
+        "longitude": -83.0475,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Dubai",
+        "population": 3564931,
+        "country": "United Arab Emirates",
+        "countryCode": "AE",
+        "latitude": 25.269722222,
+        "longitude": 55.309444444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Arab%20Emirates.svg",
+        "currency": {
+            "code": "AED",
+            "symbol": "AED"
+        }
+    },
+    {
+        "name": "Dublin",
+        "population": 592713,
+        "country": "Ireland",
+        "countryCode": "IE",
+        "latitude": 53.349722222,
+        "longitude": -6.260277777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ireland.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Dubrovnik",
+        "population": 41562,
+        "country": "Croatia",
+        "countryCode": "HR",
+        "latitude": 42.640277777,
+        "longitude": 18.108333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Croatia.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Edinburgh",
+        "population": 488050,
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "latitude": 55.953333333,
+        "longitude": -3.189166666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg",
+        "currency": {
+            "code": "GBP",
+            "symbol": "£"
+        }
+    },
+    {
+        "name": "Florence",
+        "population": 1013513,
+        "country": "Italy",
+        "countryCode": "IT",
+        "latitude": 43.7714,
+        "longitude": 11.2542,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Cebu",
+        "population": 964169,
+        "country": "Philippines",
+        "countryCode": "PH",
+        "latitude": 10.3,
+        "longitude": 123.9,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Philippines.svg",
+        "currency": {
+            "code": "PHP",
+            "symbol": "₱"
+        }
+    },
+    {
+        "name": "Florianópolis",
+        "population": 537213,
+        "country": "Brazil",
+        "countryCode": "BR",
+        "latitude": -27.61455,
+        "longitude": -48.50116,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg",
+        "currency": {
+            "code": "BRL",
+            "symbol": "R$"
+        }
+    },
+    {
+        "name": "Frankfurt",
+        "population": 773068,
+        "country": "Germany",
+        "countryCode": "DE",
+        "latitude": 50.110555555,
+        "longitude": 8.682222222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Geneva",
+        "population": 203840,
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "latitude": 46.2,
+        "longitude": 6.15,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg",
+        "currency": {
+            "code": "CHF",
+            "symbol": "CHF"
+        }
+    },
+    {
+        "name": "Ghent",
+        "population": 265086,
+        "country": "Belgium",
+        "countryCode": "BE",
+        "latitude": 51.05,
+        "longitude": 3.71667,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium%20%28civil%29.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Glasgow",
+        "population": 635640,
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "latitude": 55.861111111,
+        "longitude": -4.25,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg",
+        "currency": {
+            "code": "GBP",
+            "symbol": "£"
+        }
+    },
+    {
+        "name": "Granada",
+        "population": 234325,
+        "country": "Spain",
+        "countryCode": "ES",
+        "latitude": 37.18817,
+        "longitude": -3.60667,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Guadalajara",
+        "population": 1460148,
+        "country": "Mexico",
+        "countryCode": "MX",
+        "latitude": 20.676666666,
+        "longitude": -103.3475,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg",
+        "currency": {
+            "code": "MXN",
+            "symbol": "MX$"
+        }
+    },
+    {
+        "name": "Guangzhou",
+        "population": 18676605,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 23.13,
+        "longitude": 113.26,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    },
+    {
+        "name": "Hamburg",
+        "population": 1892122,
+        "country": "Germany",
+        "countryCode": "DE",
+        "latitude": 53.55,
+        "longitude": 10,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Hanoi",
+        "population": 8330800,
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "latitude": 21.0245,
+        "longitude": 105.84117,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vietnam.svg",
+        "currency": {
+            "code": "VND",
+            "symbol": "₫"
+        }
+    },
+    {
+        "name": "Helsinki",
+        "population": 664921,
+        "country": "Finland",
+        "countryCode": "FI",
+        "latitude": 60.17556,
+        "longitude": 24.93417,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finland.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Ho Chi Minh City",
+        "population": 10380000,
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "latitude": 10.82302,
+        "longitude": 106.62965,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vietnam.svg",
+        "currency": {
+            "code": "VND",
+            "symbol": "₫"
+        }
+    },
+    {
+        "name": "Hong Kong",
+        "population": 7413070,
+        "country": "Hong Kong",
+        "countryCode": "HK",
+        "latitude": 22.278333333,
+        "longitude": 114.158611111,
+        "flag": "https://www.wikidata.org/wiki/Q8646#/media/File:Flag_of_Hong_Kong.svg",
+        "currency": {
+            "code": "HKD",
+            "symbol": "HK$"
+        }
+    },
+    {
+        "name": "Honolulu",
+        "population": 350964,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 21.304694444,
+        "longitude": -157.857194444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Houston",
+        "population": 2304580,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 29.762777777,
+        "longitude": -95.383055555,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Istanbul",
+        "population": 15462452,
+        "country": "Turkey",
+        "countryCode": "TR",
+        "latitude": 41.01,
+        "longitude": 28.960277777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg",
+        "currency": {
+            "code": "TRY",
+            "symbol": "TRY"
+        }
+    },
+    {
+        "name": "Jakarta",
+        "population": 10562088,
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "latitude": -6.2,
+        "longitude": 106.83333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indonesia.svg",
+        "currency": {
+            "code": "IDR",
+            "symbol": "IDR"
+        }
+    },
+    {
+        "name": "Johannesburg",
+        "population": 4434827,
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "latitude": -26.204361111,
+        "longitude": 28.041638888,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg",
+        "currency": {
+            "code": "ZAR",
+            "symbol": "ZAR"
+        }
+    },
+    {
+        "name": "Kansas City",
+        "population": 508090,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 39.05,
+        "longitude": -94.583333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Kyiv",
+        "population": 2952301,
+        "country": "Ukraine",
+        "countryCode": "UA",
+        "latitude": 50.45,
+        "longitude": 30.523611111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ukraine.svg",
+        "currency": {
+            "code": "UAH",
+            "symbol": "UAH"
+        }
+    },
+    {
+        "name": "Kraków",
+        "population": 804237,
+        "country": "Poland",
+        "countryCode": "PL",
+        "latitude": 50.061388888,
+        "longitude": 19.937222222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg",
+        "currency": {
+            "code": "PLN",
+            "symbol": "PLN"
+        }
+    },
+    {
+        "name": "Kuala Lumpur",
+        "population": 1982100,
+        "country": "Malaysia",
+        "countryCode": "MY",
+        "latitude": 3.147777777,
+        "longitude": 101.695277777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malaysia.svg",
+        "currency": {
+            "code": "MYR",
+            "symbol": "MYR"
+        }
+    },
+    {
+        "name": "Kyoto",
+        "population": 1448964,
+        "country": "Japan",
+        "countryCode": "JP",
+        "latitude": 35.011611111,
+        "longitude": 135.768111111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg",
+        "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+        }
+    },
+    {
+        "name": "Lagos",
+        "population": 15070000,
+        "country": "Nigeria",
+        "countryCode": "NG",
+        "latitude": 6.45,
+        "longitude": 3.4,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg",
+        "currency": {
+            "code": "NGN",
+            "symbol": "NGN"
+        }
+    },
+    {
+        "name": "Las Palmas de Gran Canaria",
+        "population": 378517,
+        "country": "Spain",
+        "countryCode": "ES",
+        "latitude": 28.099722222,
+        "longitude": -15.413333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Leeds",
+        "population": 789194,
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "latitude": 53.7975,
+        "longitude": -1.543611111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg",
+        "currency": {
+            "code": "GBP",
+            "symbol": "£"
+        }
+    },
+    {
+        "name": "Lima",
+        "population": 9943800,
+        "country": "Peru",
+        "countryCode": "PE",
+        "latitude": -12.04318,
+        "longitude": -77.02824,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Peru.svg",
+        "currency": {
+            "code": "PEN",
+            "symbol": "PEN"
+        }
+    },
+    {
+        "name": "Lisbon",
+        "population": 545923,
+        "country": "Portugal",
+        "countryCode": "PT",
+        "latitude": 38.71667,
+        "longitude": -9.13333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Portugal.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Liverpool",
+        "population": 513441,
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "latitude": 53.4075,
+        "longitude": -2.991944444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg",
+        "currency": {
+            "code": "GBP",
+            "symbol": "£"
+        }
+    },
+    {
+        "name": "Ljubljana",
+        "population": 284293,
+        "country": "Slovenia",
+        "countryCode": "SI",
+        "latitude": 46.051388888,
+        "longitude": 14.506111111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovenia.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "London",
+        "population": 8799728,
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "latitude": 51.507222222,
+        "longitude": -0.1275,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg",
+        "currency": {
+            "code": "GBP",
+            "symbol": "£"
+        }
+    },
+    {
+        "name": "Los Angeles",
+        "population": 3898747,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 34.05223,
+        "longitude": -118.24368,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Lyon",
+        "population": 522250,
+        "country": "France",
+        "countryCode": "FR",
+        "latitude": 45.758888888,
+        "longitude": 4.841388888,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France%20%281958%E2%80%931976%29.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Madrid",
+        "population": 3332035,
+        "country": "Spain",
+        "countryCode": "ES",
+        "latitude": 40.416944444,
+        "longitude": -3.703333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Málaga",
+        "population": 586384,
+        "country": "Spain",
+        "countryCode": "ES",
+        "latitude": 36.716666666,
+        "longitude": -4.416666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Manchester",
+        "population": 547627,
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "latitude": 53.466666666,
+        "longitude": -2.233333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg",
+        "currency": {
+            "code": "GBP",
+            "symbol": "£"
+        }
+    },
+    {
+        "name": "Manila",
+        "population": 1846513,
+        "country": "Philippines",
+        "countryCode": "PH",
+        "latitude": 14.6042,
+        "longitude": 120.9822,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Philippines.svg",
+        "currency": {
+            "code": "PHP",
+            "symbol": "₱"
+        }
+    },
+    {
+        "name": "Marrakech",
+        "population": 166711,
+        "country": "Morocco",
+        "countryCode": "MA",
+        "latitude": 31.60167,
+        "longitude": -7.99117,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Morocco.svg",
+        "currency": {
+            "code": "MAD",
+            "symbol": "MAD"
+        }
+    },
+    {
+        "name": "Marseille",
+        "population": 873076,
+        "country": "France",
+        "countryCode": "FR",
+        "latitude": 43.296666666,
+        "longitude": 5.376388888,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France%20%281958%E2%80%931976%29.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Medellín",
+        "population": 2529403,
+        "country": "Colombia",
+        "countryCode": "CO",
+        "latitude": 6.244747222,
+        "longitude": -75.574827777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg",
+        "currency": {
+            "code": "COP",
+            "symbol": "COP"
+        }
+    },
+    {
+        "name": "Melbourne",
+        "population": 5031195,
+        "country": "Australia",
+        "countryCode": "AU",
+        "latitude": -37.814166666,
+        "longitude": 144.963055555,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg",
+        "currency": {
+            "code": "AUD",
+            "symbol": "A$"
+        }
+    },
+    {
+        "name": "Mexico City",
+        "population": 9209944,
+        "country": "Mexico",
+        "countryCode": "MX",
+        "latitude": 19.419444444,
+        "longitude": -99.145555555,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg",
+        "currency": {
+            "code": "MXN",
+            "symbol": "MX$"
+        }
+    },
+    {
+        "name": "Miami",
+        "population": 449514,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 25.783333333,
+        "longitude": -80.216666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Delhi",
+        "population": 26495000,
+        "country": "India",
+        "countryCode": "IN",
+        "latitude": 28.666666666,
+        "longitude": 77.216666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg",
+        "currency": {
+            "code": "INR",
+            "symbol": "₹"
+        }
+    },
+    {
+        "name": "Milan",
+        "population": 3202397,
+        "country": "Italy",
+        "countryCode": "IT",
+        "latitude": 45.4642,
+        "longitude": 9.19034,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Minneapolis",
+        "population": 429954,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 44.97997,
+        "longitude": -93.26384,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Montreal",
+        "population": 1800055,
+        "country": "Canada",
+        "countryCode": "CA",
+        "latitude": 45.508888888,
+        "longitude": -73.561666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg",
+        "currency": {
+            "code": "CAD",
+            "symbol": "CA$"
+        }
+    },
+    {
+        "name": "Moscow",
+        "population": 13010112,
+        "country": "Russia",
+        "countryCode": "RU",
+        "latitude": 55.755833333,
+        "longitude": 37.617777777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg",
+        "currency": {
+            "code": "RUB",
+            "symbol": "RUB"
+        }
+    },
+    {
+        "name": "Mumbai",
+        "population": 15414288,
+        "country": "India",
+        "countryCode": "IN",
+        "latitude": 19.075833333,
+        "longitude": 72.8775,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg",
+        "currency": {
+            "code": "INR",
+            "symbol": "₹"
+        }
+    },
+    {
+        "name": "Munich",
+        "population": 1512491,
+        "country": "Germany",
+        "countryCode": "DE",
+        "latitude": 48.15389,
+        "longitude": 11.54806,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Nairobi",
+        "population": 5545000,
+        "country": "Kenya",
+        "countryCode": "KE",
+        "latitude": -1.286388888,
+        "longitude": 36.817222222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg",
+        "currency": {
+            "code": "KES",
+            "symbol": "KES"
+        }
+    },
+    {
+        "name": "Nashville",
+        "population": 689447,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 36.162222222,
+        "longitude": -86.774444444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "New Orleans",
+        "population": 383997,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 29.976111111,
+        "longitude": -90.078333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "New York City",
+        "population": 8804190,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 40.7,
+        "longitude": -74,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Nice",
+        "population": 348085,
+        "country": "France",
+        "countryCode": "FR",
+        "latitude": 43.701944444,
+        "longitude": 7.268333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France%20%281958%E2%80%931976%29.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Nicosia",
+        "population": 330000,
+        "country": "Cyprus",
+        "countryCode": "CY",
+        "latitude": 35.1725,
+        "longitude": 33.365,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cyprus.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Osaka",
+        "population": 2751862,
+        "country": "Japan",
+        "countryCode": "JP",
+        "latitude": 34.69375,
+        "longitude": 135.502111111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg",
+        "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+        }
+    },
+    {
+        "name": "Oslo",
+        "population": 711300,
+        "country": "Norway",
+        "countryCode": "NO",
+        "latitude": 59.913333333,
+        "longitude": 10.738888888,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg",
+        "currency": {
+            "code": "NOK",
+            "symbol": "NOK"
+        }
+    },
+    {
+        "name": "Panama City",
+        "population": 880691,
+        "country": "Panama",
+        "countryCode": "PA",
+        "latitude": 9,
+        "longitude": -79.5,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Panama.svg",
+        "currency": {
+            "code": "PAB",
+            "symbol": "PAB"
+        }
+    },
+    {
+        "name": "Paris",
+        "population": 2145906,
+        "country": "France",
+        "countryCode": "FR",
+        "latitude": 48.856666666,
+        "longitude": 2.352222222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France%20%281958%E2%80%931976%29.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Perth",
+        "population": 2043762,
+        "country": "Australia",
+        "countryCode": "AU",
+        "latitude": -31.95224,
+        "longitude": 115.8614,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg",
+        "currency": {
+            "code": "AUD",
+            "symbol": "A$"
+        }
+    },
+    {
+        "name": "Philadelphia",
+        "population": 1603797,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 39.952777777,
+        "longitude": -75.163611111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Phnom Penh",
+        "population": 2129371,
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "latitude": 11.569583333,
+        "longitude": 104.921027777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg",
+        "currency": {
+            "code": "KHR",
+            "symbol": "KHR"
+        }
+    },
+    {
+        "name": "Phoenix",
+        "population": 1608139,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 33.44838,
+        "longitude": -112.07404,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Porto",
+        "population": 1488252,
+        "country": "Brazil",
+        "countryCode": "BR",
+        "latitude": -30.03283,
+        "longitude": -51.23019,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg",
+        "currency": {
+            "code": "BRL",
+            "symbol": "R$"
+        }
+    },
+    {
+        "name": "Prague",
+        "population": 1357326,
+        "country": "Czech Republic",
+        "countryCode": "CZ",
+        "latitude": 50.08804,
+        "longitude": 14.42076,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Czech%20Republic.svg",
+        "currency": {
+            "code": "CZK",
+            "symbol": "CZK"
+        }
+    },
+    {
+        "name": "Providence",
+        "population": 190934,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 41.82399,
+        "longitude": -71.41283,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Quebec City",
+        "population": 556066,
+        "country": "Canada",
+        "countryCode": "CA",
+        "latitude": 46.816111,
+        "longitude": -71.224167,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg",
+        "currency": {
+            "code": "CAD",
+            "symbol": "CA$"
+        }
+    },
+    {
+        "name": "Quito",
+        "population": 1763275,
+        "country": "Ecuador",
+        "countryCode": "EC",
+        "latitude": -0.22,
+        "longitude": -78.5125,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ecuador.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Raleigh",
+        "population": 467665,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 35.78,
+        "longitude": -78.64,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Reykjavík",
+        "population": 139875,
+        "country": "Iceland",
+        "countryCode": "IS",
+        "latitude": 64.1475,
+        "longitude": -21.935,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iceland.svg",
+        "currency": {
+            "code": "ISK",
+            "symbol": "ISK"
+        }
+    },
+    {
+        "name": "Rio de Janeiro",
+        "population": 11900000,
+        "country": "Brazil",
+        "countryCode": "BR",
+        "latitude": -22.9028,
+        "longitude": -43.2078,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg",
+        "currency": {
+            "code": "BRL",
+            "symbol": "R$"
+        }
+    },
+    {
+        "name": "Rome",
+        "population": 4227059,
+        "country": "Italy",
+        "countryCode": "IT",
+        "latitude": 41.96667,
+        "longitude": 12.66667,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Saint Petersburg",
+        "population": 5384342,
+        "country": "Russia",
+        "countryCode": "RU",
+        "latitude": 59.95,
+        "longitude": 30.316666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg",
+        "currency": {
+            "code": "RUB",
+            "symbol": "RUB"
+        }
+    },
+    {
+        "name": "Salt Lake City",
+        "population": 199723,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 40.75,
+        "longitude": -111.883333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Salvador",
+        "population": 2711840,
+        "country": "Brazil",
+        "countryCode": "BR",
+        "latitude": -12.97563,
+        "longitude": -38.49096,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg",
+        "currency": {
+            "code": "BRL",
+            "symbol": "R$"
+        }
+    },
+    {
+        "name": "San Diego",
+        "population": 1386932,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 32.715,
+        "longitude": -117.1625,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "San Francisco",
+        "population": 873965,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 37.7775,
+        "longitude": -122.416388888,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "San Jose",
+        "population": 1013240,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 37.304166666,
+        "longitude": -121.872777777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "San Juan",
+        "population": 471389,
+        "country": "Argentina",
+        "countryCode": "AR",
+        "latitude": -31.5375,
+        "longitude": -68.536388888,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Argentina.svg",
+        "currency": {
+            "code": "ARS",
+            "symbol": "ARS"
+        }
+    },
+    {
+        "name": "Santiago",
+        "population": 6257516,
+        "country": "Chile",
+        "countryCode": "CL",
+        "latitude": -33.4375,
+        "longitude": -70.65,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chile.svg",
+        "currency": {
+            "code": "CLP",
+            "symbol": "CLP"
+        }
+    },
+    {
+        "name": "São Paulo",
+        "population": 12396372,
+        "country": "Brazil",
+        "countryCode": "BR",
+        "latitude": -23.550394444,
+        "longitude": -46.633947222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg",
+        "currency": {
+            "code": "BRL",
+            "symbol": "R$"
+        }
+    },
+    {
+        "name": "Seattle",
+        "population": 737015,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 47.60621,
+        "longitude": -122.33207,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Seoul",
+        "population": 9668465,
+        "country": "South Korea",
+        "countryCode": "KR",
+        "latitude": 37.56,
+        "longitude": 126.99,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Korea.svg",
+        "currency": {
+            "code": "KRW",
+            "symbol": "₩"
+        }
+    },
+    {
+        "name": "Seville",
+        "population": 684025,
+        "country": "Spain",
+        "countryCode": "ES",
+        "latitude": 37.383333333,
+        "longitude": -5.983333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Shanghai",
+        "population": 24870895,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 31.166666666,
+        "longitude": 121.466666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    },
+    {
+        "name": "Siem Reap",
+        "population": 139458,
+        "country": "Cambodia",
+        "countryCode": "KH",
+        "latitude": 13.362222222,
+        "longitude": 103.859722222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg",
+        "currency": {
+            "code": "KHR",
+            "symbol": "KHR"
+        }
+    },
+    {
+        "name": "Singapore",
+        "population": 5866139,
+        "country": "Singapore",
+        "countryCode": "SG",
+        "latitude": 1.3,
+        "longitude": 103.8,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Singapore.svg",
+        "currency": {
+            "code": "SGD",
+            "symbol": "SGD"
+        }
+    },
+    {
+        "name": "Sofia",
+        "population": 1399286,
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "latitude": 42.697886,
+        "longitude": 23.321726,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg",
+        "currency": {
+            "code": "BGN",
+            "symbol": "BGN"
+        }
+    },
+    {
+        "name": "Split",
+        "population": 160577,
+        "country": "Croatia",
+        "countryCode": "HR",
+        "latitude": 43.51,
+        "longitude": 16.44,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Croatia.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "St. Louis",
+        "population": 301578,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 38.62727,
+        "longitude": -90.19789,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Stockholm",
+        "population": 984748,
+        "country": "Sweden",
+        "countryCode": "SE",
+        "latitude": 59.329444444,
+        "longitude": 18.068611111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg",
+        "currency": {
+            "code": "SEK",
+            "symbol": "SEK"
+        }
+    },
+    {
+        "name": "Stuttgart",
+        "population": 632865,
+        "country": "Germany",
+        "countryCode": "DE",
+        "latitude": 48.7775,
+        "longitude": 9.18,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Sydney",
+        "population": 4698656,
+        "country": "Australia",
+        "countryCode": "AU",
+        "latitude": -33.86785,
+        "longitude": 151.20732,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg",
+        "currency": {
+            "code": "AUD",
+            "symbol": "A$"
+        }
+    },
+    {
+        "name": "Taipei",
+        "population": 4364124,
+        "country": "Taiwan",
+        "countryCode": "TW",
+        "latitude": 25.011111,
+        "longitude": 121.445833,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "TWD",
+            "symbol": "NT$"
+        }
+    },
+    {
+        "name": "Tallinn",
+        "population": 461346,
+        "country": "Estonia",
+        "countryCode": "EE",
+        "latitude": 59.437222222,
+        "longitude": 24.745,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Estonia.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Tbilisi",
+        "population": 1241700,
+        "country": "Georgia",
+        "countryCode": "GE",
+        "latitude": 41.69411,
+        "longitude": 44.83368,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia.svg",
+        "currency": {
+            "code": "GEL",
+            "symbol": "GEL"
+        }
+    },
+    {
+        "name": "Tel Aviv",
+        "population": 467875,
+        "country": "Israel",
+        "countryCode": "IL",
+        "latitude": 32.08,
+        "longitude": 34.78,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Israel.svg",
+        "currency": {
+            "code": "ILS",
+            "symbol": "₪"
+        }
+    },
+    {
+        "name": "Tokyo",
+        "population": 14264798,
+        "country": "Japan",
+        "countryCode": "JP",
+        "latitude": 35.689444444,
+        "longitude": 139.691666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg",
+        "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+        }
+    },
+    {
+        "name": "Toronto",
+        "population": 2794356,
+        "country": "Canada",
+        "countryCode": "CA",
+        "latitude": 43.670277777,
+        "longitude": -79.386666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg",
+        "currency": {
+            "code": "CAD",
+            "symbol": "CA$"
+        }
+    },
+    {
+        "name": "Toulouse",
+        "population": 504078,
+        "country": "France",
+        "countryCode": "FR",
+        "latitude": 43.604444444,
+        "longitude": 1.443888888,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France%20%281958%E2%80%931976%29.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Valencia",
+        "population": 1696662,
+        "country": "Venezuela",
+        "countryCode": "VE",
+        "latitude": 10.166666666,
+        "longitude": -68,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Venezuela.svg",
+        "currency": {
+            "code": "VES",
+            "symbol": "VES"
+        }
+    },
+    {
+        "name": "Vancouver",
+        "population": 2463431,
+        "country": "Canada",
+        "countryCode": "CA",
+        "latitude": 49.2494,
+        "longitude": -122.98,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg",
+        "currency": {
+            "code": "CAD",
+            "symbol": "CA$"
+        }
+    },
+    {
+        "name": "Venice",
+        "population": 857841,
+        "country": "Italy",
+        "countryCode": "IT",
+        "latitude": 45.4397,
+        "longitude": 12.3319,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Vienna",
+        "population": 1973403,
+        "country": "Austria",
+        "countryCode": "AT",
+        "latitude": 48.208333333,
+        "longitude": 16.3725,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Austria.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Vilnius",
+        "population": 581475,
+        "country": "Lithuania",
+        "countryCode": "LT",
+        "latitude": 54.687222222,
+        "longitude": 25.28,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lithuania.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Warsaw",
+        "population": 1860281,
+        "country": "Poland",
+        "countryCode": "PL",
+        "latitude": 52.23,
+        "longitude": 21.011111111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg",
+        "currency": {
+            "code": "PLN",
+            "symbol": "PLN"
+        }
+    },
+    {
+        "name": "Wellington",
+        "population": 216200,
+        "country": "New Zealand",
+        "countryCode": "NZ",
+        "latitude": -41.288888888,
+        "longitude": 174.777222222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Zealand.svg",
+        "currency": {
+            "code": "NZD",
+            "symbol": "NZ$"
+        }
+    },
+    {
+        "name": "Wrocław",
+        "population": 672929,
+        "country": "Poland",
+        "countryCode": "PL",
+        "latitude": 51.11,
+        "longitude": 17.0325,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg",
+        "currency": {
+            "code": "PLN",
+            "symbol": "PLN"
+        }
+    },
+    {
+        "name": "Xiamen",
+        "population": 5163970,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 24.479722222,
+        "longitude": 118.081944444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    },
+    {
+        "name": "Yangon",
+        "population": 6874000,
+        "country": "Myanmar",
+        "countryCode": "MM",
+        "latitude": 16.795,
+        "longitude": 96.16,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Myanmar.svg",
+        "currency": {
+            "code": "MMK",
+            "symbol": "MMK"
+        }
+    },
+    {
+        "name": "Zagreb",
+        "population": 767131,
+        "country": "Croatia",
+        "countryCode": "HR",
+        "latitude": 45.813055555,
+        "longitude": 15.977222222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Croatia.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Zürich",
+        "population": 447082,
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "latitude": 47.374444444,
+        "longitude": 8.541111111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg",
+        "currency": {
+            "code": "CHF",
+            "symbol": "CHF"
+        }
+    },
+    {
+        "name": "Adelaide",
+        "population": 1387290,
+        "country": "Australia",
+        "countryCode": "AU",
+        "latitude": -34.9275,
+        "longitude": 138.6,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg",
+        "currency": {
+            "code": "AUD",
+            "symbol": "A$"
+        }
+    },
+    {
+        "name": "Ahmedabad",
+        "population": 7645000,
+        "country": "India",
+        "countryCode": "IN",
+        "latitude": 23.021944444,
+        "longitude": 72.579722222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg",
+        "currency": {
+            "code": "INR",
+            "symbol": "₹"
+        }
+    },
+    {
+        "name": "Albuquerque",
+        "population": 564559,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 35.116666666,
+        "longitude": -106.616666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Alicante",
+        "population": 349282,
+        "country": "Spain",
+        "countryCode": "ES",
+        "latitude": 38.35323,
+        "longitude": -0.48134,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Antalya",
+        "population": 2426356,
+        "country": "Turkey",
+        "countryCode": "TR",
+        "latitude": 36.90812,
+        "longitude": 30.69556,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg",
+        "currency": {
+            "code": "TRY",
+            "symbol": "TRY"
+        }
+    },
+    {
+        "name": "Antwerp",
+        "population": 536079,
+        "country": "Belgium",
+        "countryCode": "BE",
+        "latitude": 51.2663,
+        "longitude": 4.37077,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium%20%28civil%29.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Asheville",
+        "population": 94589,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 35.595555555,
+        "longitude": -82.551944444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Asunción",
+        "population": 477346,
+        "country": "Paraguay",
+        "countryCode": "PY",
+        "latitude": -25.3,
+        "longitude": -57.633333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Paraguay%20%28reverse%29.svg",
+        "currency": {
+            "code": "PYG",
+            "symbol": "PYG"
+        }
+    },
+    {
+        "name": "Baku",
+        "population": 2300500,
+        "country": "Azerbaijan",
+        "countryCode": "AZ",
+        "latitude": 40.366655555,
+        "longitude": 49.835183333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Azerbaijan.svg",
+        "currency": {
+            "code": "AZN",
+            "symbol": "AZN"
+        }
+    },
+    {
+        "name": "Baltimore",
+        "population": 585708,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 39.286388888,
+        "longitude": -76.615,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Bengaluru",
+        "population": 12327000,
+        "country": "India",
+        "countryCode": "IN",
+        "latitude": 12.97194,
+        "longitude": 77.59369,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg",
+        "currency": {
+            "code": "INR",
+            "symbol": "₹"
+        }
+    },
+    {
+        "name": "Banja Luka",
+        "population": 185042,
+        "country": "Bosnia and Herzegovina",
+        "countryCode": "BA",
+        "latitude": 44.7725,
+        "longitude": 17.1925,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg",
+        "currency": {
+            "code": "BAM",
+            "symbol": "BAM"
+        }
+    },
+    {
+        "name": "Basel",
+        "population": 200973,
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "latitude": 47.566666666,
+        "longitude": 7.6,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg",
+        "currency": {
+            "code": "CHF",
+            "symbol": "CHF"
+        }
+    },
+    {
+        "name": "Belfast",
+        "population": 345006,
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "latitude": 54.596388888,
+        "longitude": -5.93,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg",
+        "currency": {
+            "code": "GBP",
+            "symbol": "£"
+        }
+    },
+    {
+        "name": "Bergen",
+        "population": 291189,
+        "country": "Norway",
+        "countryCode": "NO",
+        "latitude": 60.3925,
+        "longitude": 5.323333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg",
+        "currency": {
+            "code": "NOK",
+            "symbol": "NOK"
+        }
+    },
+    {
+        "name": "Bern",
+        "population": 134506,
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "latitude": 46.94798,
+        "longitude": 7.44743,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg",
+        "currency": {
+            "code": "CHF",
+            "symbol": "CHF"
+        }
+    },
+    {
+        "name": "Bilbao",
+        "population": 346096,
+        "country": "Spain",
+        "countryCode": "ES",
+        "latitude": 43.262222222,
+        "longitude": -2.953333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Birmingham",
+        "population": 1137100,
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "latitude": 52.48,
+        "longitude": -1.9025,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg",
+        "currency": {
+            "code": "GBP",
+            "symbol": "£"
+        }
+    },
+    {
+        "name": "Braga",
+        "population": 181494,
+        "country": "Portugal",
+        "countryCode": "PT",
+        "latitude": 41.550277777,
+        "longitude": -8.42,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Portugal.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Bremen",
+        "population": 661000,
+        "country": "Germany",
+        "countryCode": "DE",
+        "latitude": 53.08333,
+        "longitude": 8.83333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Brno",
+        "population": 396101,
+        "country": "Czech Republic",
+        "countryCode": "CZ",
+        "latitude": 49.195277777,
+        "longitude": 16.608333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Czech%20Republic.svg",
+        "currency": {
+            "code": "CZK",
+            "symbol": "CZK"
+        }
+    },
+    {
+        "name": "Buffalo",
+        "population": 278349,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 42.886388888,
+        "longitude": -78.878055555,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Bursa",
+        "population": 2994521,
+        "country": "Turkey",
+        "countryCode": "TR",
+        "latitude": 40.191330555,
+        "longitude": 29.080538888,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg",
+        "currency": {
+            "code": "TRY",
+            "symbol": "TRY"
+        }
+    },
+    {
+        "name": "Busan",
+        "population": 3453198,
+        "country": "South Korea",
+        "countryCode": "KR",
+        "latitude": 35.18,
+        "longitude": 129.075,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Korea.svg",
+        "currency": {
+            "code": "KRW",
+            "symbol": "₩"
+        }
+    },
+    {
+        "name": "Calgary",
+        "population": 1306784,
+        "country": "Canada",
+        "countryCode": "CA",
+        "latitude": 51.03503,
+        "longitude": -114.05201,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg",
+        "currency": {
+            "code": "CAD",
+            "symbol": "CA$"
+        }
+    },
+    {
+        "name": "Canberra",
+        "population": 452670,
+        "country": "Australia",
+        "countryCode": "AU",
+        "latitude": -35.28346,
+        "longitude": 149.12807,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg",
+        "currency": {
+            "code": "AUD",
+            "symbol": "A$"
+        }
+    },
+    {
+        "name": "Cardiff",
+        "population": 361469,
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "latitude": 51.481666666,
+        "longitude": -3.179166666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg",
+        "currency": {
+            "code": "GBP",
+            "symbol": "£"
+        }
+    },
+    {
+        "name": "Casablanca",
+        "population": 3499000,
+        "country": "Morocco",
+        "countryCode": "MA",
+        "latitude": 33.599166666,
+        "longitude": -7.62,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Morocco.svg",
+        "currency": {
+            "code": "MAD",
+            "symbol": "MAD"
+        }
+    },
+    {
+        "name": "Changsha",
+        "population": 10047914,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 28.19874,
+        "longitude": 112.97087,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    },
+    {
+        "name": "Charleston",
+        "population": 150227,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 32.783333333,
+        "longitude": -79.931944444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Chengdu",
+        "population": 20937757,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 30.66,
+        "longitude": 104.063333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    },
+    {
+        "name": "Chennai",
+        "population": 6599000,
+        "country": "India",
+        "countryCode": "IN",
+        "latitude": 13.0825,
+        "longitude": 80.275,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg",
+        "currency": {
+            "code": "INR",
+            "symbol": "₹"
+        }
+    },
+    {
+        "name": "Columbus",
+        "population": 905748,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 39.962222222,
+        "longitude": -83.000555555,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Colombo",
+        "population": 752993,
+        "country": "Sri Lanka",
+        "countryCode": "LK",
+        "latitude": 6.916666666,
+        "longitude": 79.833333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg",
+        "currency": {
+            "code": "LKR",
+            "symbol": "LKR"
+        }
+    },
+    {
+        "name": "Cork",
+        "population": 222333,
+        "country": "Ireland",
+        "countryCode": "IE",
+        "latitude": 51.9,
+        "longitude": -8.473055555,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ireland.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Curitiba",
+        "population": 1963726,
+        "country": "Brazil",
+        "countryCode": "BR",
+        "latitude": -25.429722222,
+        "longitude": -49.271944444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg",
+        "currency": {
+            "code": "BRL",
+            "symbol": "R$"
+        }
+    },
+    {
+        "name": "Dalian",
+        "population": 7450785,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 38.91222,
+        "longitude": 121.60222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    },
+    {
+        "name": "Dar es Salaam",
+        "population": 4715000,
+        "country": "Tanzania",
+        "countryCode": "TZ",
+        "latitude": -6.816111111,
+        "longitude": 39.280277777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tanzania.svg",
+        "currency": {
+            "code": "TZS",
+            "symbol": "TZS"
+        }
+    },
+    {
+        "name": "Davao City",
+        "population": 1776949,
+        "country": "Philippines",
+        "countryCode": "PH",
+        "latitude": 7.066666666,
+        "longitude": 125.6,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Philippines.svg",
+        "currency": {
+            "code": "PHP",
+            "symbol": "₱"
+        }
+    },
+    {
+        "name": "Dhaka",
+        "population": 16800000,
+        "country": "Bangladesh",
+        "countryCode": "BD",
+        "latitude": 23.728888888,
+        "longitude": 90.394444444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg",
+        "currency": {
+            "code": "BDT",
+            "symbol": "BDT"
+        }
+    },
+    {
+        "name": "Doha",
+        "population": 1186023,
+        "country": "Qatar",
+        "countryCode": "QA",
+        "latitude": 25.3,
+        "longitude": 51.533333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Qatar.svg",
+        "currency": {
+            "code": "QAR",
+            "symbol": "QAR"
+        }
+    },
+    {
+        "name": "Dortmund",
+        "population": 593317,
+        "country": "Germany",
+        "countryCode": "DE",
+        "latitude": 51.513888888,
+        "longitude": 7.465277777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Dresden",
+        "population": 563311,
+        "country": "Germany",
+        "countryCode": "DE",
+        "latitude": 51.0833,
+        "longitude": 13.7666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Durban",
+        "population": 595061,
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "latitude": -29.858333333,
+        "longitude": 31.025,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg",
+        "currency": {
+            "code": "ZAR",
+            "symbol": "ZAR"
+        }
+    },
+    {
+        "name": "Edmonton",
+        "population": 1010899,
+        "country": "Canada",
+        "countryCode": "CA",
+        "latitude": 53.533333333,
+        "longitude": -113.5,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg",
+        "currency": {
+            "code": "CAD",
+            "symbol": "CA$"
+        }
+    },
+    {
+        "name": "Yekaterinburg",
+        "population": 1468833,
+        "country": "Russia",
+        "countryCode": "RU",
+        "latitude": 56.835555555,
+        "longitude": 60.612777777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg",
+        "currency": {
+            "code": "RUB",
+            "symbol": "RUB"
+        }
+    },
+    {
+        "name": "Essen",
+        "population": 584580,
+        "country": "Germany",
+        "countryCode": "DE",
+        "latitude": 51.450833333,
+        "longitude": 7.013055555,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Fortaleza",
+        "population": 2428678,
+        "country": "Brazil",
+        "countryCode": "BR",
+        "latitude": -3.7275,
+        "longitude": -38.5275,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg",
+        "currency": {
+            "code": "BRL",
+            "symbol": "R$"
+        }
+    },
+    {
+        "name": "Foshan",
+        "population": 9498863,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 23.029167,
+        "longitude": 113.105556,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    },
+    {
+        "name": "Fukuoka",
+        "population": 1603043,
+        "country": "Japan",
+        "countryCode": "JP",
+        "latitude": 33.59,
+        "longitude": 130.401666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg",
+        "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+        }
+    },
+    {
+        "name": "Puerto del Rosario",
+        "population": 43390,
+        "country": "Spain",
+        "countryCode": "ES",
+        "latitude": 28.5,
+        "longitude": -13.866667,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Gaziantep",
+        "population": 1680723,
+        "country": "Turkey",
+        "countryCode": "TR",
+        "latitude": 37.062777777,
+        "longitude": 37.379166666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg",
+        "currency": {
+            "code": "TRY",
+            "symbol": "TRY"
+        }
+    },
+    {
+        "name": "Gdańsk",
+        "population": 486022,
+        "country": "Poland",
+        "countryCode": "PL",
+        "latitude": 54.35,
+        "longitude": 18.666666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg",
+        "currency": {
+            "code": "PLN",
+            "symbol": "PLN"
+        }
+    },
+    {
+        "name": "Genoa",
+        "population": 580097,
+        "country": "Italy",
+        "countryCode": "IT",
+        "latitude": 44.41286,
+        "longitude": 8.95729,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Georgetown",
+        "population": 200500,
+        "country": "Guyana",
+        "countryCode": "GY",
+        "latitude": 6.805833333,
+        "longitude": -58.150833333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guyana.svg",
+        "currency": {
+            "code": "GYD",
+            "symbol": "GYD"
+        }
+    },
+    {
+        "name": "Oaxaca",
+        "population": 300050,
+        "country": "Mexico",
+        "countryCode": "MX",
+        "latitude": 17.060555555,
+        "longitude": -96.725277777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg",
+        "currency": {
+            "code": "MXN",
+            "symbol": "MX$"
+        }
+    },
+    {
+        "name": "Gothenburg",
+        "population": 604829,
+        "country": "Sweden",
+        "countryCode": "SE",
+        "latitude": 57.70716,
+        "longitude": 11.96679,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg",
+        "currency": {
+            "code": "SEK",
+            "symbol": "SEK"
+        }
+    },
+    {
+        "name": "Groningen",
+        "population": 238147,
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "latitude": 53.21917,
+        "longitude": 6.56667,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Netherlands.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Gwangju",
+        "population": 1422999,
+        "country": "South Korea",
+        "countryCode": "KR",
+        "latitude": 35.166666666,
+        "longitude": 126.916666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Korea.svg",
+        "currency": {
+            "code": "KRW",
+            "symbol": "₩"
+        }
+    },
+    {
+        "name": "Halifax",
+        "population": 440072,
+        "country": "Canada",
+        "countryCode": "CA",
+        "latitude": 44.64269,
+        "longitude": -63.57688,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg",
+        "currency": {
+            "code": "CAD",
+            "symbol": "CA$"
+        }
+    },
+    {
+        "name": "Halle",
+        "population": 242083,
+        "country": "Germany",
+        "countryCode": "DE",
+        "latitude": 51.48139,
+        "longitude": 11.98556,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Hamilton",
+        "population": 569353,
+        "country": "Canada",
+        "countryCode": "CA",
+        "latitude": 43.256666666,
+        "longitude": -79.869166666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg",
+        "currency": {
+            "code": "CAD",
+            "symbol": "CA$"
+        }
+    },
+    {
+        "name": "Hangzhou",
+        "population": 11936010,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 30.25,
+        "longitude": 120.1675,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    },
+    {
+        "name": "Harare",
+        "population": 2150000,
+        "country": "Zimbabwe",
+        "countryCode": "ZW",
+        "latitude": -17.829166666,
+        "longitude": 31.052222222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zimbabwe.svg",
+        "currency": {
+            "code": "ZWL",
+            "symbol": "ZWL"
+        }
+    },
+    {
+        "name": "Havana",
+        "population": 2492618,
+        "country": "Cuba",
+        "countryCode": "CU",
+        "latitude": 23.136666666,
+        "longitude": -82.358888888,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cuba.svg",
+        "currency": {
+            "code": "CUP",
+            "symbol": "CUP"
+        }
+    },
+    {
+        "name": "Hiroshima",
+        "population": 1198021,
+        "country": "Japan",
+        "countryCode": "JP",
+        "latitude": 34.391388888,
+        "longitude": 132.451944444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg",
+        "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+        }
+    },
+    {
+        "name": "Hobart",
+        "population": 197451,
+        "country": "Australia",
+        "countryCode": "AU",
+        "latitude": -42.883333333,
+        "longitude": 147.316666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg",
+        "currency": {
+            "code": "AUD",
+            "symbol": "A$"
+        }
+    },
+    {
+        "name": "Hội An",
+        "population": 121716,
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "latitude": 15.87944,
+        "longitude": 108.335,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vietnam.svg",
+        "currency": {
+            "code": "VND",
+            "symbol": "₫"
+        }
+    },
+    {
+        "name": "Atlanta",
+        "population": 498715,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 33.756944444,
+        "longitude": -84.390277777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Yerevan",
+        "population": 1092800,
+        "country": "Armenia",
+        "countryCode": "AM",
+        "latitude": 40.181388888,
+        "longitude": 44.514444444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Armenia.svg",
+        "currency": {
+            "code": "AMD",
+            "symbol": "AMD"
+        }
+    },
+    {
+        "name": "Hyderabad",
+        "population": 9305000,
+        "country": "India",
+        "countryCode": "IN",
+        "latitude": 17.38405,
+        "longitude": 78.45636,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg",
+        "currency": {
+            "code": "INR",
+            "symbol": "₹"
+        }
+    },
+    {
+        "name": "Incheon",
+        "population": 2993492,
+        "country": "South Korea",
+        "countryCode": "KR",
+        "latitude": 37.463888888,
+        "longitude": 126.648611111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Korea.svg",
+        "currency": {
+            "code": "KRW",
+            "symbol": "₩"
+        }
+    },
+    {
+        "name": "Innsbruck",
+        "population": 132493,
+        "country": "Austria",
+        "countryCode": "AT",
+        "latitude": 47.26266,
+        "longitude": 11.39454,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Austria.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Islamabad",
+        "population": 1014825,
+        "country": "Pakistan",
+        "countryCode": "PK",
+        "latitude": 33.698888888,
+        "longitude": 73.036944444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg",
+        "currency": {
+            "code": "PKR",
+            "symbol": "PKR"
+        }
+    },
+    {
+        "name": "İzmir",
+        "population": 4367251,
+        "country": "Turkey",
+        "countryCode": "TR",
+        "latitude": 38.41273,
+        "longitude": 27.13838,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg",
+        "currency": {
+            "code": "TRY",
+            "symbol": "TRY"
+        }
+    },
+    {
+        "name": "Jaipur",
+        "population": 3073350,
+        "country": "India",
+        "countryCode": "IN",
+        "latitude": 26.916666666,
+        "longitude": 75.866666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg",
+        "currency": {
+            "code": "INR",
+            "symbol": "₹"
+        }
+    },
+    {
+        "name": "Jersey City",
+        "population": 292449,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 40.71,
+        "longitude": -74.06,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Jinan",
+        "population": 9202432,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 36.666666666,
+        "longitude": 116.983333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    },
+    {
+        "name": "Kampala",
+        "population": 1680600,
+        "country": "Uganda",
+        "countryCode": "UG",
+        "latitude": 0.313611111,
+        "longitude": 32.581111111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg",
+        "currency": {
+            "code": "UGX",
+            "symbol": "UGX"
+        }
+    },
+    {
+        "name": "Kathmandu",
+        "population": 845767,
+        "country": "Nepal",
+        "countryCode": "NP",
+        "latitude": 27.71,
+        "longitude": 85.32,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg",
+        "currency": {
+            "code": "NPR",
+            "symbol": "NPR"
+        }
+    },
+    {
+        "name": "Kingston",
+        "population": 583958,
+        "country": "Jamaica",
+        "countryCode": "JM",
+        "latitude": 18.00747,
+        "longitude": -76.78319,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jamaica.svg",
+        "currency": {
+            "code": "JMD",
+            "symbol": "JMD"
+        }
+    },
+    {
+        "name": "Kobe",
+        "population": 1521707,
+        "country": "Japan",
+        "countryCode": "JP",
+        "latitude": 34.690166666,
+        "longitude": 135.195444444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg",
+        "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+        }
+    },
+    {
+        "name": "Kochi",
+        "population": 677381,
+        "country": "India",
+        "countryCode": "IN",
+        "latitude": 9.966666666,
+        "longitude": 76.283333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg",
+        "currency": {
+            "code": "INR",
+            "symbol": "₹"
+        }
+    },
+    {
+        "name": "Kolkata",
+        "population": 4496694,
+        "country": "India",
+        "countryCode": "IN",
+        "latitude": 22.5726723,
+        "longitude": 88.3638815,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg",
+        "currency": {
+            "code": "INR",
+            "symbol": "₹"
+        }
+    },
+    {
+        "name": "Kunming",
+        "population": 8460000,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 25.043333333,
+        "longitude": 102.706111111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    },
+    {
+        "name": "Kuwait City",
+        "population": 2989000,
+        "country": "Kuwait",
+        "countryCode": "KW",
+        "latitude": 29.375,
+        "longitude": 47.98,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kuwait.svg",
+        "currency": {
+            "code": "KWD",
+            "symbol": "KWD"
+        }
+    },
+    {
+        "name": "La Paz",
+        "population": 2867504,
+        "country": "Bolivia",
+        "countryCode": "BO",
+        "latitude": -16.495833333,
+        "longitude": -68.133333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia%20%28state%29.svg",
+        "currency": {
+            "code": "BOB",
+            "symbol": "BOB"
+        }
+    },
+    {
+        "name": "Lahore",
+        "population": 11126285,
+        "country": "Pakistan",
+        "countryCode": "PK",
+        "latitude": 31.549722222,
+        "longitude": 74.343611111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg",
+        "currency": {
+            "code": "PKR",
+            "symbol": "PKR"
+        }
+    },
+    {
+        "name": "Lanzarote",
+        "population": 64826,
+        "country": "Spain",
+        "countryCode": "ES",
+        "latitude": 28.9625,
+        "longitude": -13.550555555,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Lille",
+        "population": 236710,
+        "country": "France",
+        "countryCode": "FR",
+        "latitude": 50.631944444,
+        "longitude": 3.0575,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France%20%281958%E2%80%931976%29.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Lombok",
+        "population": 0,
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "latitude": -8.50611111,
+        "longitude": 116.6575,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indonesia.svg",
+        "currency": {
+            "code": "IDR",
+            "symbol": "IDR"
+        }
+    },
+    {
+        "name": "Macau",
+        "population": 682100,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 22.19,
+        "longitude": 113.538055555,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    },
+    {
+        "name": "Malmö",
+        "population": 324002,
+        "country": "Sweden",
+        "countryCode": "SE",
+        "latitude": 55.593188589,
+        "longitude": 13.021423031,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg",
+        "currency": {
+            "code": "SEK",
+            "symbol": "SEK"
+        }
+    },
+    {
+        "name": "Manaus",
+        "population": 2063547,
+        "country": "Brazil",
+        "countryCode": "BR",
+        "latitude": -3.04361,
+        "longitude": -60.01282,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg",
+        "currency": {
+            "code": "BRL",
+            "symbol": "R$"
+        }
+    },
+    {
+        "name": "Mendoza",
+        "population": 114822,
+        "country": "Argentina",
+        "countryCode": "AR",
+        "latitude": -32.89084,
+        "longitude": -68.82717,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Argentina.svg",
+        "currency": {
+            "code": "ARS",
+            "symbol": "ARS"
+        }
+    },
+    {
+        "name": "Monterrey",
+        "population": 1135512,
+        "country": "Mexico",
+        "countryCode": "MX",
+        "latitude": 25.671388888,
+        "longitude": -100.308611111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg",
+        "currency": {
+            "code": "MXN",
+            "symbol": "MX$"
+        }
+    },
+    {
+        "name": "Montevideo",
+        "population": 1319108,
+        "country": "Uruguay",
+        "countryCode": "UY",
+        "latitude": -34.866666666,
+        "longitude": -56.166666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uruguay.svg",
+        "currency": {
+            "code": "UYU",
+            "symbol": "UYU"
+        }
+    },
+    {
+        "name": "Muscat",
+        "population": 1421409,
+        "country": "Oman",
+        "countryCode": "OM",
+        "latitude": 23.613888888,
+        "longitude": 58.592222222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oman.svg",
+        "currency": {
+            "code": "OMR",
+            "symbol": "OMR"
+        }
+    },
+    {
+        "name": "Nagoya",
+        "population": 2326844,
+        "country": "Japan",
+        "countryCode": "JP",
+        "latitude": 35.181388888,
+        "longitude": 136.906388888,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg",
+        "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+        }
+    },
+    {
+        "name": "Naples",
+        "population": 3107006,
+        "country": "Italy",
+        "countryCode": "IT",
+        "latitude": 40.8333,
+        "longitude": 14.25,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Nara",
+        "population": 352377,
+        "country": "Japan",
+        "countryCode": "JP",
+        "latitude": 34.685,
+        "longitude": 135.804777777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg",
+        "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+        }
+    },
+    {
+        "name": "Nassau",
+        "population": 274400,
+        "country": "The Bahamas",
+        "countryCode": "BS",
+        "latitude": 25.078055555,
+        "longitude": -77.338611111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Bahamas.svg",
+        "currency": {
+            "code": "BSD",
+            "symbol": "BSD"
+        }
+    },
+    {
+        "name": "Nizhny Novgorod",
+        "population": 1244254,
+        "country": "Russia",
+        "countryCode": "RU",
+        "latitude": 56.326944444,
+        "longitude": 44.0075,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg",
+        "currency": {
+            "code": "RUB",
+            "symbol": "RUB"
+        }
+    },
+    {
+        "name": "Novi Sad",
+        "population": 380000,
+        "country": "Serbia",
+        "countryCode": "RS",
+        "latitude": 45.264444444,
+        "longitude": 19.831666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Serbia.svg",
+        "currency": {
+            "code": "RSD",
+            "symbol": "RSD"
+        }
+    },
+    {
+        "name": "Novosibirsk",
+        "population": 1625631,
+        "country": "Russia",
+        "countryCode": "RU",
+        "latitude": 55.033333333,
+        "longitude": 82.916666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg",
+        "currency": {
+            "code": "RUB",
+            "symbol": "RUB"
+        }
+    },
+    {
+        "name": "Odessa",
+        "population": 114428,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 31.863333333,
+        "longitude": -102.365555555,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Okayama",
+        "population": 720043,
+        "country": "Japan",
+        "countryCode": "JP",
+        "latitude": 34.655111111,
+        "longitude": 133.919583333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg",
+        "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+        }
+    },
+    {
+        "name": "Ottawa",
+        "population": 1017449,
+        "country": "Canada",
+        "countryCode": "CA",
+        "latitude": 45.424722222,
+        "longitude": -75.695,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg",
+        "currency": {
+            "code": "CAD",
+            "symbol": "CA$"
+        }
+    },
+    {
+        "name": "Oxford",
+        "population": 162100,
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "latitude": 51.751944444,
+        "longitude": -1.257777777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg",
+        "currency": {
+            "code": "GBP",
+            "symbol": "£"
+        }
+    },
+    {
+        "name": "Paphos",
+        "population": 35961,
+        "country": "Cyprus",
+        "countryCode": "CY",
+        "latitude": 34.77679,
+        "longitude": 32.42451,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cyprus.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Patong",
+        "population": 20363,
+        "country": "Thailand",
+        "countryCode": "TH",
+        "latitude": 7.89607,
+        "longitude": 98.29661,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg",
+        "currency": {
+            "code": "THB",
+            "symbol": "THB"
+        }
+    },
+    {
+        "name": "Pattaya",
+        "population": 119532,
+        "country": "Thailand",
+        "countryCode": "TH",
+        "latitude": 12.93333,
+        "longitude": 100.88333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg",
+        "currency": {
+            "code": "THB",
+            "symbol": "THB"
+        }
+    },
+    {
+        "name": "Phuket",
+        "population": 77610,
+        "country": "Thailand",
+        "countryCode": "TH",
+        "latitude": 7.888055555,
+        "longitude": 98.3975,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg",
+        "currency": {
+            "code": "THB",
+            "symbol": "THB"
+        }
+    },
+    {
+        "name": "Plovdiv",
+        "population": 370449,
+        "country": "Bulgaria",
+        "countryCode": "BG",
+        "latitude": 42.142086,
+        "longitude": 24.741454,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg",
+        "currency": {
+            "code": "BGN",
+            "symbol": "BGN"
+        }
+    },
+    {
+        "name": "Podgorica",
+        "population": 150977,
+        "country": "Montenegro",
+        "countryCode": "ME",
+        "latitude": 42.441388888,
+        "longitude": 19.262777777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Montenegro.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Poznań",
+        "population": 546859,
+        "country": "Poland",
+        "countryCode": "PL",
+        "latitude": 52.408333333,
+        "longitude": 16.933611111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg",
+        "currency": {
+            "code": "PLN",
+            "symbol": "PLN"
+        }
+    },
+    {
+        "name": "Pune",
+        "population": 5945000,
+        "country": "India",
+        "countryCode": "IN",
+        "latitude": 18.519574,
+        "longitude": 73.855287,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg",
+        "currency": {
+            "code": "INR",
+            "symbol": "₹"
+        }
+    },
+    {
+        "name": "Qingdao",
+        "population": 10071722,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 36.116666666,
+        "longitude": 120.4,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    },
+    {
+        "name": "Queenstown",
+        "population": 118599,
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "latitude": -31.9,
+        "longitude": 26.883333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg",
+        "currency": {
+            "code": "ZAR",
+            "symbol": "ZAR"
+        }
+    },
+    {
+        "name": "Rabat",
+        "population": 572717,
+        "country": "Morocco",
+        "countryCode": "MA",
+        "latitude": 34.025277777,
+        "longitude": -6.836111111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Morocco.svg",
+        "currency": {
+            "code": "MAD",
+            "symbol": "MAD"
+        }
+    },
+    {
+        "name": "Recife",
+        "population": 1653461,
+        "country": "Brazil",
+        "countryCode": "BR",
+        "latitude": -8.05389,
+        "longitude": -34.88111,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg",
+        "currency": {
+            "code": "BRL",
+            "symbol": "R$"
+        }
+    },
+    {
+        "name": "Riga",
+        "population": 660187,
+        "country": "Latvia",
+        "countryCode": "LV",
+        "latitude": 56.9475,
+        "longitude": 24.106944444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Latvia.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Riyadh",
+        "population": 7009100,
+        "country": "Saudi Arabia",
+        "countryCode": "SA",
+        "latitude": 24.65,
+        "longitude": 46.71,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saudi%20Arabia.svg",
+        "currency": {
+            "code": "SAR",
+            "symbol": "SAR"
+        }
+    },
+    {
+        "name": "Rotterdam",
+        "population": 664311,
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "latitude": 51.9225,
+        "longitude": 4.47917,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Netherlands.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Saint-Denis",
+        "population": 154765,
+        "country": "France",
+        "countryCode": "FR",
+        "latitude": -20.878888888,
+        "longitude": 55.448055555,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France%20%281958%E2%80%931976%29.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Saint-Martin",
+        "population": 38454,
+        "country": "France",
+        "countryCode": "FR",
+        "latitude": 45.183611111,
+        "longitude": 5.755277777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France%20%281958%E2%80%931976%29.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "San José",
+        "population": 342188,
+        "country": "Costa Rica",
+        "countryCode": "CR",
+        "latitude": 9.932511111,
+        "longitude": -84.079580555,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Costa%20Rica.svg",
+        "currency": {
+            "code": "CRC",
+            "symbol": "CRC"
+        }
+    },
+    {
+        "name": "Santa Cruz de Tenerife",
+        "population": 209395,
+        "country": "Spain",
+        "countryCode": "ES",
+        "latitude": 28.466666666,
+        "longitude": -16.25,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Santo Domingo",
+        "population": 1128678,
+        "country": "Dominican Republic",
+        "countryCode": "DO",
+        "latitude": 18.476388888,
+        "longitude": -69.893333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Dominican%20Republic.svg",
+        "currency": {
+            "code": "DOP",
+            "symbol": "DOP"
+        }
+    },
+    {
+        "name": "Sarajevo",
+        "population": 275524,
+        "country": "Bosnia and Herzegovina",
+        "countryCode": "BA",
+        "latitude": 43.856388888,
+        "longitude": 18.413055555,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg",
+        "currency": {
+            "code": "BAM",
+            "symbol": "BAM"
+        }
+    },
+    {
+        "name": "Santorini",
+        "population": 0,
+        "country": "United States of America",
+        "countryCode": "US",
+        "latitude": 34.709821,
+        "longitude": -82.9718158,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
+        "currency": {
+            "code": "USD",
+            "symbol": "$"
+        }
+    },
+    {
+        "name": "Semarang",
+        "population": 1621384,
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "latitude": -6.99,
+        "longitude": 110.4225,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indonesia.svg",
+        "currency": {
+            "code": "IDR",
+            "symbol": "IDR"
+        }
+    },
+    {
+        "name": "Sendai",
+        "population": 1061177,
+        "country": "Japan",
+        "countryCode": "JP",
+        "latitude": 38.268222222,
+        "longitude": 140.869416666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg",
+        "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+        }
+    },
+    {
+        "name": "Shenzhen",
+        "population": 17494398,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 22.535,
+        "longitude": 114.054,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    },
+    {
+        "name": "Southampton",
+        "population": 271173,
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "latitude": 50.906666666,
+        "longitude": -1.404444444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg",
+        "currency": {
+            "code": "GBP",
+            "symbol": "£"
+        }
+    },
+    {
+        "name": "Stavanger",
+        "population": 129300,
+        "country": "Norway",
+        "countryCode": "NO",
+        "latitude": 58.97005,
+        "longitude": 5.73332,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg",
+        "currency": {
+            "code": "NOK",
+            "symbol": "NOK"
+        }
+    },
+    {
+        "name": "Strasbourg",
+        "population": 291313,
+        "country": "France",
+        "countryCode": "FR",
+        "latitude": 48.573333333,
+        "longitude": 7.752222222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France%20%281958%E2%80%931976%29.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Surabaya",
+        "population": 2885555,
+        "country": "Indonesia",
+        "countryCode": "ID",
+        "latitude": -7.245833333,
+        "longitude": 112.737777777,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indonesia.svg",
+        "currency": {
+            "code": "IDR",
+            "symbol": "IDR"
+        }
+    },
+    {
+        "name": "Suzhou",
+        "population": 12748262,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 31.3,
+        "longitude": 120.619444444,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    },
+    {
+        "name": "Tainan",
+        "population": 1874686,
+        "country": "Taiwan",
+        "countryCode": "TW",
+        "latitude": 22.983333333,
+        "longitude": 120.183333333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "TWD",
+            "symbol": "NT$"
+        }
+    },
+    {
+        "name": "Tampere",
+        "population": 244315,
+        "country": "Finland",
+        "countryCode": "FI",
+        "latitude": 61.498055555,
+        "longitude": 23.760833333,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finland.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Taoyuan",
+        "population": 2293509,
+        "country": "Taiwan",
+        "countryCode": "TW",
+        "latitude": 24.895,
+        "longitude": 121.24611,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "TWD",
+            "symbol": "NT$"
+        }
+    },
+    {
+        "name": "Tashkent",
+        "population": 2956384,
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "latitude": 41.311111111,
+        "longitude": 69.279722222,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg",
+        "currency": {
+            "code": "UZS",
+            "symbol": "UZS"
+        }
+    },
+    {
+        "name": "Tehran",
+        "population": 8693706,
+        "country": "Iran",
+        "countryCode": "IR",
+        "latitude": 35.7,
+        "longitude": 51.416666666,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iran.svg",
+        "currency": {
+            "code": "IRR",
+            "symbol": "IRR"
+        }
+    },
+    {
+        "name": "Thessaloniki",
+        "population": 309617,
+        "country": "Greece",
+        "countryCode": "GR",
+        "latitude": 40.640277777,
+        "longitude": 22.935555555,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg",
+        "currency": {
+            "code": "EUR",
+            "symbol": "€"
+        }
+    },
+    {
+        "name": "Hefei",
+        "population": 9369881,
+        "country": "People's Republic of China",
+        "countryCode": "CN",
+        "latitude": 31.86389,
+        "longitude": 117.28083,
+        "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+        "currency": {
+            "code": "CNY",
+            "symbol": "CN¥"
+        }
+    }
+]
