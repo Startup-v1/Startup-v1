@@ -1,0 +1,154 @@
+.artboard-me {
+  flex-direction: column;
+  // justify-content: space-between;
+  display: flex;
+  min-height: 100vh;
+  max-height: 100vh;
+  border-right: 1px solid #e9e9e9;
+}
+
+.filter-begin {
+  display: flex;
+  height: 9%;
+  align-items: center;
+  padding: 0 4%;
+  justify-content: center;
+}
+
+.filter-end {
+  display: flex;
+  height: 6%;
+  align-items: center;
+  padding: 0 4%;
+  justify-content: flex-end;
+}
+
+.filters-begin-end-divider {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/*group of filters*/
+
+.all-filters {
+  display: flex;
+  flex-direction: column;
+  height: 85%;
+}
+
+.filter {
+  display: flex;
+  align-items: center;
+  padding: 0 10%;
+}
+
+.filter-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.filter-item-1 {
+  border-top: 1px solid #e9e9e9;
+  height: 18%;
+}
+
+.filter-item-2 {
+  height: 36%;
+  // background-color: aquamarine;
+}
+
+.filter-item-3 {
+  height: 18%;
+}
+
+.filter-4 {
+}
+
+.filter-item-5 {
+  // border-bottom: 1px solid gray;
+  border-bottom: 1px solid #e9e9e9;
+  height: 30%;
+}
+
+.filter-name {
+  width: 100%;
+  height: 35%;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  // background-color: bisque;
+}
+
+.filter-name-where {
+  height: 19%;
+}
+
+.filter-name-price {
+  height: 38%;
+}
+
+.filter-name-popular {
+  height: 25%;
+}
+
+.container-filter-items {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: auto;
+  // background-color: blue;
+  justify-content: flex-start;
+}
+
+.custom-checkbox {
+  margin-top: 0;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #e9e9e9;
+}
+
+.divider-filter-groups {
+  width: 80%;
+  margin: 0 auto;
+  height: 1px; /* Ajusta la altura del hr */
+  border: none; /* Elimina el borde por defecto */
+  background-image: linear-gradient(
+    to right,
+    #e9e9e9 50%,
+    transparent 50%
+  ); /* Crea un efecto punteado */
+  background-size: 10px 1px; /* Ajusta el tamaño de los puntos */
+  background-position: 0 0; /* Ajusta la posición de los puntos */
+}
+
+.continent-item {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.continent-btn {
+  margin-right: 4%;
+  margin-bottom: 3%;
+  border: 1px solid #e9e9e9;
+}
+
+.container-price-items {
+  display: flex;
+  width: 100%;
+  // background-color: rebeccapurple;
+  justify-content: center;
+}
+
+.centered-label {
+  margin-right: 10%;
+}
+
+.custom-select:focus,
+.custom-select:checked {
+  color: #483285;
+  outline: 2px solid #483285;
+}
