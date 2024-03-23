@@ -1,9 +1,13 @@
-# # Node.js dependencies
+# Node.js dependencies
 node_modules/
 
 # Compiled TypeScript files
-# *.js
+*.js
 *.js.map
+
+# Exclude JavaScript files in the tempData folder
+!tools/scripts/*.js
+!tools/*.js
 
 # Environment variables
 .env

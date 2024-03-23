@@ -1,7 +1,33 @@
 import { Schema, model } from "mongoose";
 
 const citySchema = new Schema({
-  //TODO: If this keeps growing move it into a separate schema
+  name: {
+    type: String,
+    required: true,
+  },
+  location: {
+    latitude: {
+      type: String,
+      required: true,
+    },
+    longitude: {
+      type: String,
+      required: true,
+    },
+  },
+  countryCode: {
+    type: Schema.Types.ObjectId,
+    ref: "Country",
+    required: true,
+  },
+  population: {
+    type: Number,
+    required: true,
+  },
+  populationDensity: {
+    type: Number,
+    required: true,
+  },
   cost: {
     food: {
       type: String,
@@ -24,18 +50,11 @@ const citySchema = new Schema({
     type: String,
     required: true,
   },
-  country: {
-    type: String,
-    required: true,
-  },
-  continent: {
-    type: String,
-    required: true,
-  },
   reviews: [
     {
       type: Schema.Types.ObjectId,
       ref: "User",
+      required: true,
     },
   ],
   usefulApps: [
@@ -47,17 +66,9 @@ const citySchema = new Schema({
   weather: {
     type: Schema.Types.ObjectId,
     ref: "Weather",
+    required: true,
   },
   airQualityAnnualAvg: {
-    type: Number,
-    required: true,
-  },
-  currency: {
-    type: String,
-    required: true,
-  },
-  //USD/COIN PAIR e.g. 1USD = 0.9 EURO
-  currencyValue: {
     type: Number,
     required: true,
   },
@@ -77,18 +88,10 @@ const citySchema = new Schema({
     type: Number,
     required: true,
   },
-  population: {
-    type: Number,
-    required: true,
-  },
-  populationDensity: {
-    type: Number,
-    required: true,
-  },
-  //This is not a fk of the languages schema because the data source is not the same. We can't ensure that a mentioned language in a city is available in our languages list
   languages: [
     {
-      type: String,
+      type: Schema.Types.ObjectId,
+      ref: "Language",
       required: true,
     },
   ],
