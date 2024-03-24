@@ -126,7 +126,7 @@ const fetchCityWeather = async (city) => {
 
   // Find the object with the specific country code
   let currentCity = cities.find(
-    (cityFromJson) => cityFromJson.countryCode === city.countryCode
+    (cityFromJson) => cityFromJson.name === city.name
   );
   currentCity.weather = cityWeatherMonthlyAverages;
 
@@ -144,7 +144,7 @@ function getDaysInMonth(month) {
 
 const saveFile = (cityName, jsonData) => {
   try {
-    fs.writeFileSync(`${cityName}_weather.json`, jsonData);
+    fs.writeFileSync(`cities_weather.json`, jsonData);
     console.log(`${cityName} weather added successfully`);
   } catch (err) {
     console.error("Error writing file:", err);
