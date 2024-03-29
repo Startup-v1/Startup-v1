@@ -25,5 +25,8 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.4.2"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "pexels": "^1.4.0"
+  }
 }

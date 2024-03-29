@@ -2,7 +2,8 @@
 // Example request https://api.weatherapi.com/v1/history.json?key=fb38f4a3b88949cfb9b145958242303&q=9.75778,100.02914&dt=2023-03-25&end_dt=2023-04-24
 import axios from "axios";
 import fs from "fs";
-import cities from "../citiesTest.js";
+// Create a JS file exporting the json object
+import cities from "../cities.js";
 
 const today = new Date("2024-03-24");
 const apiKey = "fb38f4a3b88949cfb9b145958242303";
@@ -124,7 +125,7 @@ const fetchCityWeather = async (city) => {
     };
   }
 
-  // Find the object with the specific country code
+  // Find the object with the specific name
   let currentCity = cities.find(
     (cityFromJson) => cityFromJson.name === city.name
   );
