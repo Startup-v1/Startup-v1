@@ -104,6 +104,10 @@
                 "avgTemp": "6.9",
                 "avgHumidity": "85.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1414467/pexels-photo-1414467.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1414467/pexels-photo-1414467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -211,6 +215,10 @@
                 "avgTemp": "12.4",
                 "avgHumidity": "72.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/951539/pexels-photo-951539.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/951539/pexels-photo-951539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -318,6 +326,10 @@
                 "avgTemp": "18.3",
                 "avgHumidity": "78.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/19575680/pexels-photo-19575680.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/19575680/pexels-photo-19575680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -425,6 +437,10 @@
                 "avgTemp": "14.2",
                 "avgHumidity": "58.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/273204/pexels-photo-273204.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/273204/pexels-photo-273204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -532,6 +548,10 @@
                 "avgTemp": "27.1",
                 "avgHumidity": "74.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/5289209/pexels-photo-5289209.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/5289209/pexels-photo-5289209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -639,6 +659,10 @@
                 "avgTemp": "29.2",
                 "avgHumidity": "53.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1004366/pexels-photo-1004366.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1004366/pexels-photo-1004366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -746,6 +770,10 @@
                 "avgTemp": "12.0",
                 "avgHumidity": "55.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1388030/pexels-photo-1388030.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1388030/pexels-photo-1388030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -853,6 +881,10 @@
                 "avgTemp": "6.4",
                 "avgHumidity": "71.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3958744/pexels-photo-3958744.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3958744/pexels-photo-3958744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -960,6 +992,10 @@
                 "avgTemp": "3.9",
                 "avgHumidity": "85.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1128408/pexels-photo-1128408.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1128408/pexels-photo-1128408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -1067,6 +1103,10 @@
                 "avgTemp": "14.0",
                 "avgHumidity": "84.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/8264573/pexels-photo-8264573.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/8264573/pexels-photo-8264573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -1174,6 +1214,10 @@
                 "avgTemp": "9.5",
                 "avgHumidity": "81.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1059078/pexels-photo-1059078.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1059078/pexels-photo-1059078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -1281,6 +1325,10 @@
                 "avgTemp": "24.3",
                 "avgHumidity": "59.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2449231/pexels-photo-2449231.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2449231/pexels-photo-2449231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -1388,6 +1436,10 @@
                 "avgTemp": "3.3",
                 "avgHumidity": "84.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/280173/pexels-photo-280173.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/280173/pexels-photo-280173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -1495,6 +1547,10 @@
                 "avgTemp": "24.8",
                 "avgHumidity": "72.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2516657/pexels-photo-2516657.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2516657/pexels-photo-2516657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -1602,6 +1658,10 @@
                 "avgTemp": "7.7",
                 "avgHumidity": "87.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3177258/pexels-photo-3177258.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3177258/pexels-photo-3177258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -1709,6 +1769,10 @@
                 "avgTemp": "27.7",
                 "avgHumidity": "74.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1004584/pexels-photo-1004584.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1004584/pexels-photo-1004584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -1816,6 +1880,10 @@
                 "avgTemp": "6.8",
                 "avgHumidity": "84.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1595085/pexels-photo-1595085.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1595085/pexels-photo-1595085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -1923,6 +1991,10 @@
                 "avgTemp": "4.0",
                 "avgHumidity": "81.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/732057/pexels-photo-732057.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/732057/pexels-photo-732057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -2030,6 +2102,10 @@
                 "avgTemp": "5.6",
                 "avgHumidity": "74.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/775482/pexels-photo-775482.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/775482/pexels-photo-775482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -2137,6 +2213,10 @@
                 "avgTemp": "21.9",
                 "avgHumidity": "69.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1060803/pexels-photo-1060803.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1060803/pexels-photo-1060803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -2244,6 +2324,10 @@
                 "avgTemp": "26.3",
                 "avgHumidity": "80.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/6735303/pexels-photo-6735303.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/6735303/pexels-photo-6735303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -2351,6 +2435,10 @@
                 "avgTemp": "18.0",
                 "avgHumidity": "56.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1369212/pexels-photo-1369212.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1369212/pexels-photo-1369212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -2458,6 +2546,10 @@
                 "avgTemp": "20.1",
                 "avgHumidity": "64.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/259447/pexels-photo-259447.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/259447/pexels-photo-259447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -2565,6 +2657,10 @@
                 "avgTemp": "23.3",
                 "avgHumidity": "70.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2956618/pexels-photo-2956618.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2956618/pexels-photo-2956618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -2672,6 +2768,10 @@
                 "avgTemp": "4.6",
                 "avgHumidity": "73.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1823681/pexels-photo-1823681.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1823681/pexels-photo-1823681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -2779,6 +2879,10 @@
                 "avgTemp": "15.1",
                 "avgHumidity": "72.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/5363175/pexels-photo-5363175.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/5363175/pexels-photo-5363175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -2886,6 +2990,10 @@
                 "avgTemp": "6.4",
                 "avgHumidity": "80.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/161849/cologne-dom-night-architecture-161849.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/161849/cologne-dom-night-architecture-161849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -2993,6 +3101,10 @@
                 "avgTemp": "25.6",
                 "avgHumidity": "85.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/34401/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/34401/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -3100,6 +3212,10 @@
                 "avgTemp": "3.0",
                 "avgHumidity": "85.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/416024/pexels-photo-416024.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/416024/pexels-photo-416024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -3207,6 +3323,10 @@
                 "avgTemp": "11.1",
                 "avgHumidity": "70.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2929906/pexels-photo-2929906.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2929906/pexels-photo-2929906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -3314,6 +3434,10 @@
                 "avgTemp": "22.8",
                 "avgHumidity": "87.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/13871565/pexels-photo-13871565.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/13871565/pexels-photo-13871565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -3421,6 +3545,10 @@
                 "avgTemp": "12.3",
                 "avgHumidity": "55.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/280193/pexels-photo-280193.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/280193/pexels-photo-280193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -3528,6 +3656,10 @@
                 "avgTemp": "2.7",
                 "avgHumidity": "55.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2706750/pexels-photo-2706750.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2706750/pexels-photo-2706750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -3635,6 +3767,10 @@
                 "avgTemp": "4.4",
                 "avgHumidity": "74.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/702343/pexels-photo-702343.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/702343/pexels-photo-702343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -3742,6 +3878,10 @@
                 "avgTemp": "23.8",
                 "avgHumidity": "54.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2044434/pexels-photo-2044434.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2044434/pexels-photo-2044434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -3849,6 +3989,10 @@
                 "avgTemp": "7.7",
                 "avgHumidity": "83.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1650882/pexels-photo-1650882.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1650882/pexels-photo-1650882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -3956,6 +4100,10 @@
                 "avgTemp": "11.5",
                 "avgHumidity": "71.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/580897/pexels-photo-580897.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/580897/pexels-photo-580897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -4063,6 +4211,10 @@
                 "avgTemp": "5.7",
                 "avgHumidity": "84.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/161863/edinburgh-carlton-hill-landscape-scotland-161863.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/161863/edinburgh-carlton-hill-landscape-scotland-161863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -4170,6 +4322,10 @@
                 "avgTemp": "8.9",
                 "avgHumidity": "74.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/981686/pexels-photo-981686.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/981686/pexels-photo-981686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -4277,6 +4433,10 @@
                 "avgTemp": "26.7",
                 "avgHumidity": "80.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/584302/pexels-photo-584302.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/584302/pexels-photo-584302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -4384,6 +4544,10 @@
                 "avgTemp": "23.4",
                 "avgHumidity": "81.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3390729/pexels-photo-3390729.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3390729/pexels-photo-3390729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -4491,6 +4655,10 @@
                 "avgTemp": "5.4",
                 "avgHumidity": "80.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1124460/pexels-photo-1124460.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1124460/pexels-photo-1124460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -4598,6 +4766,10 @@
                 "avgTemp": "3.2",
                 "avgHumidity": "85.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/733148/pexels-photo-733148.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/733148/pexels-photo-733148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -4705,6 +4877,10 @@
                 "avgTemp": "7.3",
                 "avgHumidity": "82.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/12823414/pexels-photo-12823414.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/12823414/pexels-photo-12823414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -4812,6 +4988,10 @@
                 "avgTemp": "4.9",
                 "avgHumidity": "88.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3061345/pexels-photo-3061345.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3061345/pexels-photo-3061345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -4919,6 +5099,10 @@
                 "avgTemp": "7.5",
                 "avgHumidity": "56.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17831951/pexels-photo-17831951.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17831951/pexels-photo-17831951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -5026,6 +5210,10 @@
                 "avgTemp": "16.7",
                 "avgHumidity": "57.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/543252/pexels-photo-543252.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/543252/pexels-photo-543252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -5133,6 +5321,10 @@
                 "avgTemp": "18.2",
                 "avgHumidity": "51.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1366957/pexels-photo-1366957.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1366957/pexels-photo-1366957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -5240,6 +5432,10 @@
                 "avgTemp": "4.0",
                 "avgHumidity": "89.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/167676/pexels-photo-167676.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/167676/pexels-photo-167676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -5347,6 +5543,10 @@
                 "avgTemp": "19.8",
                 "avgHumidity": "65.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1437614/pexels-photo-1437614.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1437614/pexels-photo-1437614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -5454,6 +5654,10 @@
                 "avgTemp": "-4.0",
                 "avgHumidity": "91.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3243242/pexels-photo-3243242.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3243242/pexels-photo-3243242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -5561,6 +5765,10 @@
                 "avgTemp": "27.2",
                 "avgHumidity": "70.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/941195/pexels-photo-941195.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/941195/pexels-photo-941195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -5668,6 +5876,10 @@
                 "avgTemp": "18.5",
                 "avgHumidity": "67.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/872698/pexels-photo-872698.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/872698/pexels-photo-872698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -5775,6 +5987,10 @@
                 "avgTemp": "22.6",
                 "avgHumidity": "73.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17573116/pexels-photo-17573116.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17573116/pexels-photo-17573116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -5882,6 +6098,10 @@
                 "avgTemp": "15.7",
                 "avgHumidity": "60.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/14177239/pexels-photo-14177239.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/14177239/pexels-photo-14177239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -5989,6 +6209,10 @@
                 "avgTemp": "11.3",
                 "avgHumidity": "73.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1549326/pexels-photo-1549326.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1549326/pexels-photo-1549326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -6096,6 +6320,10 @@
                 "avgTemp": "29.7",
                 "avgHumidity": "64.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2116719/pexels-photo-2116719.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2116719/pexels-photo-2116719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -6203,6 +6431,10 @@
                 "avgTemp": "22.4",
                 "avgHumidity": "51.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/11313729/pexels-photo-11313729.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/11313729/pexels-photo-11313729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -6310,6 +6542,10 @@
                 "avgTemp": "5.2",
                 "avgHumidity": "74.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/349506/pexels-photo-349506.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/349506/pexels-photo-349506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -6417,6 +6653,10 @@
                 "avgTemp": "1.0",
                 "avgHumidity": "85.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2064058/pexels-photo-2064058.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2064058/pexels-photo-2064058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -6524,6 +6764,10 @@
                 "avgTemp": "1.4",
                 "avgHumidity": "85.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/46273/pexels-photo-46273.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/46273/pexels-photo-46273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -6631,6 +6875,10 @@
                 "avgTemp": "25.2",
                 "avgHumidity": "86.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/22804/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/22804/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -6738,6 +6986,10 @@
                 "avgTemp": "7.1",
                 "avgHumidity": "65.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/402028/pexels-photo-402028.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/402028/pexels-photo-402028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -6845,6 +7097,10 @@
                 "avgTemp": "29.0",
                 "avgHumidity": "64.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1738762/pexels-photo-1738762.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1738762/pexels-photo-1738762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -6952,6 +7208,10 @@
                 "avgTemp": "19.2",
                 "avgHumidity": "64.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3302223/pexels-photo-3302223.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3302223/pexels-photo-3302223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -7059,6 +7319,10 @@
                 "avgTemp": "6.7",
                 "avgHumidity": "82.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/8474273/pexels-photo-8474273.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/8474273/pexels-photo-8474273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -7166,6 +7430,10 @@
                 "avgTemp": "20.3",
                 "avgHumidity": "76.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17029842/pexels-photo-17029842.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17029842/pexels-photo-17029842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -7273,6 +7541,10 @@
                 "avgTemp": "12.8",
                 "avgHumidity": "72.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1534560/pexels-photo-1534560.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1534560/pexels-photo-1534560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -7380,6 +7652,10 @@
                 "avgTemp": "7.4",
                 "avgHumidity": "83.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1884574/pexels-photo-1884574.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1884574/pexels-photo-1884574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -7487,6 +7763,10 @@
                 "avgTemp": "2.9",
                 "avgHumidity": "89.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/13316759/pexels-photo-13316759.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/13316759/pexels-photo-13316759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -7594,6 +7874,10 @@
                 "avgTemp": "8.1",
                 "avgHumidity": "82.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -7701,6 +7985,10 @@
                 "avgTemp": "16.2",
                 "avgHumidity": "48.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2525903/pexels-photo-2525903.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2525903/pexels-photo-2525903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -7808,6 +8096,10 @@
                 "avgTemp": "5.7",
                 "avgHumidity": "81.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/462341/pexels-photo-462341.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/462341/pexels-photo-462341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -7915,6 +8207,10 @@
                 "avgTemp": "7.8",
                 "avgHumidity": "63.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/670261/pexels-photo-670261.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/670261/pexels-photo-670261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -8022,6 +8318,10 @@
                 "avgTemp": "14.1",
                 "avgHumidity": "60.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17743356/pexels-photo-17743356.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17743356/pexels-photo-17743356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -8129,6 +8429,10 @@
                 "avgTemp": "7.0",
                 "avgHumidity": "82.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/396036/pexels-photo-396036.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/396036/pexels-photo-396036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -8236,6 +8540,10 @@
                 "avgTemp": "27.5",
                 "avgHumidity": "69.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1098322/pexels-photo-1098322.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1098322/pexels-photo-1098322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -8343,6 +8651,10 @@
                 "avgTemp": "15.5",
                 "avgHumidity": "38.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/4502957/pexels-photo-4502957.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/4502957/pexels-photo-4502957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -8450,6 +8762,10 @@
                 "avgTemp": "10.6",
                 "avgHumidity": "67.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1275393/pexels-photo-1275393.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1275393/pexels-photo-1275393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -8557,6 +8873,10 @@
                 "avgTemp": "17.1",
                 "avgHumidity": "85.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/12470916/pexels-photo-12470916.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/12470916/pexels-photo-12470916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -8664,6 +8984,10 @@
                 "avgTemp": "18.4",
                 "avgHumidity": "66.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3626248/pexels-photo-3626248.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3626248/pexels-photo-3626248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -8771,6 +9095,10 @@
                 "avgTemp": "14.1",
                 "avgHumidity": "55.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/604661/pexels-photo-604661.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/604661/pexels-photo-604661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -8878,6 +9206,10 @@
                 "avgTemp": "22.2",
                 "avgHumidity": "67.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/421655/pexels-photo-421655.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/421655/pexels-photo-421655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -8985,6 +9317,10 @@
                 "avgTemp": "19.6",
                 "avgHumidity": "27.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1542620/pexels-photo-1542620.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1542620/pexels-photo-1542620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -9092,6 +9428,10 @@
                 "avgTemp": "6.4",
                 "avgHumidity": "72.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/37079/milan-pegasus-gallery-statue.jpg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/37079/milan-pegasus-gallery-statue.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -9199,6 +9539,10 @@
                 "avgTemp": "1.2",
                 "avgHumidity": "73.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/4190056/pexels-photo-4190056.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/4190056/pexels-photo-4190056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -9306,6 +9650,10 @@
                 "avgTemp": "-1.1",
                 "avgHumidity": "83.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2889701/pexels-photo-2889701.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2889701/pexels-photo-2889701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -9413,6 +9761,10 @@
                 "avgTemp": "-6.9",
                 "avgHumidity": "95.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/164583/pexels-photo-164583.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/164583/pexels-photo-164583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -9520,6 +9872,10 @@
                 "avgTemp": "27.1",
                 "avgHumidity": "53.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/574324/pexels-photo-574324.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/574324/pexels-photo-574324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -9627,6 +9983,10 @@
                 "avgTemp": "3.0",
                 "avgHumidity": "82.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/163405/munich-olympia-mountain-olympic-stadium-view-163405.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/163405/munich-olympia-mountain-olympic-stadium-view-163405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -9734,6 +10094,10 @@
                 "avgTemp": "19.2",
                 "avgHumidity": "77.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/13348192/pexels-photo-13348192.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/13348192/pexels-photo-13348192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -9841,6 +10205,10 @@
                 "avgTemp": "7.9",
                 "avgHumidity": "65.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2898211/pexels-photo-2898211.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2898211/pexels-photo-2898211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -9948,6 +10316,10 @@
                 "avgTemp": "14.0",
                 "avgHumidity": "72.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2432110/pexels-photo-2432110.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2432110/pexels-photo-2432110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -10055,6 +10427,10 @@
                 "avgTemp": "6.1",
                 "avgHumidity": "71.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/4559748/pexels-photo-4559748.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/4559748/pexels-photo-4559748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -10162,6 +10538,10 @@
                 "avgTemp": "10.7",
                 "avgHumidity": "64.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1003914/pexels-photo-1003914.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1003914/pexels-photo-1003914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -10269,6 +10649,10 @@
                 "avgTemp": "15.5",
                 "avgHumidity": "68.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1722380/pexels-photo-1722380.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1722380/pexels-photo-1722380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -10376,6 +10760,10 @@
                 "avgTemp": "9.3",
                 "avgHumidity": "58.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1440476/pexels-photo-1440476.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1440476/pexels-photo-1440476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -10483,6 +10871,10 @@
                 "avgTemp": "-9.1",
                 "avgHumidity": "92.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3038740/pexels-photo-3038740.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3038740/pexels-photo-3038740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -10590,6 +10982,10 @@
                 "avgTemp": "26.0",
                 "avgHumidity": "85.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2335167/pexels-photo-2335167.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2335167/pexels-photo-2335167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -10697,6 +11093,10 @@
                 "avgTemp": "7.8",
                 "avgHumidity": "77.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/5019013/pexels-photo-5019013.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/5019013/pexels-photo-5019013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -10804,6 +11204,10 @@
                 "avgTemp": "23.8",
                 "avgHumidity": "44.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/6761495/pexels-photo-6761495.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/6761495/pexels-photo-6761495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -10911,6 +11315,10 @@
                 "avgTemp": "6.5",
                 "avgHumidity": "71.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1574851/pexels-photo-1574851.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1574851/pexels-photo-1574851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -11018,6 +11426,10 @@
                 "avgTemp": "27.5",
                 "avgHumidity": "63.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3864243/pexels-photo-3864243.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3864243/pexels-photo-3864243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -11125,6 +11537,10 @@
                 "avgTemp": "15.9",
                 "avgHumidity": "32.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/5109305/pexels-photo-5109305.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/5109305/pexels-photo-5109305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -11232,6 +11648,10 @@
                 "avgTemp": "24.2",
                 "avgHumidity": "72.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2549573/pexels-photo-2549573.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2549573/pexels-photo-2549573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -11339,6 +11759,10 @@
                 "avgTemp": "2.7",
                 "avgHumidity": "84.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/126292/pexels-photo-126292.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/126292/pexels-photo-126292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -11446,6 +11870,10 @@
                 "avgTemp": "4.8",
                 "avgHumidity": "76.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/19016682/pexels-photo-19016682.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/19016682/pexels-photo-19016682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -11553,6 +11981,10 @@
                 "avgTemp": "-3.3",
                 "avgHumidity": "84.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/18384897/pexels-photo-18384897.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/18384897/pexels-photo-18384897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -11660,6 +12092,10 @@
                 "avgTemp": "13.3",
                 "avgHumidity": "84.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/8253082/pexels-photo-8253082.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/8253082/pexels-photo-8253082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -11767,6 +12203,10 @@
                 "avgTemp": "9.1",
                 "avgHumidity": "68.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/5489599/pexels-photo-5489599.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/5489599/pexels-photo-5489599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -11874,6 +12314,10 @@
                 "avgTemp": "-1.2",
                 "avgHumidity": "73.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/5273533/pexels-photo-5273533.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/5273533/pexels-photo-5273533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -11981,6 +12425,10 @@
                 "avgTemp": "25.5",
                 "avgHumidity": "78.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/351283/pexels-photo-351283.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/351283/pexels-photo-351283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -12088,6 +12536,10 @@
                 "avgTemp": "9.5",
                 "avgHumidity": "72.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -12195,6 +12647,10 @@
                 "avgTemp": "-7.1",
                 "avgHumidity": "95.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/356993/pexels-photo-356993.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/356993/pexels-photo-356993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -12302,6 +12758,10 @@
                 "avgTemp": "-1.6",
                 "avgHumidity": "69.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2416589/pexels-photo-2416589.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2416589/pexels-photo-2416589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -12409,6 +12869,10 @@
                 "avgTemp": "26.5",
                 "avgHumidity": "76.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/13733832/pexels-photo-13733832.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/13733832/pexels-photo-13733832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -12516,6 +12980,10 @@
                 "avgTemp": "16.3",
                 "avgHumidity": "59.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2157685/pexels-photo-2157685.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2157685/pexels-photo-2157685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -12623,6 +13091,10 @@
                 "avgTemp": "12.4",
                 "avgHumidity": "74.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1141853/pexels-photo-1141853.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1141853/pexels-photo-1141853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -12730,6 +13202,10 @@
                 "avgTemp": "9.9",
                 "avgHumidity": "69.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/462331/pexels-photo-462331.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/462331/pexels-photo-462331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -12837,6 +13313,10 @@
                 "avgTemp": "25.7",
                 "avgHumidity": "35.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2565221/pexels-photo-2565221.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2565221/pexels-photo-2565221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -12944,6 +13424,10 @@
                 "avgTemp": "18.2",
                 "avgHumidity": "35.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2017747/pexels-photo-2017747.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2017747/pexels-photo-2017747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -13051,6 +13535,10 @@
                 "avgTemp": "25.1",
                 "avgHumidity": "65.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/97906/pexels-photo-97906.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/97906/pexels-photo-97906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -13158,6 +13646,10 @@
                 "avgTemp": "6.0",
                 "avgHumidity": "85.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -13265,6 +13757,10 @@
                 "avgTemp": "1.1",
                 "avgHumidity": "64.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -13372,6 +13868,10 @@
                 "avgTemp": "11.9",
                 "avgHumidity": "66.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1143416/pexels-photo-1143416.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1143416/pexels-photo-1143416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -13479,6 +13979,10 @@
                 "avgTemp": "8.9",
                 "avgHumidity": "54.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/745243/pexels-photo-745243.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/745243/pexels-photo-745243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -13586,6 +14090,10 @@
                 "avgTemp": "26.9",
                 "avgHumidity": "63.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2416576/pexels-photo-2416576.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2416576/pexels-photo-2416576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -13693,6 +14201,10 @@
                 "avgTemp": "26.6",
                 "avgHumidity": "83.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/777059/pexels-photo-777059.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/777059/pexels-photo-777059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -13800,6 +14312,10 @@
                 "avgTemp": "2.8",
                 "avgHumidity": "80.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3382753/pexels-photo-3382753.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3382753/pexels-photo-3382753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -13907,6 +14423,10 @@
                 "avgTemp": "10.8",
                 "avgHumidity": "69.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1065593/pexels-photo-1065593.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1065593/pexels-photo-1065593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -14014,6 +14534,10 @@
                 "avgTemp": "6.2",
                 "avgHumidity": "68.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/22566/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/22566/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -14121,6 +14645,10 @@
                 "avgTemp": "-2.5",
                 "avgHumidity": "92.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1529040/pexels-photo-1529040.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1529040/pexels-photo-1529040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -14228,6 +14756,10 @@
                 "avgTemp": "4.5",
                 "avgHumidity": "81.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/356567/pexels-photo-356567.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/356567/pexels-photo-356567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -14335,6 +14867,10 @@
                 "avgTemp": "21.7",
                 "avgHumidity": "75.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1619854/pexels-photo-1619854.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1619854/pexels-photo-1619854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -14442,6 +14978,10 @@
                 "avgTemp": "16.4",
                 "avgHumidity": "79.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/260566/pexels-photo-260566.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/260566/pexels-photo-260566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -14549,6 +15089,10 @@
                 "avgTemp": "-3.6",
                 "avgHumidity": "93.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1031592/pexels-photo-1031592.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1031592/pexels-photo-1031592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -14656,6 +15200,10 @@
                 "avgTemp": "6.4",
                 "avgHumidity": "65.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2759804/pexels-photo-2759804.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2759804/pexels-photo-2759804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -14763,6 +15311,10 @@
                 "avgTemp": "19.1",
                 "avgHumidity": "59.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/4038322/pexels-photo-4038322.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/4038322/pexels-photo-4038322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -14870,6 +15422,10 @@
                 "avgTemp": "10.4",
                 "avgHumidity": "48.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2614818/pexels-photo-2614818.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2614818/pexels-photo-2614818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -14977,6 +15533,10 @@
                 "avgTemp": "3.4",
                 "avgHumidity": "78.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1519088/pexels-photo-1519088.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1519088/pexels-photo-1519088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -15084,6 +15644,10 @@
                 "avgTemp": "8.1",
                 "avgHumidity": "80.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/13103311/pexels-photo-13103311.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/13103311/pexels-photo-13103311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -15191,6 +15755,10 @@
                 "avgTemp": "23.2",
                 "avgHumidity": "81.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/256150/pexels-photo-256150.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/256150/pexels-photo-256150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -15298,6 +15866,10 @@
                 "avgTemp": "5.5",
                 "avgHumidity": "89.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2382868/pexels-photo-2382868.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2382868/pexels-photo-2382868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -15405,6 +15977,10 @@
                 "avgTemp": "7.0",
                 "avgHumidity": "78.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1144265/pexels-photo-1144265.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1144265/pexels-photo-1144265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -15512,6 +16088,10 @@
                 "avgTemp": "4.1",
                 "avgHumidity": "79.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/161074/vienna-st-charles-s-church-downtown-church-161074.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/161074/vienna-st-charles-s-church-downtown-church-161074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -15619,6 +16199,10 @@
                 "avgTemp": "-1.0",
                 "avgHumidity": "93.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/6642186/pexels-photo-6642186.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/6642186/pexels-photo-6642186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -15726,6 +16310,10 @@
                 "avgTemp": "2.0",
                 "avgHumidity": "85.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1726246/pexels-photo-1726246.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1726246/pexels-photo-1726246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -15833,6 +16421,10 @@
                 "avgTemp": "15.1",
                 "avgHumidity": "83.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/4350631/pexels-photo-4350631.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/4350631/pexels-photo-4350631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -15940,6 +16532,10 @@
                 "avgTemp": "2.8",
                 "avgHumidity": "86.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/4275888/pexels-photo-4275888.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/4275888/pexels-photo-4275888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -16047,6 +16643,10 @@
                 "avgTemp": "16.0",
                 "avgHumidity": "70.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/18184753/pexels-photo-18184753.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/18184753/pexels-photo-18184753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -16154,6 +16754,10 @@
                 "avgTemp": "27.3",
                 "avgHumidity": "60.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1137476/pexels-photo-1137476.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1137476/pexels-photo-1137476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -16261,6 +16865,10 @@
                 "avgTemp": "5.6",
                 "avgHumidity": "82.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17555537/pexels-photo-17555537.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17555537/pexels-photo-17555537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -16368,6 +16976,10 @@
                 "avgTemp": "3.1",
                 "avgHumidity": "86.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17628880/pexels-photo-17628880.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17628880/pexels-photo-17628880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -16475,6 +17087,10 @@
                 "avgTemp": "18.3",
                 "avgHumidity": "61.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/15898048/pexels-photo-15898048.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/15898048/pexels-photo-15898048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -16582,6 +17198,10 @@
                 "avgTemp": "23.6",
                 "avgHumidity": "37.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/54124/pexels-photo-54124.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/54124/pexels-photo-54124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -16689,6 +17309,10 @@
                 "avgTemp": "3.7",
                 "avgHumidity": "49.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3091117/pexels-photo-3091117.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3091117/pexels-photo-3091117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -16796,6 +17420,10 @@
                 "avgTemp": "13.4",
                 "avgHumidity": "56.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17125402/pexels-photo-17125402.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17125402/pexels-photo-17125402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -16903,6 +17531,10 @@
                 "avgTemp": "16.3",
                 "avgHumidity": "61.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2767815/pexels-photo-2767815.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2767815/pexels-photo-2767815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -17010,6 +17642,10 @@
                 "avgTemp": "7.1",
                 "avgHumidity": "82.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/220760/pexels-photo-220760.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/220760/pexels-photo-220760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -17117,6 +17753,10 @@
                 "avgTemp": "5.1",
                 "avgHumidity": "73.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/9637669/pexels-photo-9637669.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/9637669/pexels-photo-9637669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -17224,6 +17864,10 @@
                 "avgTemp": "28.0",
                 "avgHumidity": "70.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/8469339/pexels-photo-8469339.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/8469339/pexels-photo-8469339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -17331,6 +17975,10 @@
                 "avgTemp": "9.8",
                 "avgHumidity": "66.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2716795/pexels-photo-2716795.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2716795/pexels-photo-2716795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -17438,6 +18086,10 @@
                 "avgTemp": "6.6",
                 "avgHumidity": "71.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1117211/pexels-photo-1117211.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1117211/pexels-photo-1117211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -17545,6 +18197,10 @@
                 "avgTemp": "21.5",
                 "avgHumidity": "72.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/4038065/pexels-photo-4038065.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/4038065/pexels-photo-4038065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -17652,6 +18308,10 @@
                 "avgTemp": "5.8",
                 "avgHumidity": "78.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/14515044/pexels-photo-14515044.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/14515044/pexels-photo-14515044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -17759,6 +18419,10 @@
                 "avgTemp": "4.6",
                 "avgHumidity": "84.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/19010136/pexels-photo-19010136.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/19010136/pexels-photo-19010136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -17866,6 +18530,10 @@
                 "avgTemp": "7.0",
                 "avgHumidity": "85.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1650799/pexels-photo-1650799.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1650799/pexels-photo-1650799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -17973,6 +18641,10 @@
                 "avgTemp": "1.3",
                 "avgHumidity": "79.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2874752/pexels-photo-2874752.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2874752/pexels-photo-2874752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -18080,6 +18752,10 @@
                 "avgTemp": "2.4",
                 "avgHumidity": "87.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1291766/pexels-photo-1291766.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1291766/pexels-photo-1291766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -18187,6 +18863,10 @@
                 "avgTemp": "10.6",
                 "avgHumidity": "77.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/18795939/pexels-photo-18795939.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/18795939/pexels-photo-18795939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -18294,6 +18974,10 @@
                 "avgTemp": "6.7",
                 "avgHumidity": "85.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/7245098/pexels-photo-7245098.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/7245098/pexels-photo-7245098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -18401,6 +19085,10 @@
                 "avgTemp": "9.3",
                 "avgHumidity": "82.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3617633/pexels-photo-3617633.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3617633/pexels-photo-3617633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -18508,6 +19196,10 @@
                 "avgTemp": "4.8",
                 "avgHumidity": "89.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/18722049/pexels-photo-18722049.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/18722049/pexels-photo-18722049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -18615,6 +19307,10 @@
                 "avgTemp": "2.2",
                 "avgHumidity": "87.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/12290930/pexels-photo-12290930.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/12290930/pexels-photo-12290930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -18722,6 +19418,10 @@
                 "avgTemp": "4.0",
                 "avgHumidity": "79.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1054650/pexels-photo-1054650.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1054650/pexels-photo-1054650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -18829,6 +19529,10 @@
                 "avgTemp": "10.1",
                 "avgHumidity": "70.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17412187/pexels-photo-17412187.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17412187/pexels-photo-17412187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -18936,6 +19640,10 @@
                 "avgTemp": "6.7",
                 "avgHumidity": "60.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3018977/pexels-photo-3018977.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3018977/pexels-photo-3018977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -19043,6 +19751,10 @@
                 "avgTemp": "-3.4",
                 "avgHumidity": "79.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17531831/pexels-photo-17531831.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17531831/pexels-photo-17531831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -19150,6 +19862,10 @@
                 "avgTemp": "18.7",
                 "avgHumidity": "67.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17582203/pexels-photo-17582203.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17582203/pexels-photo-17582203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -19257,6 +19973,10 @@
                 "avgTemp": "8.3",
                 "avgHumidity": "86.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/6241160/pexels-photo-6241160.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/6241160/pexels-photo-6241160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -19364,6 +20084,10 @@
                 "avgTemp": "16.2",
                 "avgHumidity": "62.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2404046/pexels-photo-2404046.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2404046/pexels-photo-2404046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -19471,6 +20195,10 @@
                 "avgTemp": "9.5",
                 "avgHumidity": "55.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17574438/pexels-photo-17574438.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17574438/pexels-photo-17574438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -19578,6 +20306,10 @@
                 "avgTemp": "13.4",
                 "avgHumidity": "67.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/13185337/pexels-photo-13185337.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/13185337/pexels-photo-13185337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -19685,6 +20417,10 @@
                 "avgTemp": "10.6",
                 "avgHumidity": "58.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/6967905/pexels-photo-6967905.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/6967905/pexels-photo-6967905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -19792,6 +20528,10 @@
                 "avgTemp": "25.8",
                 "avgHumidity": "74.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/8572308/pexels-photo-8572308.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/8572308/pexels-photo-8572308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -19899,6 +20639,10 @@
                 "avgTemp": "5.2",
                 "avgHumidity": "69.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17900510/pexels-photo-17900510.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17900510/pexels-photo-17900510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -20006,6 +20750,10 @@
                 "avgTemp": "26.1",
                 "avgHumidity": "83.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/8817955/pexels-photo-8817955.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/8817955/pexels-photo-8817955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -20113,6 +20861,10 @@
                 "avgTemp": "7.7",
                 "avgHumidity": "85.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1166647/pexels-photo-1166647.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1166647/pexels-photo-1166647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -20220,6 +20972,10 @@
                 "avgTemp": "21.5",
                 "avgHumidity": "75.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1045211/pexels-photo-1045211.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1045211/pexels-photo-1045211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -20327,6 +21083,10 @@
                 "avgTemp": "-0.4",
                 "avgHumidity": "66.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17557990/pexels-photo-17557990.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17557990/pexels-photo-17557990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -20434,6 +21194,10 @@
                 "avgTemp": "27.7",
                 "avgHumidity": "77.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/18806088/pexels-photo-18806088.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/18806088/pexels-photo-18806088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -20541,6 +21305,10 @@
                 "avgTemp": "26.3",
                 "avgHumidity": "81.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/20701631/pexels-photo-20701631.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/20701631/pexels-photo-20701631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -20648,6 +21416,10 @@
                 "avgTemp": "22.2",
                 "avgHumidity": "54.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/11596373/pexels-photo-11596373.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/11596373/pexels-photo-11596373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -20755,6 +21527,10 @@
                 "avgTemp": "22.0",
                 "avgHumidity": "58.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3069345/pexels-photo-3069345.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3069345/pexels-photo-3069345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -20862,6 +21638,10 @@
                 "avgTemp": "5.8",
                 "avgHumidity": "81.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/8050115/pexels-photo-8050115.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/8050115/pexels-photo-8050115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -20969,6 +21749,10 @@
                 "avgTemp": "3.4",
                 "avgHumidity": "83.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/776102/pexels-photo-776102.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/776102/pexels-photo-776102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -21076,6 +21860,10 @@
                 "avgTemp": "21.2",
                 "avgHumidity": "83.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2587663/pexels-photo-2587663.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2587663/pexels-photo-2587663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -21183,6 +21971,10 @@
                 "avgTemp": "-2.8",
                 "avgHumidity": "71.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/10584080/pexels-photo-10584080.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/10584080/pexels-photo-10584080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -21290,6 +22082,10 @@
                 "avgTemp": "-14.1",
                 "avgHumidity": "91.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/849227/pexels-photo-849227.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/849227/pexels-photo-849227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -21397,6 +22193,10 @@
                 "avgTemp": "6.2",
                 "avgHumidity": "82.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/14213936/pexels-photo-14213936.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/14213936/pexels-photo-14213936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -21504,6 +22304,10 @@
                 "avgTemp": "27.8",
                 "avgHumidity": "72.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3412103/pexels-photo-3412103.png?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3412103/pexels-photo-3412103.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -21611,6 +22415,10 @@
                 "avgTemp": "18.6",
                 "avgHumidity": "50.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/13680536/pexels-photo-13680536.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/13680536/pexels-photo-13680536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -21718,6 +22526,10 @@
                 "avgTemp": "8.8",
                 "avgHumidity": "68.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/11947131/pexels-photo-11947131.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/11947131/pexels-photo-11947131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -21825,6 +22637,10 @@
                 "avgTemp": "19.2",
                 "avgHumidity": "62.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2927021/pexels-photo-2927021.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2927021/pexels-photo-2927021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -21932,6 +22748,10 @@
                 "avgTemp": "8.6",
                 "avgHumidity": "69.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/15522876/pexels-photo-15522876.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/15522876/pexels-photo-15522876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -22039,6 +22859,10 @@
                 "avgTemp": "1.8",
                 "avgHumidity": "89.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/5273641/pexels-photo-5273641.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/5273641/pexels-photo-5273641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -22146,6 +22970,10 @@
                 "avgTemp": "8.0",
                 "avgHumidity": "80.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/6125657/pexels-photo-6125657.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/6125657/pexels-photo-6125657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -22253,6 +23081,10 @@
                 "avgTemp": "25.7",
                 "avgHumidity": "84.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/18208295/pexels-photo-18208295.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/18208295/pexels-photo-18208295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -22360,6 +23192,10 @@
                 "avgTemp": "15.5",
                 "avgHumidity": "63.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/13401924/pexels-photo-13401924.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/13401924/pexels-photo-13401924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -22467,6 +23303,10 @@
                 "avgTemp": "0.7",
                 "avgHumidity": "86.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/769568/pexels-photo-769568.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/769568/pexels-photo-769568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -22574,6 +23414,10 @@
                 "avgTemp": "5.8",
                 "avgHumidity": "87.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3424845/pexels-photo-3424845.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3424845/pexels-photo-3424845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -22681,6 +23525,10 @@
                 "avgTemp": "3.0",
                 "avgHumidity": "81.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/5464062/pexels-photo-5464062.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/5464062/pexels-photo-5464062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -22788,6 +23636,10 @@
                 "avgTemp": "2.2",
                 "avgHumidity": "81.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2887493/pexels-photo-2887493.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2887493/pexels-photo-2887493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -22895,6 +23747,10 @@
                 "avgTemp": "4.3",
                 "avgHumidity": "84.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17748652/pexels-photo-17748652.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17748652/pexels-photo-17748652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -23002,6 +23858,10 @@
                 "avgTemp": "3.6",
                 "avgHumidity": "79.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/16015506/pexels-photo-16015506.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/16015506/pexels-photo-16015506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -23109,6 +23969,10 @@
                 "avgTemp": "8.2",
                 "avgHumidity": "55.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/14370889/pexels-photo-14370889.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/14370889/pexels-photo-14370889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -23216,7 +24080,8 @@
                 "avgTemp": "22.4",
                 "avgHumidity": "60.9"
             }
-        }
+        },
+        "photoUrl": {}
     },
     {
         "countryCode": "CU",
@@ -23323,6 +24188,10 @@
                 "avgTemp": "22.3",
                 "avgHumidity": "77.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3687869/pexels-photo-3687869.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3687869/pexels-photo-3687869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -23430,6 +24299,10 @@
                 "avgTemp": "6.7",
                 "avgHumidity": "73.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17583925/pexels-photo-17583925.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17583925/pexels-photo-17583925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -23537,6 +24410,10 @@
                 "avgTemp": "14.0",
                 "avgHumidity": "69.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/6571862/pexels-photo-6571862.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/6571862/pexels-photo-6571862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -23644,6 +24521,10 @@
                 "avgTemp": "22.8",
                 "avgHumidity": "87.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/92090/pexels-photo-92090.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/92090/pexels-photo-92090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -23751,6 +24632,10 @@
                 "avgTemp": "9.5",
                 "avgHumidity": "62.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2342585/pexels-photo-2342585.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2342585/pexels-photo-2342585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -23858,6 +24743,10 @@
                 "avgTemp": "5.1",
                 "avgHumidity": "52.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/4402879/pexels-photo-4402879.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/4402879/pexels-photo-4402879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -23965,6 +24854,10 @@
                 "avgTemp": "22.3",
                 "avgHumidity": "59.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/16573687/pexels-photo-16573687.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/16573687/pexels-photo-16573687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -24072,6 +24965,10 @@
                 "avgTemp": "2.3",
                 "avgHumidity": "68.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/14958503/pexels-photo-14958503.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/14958503/pexels-photo-14958503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -24179,6 +25076,10 @@
                 "avgTemp": "-3.9",
                 "avgHumidity": "87.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/6128188/pexels-photo-6128188.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/6128188/pexels-photo-6128188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -24286,6 +25187,10 @@
                 "avgTemp": "14.4",
                 "avgHumidity": "28.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/15817294/pexels-photo-15817294.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/15817294/pexels-photo-15817294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -24393,6 +25298,10 @@
                 "avgTemp": "12.3",
                 "avgHumidity": "74.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2656502/pexels-photo-2656502.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2656502/pexels-photo-2656502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -24500,6 +25409,10 @@
                 "avgTemp": "18.1",
                 "avgHumidity": "38.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3581364/pexels-photo-3581364.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3581364/pexels-photo-3581364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -24607,6 +25520,10 @@
                 "avgTemp": "6.1",
                 "avgHumidity": "71.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/11355109/pexels-photo-11355109.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/11355109/pexels-photo-11355109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -24714,7 +25631,8 @@
                 "avgTemp": "-1.0",
                 "avgHumidity": "67.8"
             }
-        }
+        },
+        "photoUrl": {}
     },
     {
         "countryCode": "UG",
@@ -24821,6 +25739,10 @@
                 "avgTemp": "21.4",
                 "avgHumidity": "79.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17567815/pexels-photo-17567815.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17567815/pexels-photo-17567815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -24928,6 +25850,10 @@
                 "avgTemp": "12.2",
                 "avgHumidity": "63.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2104882/pexels-photo-2104882.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2104882/pexels-photo-2104882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -25035,6 +25961,10 @@
                 "avgTemp": "24.5",
                 "avgHumidity": "80.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17542947/pexels-photo-17542947.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17542947/pexels-photo-17542947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -25142,6 +26072,10 @@
                 "avgTemp": "8.7",
                 "avgHumidity": "62.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/460738/pexels-photo-460738.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/460738/pexels-photo-460738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -25249,6 +26183,10 @@
                 "avgTemp": "26.8",
                 "avgHumidity": "76.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/980180/pexels-photo-980180.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/980180/pexels-photo-980180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -25356,6 +26294,10 @@
                 "avgTemp": "22.5",
                 "avgHumidity": "45.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2846217/pexels-photo-2846217.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2846217/pexels-photo-2846217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -25463,6 +26405,10 @@
                 "avgTemp": "11.1",
                 "avgHumidity": "70.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/15937142/pexels-photo-15937142.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/15937142/pexels-photo-15937142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -25570,6 +26516,10 @@
                 "avgTemp": "20.0",
                 "avgHumidity": "47.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/19732295/pexels-photo-19732295.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/19732295/pexels-photo-19732295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -25677,6 +26627,10 @@
                 "avgTemp": "9.5",
                 "avgHumidity": "68.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17783748/pexels-photo-17783748.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17783748/pexels-photo-17783748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -25784,6 +26738,10 @@
                 "avgTemp": "17.2",
                 "avgHumidity": "29.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2734406/pexels-photo-2734406.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2734406/pexels-photo-2734406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -25891,6 +26849,10 @@
                 "avgTemp": "19.0",
                 "avgHumidity": "63.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/15173067/pexels-photo-15173067.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/15173067/pexels-photo-15173067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -25998,6 +26960,10 @@
                 "avgTemp": "7.3",
                 "avgHumidity": "82.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/16358837/pexels-photo-16358837.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/16358837/pexels-photo-16358837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -26105,6 +27071,10 @@
                 "avgTemp": "26.6",
                 "avgHumidity": "77.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2779383/pexels-photo-2779383.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2779383/pexels-photo-2779383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -26212,6 +27182,10 @@
                 "avgTemp": "19.4",
                 "avgHumidity": "65.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/4223678/pexels-photo-4223678.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/4223678/pexels-photo-4223678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -26319,6 +27293,10 @@
                 "avgTemp": "2.4",
                 "avgHumidity": "87.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2563411/pexels-photo-2563411.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2563411/pexels-photo-2563411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -26426,6 +27404,10 @@
                 "avgTemp": "27.5",
                 "avgHumidity": "77.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/7903924/pexels-photo-7903924.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/7903924/pexels-photo-7903924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -26533,6 +27515,10 @@
                 "avgTemp": "23.6",
                 "avgHumidity": "39.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17674066/pexels-photo-17674066.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17674066/pexels-photo-17674066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -26640,6 +27626,10 @@
                 "avgTemp": "16.0",
                 "avgHumidity": "62.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/12048925/pexels-photo-12048925.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/12048925/pexels-photo-12048925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -26747,6 +27737,10 @@
                 "avgTemp": "21.3",
                 "avgHumidity": "68.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/12161968/pexels-photo-12161968.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/12161968/pexels-photo-12161968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -26854,6 +27848,10 @@
                 "avgTemp": "23.5",
                 "avgHumidity": "54.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/691552/pexels-photo-691552.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/691552/pexels-photo-691552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -26961,6 +27959,10 @@
                 "avgTemp": "8.3",
                 "avgHumidity": "58.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17683246/pexels-photo-17683246.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17683246/pexels-photo-17683246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -27068,6 +28070,10 @@
                 "avgTemp": "12.8",
                 "avgHumidity": "66.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/67918/pexels-photo-67918.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/67918/pexels-photo-67918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -27175,6 +28181,10 @@
                 "avgTemp": "8.0",
                 "avgHumidity": "64.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/18292449/pexels-photo-18292449.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/18292449/pexels-photo-18292449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -27282,6 +28292,10 @@
                 "avgTemp": "23.6",
                 "avgHumidity": "74.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2598635/pexels-photo-2598635.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2598635/pexels-photo-2598635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -27389,6 +28403,10 @@
                 "avgTemp": "-9.2",
                 "avgHumidity": "94.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/12366122/pexels-photo-12366122.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/12366122/pexels-photo-12366122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -27496,6 +28514,10 @@
                 "avgTemp": "6.3",
                 "avgHumidity": "71.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17789374/pexels-photo-17789374.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17789374/pexels-photo-17789374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -27603,6 +28625,10 @@
                 "avgTemp": "-13.2",
                 "avgHumidity": "92.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/11471987/pexels-photo-11471987.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/11471987/pexels-photo-11471987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -27710,6 +28736,10 @@
                 "avgTemp": "10.5",
                 "avgHumidity": "50.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/11543950/pexels-photo-11543950.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/11543950/pexels-photo-11543950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -27817,6 +28847,10 @@
                 "avgTemp": "8.3",
                 "avgHumidity": "65.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/5656449/pexels-photo-5656449.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/5656449/pexels-photo-5656449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -27924,6 +28958,10 @@
                 "avgTemp": "-1.2",
                 "avgHumidity": "88.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/7328/building-architecture-historical-tower.jpg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/7328/building-architecture-historical-tower.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -28031,6 +29069,10 @@
                 "avgTemp": "7.1",
                 "avgHumidity": "87.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1192048/pexels-photo-1192048.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1192048/pexels-photo-1192048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -28138,6 +29180,10 @@
                 "avgTemp": "16.9",
                 "avgHumidity": "65.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/16648580/pexels-photo-16648580.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/16648580/pexels-photo-16648580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -28245,7 +29291,8 @@
                 "avgTemp": "26.9",
                 "avgHumidity": "78.0"
             }
-        }
+        },
+        "photoUrl": {}
     },
     {
         "countryCode": "TH",
@@ -28352,6 +29399,10 @@
                 "avgTemp": "27.2",
                 "avgHumidity": "67.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1762560/pexels-photo-1762560.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1762560/pexels-photo-1762560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -28459,6 +29510,10 @@
                 "avgTemp": "26.9",
                 "avgHumidity": "78.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2867732/pexels-photo-2867732.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2867732/pexels-photo-2867732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -28566,6 +29621,10 @@
                 "avgTemp": "4.4",
                 "avgHumidity": "73.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/14469884/pexels-photo-14469884.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/14469884/pexels-photo-14469884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -28673,6 +29732,10 @@
                 "avgTemp": "8.2",
                 "avgHumidity": "72.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/8431629/pexels-photo-8431629.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/8431629/pexels-photo-8431629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -28780,6 +29843,10 @@
                 "avgTemp": "2.6",
                 "avgHumidity": "87.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/18923572/pexels-photo-18923572.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/18923572/pexels-photo-18923572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -28887,6 +29954,10 @@
                 "avgTemp": "23.1",
                 "avgHumidity": "45.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/18496445/pexels-photo-18496445.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/18496445/pexels-photo-18496445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -28994,6 +30065,10 @@
                 "avgTemp": "3.0",
                 "avgHumidity": "61.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/14973612/pexels-photo-14973612.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/14973612/pexels-photo-14973612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -29101,6 +30176,10 @@
                 "avgTemp": "16.6",
                 "avgHumidity": "82.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2226900/pexels-photo-2226900.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2226900/pexels-photo-2226900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -29208,6 +30287,10 @@
                 "avgTemp": "15.5",
                 "avgHumidity": "63.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2945595/pexels-photo-2945595.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2945595/pexels-photo-2945595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -29315,6 +30398,10 @@
                 "avgTemp": "27.2",
                 "avgHumidity": "71.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17538972/pexels-photo-17538972.png?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17538972/pexels-photo-17538972.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -29422,6 +30509,10 @@
                 "avgTemp": "-1.1",
                 "avgHumidity": "92.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/681405/pexels-photo-681405.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/681405/pexels-photo-681405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -29529,6 +30620,10 @@
                 "avgTemp": "18.8",
                 "avgHumidity": "34.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/35761/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/35761/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -29636,6 +30731,10 @@
                 "avgTemp": "7.2",
                 "avgHumidity": "83.4"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1209521/pexels-photo-1209521.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1209521/pexels-photo-1209521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -29743,6 +30842,10 @@
                 "avgTemp": "25.2",
                 "avgHumidity": "76.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17831967/pexels-photo-17831967.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17831967/pexels-photo-17831967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -29850,6 +30953,10 @@
                 "avgTemp": "3.7",
                 "avgHumidity": "85.3"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/14348452/pexels-photo-14348452.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/14348452/pexels-photo-14348452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -29957,6 +31064,10 @@
                 "avgTemp": "17.7",
                 "avgHumidity": "83.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/18854593/pexels-photo-18854593.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/18854593/pexels-photo-18854593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -30064,6 +31175,10 @@
                 "avgTemp": "19.2",
                 "avgHumidity": "66.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/15879065/pexels-photo-15879065.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/15879065/pexels-photo-15879065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -30171,6 +31286,10 @@
                 "avgTemp": "23.9",
                 "avgHumidity": "81.7"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/12927599/pexels-photo-12927599.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/12927599/pexels-photo-12927599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -30278,6 +31397,10 @@
                 "avgTemp": "3.5",
                 "avgHumidity": "85.0"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/17543731/pexels-photo-17543731.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/17543731/pexels-photo-17543731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -30385,6 +31508,10 @@
                 "avgTemp": "8.0",
                 "avgHumidity": "68.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -30492,6 +31619,10 @@
                 "avgTemp": "27.9",
                 "avgHumidity": "73.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2810699/pexels-photo-2810699.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2810699/pexels-photo-2810699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -30599,7 +31730,8 @@
                 "avgTemp": "5.2",
                 "avgHumidity": "69.1"
             }
-        }
+        },
+        "photoUrl": {}
     },
     {
         "countryCode": "CN",
@@ -30706,6 +31838,10 @@
                 "avgTemp": "18.6",
                 "avgHumidity": "61.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/431992/pexels-photo-431992.png?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/431992/pexels-photo-431992.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -30813,6 +31949,10 @@
                 "avgTemp": "8.3",
                 "avgHumidity": "87.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/19784010/pexels-photo-19784010.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/19784010/pexels-photo-19784010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -30920,6 +32060,10 @@
                 "avgTemp": "3.1",
                 "avgHumidity": "75.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/2932758/pexels-photo-2932758.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/2932758/pexels-photo-2932758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -31027,6 +32171,10 @@
                 "avgTemp": "5.6",
                 "avgHumidity": "82.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/434673/pexels-photo-434673.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/434673/pexels-photo-434673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -31134,6 +32282,10 @@
                 "avgTemp": "28.6",
                 "avgHumidity": "72.8"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/10271749/pexels-photo-10271749.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/10271749/pexels-photo-10271749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -31241,6 +32393,10 @@
                 "avgTemp": "7.8",
                 "avgHumidity": "55.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/18781939/pexels-photo-18781939.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/18781939/pexels-photo-18781939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -31348,6 +32504,10 @@
                 "avgTemp": "22.1",
                 "avgHumidity": "62.1"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/14068313/pexels-photo-14068313.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/14068313/pexels-photo-14068313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -31455,6 +32615,10 @@
                 "avgTemp": "-7.7",
                 "avgHumidity": "94.9"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/12472552/pexels-photo-12472552.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/12472552/pexels-photo-12472552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -31562,6 +32726,10 @@
                 "avgTemp": "17.3",
                 "avgHumidity": "77.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/18090281/pexels-photo-18090281.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/18090281/pexels-photo-18090281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -31669,6 +32837,10 @@
                 "avgTemp": "5.6",
                 "avgHumidity": "59.6"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/9951246/pexels-photo-9951246.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/9951246/pexels-photo-9951246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -31776,6 +32948,10 @@
                 "avgTemp": "9.1",
                 "avgHumidity": "38.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3799176/pexels-photo-3799176.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3799176/pexels-photo-3799176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -31883,6 +33059,10 @@
                 "avgTemp": "9.4",
                 "avgHumidity": "67.2"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/3346826/pexels-photo-3346826.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/3346826/pexels-photo-3346826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {
@@ -31990,6 +33170,10 @@
                 "avgTemp": "6.1",
                 "avgHumidity": "57.5"
             }
+        },
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/15737902/pexels-photo-15737902.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/15737902/pexels-photo-15737902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     }
 ]
