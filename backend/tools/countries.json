@@ -6,7 +6,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Dutch"
+        ]
     },
     {
         "countryCode": "GR",
@@ -15,7 +18,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Greek"
+        ]
     },
     {
         "countryCode": "NZ",
@@ -24,7 +30,11 @@
         "currency": {
             "code": "NZD",
             "symbol": "NZ$"
-        }
+        },
+        "languages": [
+            "English (de facto)",
+            "Maori"
+        ]
     },
     {
         "countryCode": "US",
@@ -33,7 +43,10 @@
         "currency": {
             "code": "USD",
             "symbol": "$"
-        }
+        },
+        "languages": [
+            "English"
+        ]
     },
     {
         "countryCode": "ID",
@@ -42,7 +55,11 @@
         "currency": {
             "code": "IDR",
             "symbol": "IDR"
-        }
+        },
+        "languages": [
+            "Arabic",
+            "French"
+        ]
     },
     {
         "countryCode": "TH",
@@ -51,7 +68,10 @@
         "currency": {
             "code": "THB",
             "symbol": "THB"
-        }
+        },
+        "languages": [
+            "Thai"
+        ]
     },
     {
         "countryCode": "ES",
@@ -60,7 +80,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Spanish"
+        ]
     },
     {
         "countryCode": "RS",
@@ -69,7 +92,10 @@
         "currency": {
             "code": "RSD",
             "symbol": "RSD"
-        }
+        },
+        "languages": [
+            "Serbian"
+        ]
     },
     {
         "countryCode": "DE",
@@ -78,7 +104,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "German"
+        ]
     },
     {
         "countryCode": "CO",
@@ -87,7 +116,10 @@
         "currency": {
             "code": "COP",
             "symbol": "COP"
-        }
+        },
+        "languages": [
+            "Spanish"
+        ]
     },
     {
         "countryCode": "FR",
@@ -96,7 +128,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "French"
+        ]
     },
     {
         "countryCode": "BR",
@@ -105,7 +140,10 @@
         "currency": {
             "code": "BRL",
             "symbol": "R$"
-        }
+        },
+        "languages": [
+            "Portuguese"
+        ]
     },
     {
         "countryCode": "SK",
@@ -114,7 +152,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Slovak"
+        ]
     },
     {
         "countryCode": "AU",
@@ -123,7 +164,10 @@
         "currency": {
             "code": "AUD",
             "symbol": "A$"
-        }
+        },
+        "languages": [
+            "English (de facto)"
+        ]
     },
     {
         "countryCode": "GB",
@@ -132,7 +176,10 @@
         "currency": {
             "code": "GBP",
             "symbol": "£"
-        }
+        },
+        "languages": [
+            "English"
+        ]
     },
     {
         "countryCode": "BE",
@@ -141,7 +188,12 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Dutch",
+            "French",
+            "German"
+        ]
     },
     {
         "countryCode": "HU",
@@ -150,7 +202,10 @@
         "currency": {
             "code": "HUF",
             "symbol": "HUF"
-        }
+        },
+        "languages": [
+            "Hungarian"
+        ]
     },
     {
         "countryCode": "RO",
@@ -159,7 +214,10 @@
         "currency": {
             "code": "RON",
             "symbol": "RON"
-        }
+        },
+        "languages": [
+            "Romanian"
+        ]
     },
     {
         "countryCode": "AR",
@@ -168,7 +226,10 @@
         "currency": {
             "code": "ARS",
             "symbol": "ARS"
-        }
+        },
+        "languages": [
+            "Spanish"
+        ]
     },
     {
         "countryCode": "EG",
@@ -177,7 +238,10 @@
         "currency": {
             "code": "EGP",
             "symbol": "EGP"
-        }
+        },
+        "languages": [
+            "Arabic"
+        ]
     },
     {
         "countryCode": "ZA",
@@ -186,7 +250,20 @@
         "currency": {
             "code": "ZAR",
             "symbol": "ZAR"
-        }
+        },
+        "languages": [
+            "Afrikaans",
+            "English",
+            "Ndebele",
+            "Sesotho",
+            "Sesotho sa Leboa",
+            "Siswati",
+            "Tsonga",
+            "Setswana",
+            "Venda",
+            "Xhosa",
+            "Zulu"
+        ]
     },
     {
         "countryCode": "MY",
@@ -195,7 +272,10 @@
         "currency": {
             "code": "MYR",
             "symbol": "MYR"
-        }
+        },
+        "languages": [
+            "Malay"
+        ]
     },
     {
         "countryCode": "DK",
@@ -204,7 +284,10 @@
         "currency": {
             "code": "DKK",
             "symbol": "DKK"
-        }
+        },
+        "languages": [
+            "Danish"
+        ]
     },
     {
         "countryCode": "PE",
@@ -213,7 +296,12 @@
         "currency": {
             "code": "PEN",
             "symbol": "PEN"
-        }
+        },
+        "languages": [
+            "Spanish",
+            "Quechua",
+            "Aymarà"
+        ]
     },
     {
         "countryCode": "VN",
@@ -222,7 +310,10 @@
         "currency": {
             "code": "VND",
             "symbol": "₫"
-        }
+        },
+        "languages": [
+            "Vietnamese"
+        ]
     },
     {
         "countryCode": "AE",
@@ -231,7 +322,10 @@
         "currency": {
             "code": "AED",
             "symbol": "AED"
-        }
+        },
+        "languages": [
+            "Arabic"
+        ]
     },
     {
         "countryCode": "IE",
@@ -240,7 +334,11 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "English",
+            "Irish Gaelic"
+        ]
     },
     {
         "countryCode": "HR",
@@ -249,7 +347,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Croatian"
+        ]
     },
     {
         "countryCode": "IT",
@@ -258,7 +359,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Italian"
+        ]
     },
     {
         "countryCode": "PH",
@@ -267,7 +371,11 @@
         "currency": {
             "code": "PHP",
             "symbol": "₱"
-        }
+        },
+        "languages": [
+            "Filipino",
+            "English"
+        ]
     },
     {
         "countryCode": "CH",
@@ -276,7 +384,13 @@
         "currency": {
             "code": "CHF",
             "symbol": "CHF"
-        }
+        },
+        "languages": [
+            "French",
+            "German",
+            "Italian",
+            "Romansch"
+        ]
     },
     {
         "countryCode": "MX",
@@ -285,7 +399,10 @@
         "currency": {
             "code": "MXN",
             "symbol": "MX$"
-        }
+        },
+        "languages": [
+            "Spanish (de facto)"
+        ]
     },
     {
         "countryCode": "CN",
@@ -294,7 +411,10 @@
         "currency": {
             "code": "CNY",
             "symbol": "CN¥"
-        }
+        },
+        "languages": [
+            "Mandarin Chinese"
+        ]
     },
     {
         "countryCode": "FI",
@@ -303,7 +423,11 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Finnish",
+            "Swedish"
+        ]
     },
     {
         "countryCode": "HK",
@@ -312,7 +436,11 @@
         "currency": {
             "code": "HKD",
             "symbol": "HK$"
-        }
+        },
+        "languages": [
+            "Chinese",
+            "English"
+        ]
     },
     {
         "countryCode": "TR",
@@ -321,7 +449,10 @@
         "currency": {
             "code": "TRY",
             "symbol": "TRY"
-        }
+        },
+        "languages": [
+            "Turkish"
+        ]
     },
     {
         "countryCode": "UA",
@@ -330,7 +461,10 @@
         "currency": {
             "code": "UAH",
             "symbol": "UAH"
-        }
+        },
+        "languages": [
+            "Ukrainian"
+        ]
     },
     {
         "countryCode": "PL",
@@ -339,7 +473,10 @@
         "currency": {
             "code": "PLN",
             "symbol": "PLN"
-        }
+        },
+        "languages": [
+            "Polish"
+        ]
     },
     {
         "countryCode": "JP",
@@ -348,7 +485,10 @@
         "currency": {
             "code": "JPY",
             "symbol": "¥"
-        }
+        },
+        "languages": [
+            "Japanese"
+        ]
     },
     {
         "countryCode": "NG",
@@ -357,7 +497,10 @@
         "currency": {
             "code": "NGN",
             "symbol": "NGN"
-        }
+        },
+        "languages": [
+            "English"
+        ]
     },
     {
         "countryCode": "PT",
@@ -366,7 +509,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Portuguese"
+        ]
     },
     {
         "countryCode": "SI",
@@ -375,7 +521,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Slovenian"
+        ]
     },
     {
         "countryCode": "MA",
@@ -384,7 +533,10 @@
         "currency": {
             "code": "MAD",
             "symbol": "MAD"
-        }
+        },
+        "languages": [
+            "Arabic"
+        ]
     },
     {
         "countryCode": "IN",
@@ -393,7 +545,10 @@
         "currency": {
             "code": "INR",
             "symbol": "₹"
-        }
+        },
+        "languages": [
+            "Hindi"
+        ]
     },
     {
         "countryCode": "CA",
@@ -402,7 +557,11 @@
         "currency": {
             "code": "CAD",
             "symbol": "CA$"
-        }
+        },
+        "languages": [
+            "English",
+            "French"
+        ]
     },
     {
         "countryCode": "RU",
@@ -411,7 +570,10 @@
         "currency": {
             "code": "RUB",
             "symbol": "RUB"
-        }
+        },
+        "languages": [
+            "Russian"
+        ]
     },
     {
         "countryCode": "KE",
@@ -420,7 +582,10 @@
         "currency": {
             "code": "KES",
             "symbol": "KES"
-        }
+        },
+        "languages": [
+            "English"
+        ]
     },
     {
         "countryCode": "CY",
@@ -429,7 +594,11 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Greek",
+            "Turkish"
+        ]
     },
     {
         "countryCode": "NO",
@@ -438,7 +607,10 @@
         "currency": {
             "code": "NOK",
             "symbol": "NOK"
-        }
+        },
+        "languages": [
+            "Norwegian"
+        ]
     },
     {
         "countryCode": "PA",
@@ -447,7 +619,10 @@
         "currency": {
             "code": "PAB",
             "symbol": "PAB"
-        }
+        },
+        "languages": [
+            "Spanish"
+        ]
     },
     {
         "countryCode": "KH",
@@ -456,7 +631,10 @@
         "currency": {
             "code": "KHR",
             "symbol": "KHR"
-        }
+        },
+        "languages": [
+            "Khmer"
+        ]
     },
     {
         "countryCode": "CZ",
@@ -465,7 +643,10 @@
         "currency": {
             "code": "CZK",
             "symbol": "CZK"
-        }
+        },
+        "languages": [
+            "Czech"
+        ]
     },
     {
         "countryCode": "EC",
@@ -474,7 +655,11 @@
         "currency": {
             "code": "USD",
             "symbol": "$"
-        }
+        },
+        "languages": [
+            "Spanish",
+            "Quechua"
+        ]
     },
     {
         "countryCode": "IS",
@@ -483,7 +668,10 @@
         "currency": {
             "code": "ISK",
             "symbol": "ISK"
-        }
+        },
+        "languages": [
+            "Icelandic"
+        ]
     },
     {
         "countryCode": "CL",
@@ -492,7 +680,10 @@
         "currency": {
             "code": "CLP",
             "symbol": "CLP"
-        }
+        },
+        "languages": [
+            "Spanish"
+        ]
     },
     {
         "countryCode": "KR",
@@ -501,7 +692,10 @@
         "currency": {
             "code": "KRW",
             "symbol": "₩"
-        }
+        },
+        "languages": [
+            "Korean"
+        ]
     },
     {
         "countryCode": "SG",
@@ -510,7 +704,13 @@
         "currency": {
             "code": "SGD",
             "symbol": "SGD"
-        }
+        },
+        "languages": [
+            "Mandarin Chinese",
+            "Malay",
+            "Tamil",
+            "English"
+        ]
     },
     {
         "countryCode": "BG",
@@ -519,7 +719,10 @@
         "currency": {
             "code": "BGN",
             "symbol": "BGN"
-        }
+        },
+        "languages": [
+            "Bulgarian"
+        ]
     },
     {
         "countryCode": "SE",
@@ -528,7 +731,10 @@
         "currency": {
             "code": "SEK",
             "symbol": "SEK"
-        }
+        },
+        "languages": [
+            "Swedish"
+        ]
     },
     {
         "countryCode": "TW",
@@ -537,7 +743,10 @@
         "currency": {
             "code": "TWD",
             "symbol": "NT$"
-        }
+        },
+        "languages": [
+            "Standard Chinese"
+        ]
     },
     {
         "countryCode": "EE",
@@ -546,7 +755,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Estonian"
+        ]
     },
     {
         "countryCode": "GE",
@@ -555,7 +767,10 @@
         "currency": {
             "code": "GEL",
             "symbol": "GEL"
-        }
+        },
+        "languages": [
+            "Georgian"
+        ]
     },
     {
         "countryCode": "IL",
@@ -564,7 +779,11 @@
         "currency": {
             "code": "ILS",
             "symbol": "₪"
-        }
+        },
+        "languages": [
+            "Hebrew",
+            "Arabic"
+        ]
     },
     {
         "countryCode": "VE",
@@ -573,7 +792,10 @@
         "currency": {
             "code": "VES",
             "symbol": "VES"
-        }
+        },
+        "languages": [
+            "Spanish"
+        ]
     },
     {
         "countryCode": "AT",
@@ -582,7 +804,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "German"
+        ]
     },
     {
         "countryCode": "LT",
@@ -591,7 +816,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Lithuanian"
+        ]
     },
     {
         "countryCode": "MM",
@@ -600,7 +828,10 @@
         "currency": {
             "code": "MMK",
             "symbol": "MMK"
-        }
+        },
+        "languages": [
+            "Burmese"
+        ]
     },
     {
         "countryCode": "PY",
@@ -609,7 +840,11 @@
         "currency": {
             "code": "PYG",
             "symbol": "PYG"
-        }
+        },
+        "languages": [
+            "Guaraní",
+            "Spanish"
+        ]
     },
     {
         "countryCode": "AZ",
@@ -618,7 +853,10 @@
         "currency": {
             "code": "AZN",
             "symbol": "AZN"
-        }
+        },
+        "languages": [
+            "Azebaijani"
+        ]
     },
     {
         "countryCode": "BA",
@@ -627,7 +865,12 @@
         "currency": {
             "code": "BAM",
             "symbol": "BAM"
-        }
+        },
+        "languages": [
+            "Bosnian",
+            "Croatian",
+            "Serbian"
+        ]
     },
     {
         "countryCode": "LK",
@@ -636,7 +879,11 @@
         "currency": {
             "code": "LKR",
             "symbol": "LKR"
-        }
+        },
+        "languages": [
+            "Sinhala",
+            "Tamil"
+        ]
     },
     {
         "countryCode": "TZ",
@@ -645,7 +892,11 @@
         "currency": {
             "code": "TZS",
             "symbol": "TZS"
-        }
+        },
+        "languages": [
+            "Kiswahili",
+            "English"
+        ]
     },
     {
         "countryCode": "BD",
@@ -654,7 +905,10 @@
         "currency": {
             "code": "BDT",
             "symbol": "BDT"
-        }
+        },
+        "languages": [
+            "Bengali"
+        ]
     },
     {
         "countryCode": "QA",
@@ -663,7 +917,10 @@
         "currency": {
             "code": "QAR",
             "symbol": "QAR"
-        }
+        },
+        "languages": [
+            "Arabic"
+        ]
     },
     {
         "countryCode": "GY",
@@ -672,7 +929,10 @@
         "currency": {
             "code": "GYD",
             "symbol": "GYD"
-        }
+        },
+        "languages": [
+            "English"
+        ]
     },
     {
         "countryCode": "ZW",
@@ -681,7 +941,24 @@
         "currency": {
             "code": "ZWL",
             "symbol": "ZWL"
-        }
+        },
+        "languages": [
+            "Chewa",
+            "Chibarwe",
+            "English",
+            "Kalanga",
+            "Koisan",
+            "Nambya",
+            "Ndau",
+            "Ndebele",
+            "Shangani",
+            "Shona",
+            "Sotho",
+            "Tonga",
+            "Tswana",
+            "Venda",
+            "Xhosa"
+        ]
     },
     {
         "countryCode": "CU",
@@ -690,7 +967,10 @@
         "currency": {
             "code": "CUP",
             "symbol": "CUP"
-        }
+        },
+        "languages": [
+            "Spanish"
+        ]
     },
     {
         "countryCode": "AM",
@@ -699,7 +979,10 @@
         "currency": {
             "code": "AMD",
             "symbol": "AMD"
-        }
+        },
+        "languages": [
+            "Armenian"
+        ]
     },
     {
         "countryCode": "PK",
@@ -708,7 +991,11 @@
         "currency": {
             "code": "PKR",
             "symbol": "PKR"
-        }
+        },
+        "languages": [
+            "Urdu",
+            "English"
+        ]
     },
     {
         "countryCode": "UG",
@@ -717,7 +1004,11 @@
         "currency": {
             "code": "UGX",
             "symbol": "UGX"
-        }
+        },
+        "languages": [
+            "English",
+            "Swahili"
+        ]
     },
     {
         "countryCode": "NP",
@@ -726,7 +1017,10 @@
         "currency": {
             "code": "NPR",
             "symbol": "NPR"
-        }
+        },
+        "languages": [
+            "Nepali"
+        ]
     },
     {
         "countryCode": "JM",
@@ -735,7 +1029,10 @@
         "currency": {
             "code": "JMD",
             "symbol": "JMD"
-        }
+        },
+        "languages": [
+            "English"
+        ]
     },
     {
         "countryCode": "KW",
@@ -744,7 +1041,10 @@
         "currency": {
             "code": "KWD",
             "symbol": "KWD"
-        }
+        },
+        "languages": [
+            "Arabic"
+        ]
     },
     {
         "countryCode": "BO",
@@ -753,7 +1053,12 @@
         "currency": {
             "code": "BOB",
             "symbol": "BOB"
-        }
+        },
+        "languages": [
+            "Spanish",
+            "Quechua",
+            "Aymarà"
+        ]
     },
     {
         "countryCode": "UY",
@@ -762,7 +1067,10 @@
         "currency": {
             "code": "UYU",
             "symbol": "UYU"
-        }
+        },
+        "languages": [
+            "Spanish"
+        ]
     },
     {
         "countryCode": "OM",
@@ -771,7 +1079,10 @@
         "currency": {
             "code": "OMR",
             "symbol": "OMR"
-        }
+        },
+        "languages": [
+            "Arabic"
+        ]
     },
     {
         "countryCode": "BS",
@@ -780,7 +1091,10 @@
         "currency": {
             "code": "BSD",
             "symbol": "BSD"
-        }
+        },
+        "languages": [
+            "English"
+        ]
     },
     {
         "countryCode": "ME",
@@ -789,7 +1103,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Serbian/Montenegrin"
+        ]
     },
     {
         "countryCode": "LV",
@@ -798,7 +1115,10 @@
         "currency": {
             "code": "EUR",
             "symbol": "€"
-        }
+        },
+        "languages": [
+            "Latvian"
+        ]
     },
     {
         "countryCode": "SA",
@@ -807,7 +1127,10 @@
         "currency": {
             "code": "SAR",
             "symbol": "SAR"
-        }
+        },
+        "languages": [
+            "Arabic"
+        ]
     },
     {
         "countryCode": "CR",
@@ -816,7 +1139,10 @@
         "currency": {
             "code": "CRC",
             "symbol": "CRC"
-        }
+        },
+        "languages": [
+            "Spanish"
+        ]
     },
     {
         "countryCode": "DO",
@@ -825,7 +1151,10 @@
         "currency": {
             "code": "DOP",
             "symbol": "DOP"
-        }
+        },
+        "languages": [
+            "Spanish"
+        ]
     },
     {
         "countryCode": "UZ",
@@ -834,7 +1163,10 @@
         "currency": {
             "code": "UZS",
             "symbol": "UZS"
-        }
+        },
+        "languages": [
+            "Uzbek"
+        ]
     },
     {
         "countryCode": "IR",
@@ -843,6 +1175,9 @@
         "currency": {
             "code": "IRR",
             "symbol": "IRR"
-        }
+        },
+        "languages": [
+            "Persian/Farsi"
+        ]
     }
 ]
