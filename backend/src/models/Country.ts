@@ -14,23 +14,15 @@ const countrySchema = new Schema({
     required: true,
   },
   currency: {
-    code: {
-      type: String,
-      required: true,
-    },
-    symbol: {
-      type: String,
-      required: true,
-    },
-  },
-  usdPair: {
-    type: Number,
+    type: Schema.Types.ObjectId,
+    ref: "Currency",
     required: true,
   },
   continent: {
     type: String,
     required: true,
   },
+  languages: [{ type: Schema.Types.ObjectId, ref: "Language" }],
 });
 
 module.exports = model("Country", countrySchema);

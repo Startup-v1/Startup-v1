@@ -88,13 +88,6 @@ const citySchema = new Schema({
     type: Number,
     required: true,
   },
-  languages: [
-    {
-      type: Schema.Types.ObjectId,
-      ref: "Language",
-      required: true,
-    },
-  ],
 });
 
 module.exports = model("City", citySchema);
