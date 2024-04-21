@@ -1,6 +1,10 @@
 import axios from "axios";
 import cheerio from "cheerio";
 import initialCities from "../initialCities.js";
+import fs from "fs";
+
+// modify if needed
+const timeBetweenRequests = 50;
 
 async function scrapeData(url) {
   try {
@@ -21,11 +25,25 @@ async function scrapeData(url) {
   }
 }
 
+const saveFile = (data, missing) => {
+  try {
+    fs.writeFileSync(`cities_cost_of_living.json`, data);
+    console.log(`Data saved!`);
+    console.log(`${missing}/${initialCities.size} cities missing.`);
+  } catch (err) {
+    console.error("Error writing file:", err);
+  }
+};
+
 (async () => {
   try {
-    let citiesMissing = [];
     let scrapedData;
-    let currentCity = "";
+    let currentCity;
+    let citiesCostOfLiving = {};
+    let citiesMissing = 0;
+
+    console.log("Initializing script.");
+    console.log("Fetching data...");
 
     for (const city of initialCities) {
       currentCity = city.split(" ").join("-");
@@ -33,14 +51,15 @@ async function scrapeData(url) {
       scrapedData = await scrapeData(url);
 
       if (scrapedData === "") {
-        citiesMissing.push(city);
+        citiesCostOfLiving[city] = "no data";
+        citiesMissing++;
       } else {
-        console.log("Price:", scrapedData);
+        citiesCostOfLiving[city] = scrapedData.replace(/\u00A0/g, "");
       }
-
-      await new Promise((resolve) => setTimeout(resolve, 150));
+      await new Promise((resolve) => setTimeout(resolve, timeBetweenRequests));
     }
-    
+
+    saveFile(JSON.stringify(citiesCostOfLiving), citiesMissing);
   } catch (error) {
     console.error("Error scraping data:", error);
   }
