@@ -10,7 +10,7 @@ async function scrapeData(url) {
     const $ = cheerio.load(htmlContent);
 
     const apartmentData = $(
-      'td:contains("Apartment (1 bedroom) in City Centre")'
+      'td:contains("Average Monthly Net Salary (After Tax)")'
     ).next();
 
     const price = apartmentData.text().trim();
@@ -23,18 +23,24 @@ async function scrapeData(url) {
 
 (async () => {
   try {
-    let firstItem;
+    let citiesMissing = [];
+    let scrapedData;
+    let currentCity = "";
 
-    // test for first city
-    for (const item of initialCities) {
-      firstItem = item;
-      break; // Exit the loop after the first iteration
+    for (const city of initialCities) {
+      currentCity = city.split(" ").join("-");
+      const url = `https://www.numbeo.com/cost-of-living/in/${currentCity}`;
+      scrapedData = await scrapeData(url);
+
+      if (scrapedData === "") {
+        citiesMissing.push(city);
+      } else {
+        console.log("Price:", scrapedData);
+      }
+
+      await new Promise((resolve) => setTimeout(resolve, 150));
     }
-
-    const url = `https://www.numbeo.com/cost-of-living/in/${firstItem}`;
-
-    const scrapedData = await scrapeData(url);
-    console.log("Price:", scrapedData);
+    
   } catch (error) {
     console.error("Error scraping data:", error);
   }
