@@ -1,3 +1,9 @@
+// IMPORTANT
+// *****************************************************
+// *****************************************************
+// execute from the dir of the script
+// not from the root of the project
+
 import axios from "axios";
 import cheerio from "cheerio";
 import initialCities from "../initialCities.js";
@@ -49,6 +55,44 @@ const saveFile = (data, missing) => {
   }
 };
 
+function removeTildes(str) {
+  const accentedCharsMap = {
+    á: "a",
+    é: "e",
+    í: "i",
+    ó: "o",
+    ú: "u",
+    Á: "A",
+    É: "E",
+    Í: "I",
+    Ó: "O",
+    Ú: "U",
+  };
+
+  return str.replace(/[áéíóúÁÉÍÓÚ]/g, (match) => accentedCharsMap[match]);
+}
+
+function addCostOfLivingToFile(firstFilePath, secondFilePath, outputPath) {
+  const data1 = JSON.parse(fs.readFileSync(firstFilePath, "utf8"));
+  const data2 = JSON.parse(fs.readFileSync(secondFilePath, "utf8"));
+
+  data1.forEach((cityData) => {
+    const cityName = cityData.name;
+    if (data2.hasOwnProperty(cityName)) {
+      if (data2[cityName].hasOwnProperty("apartment")) {
+        cityData.costOfLiving = {
+          apartment: data2[cityName].apartment,
+          monthlyCost: data2[cityName].monthlyCost,
+        };
+      } else {
+        cityData.costOfLiving = "no data"
+      }
+    }
+  });
+
+  fs.writeFileSync(outputPath, JSON.stringify(data1, null, 4));
+}
+
 (async () => {
   try {
     let scrapedData;
@@ -60,16 +104,22 @@ const saveFile = (data, missing) => {
     console.log("Fetching data...");
 
     for (const city of initialCities) {
-      currentCity = city.split(" ").join("-");
+      currentCity = removeTildes(
+        city
+          .split(" ")
+          .join("-")
+          .replace(/\bde\b/g, "De")
+      );
+
       const url = `https://www.numbeo.com/cost-of-living/in/${currentCity}?displayCurrency=USD`;
       scrapedData = await scrapeData(url);
 
       if (scrapedData.apartment === "") {
         citiesCostOfLiving[city] = "no data";
         citiesMissing++;
-        console.log(`${city} ❌`);
+        console.log(`${currentCity} ❌`);
       } else {
-        console.log(`${city} ✅`);
+        console.log(`${currentCity} ✅`);
 
         citiesCostOfLiving[city] = scrapedData;
       }
@@ -77,6 +127,11 @@ const saveFile = (data, missing) => {
     }
 
     saveFile(JSON.stringify(citiesCostOfLiving), citiesMissing);
+
+    const firstFilePath = "./../cities.json";
+    const secondFilePath = "./cities_cost_of_living.json";
+    const outputPath = "./cities.json";
+    addCostOfLivingToFile(firstFilePath, secondFilePath, outputPath);
   } catch (error) {
     console.error("Error scraping data:", error);
   }

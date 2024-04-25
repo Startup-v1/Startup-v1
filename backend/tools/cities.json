@@ -108,6 +108,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1414467/pexels-photo-1414467.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1414467/pexels-photo-1414467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,932.39$",
+            "monthlyCost": "1,104.2$"
         }
     },
     {
@@ -219,6 +223,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/951539/pexels-photo-951539.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/951539/pexels-photo-951539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,065.47$",
+            "monthlyCost": "882.1$"
         }
     },
     {
@@ -330,6 +338,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/19575680/pexels-photo-19575680.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/19575680/pexels-photo-19575680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,423.32$",
+            "monthlyCost": "1,077.7$"
         }
     },
     {
@@ -441,6 +453,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/273204/pexels-photo-273204.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/273204/pexels-photo-273204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "5,505.24$",
+            "monthlyCost": "1,090.9€"
         }
     },
     {
@@ -552,7 +568,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/5289209/pexels-photo-5289209.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/5289209/pexels-photo-5289209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "TH",
@@ -663,6 +680,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1004366/pexels-photo-1004366.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1004366/pexels-photo-1004366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "622.79$",
+            "monthlyCost": "630.7$"
         }
     },
     {
@@ -774,6 +795,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1388030/pexels-photo-1388030.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1388030/pexels-photo-1388030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,138.91$",
+            "monthlyCost": "841.0$"
         }
     },
     {
@@ -885,6 +910,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3958744/pexels-photo-3958744.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3958744/pexels-photo-3958744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "832.43$",
+            "monthlyCost": "692.8$"
         }
     },
     {
@@ -996,6 +1025,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1128408/pexels-photo-1128408.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1128408/pexels-photo-1128408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,308.94$",
+            "monthlyCost": "1,083.4$"
         }
     },
     {
@@ -1107,6 +1140,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/8264573/pexels-photo-8264573.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/8264573/pexels-photo-8264573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "377.80$",
+            "monthlyCost": "537.7$"
         }
     },
     {
@@ -1218,6 +1255,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1059078/pexels-photo-1059078.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1059078/pexels-photo-1059078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,464.16$",
+            "monthlyCost": "1,090.3$"
         }
     },
     {
@@ -1329,6 +1370,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2449231/pexels-photo-2449231.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2449231/pexels-photo-2449231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "530.63$",
+            "monthlyCost": "566.5$"
         }
     },
     {
@@ -1440,6 +1485,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/280173/pexels-photo-280173.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/280173/pexels-photo-280173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,457.68$",
+            "monthlyCost": "865.5$"
         }
     },
     {
@@ -1551,6 +1600,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2516657/pexels-photo-2516657.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2516657/pexels-photo-2516657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,674.28$",
+            "monthlyCost": "1,104.8$"
         }
     },
     {
@@ -1662,6 +1715,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3177258/pexels-photo-3177258.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3177258/pexels-photo-3177258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,034.30$",
+            "monthlyCost": "1,007.0$"
         }
     },
     {
@@ -1884,6 +1941,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1595085/pexels-photo-1595085.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1595085/pexels-photo-1595085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,046.45$",
+            "monthlyCost": "1,074.5$"
         }
     },
     {
@@ -1995,6 +2056,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/732057/pexels-photo-732057.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/732057/pexels-photo-732057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,143.63$",
+            "monthlyCost": "720.2$"
         }
     },
     {
@@ -2106,6 +2171,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/775482/pexels-photo-775482.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/775482/pexels-photo-775482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,106.73$",
+            "monthlyCost": "688.6$"
         }
     },
     {
@@ -2217,6 +2286,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1060803/pexels-photo-1060803.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1060803/pexels-photo-1060803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "403.79$",
+            "monthlyCost": "456.5€"
         }
     },
     {
@@ -2328,6 +2401,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/6735303/pexels-photo-6735303.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/6735303/pexels-photo-6735303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,981.40$",
+            "monthlyCost": ""
         }
     },
     {
@@ -2439,7 +2516,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1369212/pexels-photo-1369212.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1369212/pexels-photo-1369212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "ZA",
@@ -2550,6 +2628,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/259447/pexels-photo-259447.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/259447/pexels-photo-259447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,514.03$",
+            "monthlyCost": "574.6$"
         }
     },
     {
@@ -2661,6 +2743,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2956618/pexels-photo-2956618.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2956618/pexels-photo-2956618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "510.85$",
+            "monthlyCost": "501.8$"
         }
     },
     {
@@ -2772,6 +2858,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1823681/pexels-photo-1823681.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1823681/pexels-photo-1823681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "5,502.92$",
+            "monthlyCost": "1,198.3€"
         }
     },
     {
@@ -2883,6 +2973,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/5363175/pexels-photo-5363175.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/5363175/pexels-photo-5363175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,130.35$",
+            "monthlyCost": "945.3$"
         }
     },
     {
@@ -2994,6 +3088,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/161849/cologne-dom-night-architecture-161849.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/161849/cologne-dom-night-architecture-161849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,258.93$",
+            "monthlyCost": "991.3$"
         }
     },
     {
@@ -3105,6 +3203,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/34401/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/34401/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "978.03$",
+            "monthlyCost": "504.6$"
         }
     },
     {
@@ -3216,6 +3318,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/416024/pexels-photo-416024.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/416024/pexels-photo-416024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,899.86$",
+            "monthlyCost": "1,219.6$"
         }
     },
     {
@@ -3327,7 +3433,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2929906/pexels-photo-2929906.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2929906/pexels-photo-2929906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "VN",
@@ -3438,6 +3545,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/13871565/pexels-photo-13871565.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/13871565/pexels-photo-13871565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "482.83$",
+            "monthlyCost": "462.2$"
         }
     },
     {
@@ -3549,6 +3660,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/280193/pexels-photo-280193.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/280193/pexels-photo-280193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "5,412.39$",
+            "monthlyCost": "1,149.0€"
         }
     },
     {
@@ -3660,6 +3775,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2706750/pexels-photo-2706750.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2706750/pexels-photo-2706750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "5,126.19$",
+            "monthlyCost": "1,206.4€"
         }
     },
     {
@@ -3771,6 +3890,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/702343/pexels-photo-702343.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/702343/pexels-photo-702343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,163.93$",
+            "monthlyCost": "1,115.0€"
         }
     },
     {
@@ -3882,6 +4005,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2044434/pexels-photo-2044434.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2044434/pexels-photo-2044434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,059.60$",
+            "monthlyCost": "1,111.0$"
         }
     },
     {
@@ -3993,6 +4120,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1650882/pexels-photo-1650882.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1650882/pexels-photo-1650882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,446.90$",
+            "monthlyCost": "1,170.5$"
         }
     },
     {
@@ -4104,6 +4235,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/580897/pexels-photo-580897.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/580897/pexels-photo-580897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,153.26$",
+            "monthlyCost": "942.4$"
         }
     },
     {
@@ -4215,6 +4350,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/161863/edinburgh-carlton-hill-landscape-scotland-161863.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/161863/edinburgh-carlton-hill-landscape-scotland-161863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,244.62$",
+            "monthlyCost": "1,119.0$"
         }
     },
     {
@@ -4326,6 +4465,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/981686/pexels-photo-981686.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/981686/pexels-photo-981686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,699.26$",
+            "monthlyCost": "1,049.6$"
         }
     },
     {
@@ -4437,6 +4580,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/584302/pexels-photo-584302.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/584302/pexels-photo-584302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "382.89$",
+            "monthlyCost": "592.4$"
         }
     },
     {
@@ -4548,6 +4695,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3390729/pexels-photo-3390729.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3390729/pexels-photo-3390729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "577.40$",
+            "monthlyCost": "603.4$"
         }
     },
     {
@@ -4659,6 +4810,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1124460/pexels-photo-1124460.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1124460/pexels-photo-1124460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,937.51$",
+            "monthlyCost": "1,059.9$"
         }
     },
     {
@@ -4770,6 +4925,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/733148/pexels-photo-733148.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/733148/pexels-photo-733148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "6,505.41$",
+            "monthlyCost": "1,648.8$"
         }
     },
     {
@@ -4881,7 +5040,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/12823414/pexels-photo-12823414.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/12823414/pexels-photo-12823414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "GB",
@@ -4992,6 +5152,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3061345/pexels-photo-3061345.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3061345/pexels-photo-3061345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,211.86$",
+            "monthlyCost": "1,051.1$"
         }
     },
     {
@@ -5103,6 +5267,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17831951/pexels-photo-17831951.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17831951/pexels-photo-17831951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,807.50$",
+            "monthlyCost": "763.6$"
         }
     },
     {
@@ -5214,6 +5382,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/543252/pexels-photo-543252.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/543252/pexels-photo-543252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "821.74$",
+            "monthlyCost": "708.5$"
         }
     },
     {
@@ -5325,6 +5497,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1366957/pexels-photo-1366957.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1366957/pexels-photo-1366957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,106.80$",
+            "monthlyCost": "543.9$"
         }
     },
     {
@@ -5436,6 +5612,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/167676/pexels-photo-167676.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/167676/pexels-photo-167676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,222.25$",
+            "monthlyCost": "1,125.4$"
         }
     },
     {
@@ -5547,6 +5727,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1437614/pexels-photo-1437614.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1437614/pexels-photo-1437614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "479.23$",
+            "monthlyCost": "481.6$"
         }
     },
     {
@@ -5658,6 +5842,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3243242/pexels-photo-3243242.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3243242/pexels-photo-3243242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,021.84$",
+            "monthlyCost": "1,039.0$"
         }
     },
     {
@@ -5769,6 +5957,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/941195/pexels-photo-941195.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/941195/pexels-photo-941195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "463.72$",
+            "monthlyCost": "491.2$"
         }
     },
     {
@@ -5880,6 +6072,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/872698/pexels-photo-872698.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/872698/pexels-photo-872698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,049.86$",
+            "monthlyCost": "1,139.9$"
         }
     },
     {
@@ -5991,6 +6187,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17573116/pexels-photo-17573116.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17573116/pexels-photo-17573116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,933.33$",
+            "monthlyCost": "1,383.7€"
         }
     },
     {
@@ -6102,6 +6302,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/14177239/pexels-photo-14177239.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/14177239/pexels-photo-14177239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,722.33$",
+            "monthlyCost": "1,044.5€"
         }
     },
     {
@@ -6213,6 +6417,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1549326/pexels-photo-1549326.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1549326/pexels-photo-1549326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "755.27$",
+            "monthlyCost": "589.5$"
         }
     },
     {
@@ -6324,6 +6532,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2116719/pexels-photo-2116719.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2116719/pexels-photo-2116719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "526.13$",
+            "monthlyCost": "506.3$"
         }
     },
     {
@@ -6435,6 +6647,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/11313729/pexels-photo-11313729.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/11313729/pexels-photo-11313729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,472.11$",
+            "monthlyCost": "627.5$"
         }
     },
     {
@@ -6546,6 +6762,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/349506/pexels-photo-349506.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/349506/pexels-photo-349506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,148.82$",
+            "monthlyCost": "1,036.6€"
         }
     },
     {
@@ -6657,7 +6877,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2064058/pexels-photo-2064058.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2064058/pexels-photo-2064058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "PL",
@@ -6768,7 +6989,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/46273/pexels-photo-46273.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/46273/pexels-photo-46273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "MY",
@@ -6879,6 +7101,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/22804/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/22804/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,246.86$",
+            "monthlyCost": "544.7$"
         }
     },
     {
@@ -6990,6 +7216,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/402028/pexels-photo-402028.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/402028/pexels-photo-402028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,539.12$",
+            "monthlyCost": ""
         }
     },
     {
@@ -7101,6 +7331,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1738762/pexels-photo-1738762.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1738762/pexels-photo-1738762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "204.55$",
+            "monthlyCost": "579.9€"
         }
     },
     {
@@ -7212,7 +7446,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3302223/pexels-photo-3302223.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3302223/pexels-photo-3302223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "GB",
@@ -7323,6 +7558,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/8474273/pexels-photo-8474273.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/8474273/pexels-photo-8474273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,210.58$",
+            "monthlyCost": "969.7$"
         }
     },
     {
@@ -7434,6 +7673,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17029842/pexels-photo-17029842.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17029842/pexels-photo-17029842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "424.10$",
+            "monthlyCost": "549.8$"
         }
     },
     {
@@ -7545,6 +7788,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1534560/pexels-photo-1534560.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1534560/pexels-photo-1534560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,266.57$",
+            "monthlyCost": "787.0$"
         }
     },
     {
@@ -7656,6 +7903,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1884574/pexels-photo-1884574.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1884574/pexels-photo-1884574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,671.26$",
+            "monthlyCost": "1,068.4$"
         }
     },
     {
@@ -7767,6 +8018,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/13316759/pexels-photo-13316759.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/13316759/pexels-photo-13316759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,684.56$",
+            "monthlyCost": "875.7$"
         }
     },
     {
@@ -7878,6 +8133,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,018.68$",
+            "monthlyCost": "1,374.3$"
         }
     },
     {
@@ -7989,6 +8248,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2525903/pexels-photo-2525903.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2525903/pexels-photo-2525903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "6,192.94$",
+            "monthlyCost": "1,281.8€"
         }
     },
     {
@@ -8100,6 +8363,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/462341/pexels-photo-462341.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/462341/pexels-photo-462341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,971.94$",
+            "monthlyCost": "1,076.4$"
         }
     },
     {
@@ -8211,6 +8478,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/670261/pexels-photo-670261.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/670261/pexels-photo-670261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,654.65$",
+            "monthlyCost": "815.1$"
         }
     },
     {
@@ -8322,6 +8593,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17743356/pexels-photo-17743356.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17743356/pexels-photo-17743356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,989.48$",
+            "monthlyCost": "727.9$"
         }
     },
     {
@@ -8433,6 +8708,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/396036/pexels-photo-396036.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/396036/pexels-photo-396036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,776.55$",
+            "monthlyCost": "1,073.4$"
         }
     },
     {
@@ -8544,6 +8823,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1098322/pexels-photo-1098322.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1098322/pexels-photo-1098322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "513.58$",
+            "monthlyCost": "622.7$"
         }
     },
     {
@@ -8655,6 +8938,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/4502957/pexels-photo-4502957.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/4502957/pexels-photo-4502957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "405.73$",
+            "monthlyCost": "499.3$"
         }
     },
     {
@@ -8766,6 +9053,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1275393/pexels-photo-1275393.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1275393/pexels-photo-1275393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,200.69$",
+            "monthlyCost": "1,087.0$"
         }
     },
     {
@@ -8877,6 +9168,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/12470916/pexels-photo-12470916.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/12470916/pexels-photo-12470916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "431.73$",
+            "monthlyCost": "548.1$"
         }
     },
     {
@@ -8988,6 +9283,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3626248/pexels-photo-3626248.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3626248/pexels-photo-3626248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,921.09$",
+            "monthlyCost": "1,079.2$"
         }
     },
     {
@@ -9099,6 +9398,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/604661/pexels-photo-604661.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/604661/pexels-photo-604661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "818.31$",
+            "monthlyCost": "760.4$"
         }
     },
     {
@@ -9210,6 +9513,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/421655/pexels-photo-421655.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/421655/pexels-photo-421655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,289.41$",
+            "monthlyCost": "1,177.4€"
         }
     },
     {
@@ -9321,6 +9628,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1542620/pexels-photo-1542620.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1542620/pexels-photo-1542620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,152.38$",
+            "monthlyCost": "400.3$"
         }
     },
     {
@@ -9432,6 +9743,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/37079/milan-pegasus-gallery-statue.jpg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/37079/milan-pegasus-gallery-statue.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,867.74$",
+            "monthlyCost": "1,106.5$"
         }
     },
     {
@@ -9543,6 +9858,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/4190056/pexels-photo-4190056.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/4190056/pexels-photo-4190056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,638.48$",
+            "monthlyCost": "1,135.2€"
         }
     },
     {
@@ -9654,6 +9973,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2889701/pexels-photo-2889701.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2889701/pexels-photo-2889701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,734.08$",
+            "monthlyCost": "995.9$"
         }
     },
     {
@@ -9765,6 +10088,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/164583/pexels-photo-164583.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/164583/pexels-photo-164583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,221.29$",
+            "monthlyCost": "604.6$"
         }
     },
     {
@@ -9876,6 +10203,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/574324/pexels-photo-574324.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/574324/pexels-photo-574324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "841.49$",
+            "monthlyCost": "395.3$"
         }
     },
     {
@@ -9987,6 +10318,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/163405/munich-olympia-mountain-olympic-stadium-view-163405.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/163405/munich-olympia-mountain-olympic-stadium-view-163405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,765.31$",
+            "monthlyCost": "1,065.9$"
         }
     },
     {
@@ -10098,6 +10433,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/13348192/pexels-photo-13348192.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/13348192/pexels-photo-13348192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "406.04$",
+            "monthlyCost": "503.4$"
         }
     },
     {
@@ -10209,6 +10548,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2898211/pexels-photo-2898211.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2898211/pexels-photo-2898211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,778.90$",
+            "monthlyCost": "1,148.6€"
         }
     },
     {
@@ -10320,6 +10663,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2432110/pexels-photo-2432110.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2432110/pexels-photo-2432110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,752.42$",
+            "monthlyCost": "1,151.3€"
         }
     },
     {
@@ -10431,7 +10778,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/4559748/pexels-photo-4559748.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/4559748/pexels-photo-4559748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "FR",
@@ -10542,6 +10890,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1003914/pexels-photo-1003914.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1003914/pexels-photo-1003914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,538.48$",
+            "monthlyCost": "1,051.4$"
         }
     },
     {
@@ -10653,6 +11005,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1722380/pexels-photo-1722380.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1722380/pexels-photo-1722380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,534.62$",
+            "monthlyCost": "893.4$"
         }
     },
     {
@@ -10764,6 +11120,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1440476/pexels-photo-1440476.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1440476/pexels-photo-1440476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,047.90$",
+            "monthlyCost": "767.3$"
         }
     },
     {
@@ -10875,6 +11235,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3038740/pexels-photo-3038740.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3038740/pexels-photo-3038740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,519.60$",
+            "monthlyCost": "1,177.4$"
         }
     },
     {
@@ -10986,6 +11350,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2335167/pexels-photo-2335167.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2335167/pexels-photo-2335167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "861.84$",
+            "monthlyCost": "743.1€"
         }
     },
     {
@@ -11097,6 +11465,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/5019013/pexels-photo-5019013.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/5019013/pexels-photo-5019013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,053.52$",
+            "monthlyCost": "1,186.3$"
         }
     },
     {
@@ -11208,6 +11580,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/6761495/pexels-photo-6761495.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/6761495/pexels-photo-6761495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,719.85$",
+            "monthlyCost": "1,145.0$"
         }
     },
     {
@@ -11319,6 +11695,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1574851/pexels-photo-1574851.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1574851/pexels-photo-1574851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,283.43$",
+            "monthlyCost": "1,166.1€"
         }
     },
     {
@@ -11430,6 +11810,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3864243/pexels-photo-3864243.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3864243/pexels-photo-3864243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "325.81$",
+            "monthlyCost": "598.9€"
         }
     },
     {
@@ -11541,6 +11925,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/5109305/pexels-photo-5109305.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/5109305/pexels-photo-5109305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,646.48$",
+            "monthlyCost": "1,058.0€"
         }
     },
     {
@@ -11652,6 +12040,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2549573/pexels-photo-2549573.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2549573/pexels-photo-2549573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,436.53$",
+            "monthlyCost": "692.7$"
         }
     },
     {
@@ -11763,6 +12155,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/126292/pexels-photo-126292.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/126292/pexels-photo-126292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,796.32$",
+            "monthlyCost": "855.8$"
         }
     },
     {
@@ -11874,6 +12270,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/19016682/pexels-photo-19016682.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/19016682/pexels-photo-19016682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,819.22$",
+            "monthlyCost": ""
         }
     },
     {
@@ -11985,6 +12385,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/18384897/pexels-photo-18384897.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18384897/pexels-photo-18384897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,511.70$",
+            "monthlyCost": "1,066.6$"
         }
     },
     {
@@ -12096,6 +12500,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/8253082/pexels-photo-8253082.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/8253082/pexels-photo-8253082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "496.25$",
+            "monthlyCost": "533.5€"
         }
     },
     {
@@ -12207,6 +12615,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/5489599/pexels-photo-5489599.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/5489599/pexels-photo-5489599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,430.18$",
+            "monthlyCost": "1,215.3€"
         }
     },
     {
@@ -12318,6 +12730,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/5273533/pexels-photo-5273533.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/5273533/pexels-photo-5273533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,668.05$",
+            "monthlyCost": "1,293.0$"
         }
     },
     {
@@ -12429,6 +12845,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/351283/pexels-photo-351283.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/351283/pexels-photo-351283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "346.74$",
+            "monthlyCost": "620.8$"
         }
     },
     {
@@ -12540,6 +12960,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,830.30$",
+            "monthlyCost": "922.9$"
         }
     },
     {
@@ -12651,6 +13075,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/356993/pexels-photo-356993.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/356993/pexels-photo-356993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "780.22$",
+            "monthlyCost": "535.8$"
         }
     },
     {
@@ -12762,6 +13190,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2416589/pexels-photo-2416589.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2416589/pexels-photo-2416589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,523.07$",
+            "monthlyCost": "1,020.7€"
         }
     },
     {
@@ -12873,6 +13305,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/13733832/pexels-photo-13733832.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/13733832/pexels-photo-13733832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "310.85$",
+            "monthlyCost": ""
         }
     },
     {
@@ -12984,6 +13420,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2157685/pexels-photo-2157685.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2157685/pexels-photo-2157685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "5,592.66$",
+            "monthlyCost": "1,302.9€"
         }
     },
     {
@@ -13095,6 +13535,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1141853/pexels-photo-1141853.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1141853/pexels-photo-1141853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "7,629.41$",
+            "monthlyCost": "1,441.4€"
         }
     },
     {
@@ -13206,6 +13650,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/462331/pexels-photo-462331.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/462331/pexels-photo-462331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "6,689.10$",
+            "monthlyCost": "1,386.4€"
         }
     },
     {
@@ -13317,6 +13765,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2565221/pexels-photo-2565221.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2565221/pexels-photo-2565221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,188.33$",
+            "monthlyCost": "1,118.3€"
         }
     },
     {
@@ -13428,6 +13880,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2017747/pexels-photo-2017747.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2017747/pexels-photo-2017747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "695.09$",
+            "monthlyCost": "731.0$"
         }
     },
     {
@@ -13539,7 +13995,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/97906/pexels-photo-97906.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/97906/pexels-photo-97906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "US",
@@ -13650,6 +14107,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "6,455.94$",
+            "monthlyCost": "1,309.6€"
         }
     },
     {
@@ -13761,6 +14222,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,878.87$",
+            "monthlyCost": "1,127.8$"
         }
     },
     {
@@ -13872,7 +14337,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1143416/pexels-photo-1143416.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1143416/pexels-photo-1143416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "CN",
@@ -13983,6 +14449,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/745243/pexels-photo-745243.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/745243/pexels-photo-745243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,476.75$",
+            "monthlyCost": "671.2$"
         }
     },
     {
@@ -14094,6 +14564,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2416576/pexels-photo-2416576.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2416576/pexels-photo-2416576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "165.00$",
+            "monthlyCost": ""
         }
     },
     {
@@ -14205,6 +14679,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/777059/pexels-photo-777059.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/777059/pexels-photo-777059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,462.08$",
+            "monthlyCost": "1,110.2$"
         }
     },
     {
@@ -14316,6 +14794,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3382753/pexels-photo-3382753.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3382753/pexels-photo-3382753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,267.61$",
+            "monthlyCost": "678.9$"
         }
     },
     {
@@ -14427,6 +14909,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1065593/pexels-photo-1065593.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1065593/pexels-photo-1065593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,256.53$",
+            "monthlyCost": "723.7$"
         }
     },
     {
@@ -14538,7 +15024,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/22566/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/22566/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "SE",
@@ -14649,6 +15136,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1529040/pexels-photo-1529040.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1529040/pexels-photo-1529040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,283.29$",
+            "monthlyCost": "1,045.1$"
         }
     },
     {
@@ -14760,6 +15251,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/356567/pexels-photo-356567.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/356567/pexels-photo-356567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,088.05$",
+            "monthlyCost": "1,003.5$"
         }
     },
     {
@@ -14871,6 +15366,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1619854/pexels-photo-1619854.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1619854/pexels-photo-1619854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,904.81$",
+            "monthlyCost": "1,175.7$"
         }
     },
     {
@@ -14982,6 +15481,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/260566/pexels-photo-260566.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/260566/pexels-photo-260566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,809.60$",
+            "monthlyCost": "788.2$"
         }
     },
     {
@@ -15093,6 +15596,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1031592/pexels-photo-1031592.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1031592/pexels-photo-1031592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,785.07$",
+            "monthlyCost": "916.1$"
         }
     },
     {
@@ -15204,6 +15711,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2759804/pexels-photo-2759804.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2759804/pexels-photo-2759804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "536.74$",
+            "monthlyCost": "624.7$"
         }
     },
     {
@@ -15315,7 +15826,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/4038322/pexels-photo-4038322.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/4038322/pexels-photo-4038322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "JP",
@@ -15426,6 +15938,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2614818/pexels-photo-2614818.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2614818/pexels-photo-2614818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,780.60$",
+            "monthlyCost": "938.9$"
         }
     },
     {
@@ -15537,6 +16053,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1519088/pexels-photo-1519088.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1519088/pexels-photo-1519088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,437.05$",
+            "monthlyCost": "1,121.7$"
         }
     },
     {
@@ -15648,6 +16168,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/13103311/pexels-photo-13103311.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/13103311/pexels-photo-13103311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,736.49$",
+            "monthlyCost": "1,029.5$"
         }
     },
     {
@@ -15759,6 +16283,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/256150/pexels-photo-256150.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/256150/pexels-photo-256150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,115.74$",
+            "monthlyCost": "723.5$"
         }
     },
     {
@@ -15870,6 +16398,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2382868/pexels-photo-2382868.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2382868/pexels-photo-2382868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,131.50$",
+            "monthlyCost": "1,172.4$"
         }
     },
     {
@@ -15981,6 +16513,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1144265/pexels-photo-1144265.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1144265/pexels-photo-1144265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,662.44$",
+            "monthlyCost": ""
         }
     },
     {
@@ -16092,6 +16628,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/161074/vienna-st-charles-s-church-downtown-church-161074.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/161074/vienna-st-charles-s-church-downtown-church-161074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,894.42$",
+            "monthlyCost": "1,082.8$"
         }
     },
     {
@@ -16203,6 +16743,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/6642186/pexels-photo-6642186.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/6642186/pexels-photo-6642186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,531.77$",
+            "monthlyCost": "813.8$"
         }
     },
     {
@@ -16314,6 +16858,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1726246/pexels-photo-1726246.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1726246/pexels-photo-1726246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,706.12$",
+            "monthlyCost": "799.1$"
         }
     },
     {
@@ -16425,6 +16973,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/4350631/pexels-photo-4350631.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/4350631/pexels-photo-4350631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,436.91$",
+            "monthlyCost": "1,104.0$"
         }
     },
     {
@@ -16536,7 +17088,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/4275888/pexels-photo-4275888.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/4275888/pexels-photo-4275888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "CN",
@@ -16647,6 +17200,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/18184753/pexels-photo-18184753.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18184753/pexels-photo-18184753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "667.69$",
+            "monthlyCost": ""
         }
     },
     {
@@ -16758,6 +17315,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1137476/pexels-photo-1137476.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1137476/pexels-photo-1137476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "235.38$",
+            "monthlyCost": ""
         }
     },
     {
@@ -16869,6 +17430,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17555537/pexels-photo-17555537.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17555537/pexels-photo-17555537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,451.29$",
+            "monthlyCost": "826.2$"
         }
     },
     {
@@ -16980,7 +17545,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17628880/pexels-photo-17628880.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17628880/pexels-photo-17628880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "AU",
@@ -17091,6 +17657,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/15898048/pexels-photo-15898048.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/15898048/pexels-photo-15898048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,047.57$",
+            "monthlyCost": "1,276.7$"
         }
     },
     {
@@ -17202,6 +17772,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/54124/pexels-photo-54124.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/54124/pexels-photo-54124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "545.42$",
+            "monthlyCost": "372.3$"
         }
     },
     {
@@ -17313,6 +17887,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3091117/pexels-photo-3091117.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3091117/pexels-photo-3091117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,259.36$",
+            "monthlyCost": "1,055.0€"
         }
     },
     {
@@ -17424,6 +18002,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17125402/pexels-photo-17125402.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17125402/pexels-photo-17125402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,549.82$",
+            "monthlyCost": "731.0$"
         }
     },
     {
@@ -17535,6 +18117,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2767815/pexels-photo-2767815.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2767815/pexels-photo-2767815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "548.51$",
+            "monthlyCost": "537.0$"
         }
     },
     {
@@ -17646,6 +18232,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/220760/pexels-photo-220760.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/220760/pexels-photo-220760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,552.26$",
+            "monthlyCost": "1,049.7$"
         }
     },
     {
@@ -17757,6 +18347,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/9637669/pexels-photo-9637669.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/9637669/pexels-photo-9637669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,796.92$",
+            "monthlyCost": "1,126.4€"
         }
     },
     {
@@ -17868,6 +18462,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/8469339/pexels-photo-8469339.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/8469339/pexels-photo-8469339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "407.51$",
+            "monthlyCost": "471.7$"
         }
     },
     {
@@ -17979,6 +18577,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2716795/pexels-photo-2716795.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2716795/pexels-photo-2716795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "477.27$",
+            "monthlyCost": "563.4$"
         }
     },
     {
@@ -18090,6 +18692,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1117211/pexels-photo-1117211.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1117211/pexels-photo-1117211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,758.65$",
+            "monthlyCost": ""
         }
     },
     {
@@ -18201,7 +18807,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/4038065/pexels-photo-4038065.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/4038065/pexels-photo-4038065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "BA",
@@ -18312,6 +18919,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/14515044/pexels-photo-14515044.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/14515044/pexels-photo-14515044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "657.73$",
+            "monthlyCost": "633.6$"
         }
     },
     {
@@ -18423,6 +19034,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/19010136/pexels-photo-19010136.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/19010136/pexels-photo-19010136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "7,472.17$",
+            "monthlyCost": "1,808.7$"
         }
     },
     {
@@ -18534,6 +19149,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1650799/pexels-photo-1650799.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1650799/pexels-photo-1650799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,609.10$",
+            "monthlyCost": "928.9$"
         }
     },
     {
@@ -18645,6 +19264,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2874752/pexels-photo-2874752.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2874752/pexels-photo-2874752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,983.01$",
+            "monthlyCost": "1,242.1$"
         }
     },
     {
@@ -18756,6 +19379,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1291766/pexels-photo-1291766.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1291766/pexels-photo-1291766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "6,159.56$",
+            "monthlyCost": "1,649.1$"
         }
     },
     {
@@ -18867,6 +19494,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/18795939/pexels-photo-18795939.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18795939/pexels-photo-18795939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,161.41$",
+            "monthlyCost": "828.9$"
         }
     },
     {
@@ -18978,6 +19609,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/7245098/pexels-photo-7245098.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/7245098/pexels-photo-7245098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,073.22$",
+            "monthlyCost": "940.7$"
         }
     },
     {
@@ -19089,6 +19724,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3617633/pexels-photo-3617633.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3617633/pexels-photo-3617633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,072.46$",
+            "monthlyCost": "675.1$"
         }
     },
     {
@@ -19200,6 +19839,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/18722049/pexels-photo-18722049.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18722049/pexels-photo-18722049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,226.00$",
+            "monthlyCost": "1,040.9$"
         }
     },
     {
@@ -19311,6 +19954,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/12290930/pexels-photo-12290930.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/12290930/pexels-photo-12290930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,630.89$",
+            "monthlyCost": "733.2$"
         }
     },
     {
@@ -19422,6 +20069,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1054650/pexels-photo-1054650.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1054650/pexels-photo-1054650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,377.96$",
+            "monthlyCost": "1,221.5€"
         }
     },
     {
@@ -19533,6 +20184,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17412187/pexels-photo-17412187.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17412187/pexels-photo-17412187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "653.06$",
+            "monthlyCost": "487.9$"
         }
     },
     {
@@ -19644,6 +20299,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3018977/pexels-photo-3018977.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3018977/pexels-photo-3018977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,402.88$",
+            "monthlyCost": "980.3$"
         }
     },
     {
@@ -19755,6 +20414,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17531831/pexels-photo-17531831.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17531831/pexels-photo-17531831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,552.40$",
+            "monthlyCost": "1,161.6$"
         }
     },
     {
@@ -19866,6 +20529,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17582203/pexels-photo-17582203.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17582203/pexels-photo-17582203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,863.65$",
+            "monthlyCost": "1,355.1$"
         }
     },
     {
@@ -19977,6 +20644,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/6241160/pexels-photo-6241160.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/6241160/pexels-photo-6241160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,743.06$",
+            "monthlyCost": "981.9$"
         }
     },
     {
@@ -20088,6 +20759,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2404046/pexels-photo-2404046.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2404046/pexels-photo-2404046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "478.35$",
+            "monthlyCost": "516.6$"
         }
     },
     {
@@ -20199,7 +20874,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17574438/pexels-photo-17574438.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17574438/pexels-photo-17574438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "US",
@@ -20310,6 +20986,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/13185337/pexels-photo-13185337.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/13185337/pexels-photo-13185337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,769.06$",
+            "monthlyCost": ""
         }
     },
     {
@@ -20421,6 +21101,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/6967905/pexels-photo-6967905.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/6967905/pexels-photo-6967905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "862.62$",
+            "monthlyCost": "524.3$"
         }
     },
     {
@@ -20532,6 +21216,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/8572308/pexels-photo-8572308.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/8572308/pexels-photo-8572308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "865.81$",
+            "monthlyCost": "350.6$"
         }
     },
     {
@@ -20643,6 +21331,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17900510/pexels-photo-17900510.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17900510/pexels-photo-17900510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,974.56$",
+            "monthlyCost": "1,089.3€"
         }
     },
     {
@@ -20754,6 +21446,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/8817955/pexels-photo-8817955.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/8817955/pexels-photo-8817955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "233.78$",
+            "monthlyCost": "549.2$"
         }
     },
     {
@@ -20865,6 +21561,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1166647/pexels-photo-1166647.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1166647/pexels-photo-1166647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,391.86$",
+            "monthlyCost": "1,108.1$"
         }
     },
     {
@@ -20976,6 +21676,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1045211/pexels-photo-1045211.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1045211/pexels-photo-1045211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "455.72$",
+            "monthlyCost": "548.2$"
         }
     },
     {
@@ -21087,6 +21791,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17557990/pexels-photo-17557990.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17557990/pexels-photo-17557990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "705.60$",
+            "monthlyCost": "521.8$"
         }
     },
     {
@@ -21198,7 +21906,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/18806088/pexels-photo-18806088.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18806088/pexels-photo-18806088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "PH",
@@ -21309,7 +22018,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/20701631/pexels-photo-20701631.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/20701631/pexels-photo-20701631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "BD",
@@ -21420,6 +22130,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/11596373/pexels-photo-11596373.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/11596373/pexels-photo-11596373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "294.04$",
+            "monthlyCost": "413.8$"
         }
     },
     {
@@ -21531,6 +22245,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3069345/pexels-photo-3069345.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3069345/pexels-photo-3069345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,492.08$",
+            "monthlyCost": "923.4$"
         }
     },
     {
@@ -21642,6 +22360,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/8050115/pexels-photo-8050115.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/8050115/pexels-photo-8050115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,683.34$",
+            "monthlyCost": "1,100.7$"
         }
     },
     {
@@ -21753,6 +22475,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/776102/pexels-photo-776102.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/776102/pexels-photo-776102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,870.17$",
+            "monthlyCost": "1,026.9$"
         }
     },
     {
@@ -21864,6 +22590,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2587663/pexels-photo-2587663.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2587663/pexels-photo-2587663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "986.05$",
+            "monthlyCost": "542.9$"
         }
     },
     {
@@ -21975,6 +22705,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/10584080/pexels-photo-10584080.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/10584080/pexels-photo-10584080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,138.44$",
+            "monthlyCost": "1,036.9$"
         }
     },
     {
@@ -22086,6 +22820,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/849227/pexels-photo-849227.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/849227/pexels-photo-849227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "592.95$",
+            "monthlyCost": "488.2$"
         }
     },
     {
@@ -22197,6 +22935,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/14213936/pexels-photo-14213936.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/14213936/pexels-photo-14213936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,085.95$",
+            "monthlyCost": "1,074.9$"
         }
     },
     {
@@ -22308,6 +23050,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3412103/pexels-photo-3412103.png?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3412103/pexels-photo-3412103.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "237.67$",
+            "monthlyCost": "588.0$"
         }
     },
     {
@@ -22419,6 +23165,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/13680536/pexels-photo-13680536.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/13680536/pexels-photo-13680536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "953.48$",
+            "monthlyCost": ""
         }
     },
     {
@@ -22530,6 +23280,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/11947131/pexels-photo-11947131.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/11947131/pexels-photo-11947131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,461.16$",
+            "monthlyCost": ""
         }
     },
     {
@@ -22641,7 +23395,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2927021/pexels-photo-2927021.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2927021/pexels-photo-2927021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "TR",
@@ -22752,6 +23507,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/15522876/pexels-photo-15522876.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/15522876/pexels-photo-15522876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "516.58$",
+            "monthlyCost": ""
         }
     },
     {
@@ -22863,7 +23622,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/5273641/pexels-photo-5273641.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/5273641/pexels-photo-5273641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "IT",
@@ -22974,6 +23734,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/6125657/pexels-photo-6125657.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/6125657/pexels-photo-6125657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,894.37$",
+            "monthlyCost": "987.3$"
         }
     },
     {
@@ -23085,6 +23849,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/18208295/pexels-photo-18208295.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18208295/pexels-photo-18208295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "445.58$",
+            "monthlyCost": "754.6$"
         }
     },
     {
@@ -23196,7 +23964,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/13401924/pexels-photo-13401924.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/13401924/pexels-photo-13401924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "SE",
@@ -23307,6 +24076,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/769568/pexels-photo-769568.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/769568/pexels-photo-769568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,922.85$",
+            "monthlyCost": "952.1$"
         }
     },
     {
@@ -23418,6 +24191,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3424845/pexels-photo-3424845.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3424845/pexels-photo-3424845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,979.76$",
+            "monthlyCost": "993.7$"
         }
     },
     {
@@ -23529,7 +24306,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/5464062/pexels-photo-5464062.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/5464062/pexels-photo-5464062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "CA",
@@ -23640,6 +24418,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2887493/pexels-photo-2887493.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2887493/pexels-photo-2887493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,580.52$",
+            "monthlyCost": "1,081.4$"
         }
     },
     {
@@ -23751,6 +24533,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17748652/pexels-photo-17748652.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17748652/pexels-photo-17748652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,217.62$",
+            "monthlyCost": ""
         }
     },
     {
@@ -23862,6 +24648,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/16015506/pexels-photo-16015506.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/16015506/pexels-photo-16015506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,474.52$",
+            "monthlyCost": ""
         }
     },
     {
@@ -23973,6 +24763,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/14370889/pexels-photo-14370889.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/14370889/pexels-photo-14370889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "965.16$",
+            "monthlyCost": "565.1$"
         }
     },
     {
@@ -24084,6 +24878,10 @@
         "photoUrl": {
             "small": "test",
             "large": "test"
+        },
+        "costOfLiving": {
+            "apartment": "441.43$",
+            "monthlyCost": "627.9€"
         }
     },
     {
@@ -24195,6 +24993,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3687869/pexels-photo-3687869.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3687869/pexels-photo-3687869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "32.50$",
+            "monthlyCost": "662.7€"
         }
     },
     {
@@ -24306,7 +25108,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17583925/pexels-photo-17583925.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17583925/pexels-photo-17583925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "AU",
@@ -24417,6 +25220,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/6571862/pexels-photo-6571862.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/6571862/pexels-photo-6571862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,312.64$",
+            "monthlyCost": "1,158.2$"
         }
     },
     {
@@ -24528,7 +25335,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/92090/pexels-photo-92090.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/92090/pexels-photo-92090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "US",
@@ -24639,6 +25447,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2342585/pexels-photo-2342585.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2342585/pexels-photo-2342585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "5,566.42$",
+            "monthlyCost": "1,245.5€"
         }
     },
     {
@@ -24750,6 +25562,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/4402879/pexels-photo-4402879.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/4402879/pexels-photo-4402879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "609.06$",
+            "monthlyCost": "706.2$"
         }
     },
     {
@@ -24861,6 +25677,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/16573687/pexels-photo-16573687.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/16573687/pexels-photo-16573687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "982.33$",
+            "monthlyCost": "374.1$"
         }
     },
     {
@@ -24972,6 +25792,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/14958503/pexels-photo-14958503.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/14958503/pexels-photo-14958503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,145.55$",
+            "monthlyCost": ""
         }
     },
     {
@@ -25083,6 +25907,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/6128188/pexels-photo-6128188.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/6128188/pexels-photo-6128188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,428.98$",
+            "monthlyCost": "1,109.7$"
         }
     },
     {
@@ -25194,6 +26022,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/15817294/pexels-photo-15817294.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/15817294/pexels-photo-15817294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "224.36$",
+            "monthlyCost": "360.3$"
         }
     },
     {
@@ -25305,7 +26137,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2656502/pexels-photo-2656502.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2656502/pexels-photo-2656502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "IN",
@@ -25416,6 +26249,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3581364/pexels-photo-3581364.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3581364/pexels-photo-3581364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "520.55$",
+            "monthlyCost": "332.9$"
         }
     },
     {
@@ -25527,6 +26364,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/11355109/pexels-photo-11355109.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/11355109/pexels-photo-11355109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "6,159.55$",
+            "monthlyCost": ""
         }
     },
     {
@@ -25638,7 +26479,8 @@
         "photoUrl": {
             "small": "test",
             "large": "test"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "UG",
@@ -25749,6 +26591,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17567815/pexels-photo-17567815.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17567815/pexels-photo-17567815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "200.75$",
+            "monthlyCost": "538.5$"
         }
     },
     {
@@ -25860,6 +26706,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2104882/pexels-photo-2104882.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2104882/pexels-photo-2104882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "231.38$",
+            "monthlyCost": "386.5$"
         }
     },
     {
@@ -25971,6 +26821,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17542947/pexels-photo-17542947.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17542947/pexels-photo-17542947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,333.59$",
+            "monthlyCost": "1,100.1$"
         }
     },
     {
@@ -26082,6 +26936,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/460738/pexels-photo-460738.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/460738/pexels-photo-460738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,970.67$",
+            "monthlyCost": ""
         }
     },
     {
@@ -26193,6 +27051,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/980180/pexels-photo-980180.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/980180/pexels-photo-980180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "571.10$",
+            "monthlyCost": "317.6$"
         }
     },
     {
@@ -26304,6 +27166,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2846217/pexels-photo-2846217.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2846217/pexels-photo-2846217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "468.71$",
+            "monthlyCost": "330.6$"
         }
     },
     {
@@ -26415,7 +27281,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/15937142/pexels-photo-15937142.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/15937142/pexels-photo-15937142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "KW",
@@ -26526,6 +27393,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/19732295/pexels-photo-19732295.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/19732295/pexels-photo-19732295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,300.36$",
+            "monthlyCost": "812.5$"
         }
     },
     {
@@ -26637,6 +27508,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17783748/pexels-photo-17783748.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17783748/pexels-photo-17783748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "435.61$",
+            "monthlyCost": "523.0$"
         }
     },
     {
@@ -26748,6 +27623,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2734406/pexels-photo-2734406.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2734406/pexels-photo-2734406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "198.88$",
+            "monthlyCost": "347.7$"
         }
     },
     {
@@ -26859,7 +27738,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/15173067/pexels-photo-15173067.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/15173067/pexels-photo-15173067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "FR",
@@ -26970,6 +27850,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/16358837/pexels-photo-16358837.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/16358837/pexels-photo-16358837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,428.53$",
+            "monthlyCost": "950.4$"
         }
     },
     {
@@ -27081,7 +27965,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2779383/pexels-photo-2779383.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2779383/pexels-photo-2779383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "CN",
@@ -27192,7 +28077,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/4223678/pexels-photo-4223678.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/4223678/pexels-photo-4223678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "SE",
@@ -27303,7 +28189,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2563411/pexels-photo-2563411.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2563411/pexels-photo-2563411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "BR",
@@ -27414,6 +28301,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/7903924/pexels-photo-7903924.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/7903924/pexels-photo-7903924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "516.24$",
+            "monthlyCost": ""
         }
     },
     {
@@ -27525,7 +28416,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17674066/pexels-photo-17674066.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17674066/pexels-photo-17674066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "MX",
@@ -27636,6 +28528,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/12048925/pexels-photo-12048925.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/12048925/pexels-photo-12048925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,132.06$",
+            "monthlyCost": "853.3$"
         }
     },
     {
@@ -27747,6 +28643,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/12161968/pexels-photo-12161968.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/12161968/pexels-photo-12161968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,297.77$",
+            "monthlyCost": "884.6$"
         }
     },
     {
@@ -27858,6 +28758,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/691552/pexels-photo-691552.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/691552/pexels-photo-691552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,682.13$",
+            "monthlyCost": "765.6$"
         }
     },
     {
@@ -27969,6 +28873,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17683246/pexels-photo-17683246.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17683246/pexels-photo-17683246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,034.46$",
+            "monthlyCost": "882.3$"
         }
     },
     {
@@ -28080,6 +28988,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/67918/pexels-photo-67918.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/67918/pexels-photo-67918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,324.30$",
+            "monthlyCost": "857.9$"
         }
     },
     {
@@ -28191,7 +29103,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/18292449/pexels-photo-18292449.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18292449/pexels-photo-18292449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "BS",
@@ -28302,6 +29215,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2598635/pexels-photo-2598635.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2598635/pexels-photo-2598635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,900.00$",
+            "monthlyCost": "1,469.3€"
         }
     },
     {
@@ -28413,7 +29330,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/12366122/pexels-photo-12366122.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/12366122/pexels-photo-12366122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "RS",
@@ -28524,6 +29442,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17789374/pexels-photo-17789374.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17789374/pexels-photo-17789374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "750.46$",
+            "monthlyCost": "652.7$"
         }
     },
     {
@@ -28635,6 +29557,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/11471987/pexels-photo-11471987.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/11471987/pexels-photo-11471987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "520.51$",
+            "monthlyCost": "495.6$"
         }
     },
     {
@@ -28746,6 +29672,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/11543950/pexels-photo-11543950.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/11543950/pexels-photo-11543950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "4,179.00$",
+            "monthlyCost": ""
         }
     },
     {
@@ -28857,7 +29787,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/5656449/pexels-photo-5656449.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/5656449/pexels-photo-5656449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "CA",
@@ -28968,6 +29899,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/7328/building-architecture-historical-tower.jpg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/7328/building-architecture-historical-tower.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,794.63$",
+            "monthlyCost": "1,148.2$"
         }
     },
     {
@@ -29079,6 +30014,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1192048/pexels-photo-1192048.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1192048/pexels-photo-1192048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,055.75$",
+            "monthlyCost": "1,129.7$"
         }
     },
     {
@@ -29190,6 +30129,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/16648580/pexels-photo-16648580.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/16648580/pexels-photo-16648580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,014.76$",
+            "monthlyCost": "882.9$"
         }
     },
     {
@@ -29301,7 +30244,8 @@
         "photoUrl": {
             "small": "test",
             "large": "test"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "TH",
@@ -29412,6 +30356,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1762560/pexels-photo-1762560.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1762560/pexels-photo-1762560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "412.08$",
+            "monthlyCost": ""
         }
     },
     {
@@ -29523,6 +30471,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2867732/pexels-photo-2867732.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2867732/pexels-photo-2867732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "526.14$",
+            "monthlyCost": "604.6$"
         }
     },
     {
@@ -29634,6 +30586,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/14469884/pexels-photo-14469884.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/14469884/pexels-photo-14469884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "898.93$",
+            "monthlyCost": "594.4$"
         }
     },
     {
@@ -29745,6 +30701,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/8431629/pexels-photo-8431629.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/8431629/pexels-photo-8431629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "841.64$",
+            "monthlyCost": "625.6$"
         }
     },
     {
@@ -29856,7 +30816,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/18923572/pexels-photo-18923572.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18923572/pexels-photo-18923572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "IN",
@@ -29967,6 +30928,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/18496445/pexels-photo-18496445.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18496445/pexels-photo-18496445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,260.89$",
+            "monthlyCost": "390.6$"
         }
     },
     {
@@ -30078,6 +31043,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/14973612/pexels-photo-14973612.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/14973612/pexels-photo-14973612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "784.54$",
+            "monthlyCost": ""
         }
     },
     {
@@ -30189,6 +31158,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2226900/pexels-photo-2226900.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2226900/pexels-photo-2226900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,645.33$",
+            "monthlyCost": ""
         }
     },
     {
@@ -30300,6 +31273,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2945595/pexels-photo-2945595.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2945595/pexels-photo-2945595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "503.98$",
+            "monthlyCost": "521.2$"
         }
     },
     {
@@ -30411,6 +31388,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17538972/pexels-photo-17538972.png?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17538972/pexels-photo-17538972.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "602.27$",
+            "monthlyCost": "529.1$"
         }
     },
     {
@@ -30522,6 +31503,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/681405/pexels-photo-681405.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/681405/pexels-photo-681405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,235.85$",
+            "monthlyCost": "899.2$"
         }
     },
     {
@@ -30633,6 +31618,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/35761/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/35761/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,626.92$",
+            "monthlyCost": "863.5$"
         }
     },
     {
@@ -30744,6 +31733,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/1209521/pexels-photo-1209521.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1209521/pexels-photo-1209521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,834.97$",
+            "monthlyCost": "970.7$"
         }
     },
     {
@@ -30855,7 +31848,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17831967/pexels-photo-17831967.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17831967/pexels-photo-17831967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "FR",
@@ -30966,7 +31960,8 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/14348452/pexels-photo-14348452.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/14348452/pexels-photo-14348452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "CR",
@@ -31077,6 +32072,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/18854593/pexels-photo-18854593.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18854593/pexels-photo-18854593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "6,689.10$",
+            "monthlyCost": "1,386.4€"
         }
     },
     {
@@ -31188,6 +32187,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/15879065/pexels-photo-15879065.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/15879065/pexels-photo-15879065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,421.11$",
+            "monthlyCost": ""
         }
     },
     {
@@ -31299,6 +32302,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/12927599/pexels-photo-12927599.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/12927599/pexels-photo-12927599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "490.44$",
+            "monthlyCost": "718.1$"
         }
     },
     {
@@ -31410,7 +32417,119 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17543731/pexels-photo-17543731.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17543731/pexels-photo-17543731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "874.00$",
+            "monthlyCost": "600.9$"
         }
+    },
+    {
+        "countryCode": "US",
+        "population": 0,
+        "location": {
+            "latitude": 34.709821,
+            "longitude": -82.9718158
+        },
+        "name": "Santorini",
+        "weather": {
+            "1": {
+                "totalRain": "224.8",
+                "totalSnow": "0.0",
+                "maxTemp": "10.1",
+                "minTemp": "1.7",
+                "avgTemp": "5.3",
+                "avgHumidity": "70.4"
+            },
+            "2": {
+                "totalRain": "93.9",
+                "totalSnow": "0.0",
+                "maxTemp": "14.0",
+                "minTemp": "4.8",
+                "avgTemp": "9.0",
+                "avgHumidity": "69.5"
+            },
+            "3": {
+                "totalRain": "159.7",
+                "totalSnow": "0.0",
+                "maxTemp": "18.1",
+                "minTemp": "7.8",
+                "avgTemp": "12.5",
+                "avgHumidity": "70.6"
+            },
+            "4": {
+                "totalRain": "262.9",
+                "totalSnow": "0.0",
+                "maxTemp": "21.8",
+                "minTemp": "9.7",
+                "avgTemp": "15.2",
+                "avgHumidity": "71.8"
+            },
+            "5": {
+                "totalRain": "109.9",
+                "totalSnow": "0.0",
+                "maxTemp": "24.0",
+                "minTemp": "13.6",
+                "avgTemp": "18.3",
+                "avgHumidity": "72.0"
+            },
+            "6": {
+                "totalRain": "225.3",
+                "totalSnow": "0.0",
+                "maxTemp": "28.5",
+                "minTemp": "16.6",
+                "avgTemp": "22.2",
+                "avgHumidity": "68.4"
+            },
+            "7": {
+                "totalRain": "48.3",
+                "totalSnow": "0.0",
+                "maxTemp": "33.6",
+                "minTemp": "21.2",
+                "avgTemp": "27.1",
+                "avgHumidity": "66.6"
+            },
+            "8": {
+                "totalRain": "172.7",
+                "totalSnow": "0.0",
+                "maxTemp": "33.3",
+                "minTemp": "20.9",
+                "avgTemp": "26.4",
+                "avgHumidity": "66.6"
+            },
+            "9": {
+                "totalRain": "74.5",
+                "totalSnow": "0.0",
+                "maxTemp": "30.1",
+                "minTemp": "17.0",
+                "avgTemp": "22.8",
+                "avgHumidity": "64.6"
+            },
+            "10": {
+                "totalRain": "46.6",
+                "totalSnow": "0.0",
+                "maxTemp": "24.6",
+                "minTemp": "11.6",
+                "avgTemp": "17.3",
+                "avgHumidity": "62.0"
+            },
+            "11": {
+                "totalRain": "69.3",
+                "totalSnow": "0.0",
+                "maxTemp": "18.1",
+                "minTemp": "6.3",
+                "avgTemp": "11.5",
+                "avgHumidity": "58.3"
+            },
+            "12": {
+                "totalRain": "166.9",
+                "totalSnow": "0.0",
+                "maxTemp": "13.1",
+                "minTemp": "4.0",
+                "avgTemp": "8.0",
+                "avgHumidity": "68.9"
+            }
+        },
+        "costOfLiving": "no data"
     },
     {
         "countryCode": "ID",
@@ -31521,6 +32640,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2810699/pexels-photo-2810699.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2810699/pexels-photo-2810699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "223.08$",
+            "monthlyCost": ""
         }
     },
     {
@@ -31632,6 +32755,10 @@
         "photoUrl": {
             "small": "test",
             "large": "test"
+        },
+        "costOfLiving": {
+            "apartment": "2,323.24$",
+            "monthlyCost": ""
         }
     },
     {
@@ -31743,6 +32870,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/431992/pexels-photo-431992.png?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/431992/pexels-photo-431992.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,540.37$",
+            "monthlyCost": "594.4$"
         }
     },
     {
@@ -31854,6 +32985,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/19784010/pexels-photo-19784010.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/19784010/pexels-photo-19784010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,937.84$",
+            "monthlyCost": ""
         }
     },
     {
@@ -31965,6 +33100,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/2932758/pexels-photo-2932758.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2932758/pexels-photo-2932758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "3,396.35$",
+            "monthlyCost": "1,230.2$"
         }
     },
     {
@@ -32076,6 +33215,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/434673/pexels-photo-434673.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/434673/pexels-photo-434673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,393.38$",
+            "monthlyCost": ""
         }
     },
     {
@@ -32187,6 +33330,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/10271749/pexels-photo-10271749.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/10271749/pexels-photo-10271749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "345.15$",
+            "monthlyCost": "444.5$"
         }
     },
     {
@@ -32298,6 +33445,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/18781939/pexels-photo-18781939.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18781939/pexels-photo-18781939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,121.12$",
+            "monthlyCost": "989.9$"
         }
     },
     {
@@ -32409,6 +33560,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/14068313/pexels-photo-14068313.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/14068313/pexels-photo-14068313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,194.11$",
+            "monthlyCost": ""
         }
     },
     {
@@ -32520,6 +33675,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/12472552/pexels-photo-12472552.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/12472552/pexels-photo-12472552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "2,834.18$",
+            "monthlyCost": "923.1$"
         }
     },
     {
@@ -32631,6 +33790,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/18090281/pexels-photo-18090281.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18090281/pexels-photo-18090281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "1,143.78$",
+            "monthlyCost": ""
         }
     },
     {
@@ -32742,6 +33905,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/9951246/pexels-photo-9951246.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/9951246/pexels-photo-9951246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "427.90$",
+            "monthlyCost": "442.8€"
         }
     },
     {
@@ -32853,6 +34020,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3799176/pexels-photo-3799176.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3799176/pexels-photo-3799176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "244.50$",
+            "monthlyCost": "344.5€"
         }
     },
     {
@@ -32964,6 +34135,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/3346826/pexels-photo-3346826.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3346826/pexels-photo-3346826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "935.92$",
+            "monthlyCost": "907.3$"
         }
     },
     {
@@ -33075,6 +34250,10 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/15737902/pexels-photo-15737902.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/15737902/pexels-photo-15737902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {
+            "apartment": "929.35$",
+            "monthlyCost": ""
         }
     }
 ]
