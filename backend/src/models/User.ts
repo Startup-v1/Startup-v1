@@ -75,13 +75,6 @@ const userSchema = new Schema({
       },
     },
   ],
-  favoriteFilters: [
-    {
-      type: Schema.Types.ObjectId,
-      ref: "Filter",
-      required: true,
-    },
-  ],
 });
 
 module.exports = model("User", userSchema);
