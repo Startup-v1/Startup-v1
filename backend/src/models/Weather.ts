@@ -1,7 +1,7 @@
 import { Schema, model } from "mongoose";
 
 const monthWeatherSchema = new Schema({
-  temperature: {
+  temperatureCelsius: {
     min: {
       type: Number,
       required: true,
@@ -10,9 +10,23 @@ const monthWeatherSchema = new Schema({
       type: Number,
       required: true,
     },
+    avg: {
+      type: Number,
+      required: true,
+    },
   },
   precipitations: {
-    total: {
+    totalRainMm: {
+      type: Number,
+      required: true,
+    },
+    totalSnowMm: {
+      type: Number,
+      required: true,
+    },
+  },
+  humidity: {
+    avgHumidity: {
       type: Number,
       required: true,
     },
