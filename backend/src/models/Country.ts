@@ -23,6 +23,10 @@ const countrySchema = new Schema({
     required: true,
   },
   languages: [{ type: Schema.Types.ObjectId, ref: "Language" }],
+  continent: {
+    type: String,
+    required: true,
+  }
 });
 
 module.exports = model("Country", countrySchema);
