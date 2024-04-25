@@ -10,7 +10,7 @@ import initialCities from "../initialCities.js";
 import fs from "fs";
 
 // modify if needed
-const timeBetweenRequests = 50;
+const timeBetweenRequests = 5;
 
 async function scrapeData(url) {
   try {
@@ -19,24 +19,63 @@ async function scrapeData(url) {
 
     const $ = cheerio.load(htmlContent);
 
-    const apartmentData = $(
-      'td:contains("Average Monthly Net Salary (After Tax)")'
-    ).next();
-
-    const monthlyCostData = $(
+    const monthlyCost = $(
       'li:contains("A single person estimated monthly costs are")'
     ).children();
 
-    const apartmentDataPrice = apartmentData.text().trim();
-    const apartmentDataPriceTrim = apartmentDataPrice.replace(/\u00A0/g, "");
-    const monthlyCostDataPrice = monthlyCostData.text().trim();
-    const monthlyCostDataPriceTrim = monthlyCostDataPrice
-      .substring(0, monthlyCostDataPrice.indexOf("("))
+    const mealInexpensive = $(
+      'td:contains("Meal, Inexpensive Restaurant")'
+    ).next();
+
+    const taxiStart = $('td:contains("Taxi Start (Normal Tariff)")').next();
+
+    const taxiOneKm = $('td:contains("Taxi 1km (Normal Tariff)")').next();
+
+    const apartmentOneBedroom = $(
+      'td:contains("Apartment (1 bedroom) in City Centre")'
+    ).next();
+
+    const netSalary = $(
+      'td:contains("Average Monthly Net Salary (After Tax)")'
+    ).next();
+
+    let monthlyCostData = monthlyCost.text().trim();
+    monthlyCostData = monthlyCostData
+      .substring(0, monthlyCostData.indexOf("("))
       .trim();
 
+    const mealInexpensiveData = mealInexpensive
+      .text()
+      .trim()
+      .replace(/\u00A0/g, "");
+
+    const taxiStartData = taxiStart
+      .text()
+      .trim()
+      .replace(/\u00A0/g, "");
+
+    const taxiOneKmData = taxiOneKm
+      .text()
+      .trim()
+      .replace(/\u00A0/g, "");
+
+    const apartmentOneBedroomData = apartmentOneBedroom
+      .text()
+      .trim()
+      .replace(/\u00A0/g, "");
+
+    const netSalaryData = netSalary
+      .text()
+      .trim()
+      .replace(/\u00A0/g, "");
+
     const cityObject = {
-      apartment: apartmentDataPriceTrim,
-      monthlyCost: monthlyCostDataPriceTrim,
+      monthlyCost: monthlyCostData,
+      mealInexpensive: mealInexpensiveData,
+      taxiStart: taxiStartData,
+      taxiOneKm: taxiOneKmData,
+      apartmentOneBedroom: apartmentOneBedroomData,
+      netSalary: netSalaryData,
     };
 
     return cityObject;
@@ -79,16 +118,16 @@ function addCostOfLivingToFile(firstFilePath, secondFilePath, outputPath) {
   data1.forEach((cityData) => {
     const cityName = cityData.name;
     if (data2.hasOwnProperty(cityName)) {
-      if (data2[cityName].hasOwnProperty("apartment")) {
         cityData.costOfLiving = {
-          apartment: data2[cityName].apartment,
+          netSalary: data2[cityName].netSalary,
+          apartmentOneBedroom: data2[cityName].apartmentOneBedroom,
           monthlyCost: data2[cityName].monthlyCost,
+          mealInexpensive: data2[cityName].mealInexpensive,
+          taxiStart: data2[cityName].taxiStart,
+          taxiOneKm: data2[cityName].taxiOneKm,
         };
-      } else {
-        cityData.costOfLiving = "no data"
-      }
-    }
-  });
+      } 
+    });
 
   fs.writeFileSync(outputPath, JSON.stringify(data1, null, 4));
 }
@@ -114,7 +153,7 @@ function addCostOfLivingToFile(firstFilePath, secondFilePath, outputPath) {
       const url = `https://www.numbeo.com/cost-of-living/in/${currentCity}?displayCurrency=USD`;
       scrapedData = await scrapeData(url);
 
-      if (scrapedData.apartment === "") {
+      if (scrapedData.netSalary === "") {
         citiesCostOfLiving[city] = "no data";
         citiesMissing++;
         console.log(`${currentCity} ❌`);

@@ -110,8 +110,12 @@
             "large": "https://images.pexels.com/photos/1414467/pexels-photo-1414467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,932.39$",
-            "monthlyCost": "1,104.2$"
+            "netSalary": "3,932.39$",
+            "apartmentOneBedroom": "2,006.59$",
+            "monthlyCost": "1,104.2$",
+            "mealInexpensive": "21.45$",
+            "taxiStart": "4.29$",
+            "taxiOneKm": "2.57$"
         }
     },
     {
@@ -225,8 +229,12 @@
             "large": "https://images.pexels.com/photos/951539/pexels-photo-951539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,065.47$",
-            "monthlyCost": "882.1$"
+            "netSalary": "1,062.01$",
+            "apartmentOneBedroom": "623.09$",
+            "monthlyCost": "882.1$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "4.29$",
+            "taxiOneKm": "0.97$"
         }
     },
     {
@@ -340,8 +348,12 @@
             "large": "https://images.pexels.com/photos/19575680/pexels-photo-19575680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,423.32$",
-            "monthlyCost": "1,077.7$"
+            "netSalary": "3,423.32$",
+            "apartmentOneBedroom": "1,321.35$",
+            "monthlyCost": "1,077.5$",
+            "mealInexpensive": "14.91$",
+            "taxiStart": "2.39$",
+            "taxiOneKm": "2.39$"
         }
     },
     {
@@ -455,8 +467,12 @@
             "large": "https://images.pexels.com/photos/273204/pexels-photo-273204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "5,505.24$",
-            "monthlyCost": "1,090.9€"
+            "netSalary": "5,505.24$",
+            "apartmentOneBedroom": "2,348.97$",
+            "monthlyCost": "1,090.9€",
+            "mealInexpensive": "20.00$",
+            "taxiStart": "3.50$",
+            "taxiOneKm": "1.79$"
         }
     },
     {
@@ -569,7 +585,7 @@
             "small": "https://images.pexels.com/photos/5289209/pexels-photo-5289209.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/5289209/pexels-photo-5289209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "TH",
@@ -682,8 +698,12 @@
             "large": "https://images.pexels.com/photos/1004366/pexels-photo-1004366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "622.79$",
-            "monthlyCost": "630.7$"
+            "netSalary": "622.79$",
+            "apartmentOneBedroom": "608.56$",
+            "monthlyCost": "630.5$",
+            "mealInexpensive": "2.70$",
+            "taxiStart": "0.95$",
+            "taxiOneKm": "1.17$"
         }
     },
     {
@@ -797,8 +817,12 @@
             "large": "https://images.pexels.com/photos/1388030/pexels-photo-1388030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,138.91$",
-            "monthlyCost": "841.0$"
+            "netSalary": "2,138.91$",
+            "apartmentOneBedroom": "1,328.29$",
+            "monthlyCost": "840.3$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "3.22$",
+            "taxiOneKm": "2.25$"
         }
     },
     {
@@ -912,8 +936,12 @@
             "large": "https://images.pexels.com/photos/3958744/pexels-photo-3958744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "832.43$",
-            "monthlyCost": "692.8$"
+            "netSalary": "832.43$",
+            "apartmentOneBedroom": "797.23$",
+            "monthlyCost": "692.8$",
+            "mealInexpensive": "9.16$",
+            "taxiStart": "2.47$",
+            "taxiOneKm": "0.88$"
         }
     },
     {
@@ -1027,8 +1055,12 @@
             "large": "https://images.pexels.com/photos/1128408/pexels-photo-1128408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,308.94$",
-            "monthlyCost": "1,083.4$"
+            "netSalary": "3,308.94$",
+            "apartmentOneBedroom": "1,349.33$",
+            "monthlyCost": "1,083.4$",
+            "mealInexpensive": "15.02$",
+            "taxiStart": "5.36$",
+            "taxiOneKm": "2.47$"
         }
     },
     {
@@ -1142,8 +1174,12 @@
             "large": "https://images.pexels.com/photos/8264573/pexels-photo-8264573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "377.80$",
-            "monthlyCost": "537.7$"
+            "netSalary": "377.80$",
+            "apartmentOneBedroom": "457.02$",
+            "monthlyCost": "537.7$",
+            "mealInexpensive": "5.14$",
+            "taxiStart": "1.41$",
+            "taxiOneKm": "1.57$"
         }
     },
     {
@@ -1257,8 +1293,12 @@
             "large": "https://images.pexels.com/photos/1059078/pexels-photo-1059078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,464.16$",
-            "monthlyCost": "1,090.3$"
+            "netSalary": "2,464.16$",
+            "apartmentOneBedroom": "843.73$",
+            "monthlyCost": "1,090.3$",
+            "mealInexpensive": "17.16$",
+            "taxiStart": "2.15$",
+            "taxiOneKm": "1.78$"
         }
     },
     {
@@ -1372,8 +1412,12 @@
             "large": "https://images.pexels.com/photos/2449231/pexels-photo-2449231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "530.63$",
-            "monthlyCost": "566.5$"
+            "netSalary": "530.63$",
+            "apartmentOneBedroom": "378.10$",
+            "monthlyCost": "566.5$",
+            "mealInexpensive": "5.83$",
+            "taxiStart": "1.05$",
+            "taxiOneKm": "0.87$"
         }
     },
     {
@@ -1487,8 +1531,12 @@
             "large": "https://images.pexels.com/photos/280173/pexels-photo-280173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,457.68$",
-            "monthlyCost": "865.5$"
+            "netSalary": "1,457.68$",
+            "apartmentOneBedroom": "766.35$",
+            "monthlyCost": "865.5$",
+            "mealInexpensive": "9.65$",
+            "taxiStart": "5.36$",
+            "taxiOneKm": "1.29$"
         }
     },
     {
@@ -1602,8 +1650,12 @@
             "large": "https://images.pexels.com/photos/2516657/pexels-photo-2516657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,674.28$",
-            "monthlyCost": "1,104.8$"
+            "netSalary": "3,674.28$",
+            "apartmentOneBedroom": "1,655.27$",
+            "monthlyCost": "1,104.6$",
+            "mealInexpensive": "14.36$",
+            "taxiStart": "2.29$",
+            "taxiOneKm": "1.50$"
         }
     },
     {
@@ -1717,8 +1769,12 @@
             "large": "https://images.pexels.com/photos/3177258/pexels-photo-3177258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,034.30$",
-            "monthlyCost": "1,007.0$"
+            "netSalary": "3,034.30$",
+            "apartmentOneBedroom": "1,715.24$",
+            "monthlyCost": "1,006.7$",
+            "mealInexpensive": "18.78$",
+            "taxiStart": "5.63$",
+            "taxiOneKm": "1.71$"
         }
     },
     {
@@ -1943,8 +1999,12 @@
             "large": "https://images.pexels.com/photos/1595085/pexels-photo-1595085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,046.45$",
-            "monthlyCost": "1,074.5$"
+            "netSalary": "3,046.45$",
+            "apartmentOneBedroom": "1,137.56$",
+            "monthlyCost": "1,074.5$",
+            "mealInexpensive": "19.31$",
+            "taxiStart": "5.36$",
+            "taxiOneKm": "2.31$"
         }
     },
     {
@@ -2058,8 +2118,12 @@
             "large": "https://images.pexels.com/photos/732057/pexels-photo-732057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,143.63$",
-            "monthlyCost": "720.2$"
+            "netSalary": "1,143.63$",
+            "apartmentOneBedroom": "629.75$",
+            "monthlyCost": "720.0$",
+            "mealInexpensive": "10.92$",
+            "taxiStart": "3.00$",
+            "taxiOneKm": "1.20$"
         }
     },
     {
@@ -2173,8 +2237,12 @@
             "large": "https://images.pexels.com/photos/775482/pexels-photo-775482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,106.73$",
-            "monthlyCost": "688.6$"
+            "netSalary": "1,106.73$",
+            "apartmentOneBedroom": "556.48$",
+            "monthlyCost": "688.6$",
+            "mealInexpensive": "10.78$",
+            "taxiStart": "0.65$",
+            "taxiOneKm": "0.65$"
         }
     },
     {
@@ -2288,8 +2356,12 @@
             "large": "https://images.pexels.com/photos/1060803/pexels-photo-1060803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "403.79$",
-            "monthlyCost": "456.5€"
+            "netSalary": "403.79$",
+            "apartmentOneBedroom": "480.08$",
+            "monthlyCost": "456.6€",
+            "mealInexpensive": "8.00$",
+            "taxiStart": "1.00$",
+            "taxiOneKm": "0.89$"
         }
     },
     {
@@ -2403,8 +2475,12 @@
             "large": "https://images.pexels.com/photos/6735303/pexels-photo-6735303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,981.40$",
-            "monthlyCost": ""
+            "netSalary": "2,981.40$",
+            "apartmentOneBedroom": "1,080.53$",
+            "monthlyCost": "",
+            "mealInexpensive": "16.32$",
+            "taxiStart": "?",
+            "taxiOneKm": "3.26$"
         }
     },
     {
@@ -2517,7 +2593,7 @@
             "small": "https://images.pexels.com/photos/1369212/pexels-photo-1369212.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1369212/pexels-photo-1369212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "ZA",
@@ -2630,8 +2706,12 @@
             "large": "https://images.pexels.com/photos/259447/pexels-photo-259447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,514.03$",
-            "monthlyCost": "574.6$"
+            "netSalary": "1,513.59$",
+            "apartmentOneBedroom": "659.23$",
+            "monthlyCost": "575.0$",
+            "mealInexpensive": "7.88$",
+            "taxiStart": "1.05$",
+            "taxiOneKm": "0.79$"
         }
     },
     {
@@ -2745,8 +2825,12 @@
             "large": "https://images.pexels.com/photos/2956618/pexels-photo-2956618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "510.85$",
-            "monthlyCost": "501.8$"
+            "netSalary": "510.85$",
+            "apartmentOneBedroom": "381.11$",
+            "monthlyCost": "501.7$",
+            "mealInexpensive": "1.62$",
+            "taxiStart": "1.08$",
+            "taxiOneKm": "1.22$"
         }
     },
     {
@@ -2860,8 +2944,12 @@
             "large": "https://images.pexels.com/photos/1823681/pexels-photo-1823681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "5,502.92$",
-            "monthlyCost": "1,198.3€"
+            "netSalary": "5,502.92$",
+            "apartmentOneBedroom": "2,351.85$",
+            "monthlyCost": "1,198.4€",
+            "mealInexpensive": "25.00$",
+            "taxiStart": "3.25$",
+            "taxiOneKm": "1.40$"
         }
     },
     {
@@ -2975,8 +3063,12 @@
             "large": "https://images.pexels.com/photos/5363175/pexels-photo-5363175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,130.35$",
-            "monthlyCost": "945.3$"
+            "netSalary": "3,130.35$",
+            "apartmentOneBedroom": "1,414.53$",
+            "monthlyCost": "945.1$",
+            "mealInexpensive": "14.91$",
+            "taxiStart": "2.09$",
+            "taxiOneKm": "1.79$"
         }
     },
     {
@@ -3090,8 +3182,12 @@
             "large": "https://images.pexels.com/photos/161849/cologne-dom-night-architecture-161849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,258.93$",
-            "monthlyCost": "991.3$"
+            "netSalary": "3,258.93$",
+            "apartmentOneBedroom": "1,002.15$",
+            "monthlyCost": "991.6$",
+            "mealInexpensive": "12.87$",
+            "taxiStart": "4.77$",
+            "taxiOneKm": "2.15$"
         }
     },
     {
@@ -3205,8 +3301,12 @@
             "large": "https://images.pexels.com/photos/34401/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "978.03$",
-            "monthlyCost": "504.6$"
+            "netSalary": "978.03$",
+            "apartmentOneBedroom": "350.42$",
+            "monthlyCost": "504.6$",
+            "mealInexpensive": "2.51$",
+            "taxiStart": "1.05$",
+            "taxiOneKm": "0.21$"
         }
     },
     {
@@ -3320,8 +3420,12 @@
             "large": "https://images.pexels.com/photos/416024/pexels-photo-416024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,899.86$",
-            "monthlyCost": "1,219.6$"
+            "netSalary": "3,899.86$",
+            "apartmentOneBedroom": "1,736.83$",
+            "monthlyCost": "1,219.6$",
+            "mealInexpensive": "21.57$",
+            "taxiStart": "7.19$",
+            "taxiOneKm": "2.37$"
         }
     },
     {
@@ -3434,7 +3538,7 @@
             "small": "https://images.pexels.com/photos/2929906/pexels-photo-2929906.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2929906/pexels-photo-2929906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "VN",
@@ -3547,8 +3651,12 @@
             "large": "https://images.pexels.com/photos/13871565/pexels-photo-13871565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "482.83$",
-            "monthlyCost": "462.2$"
+            "netSalary": "482.83$",
+            "apartmentOneBedroom": "301.00$",
+            "monthlyCost": "462.3$",
+            "mealInexpensive": "1.58$",
+            "taxiStart": "0.79$",
+            "taxiOneKm": "0.72$"
         }
     },
     {
@@ -3662,8 +3770,12 @@
             "large": "https://images.pexels.com/photos/280193/pexels-photo-280193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "5,412.39$",
-            "monthlyCost": "1,149.0€"
+            "netSalary": "5,412.39$",
+            "apartmentOneBedroom": "1,927.36$",
+            "monthlyCost": "1,149.0€",
+            "mealInexpensive": "20.00$",
+            "taxiStart": "3.00$",
+            "taxiOneKm": "1.74$"
         }
     },
     {
@@ -3777,8 +3889,12 @@
             "large": "https://images.pexels.com/photos/2706750/pexels-photo-2706750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "5,126.19$",
-            "monthlyCost": "1,206.4€"
+            "netSalary": "5,126.19$",
+            "apartmentOneBedroom": "2,127.73$",
+            "monthlyCost": "1,206.4€",
+            "mealInexpensive": "20.00$",
+            "taxiStart": "5.00$",
+            "taxiOneKm": "1.65$"
         }
     },
     {
@@ -3892,8 +4008,12 @@
             "large": "https://images.pexels.com/photos/702343/pexels-photo-702343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,163.93$",
-            "monthlyCost": "1,115.0€"
+            "netSalary": "4,163.93$",
+            "apartmentOneBedroom": "1,414.29$",
+            "monthlyCost": "1,115.1€",
+            "mealInexpensive": "15.50$",
+            "taxiStart": "2.50$",
+            "taxiOneKm": "1.40$"
         }
     },
     {
@@ -4007,8 +4127,12 @@
             "large": "https://images.pexels.com/photos/2044434/pexels-photo-2044434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,059.60$",
-            "monthlyCost": "1,111.0$"
+            "netSalary": "4,059.60$",
+            "apartmentOneBedroom": "2,157.07$",
+            "monthlyCost": "1,111.2$",
+            "mealInexpensive": "10.89$",
+            "taxiStart": "3.27$",
+            "taxiOneKm": "0.82$"
         }
     },
     {
@@ -4122,8 +4246,12 @@
             "large": "https://images.pexels.com/photos/1650882/pexels-photo-1650882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,446.90$",
-            "monthlyCost": "1,170.5$"
+            "netSalary": "3,446.90$",
+            "apartmentOneBedroom": "2,175.11$",
+            "monthlyCost": "1,170.5$",
+            "mealInexpensive": "21.45$",
+            "taxiStart": "4.67$",
+            "taxiOneKm": "2.15$"
         }
     },
     {
@@ -4237,8 +4365,12 @@
             "large": "https://images.pexels.com/photos/580897/pexels-photo-580897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,153.26$",
-            "monthlyCost": "942.4$"
+            "netSalary": "1,153.26$",
+            "apartmentOneBedroom": "690.15$",
+            "monthlyCost": "942.4$",
+            "mealInexpensive": "13.94$",
+            "taxiStart": "2.84$",
+            "taxiOneKm": "0.71$"
         }
     },
     {
@@ -4352,8 +4484,12 @@
             "large": "https://images.pexels.com/photos/161863/edinburgh-carlton-hill-landscape-scotland-161863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,244.62$",
-            "monthlyCost": "1,119.0$"
+            "netSalary": "3,244.62$",
+            "apartmentOneBedroom": "1,591.23$",
+            "monthlyCost": "1,118.8$",
+            "mealInexpensive": "18.78$",
+            "taxiStart": "5.01$",
+            "taxiOneKm": "1.76$"
         }
     },
     {
@@ -4467,8 +4603,12 @@
             "large": "https://images.pexels.com/photos/981686/pexels-photo-981686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,699.26$",
-            "monthlyCost": "1,049.6$"
+            "netSalary": "1,699.26$",
+            "apartmentOneBedroom": "1,053.39$",
+            "monthlyCost": "1,049.6$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "5.36$",
+            "taxiOneKm": "2.15$"
         }
     },
     {
@@ -4582,8 +4722,12 @@
             "large": "https://images.pexels.com/photos/584302/pexels-photo-584302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "382.89$",
-            "monthlyCost": "592.4$"
+            "netSalary": "382.89$",
+            "apartmentOneBedroom": "482.17$",
+            "monthlyCost": "592.4$",
+            "mealInexpensive": "3.46$",
+            "taxiStart": "0.73$",
+            "taxiOneKm": "0.24$"
         }
     },
     {
@@ -4697,8 +4841,12 @@
             "large": "https://images.pexels.com/photos/3390729/pexels-photo-3390729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "577.40$",
-            "monthlyCost": "603.4$"
+            "netSalary": "577.40$",
+            "apartmentOneBedroom": "458.18$",
+            "monthlyCost": "603.4$",
+            "mealInexpensive": "6.80$",
+            "taxiStart": "1.55$",
+            "taxiOneKm": "1.55$"
         }
     },
     {
@@ -4812,8 +4960,12 @@
             "large": "https://images.pexels.com/photos/1124460/pexels-photo-1124460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,937.51$",
-            "monthlyCost": "1,059.9$"
+            "netSalary": "3,937.51$",
+            "apartmentOneBedroom": "1,298.51$",
+            "monthlyCost": "1,059.9$",
+            "mealInexpensive": "18.23$",
+            "taxiStart": "4.29$",
+            "taxiOneKm": "2.57$"
         }
     },
     {
@@ -4927,8 +5079,12 @@
             "large": "https://images.pexels.com/photos/733148/pexels-photo-733148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "6,505.41$",
-            "monthlyCost": "1,648.8$"
+            "netSalary": "6,505.41$",
+            "apartmentOneBedroom": "2,286.33$",
+            "monthlyCost": "1,648.7$",
+            "mealInexpensive": "27.39$",
+            "taxiStart": "6.57$",
+            "taxiOneKm": "3.29$"
         }
     },
     {
@@ -5041,7 +5197,7 @@
             "small": "https://images.pexels.com/photos/12823414/pexels-photo-12823414.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/12823414/pexels-photo-12823414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "GB",
@@ -5154,8 +5310,12 @@
             "large": "https://images.pexels.com/photos/3061345/pexels-photo-3061345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,211.86$",
-            "monthlyCost": "1,051.1$"
+            "netSalary": "3,211.86$",
+            "apartmentOneBedroom": "1,367.81$",
+            "monthlyCost": "1,050.8$",
+            "mealInexpensive": "18.78$",
+            "taxiStart": "5.01$",
+            "taxiOneKm": "1.94$"
         }
     },
     {
@@ -5269,8 +5429,12 @@
             "large": "https://images.pexels.com/photos/17831951/pexels-photo-17831951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,807.50$",
-            "monthlyCost": "763.6$"
+            "netSalary": "1,807.50$",
+            "apartmentOneBedroom": "625.65$",
+            "monthlyCost": "763.6$",
+            "mealInexpensive": "12.87$",
+            "taxiStart": "4.29$",
+            "taxiOneKm": "2.15$"
         }
     },
     {
@@ -5384,8 +5548,12 @@
             "large": "https://images.pexels.com/photos/543252/pexels-photo-543252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "821.74$",
-            "monthlyCost": "708.5$"
+            "netSalary": "821.74$",
+            "apartmentOneBedroom": "667.32$",
+            "monthlyCost": "708.5$",
+            "mealInexpensive": "11.15$",
+            "taxiStart": "2.93$",
+            "taxiOneKm": "1.91$"
         }
     },
     {
@@ -5499,8 +5667,12 @@
             "large": "https://images.pexels.com/photos/1366957/pexels-photo-1366957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,106.80$",
-            "monthlyCost": "543.9$"
+            "netSalary": "1,106.80$",
+            "apartmentOneBedroom": "422.58$",
+            "monthlyCost": "543.9$",
+            "mealInexpensive": "3.45$",
+            "taxiStart": "1.66$",
+            "taxiOneKm": "0.36$"
         }
     },
     {
@@ -5614,8 +5786,12 @@
             "large": "https://images.pexels.com/photos/167676/pexels-photo-167676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,222.25$",
-            "monthlyCost": "1,125.4$"
+            "netSalary": "3,222.25$",
+            "apartmentOneBedroom": "1,084.98$",
+            "monthlyCost": "1,125.4$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "5.15$",
+            "taxiOneKm": "2.79$"
         }
     },
     {
@@ -5729,8 +5905,12 @@
             "large": "https://images.pexels.com/photos/1437614/pexels-photo-1437614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "479.23$",
-            "monthlyCost": "481.6$"
+            "netSalary": "479.23$",
+            "apartmentOneBedroom": "340.68$",
+            "monthlyCost": "481.8$",
+            "mealInexpensive": "1.97$",
+            "taxiStart": "0.71$",
+            "taxiOneKm": "0.58$"
         }
     },
     {
@@ -5844,8 +6024,12 @@
             "large": "https://images.pexels.com/photos/3243242/pexels-photo-3243242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,021.84$",
-            "monthlyCost": "1,039.0$"
+            "netSalary": "3,021.84$",
+            "apartmentOneBedroom": "1,067.31$",
+            "monthlyCost": "1,039.0$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "7.08$",
+            "taxiOneKm": "1.29$"
         }
     },
     {
@@ -5959,8 +6143,12 @@
             "large": "https://images.pexels.com/photos/941195/pexels-photo-941195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "463.72$",
-            "monthlyCost": "491.2$"
+            "netSalary": "463.72$",
+            "apartmentOneBedroom": "522.59$",
+            "monthlyCost": "491.3$",
+            "mealInexpensive": "1.97$",
+            "taxiStart": "0.59$",
+            "taxiOneKm": "0.63$"
         }
     },
     {
@@ -6074,8 +6262,12 @@
             "large": "https://images.pexels.com/photos/872698/pexels-photo-872698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,049.86$",
-            "monthlyCost": "1,139.9$"
+            "netSalary": "4,049.86$",
+            "apartmentOneBedroom": "2,312.43$",
+            "monthlyCost": "1,140.1$",
+            "mealInexpensive": "8.69$",
+            "taxiStart": "3.45$",
+            "taxiOneKm": "1.28$"
         }
     },
     {
@@ -6189,8 +6381,12 @@
             "large": "https://images.pexels.com/photos/17573116/pexels-photo-17573116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,933.33$",
-            "monthlyCost": "1,383.7€"
+            "netSalary": "3,933.33$",
+            "apartmentOneBedroom": "2,186.00$",
+            "monthlyCost": "1,383.9€",
+            "mealInexpensive": "20.00$",
+            "taxiStart": "3.50$",
+            "taxiOneKm": "2.61$"
         }
     },
     {
@@ -6304,8 +6500,12 @@
             "large": "https://images.pexels.com/photos/14177239/pexels-photo-14177239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,722.33$",
-            "monthlyCost": "1,044.5€"
+            "netSalary": "4,722.33$",
+            "apartmentOneBedroom": "1,647.28$",
+            "monthlyCost": "1,044.6€",
+            "mealInexpensive": "18.00$",
+            "taxiStart": "4.25$",
+            "taxiOneKm": "1.86$"
         }
     },
     {
@@ -6419,8 +6619,12 @@
             "large": "https://images.pexels.com/photos/1549326/pexels-photo-1549326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "755.27$",
-            "monthlyCost": "589.5$"
+            "netSalary": "755.27$",
+            "apartmentOneBedroom": "740.98$",
+            "monthlyCost": "589.5$",
+            "mealInexpensive": "9.22$",
+            "taxiStart": "0.77$",
+            "taxiOneKm": "0.54$"
         }
     },
     {
@@ -6534,8 +6738,12 @@
             "large": "https://images.pexels.com/photos/2116719/pexels-photo-2116719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "526.13$",
-            "monthlyCost": "506.3$"
+            "netSalary": "526.13$",
+            "apartmentOneBedroom": "429.66$",
+            "monthlyCost": "506.2$",
+            "mealInexpensive": "2.17$",
+            "taxiStart": "0.53$",
+            "taxiOneKm": "0.31$"
         }
     },
     {
@@ -6649,8 +6857,12 @@
             "large": "https://images.pexels.com/photos/11313729/pexels-photo-11313729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,472.11$",
-            "monthlyCost": "627.5$"
+            "netSalary": "1,472.11$",
+            "apartmentOneBedroom": "396.06$",
+            "monthlyCost": "627.0$",
+            "mealInexpensive": "8.14$",
+            "taxiStart": "1.05$",
+            "taxiOneKm": "1.05$"
         }
     },
     {
@@ -6764,8 +6976,12 @@
             "large": "https://images.pexels.com/photos/349506/pexels-photo-349506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,148.82$",
-            "monthlyCost": "1,036.6€"
+            "netSalary": "4,148.82$",
+            "apartmentOneBedroom": "1,395.75$",
+            "monthlyCost": "1,036.6€",
+            "mealInexpensive": "16.50$",
+            "taxiStart": "4.00$",
+            "taxiOneKm": "2.11$"
         }
     },
     {
@@ -6878,7 +7094,7 @@
             "small": "https://images.pexels.com/photos/2064058/pexels-photo-2064058.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2064058/pexels-photo-2064058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "PL",
@@ -6990,7 +7206,7 @@
             "small": "https://images.pexels.com/photos/46273/pexels-photo-46273.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/46273/pexels-photo-46273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "MY",
@@ -7103,8 +7319,12 @@
             "large": "https://images.pexels.com/photos/22804/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,246.86$",
-            "monthlyCost": "544.7$"
+            "netSalary": "1,246.86$",
+            "apartmentOneBedroom": "509.56$",
+            "monthlyCost": "544.7$",
+            "mealInexpensive": "4.16$",
+            "taxiStart": "1.05$",
+            "taxiOneKm": "1.05$"
         }
     },
     {
@@ -7218,8 +7438,12 @@
             "large": "https://images.pexels.com/photos/402028/pexels-photo-402028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,539.12$",
-            "monthlyCost": ""
+            "netSalary": "1,539.12$",
+            "apartmentOneBedroom": "477.19$",
+            "monthlyCost": "",
+            "mealInexpensive": "6.42$",
+            "taxiStart": "3.21$",
+            "taxiOneKm": "2.89$"
         }
     },
     {
@@ -7333,8 +7557,12 @@
             "large": "https://images.pexels.com/photos/1738762/pexels-photo-1738762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "204.55$",
-            "monthlyCost": "579.9€"
+            "netSalary": "204.55$",
+            "apartmentOneBedroom": "924.32$",
+            "monthlyCost": "580.0€",
+            "mealInexpensive": "3.26$",
+            "taxiStart": "1.36$",
+            "taxiOneKm": "2.17$"
         }
     },
     {
@@ -7447,7 +7675,7 @@
             "small": "https://images.pexels.com/photos/3302223/pexels-photo-3302223.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/3302223/pexels-photo-3302223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "GB",
@@ -7560,8 +7788,12 @@
             "large": "https://images.pexels.com/photos/8474273/pexels-photo-8474273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,210.58$",
-            "monthlyCost": "969.7$"
+            "netSalary": "3,210.58$",
+            "apartmentOneBedroom": "1,150.90$",
+            "monthlyCost": "969.5$",
+            "mealInexpensive": "18.78$",
+            "taxiStart": "6.26$",
+            "taxiOneKm": "2.03$"
         }
     },
     {
@@ -7675,8 +7907,12 @@
             "large": "https://images.pexels.com/photos/17029842/pexels-photo-17029842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "424.10$",
-            "monthlyCost": "549.8$"
+            "netSalary": "424.10$",
+            "apartmentOneBedroom": "546.59$",
+            "monthlyCost": "549.8$",
+            "mealInexpensive": "4.05$",
+            "taxiStart": "3.24$",
+            "taxiOneKm": "2.16$"
         }
     },
     {
@@ -7790,8 +8026,12 @@
             "large": "https://images.pexels.com/photos/1534560/pexels-photo-1534560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,266.57$",
-            "monthlyCost": "787.0$"
+            "netSalary": "1,266.57$",
+            "apartmentOneBedroom": "1,429.73$",
+            "monthlyCost": "787.0$",
+            "mealInexpensive": "14.48$",
+            "taxiStart": "3.91$",
+            "taxiOneKm": "0.75$"
         }
     },
     {
@@ -7905,8 +8145,12 @@
             "large": "https://images.pexels.com/photos/1884574/pexels-photo-1884574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,671.26$",
-            "monthlyCost": "1,068.4$"
+            "netSalary": "2,671.26$",
+            "apartmentOneBedroom": "1,048.65$",
+            "monthlyCost": "1,068.4$",
+            "mealInexpensive": "19.38$",
+            "taxiStart": "3.76$",
+            "taxiOneKm": "1.16$"
         }
     },
     {
@@ -8020,8 +8264,12 @@
             "large": "https://images.pexels.com/photos/13316759/pexels-photo-13316759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,684.56$",
-            "monthlyCost": "875.7$"
+            "netSalary": "1,684.56$",
+            "apartmentOneBedroom": "914.13$",
+            "monthlyCost": "875.7$",
+            "mealInexpensive": "15.02$",
+            "taxiStart": "2.12$",
+            "taxiOneKm": "1.17$"
         }
     },
     {
@@ -8135,8 +8383,12 @@
             "large": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,018.68$",
-            "monthlyCost": "1,374.3$"
+            "netSalary": "4,018.68$",
+            "apartmentOneBedroom": "2,802.24$",
+            "monthlyCost": "1,374.0$",
+            "mealInexpensive": "25.04$",
+            "taxiStart": "5.01$",
+            "taxiOneKm": "2.44$"
         }
     },
     {
@@ -8250,8 +8502,12 @@
             "large": "https://images.pexels.com/photos/2525903/pexels-photo-2525903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "6,192.94$",
-            "monthlyCost": "1,281.8€"
+            "netSalary": "6,192.94$",
+            "apartmentOneBedroom": "2,487.11$",
+            "monthlyCost": "1,282.0€",
+            "mealInexpensive": "25.00$",
+            "taxiStart": "4.30$",
+            "taxiOneKm": "1.68$"
         }
     },
     {
@@ -8365,8 +8621,12 @@
             "large": "https://images.pexels.com/photos/462341/pexels-photo-462341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,971.94$",
-            "monthlyCost": "1,076.4$"
+            "netSalary": "2,971.94$",
+            "apartmentOneBedroom": "995.41$",
+            "monthlyCost": "1,076.4$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "5.36$",
+            "taxiOneKm": "1.72$"
         }
     },
     {
@@ -8480,8 +8740,12 @@
             "large": "https://images.pexels.com/photos/670261/pexels-photo-670261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,654.65$",
-            "monthlyCost": "815.1$"
+            "netSalary": "2,654.65$",
+            "apartmentOneBedroom": "1,277.26$",
+            "monthlyCost": "815.1$",
+            "mealInexpensive": "15.02$",
+            "taxiStart": "3.22$",
+            "taxiOneKm": "1.29$"
         }
     },
     {
@@ -8595,8 +8859,12 @@
             "large": "https://images.pexels.com/photos/17743356/pexels-photo-17743356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,989.48$",
-            "monthlyCost": "727.9$"
+            "netSalary": "1,989.48$",
+            "apartmentOneBedroom": "998.80$",
+            "monthlyCost": "727.9$",
+            "mealInexpensive": "12.87$",
+            "taxiStart": "4.29$",
+            "taxiOneKm": "1.07$"
         }
     },
     {
@@ -8710,8 +8978,12 @@
             "large": "https://images.pexels.com/photos/396036/pexels-photo-396036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,776.55$",
-            "monthlyCost": "1,073.4$"
+            "netSalary": "2,776.55$",
+            "apartmentOneBedroom": "1,465.37$",
+            "monthlyCost": "1,073.1$",
+            "mealInexpensive": "18.78$",
+            "taxiStart": "4.13$",
+            "taxiOneKm": "2.72$"
         }
     },
     {
@@ -8825,8 +9097,12 @@
             "large": "https://images.pexels.com/photos/1098322/pexels-photo-1098322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "513.58$",
-            "monthlyCost": "622.7$"
+            "netSalary": "513.58$",
+            "apartmentOneBedroom": "462.42$",
+            "monthlyCost": "622.7$",
+            "mealInexpensive": "5.19$",
+            "taxiStart": "0.78$",
+            "taxiOneKm": "0.23$"
         }
     },
     {
@@ -8940,8 +9216,12 @@
             "large": "https://images.pexels.com/photos/4502957/pexels-photo-4502957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "405.73$",
-            "monthlyCost": "499.3$"
+            "netSalary": "405.73$",
+            "apartmentOneBedroom": "338.82$",
+            "monthlyCost": "499.4$",
+            "mealInexpensive": "3.45$",
+            "taxiStart": "0.69$",
+            "taxiOneKm": "0.69$"
         }
     },
     {
@@ -9055,8 +9335,12 @@
             "large": "https://images.pexels.com/photos/1275393/pexels-photo-1275393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,200.69$",
-            "monthlyCost": "1,087.0$"
+            "netSalary": "2,200.69$",
+            "apartmentOneBedroom": "827.20$",
+            "monthlyCost": "1,087.0$",
+            "mealInexpensive": "15.02$",
+            "taxiStart": "5.36$",
+            "taxiOneKm": "3.22$"
         }
     },
     {
@@ -9170,8 +9454,12 @@
             "large": "https://images.pexels.com/photos/12470916/pexels-photo-12470916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "431.73$",
-            "monthlyCost": "548.1$"
+            "netSalary": "431.73$",
+            "apartmentOneBedroom": "461.30$",
+            "monthlyCost": "548.1$",
+            "mealInexpensive": "5.65$",
+            "taxiStart": "1.28$",
+            "taxiOneKm": "2.06$"
         }
     },
     {
@@ -9285,8 +9573,12 @@
             "large": "https://images.pexels.com/photos/3626248/pexels-photo-3626248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,921.09$",
-            "monthlyCost": "1,079.2$"
+            "netSalary": "3,921.09$",
+            "apartmentOneBedroom": "1,653.17$",
+            "monthlyCost": "1,079.0$",
+            "mealInexpensive": "16.32$",
+            "taxiStart": "4.24$",
+            "taxiOneKm": "1.96$"
         }
     },
     {
@@ -9400,8 +9692,12 @@
             "large": "https://images.pexels.com/photos/604661/pexels-photo-604661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "818.31$",
-            "monthlyCost": "760.4$"
+            "netSalary": "818.31$",
+            "apartmentOneBedroom": "1,049.60$",
+            "monthlyCost": "760.3$",
+            "mealInexpensive": "9.98$",
+            "taxiStart": "1.23$",
+            "taxiOneKm": "0.53$"
         }
     },
     {
@@ -9515,8 +9811,12 @@
             "large": "https://images.pexels.com/photos/421655/pexels-photo-421655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,289.41$",
-            "monthlyCost": "1,177.4€"
+            "netSalary": "4,289.41$",
+            "apartmentOneBedroom": "2,800.86$",
+            "monthlyCost": "1,177.5€",
+            "mealInexpensive": "25.00$",
+            "taxiStart": "2.98$",
+            "taxiOneKm": "1.30$"
         }
     },
     {
@@ -9630,8 +9930,12 @@
             "large": "https://images.pexels.com/photos/1542620/pexels-photo-1542620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,152.38$",
-            "monthlyCost": "400.3$"
+            "netSalary": "1,152.38$",
+            "apartmentOneBedroom": "244.56$",
+            "monthlyCost": "400.3$",
+            "mealInexpensive": "4.20$",
+            "taxiStart": "0.60$",
+            "taxiOneKm": "0.30$"
         }
     },
     {
@@ -9745,8 +10049,12 @@
             "large": "https://images.pexels.com/photos/37079/milan-pegasus-gallery-statue.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,867.74$",
-            "monthlyCost": "1,106.5$"
+            "netSalary": "1,867.74$",
+            "apartmentOneBedroom": "1,537.59$",
+            "monthlyCost": "1,106.5$",
+            "mealInexpensive": "21.45$",
+            "taxiStart": "7.51$",
+            "taxiOneKm": "2.15$"
         }
     },
     {
@@ -9860,8 +10168,12 @@
             "large": "https://images.pexels.com/photos/4190056/pexels-photo-4190056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,638.48$",
-            "monthlyCost": "1,135.2€"
+            "netSalary": "4,638.48$",
+            "apartmentOneBedroom": "1,669.06$",
+            "monthlyCost": "1,135.2€",
+            "mealInexpensive": "20.00$",
+            "taxiStart": "5.00$",
+            "taxiOneKm": "1.55$"
         }
     },
     {
@@ -9975,8 +10287,12 @@
             "large": "https://images.pexels.com/photos/2889701/pexels-photo-2889701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,734.08$",
-            "monthlyCost": "995.9$"
+            "netSalary": "2,734.08$",
+            "apartmentOneBedroom": "1,225.00$",
+            "monthlyCost": "996.0$",
+            "mealInexpensive": "18.28$",
+            "taxiStart": "3.33$",
+            "taxiOneKm": "1.46$"
         }
     },
     {
@@ -10090,8 +10406,12 @@
             "large": "https://images.pexels.com/photos/164583/pexels-photo-164583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,221.29$",
-            "monthlyCost": "604.6$"
+            "netSalary": "1,217.85$",
+            "apartmentOneBedroom": "856.56$",
+            "monthlyCost": "604.7$",
+            "mealInexpensive": "9.78$",
+            "taxiStart": "2.17$",
+            "taxiOneKm": "0.43$"
         }
     },
     {
@@ -10205,8 +10525,12 @@
             "large": "https://images.pexels.com/photos/574324/pexels-photo-574324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "841.49$",
-            "monthlyCost": "395.3$"
+            "netSalary": "841.49$",
+            "apartmentOneBedroom": "605.35$",
+            "monthlyCost": "395.3$",
+            "mealInexpensive": "4.80$",
+            "taxiStart": "0.35$",
+            "taxiOneKm": "0.36$"
         }
     },
     {
@@ -10320,8 +10644,12 @@
             "large": "https://images.pexels.com/photos/163405/munich-olympia-mountain-olympic-stadium-view-163405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,765.31$",
-            "monthlyCost": "1,065.9$"
+            "netSalary": "3,765.31$",
+            "apartmentOneBedroom": "1,540.76$",
+            "monthlyCost": "1,066.0$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "5.90$",
+            "taxiOneKm": "2.47$"
         }
     },
     {
@@ -10435,8 +10763,12 @@
             "large": "https://images.pexels.com/photos/13348192/pexels-photo-13348192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "406.04$",
-            "monthlyCost": "503.4$"
+            "netSalary": "406.04$",
+            "apartmentOneBedroom": "401.41$",
+            "monthlyCost": "505.0$",
+            "mealInexpensive": "4.07$",
+            "taxiStart": "1.48$",
+            "taxiOneKm": "1.30$"
         }
     },
     {
@@ -10550,8 +10882,12 @@
             "large": "https://images.pexels.com/photos/2898211/pexels-photo-2898211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,778.90$",
-            "monthlyCost": "1,148.6€"
+            "netSalary": "4,778.90$",
+            "apartmentOneBedroom": "2,085.71$",
+            "monthlyCost": "1,148.6€",
+            "mealInexpensive": "18.00$",
+            "taxiStart": "5.00$",
+            "taxiOneKm": "1.55$"
         }
     },
     {
@@ -10665,8 +11001,12 @@
             "large": "https://images.pexels.com/photos/2432110/pexels-photo-2432110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,752.42$",
-            "monthlyCost": "1,151.3€"
+            "netSalary": "3,752.42$",
+            "apartmentOneBedroom": "1,700.00$",
+            "monthlyCost": "1,151.3€",
+            "mealInexpensive": "22.50$",
+            "taxiStart": "3.50$",
+            "taxiOneKm": "1.49$"
         }
     },
     {
@@ -10779,7 +11119,7 @@
             "small": "https://images.pexels.com/photos/4559748/pexels-photo-4559748.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/4559748/pexels-photo-4559748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "FR",
@@ -10892,8 +11232,12 @@
             "large": "https://images.pexels.com/photos/1003914/pexels-photo-1003914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,538.48$",
-            "monthlyCost": "1,051.4$"
+            "netSalary": "2,538.48$",
+            "apartmentOneBedroom": "965.29$",
+            "monthlyCost": "1,051.4$",
+            "mealInexpensive": "21.45$",
+            "taxiStart": "5.90$",
+            "taxiOneKm": "2.23$"
         }
     },
     {
@@ -11007,8 +11351,12 @@
             "large": "https://images.pexels.com/photos/1722380/pexels-photo-1722380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,534.62$",
-            "monthlyCost": "893.4$"
+            "netSalary": "1,534.62$",
+            "apartmentOneBedroom": "680.13$",
+            "monthlyCost": "893.4$",
+            "mealInexpensive": "12.87$",
+            "taxiStart": "3.75$",
+            "taxiOneKm": "1.07$"
         }
     },
     {
@@ -11122,8 +11470,12 @@
             "large": "https://images.pexels.com/photos/1440476/pexels-photo-1440476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,047.90$",
-            "monthlyCost": "767.3$"
+            "netSalary": "2,047.90$",
+            "apartmentOneBedroom": "501.05$",
+            "monthlyCost": "767.5$",
+            "mealInexpensive": "6.42$",
+            "taxiStart": "4.34$",
+            "taxiOneKm": "3.21$"
         }
     },
     {
@@ -11237,8 +11589,12 @@
             "large": "https://images.pexels.com/photos/3038740/pexels-photo-3038740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,519.60$",
-            "monthlyCost": "1,177.4$"
+            "netSalary": "3,519.60$",
+            "apartmentOneBedroom": "1,401.86$",
+            "monthlyCost": "1,177.2$",
+            "mealInexpensive": "21.02$",
+            "taxiStart": "9.14$",
+            "taxiOneKm": "1.44$"
         }
     },
     {
@@ -11352,8 +11708,12 @@
             "large": "https://images.pexels.com/photos/2335167/pexels-photo-2335167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "861.84$",
-            "monthlyCost": "743.1€"
+            "netSalary": "861.84$",
+            "apartmentOneBedroom": "938.33$",
+            "monthlyCost": "743.1€",
+            "mealInexpensive": "11.75$",
+            "taxiStart": "2.25$",
+            "taxiOneKm": "1.50$"
         }
     },
     {
@@ -11467,8 +11827,12 @@
             "large": "https://images.pexels.com/photos/5019013/pexels-photo-5019013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,053.52$",
-            "monthlyCost": "1,186.3$"
+            "netSalary": "3,053.52$",
+            "apartmentOneBedroom": "1,512.95$",
+            "monthlyCost": "1,185.7$",
+            "mealInexpensive": "19.31$",
+            "taxiStart": "6.70$",
+            "taxiOneKm": "2.07$"
         }
     },
     {
@@ -11582,8 +11946,12 @@
             "large": "https://images.pexels.com/photos/6761495/pexels-photo-6761495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,719.85$",
-            "monthlyCost": "1,145.0$"
+            "netSalary": "3,719.85$",
+            "apartmentOneBedroom": "1,683.91$",
+            "monthlyCost": "1,145.0$",
+            "mealInexpensive": "13.06$",
+            "taxiStart": "4.57$",
+            "taxiOneKm": "1.80$"
         }
     },
     {
@@ -11697,8 +12065,12 @@
             "large": "https://images.pexels.com/photos/1574851/pexels-photo-1574851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,283.43$",
-            "monthlyCost": "1,166.1€"
+            "netSalary": "4,283.43$",
+            "apartmentOneBedroom": "1,776.19$",
+            "monthlyCost": "1,166.1€",
+            "mealInexpensive": "20.00$",
+            "taxiStart": "2.70$",
+            "taxiOneKm": "1.55$"
         }
     },
     {
@@ -11812,8 +12184,12 @@
             "large": "https://images.pexels.com/photos/3864243/pexels-photo-3864243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "325.81$",
-            "monthlyCost": "598.9€"
+            "netSalary": "325.81$",
+            "apartmentOneBedroom": "486.19$",
+            "monthlyCost": "599.0€",
+            "mealInexpensive": "5.00$",
+            "taxiStart": "0.98$",
+            "taxiOneKm": "1.00$"
         }
     },
     {
@@ -11927,8 +12303,12 @@
             "large": "https://images.pexels.com/photos/5109305/pexels-photo-5109305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,646.48$",
-            "monthlyCost": "1,058.0€"
+            "netSalary": "4,646.48$",
+            "apartmentOneBedroom": "1,581.04$",
+            "monthlyCost": "1,058.0€",
+            "mealInexpensive": "20.00$",
+            "taxiStart": "2.75$",
+            "taxiOneKm": "1.37$"
         }
     },
     {
@@ -12042,8 +12422,12 @@
             "large": "https://images.pexels.com/photos/2549573/pexels-photo-2549573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,436.53$",
-            "monthlyCost": "692.7$"
+            "netSalary": "1,436.53$",
+            "apartmentOneBedroom": "1,022.64$",
+            "monthlyCost": "692.7$",
+            "mealInexpensive": "9.65$",
+            "taxiStart": "3.75$",
+            "taxiOneKm": "0.75$"
         }
     },
     {
@@ -12157,8 +12541,12 @@
             "large": "https://images.pexels.com/photos/126292/pexels-photo-126292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,796.32$",
-            "monthlyCost": "855.8$"
+            "netSalary": "1,796.32$",
+            "apartmentOneBedroom": "1,037.87$",
+            "monthlyCost": "855.8$",
+            "mealInexpensive": "8.51$",
+            "taxiStart": "2.13$",
+            "taxiOneKm": "1.26$"
         }
     },
     {
@@ -12272,8 +12660,12 @@
             "large": "https://images.pexels.com/photos/19016682/pexels-photo-19016682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,819.22$",
-            "monthlyCost": ""
+            "netSalary": "3,819.22$",
+            "apartmentOneBedroom": "1,800.00$",
+            "monthlyCost": "",
+            "mealInexpensive": "18.00$",
+            "taxiStart": "3.00$",
+            "taxiOneKm": "2.05$"
         }
     },
     {
@@ -12387,8 +12779,12 @@
             "large": "https://images.pexels.com/photos/18384897/pexels-photo-18384897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,511.70$",
-            "monthlyCost": "1,066.6$"
+            "netSalary": "2,511.70$",
+            "apartmentOneBedroom": "968.86$",
+            "monthlyCost": "1,066.6$",
+            "mealInexpensive": "18.28$",
+            "taxiStart": "3.66$",
+            "taxiOneKm": "2.38$"
         }
     },
     {
@@ -12502,8 +12898,12 @@
             "large": "https://images.pexels.com/photos/8253082/pexels-photo-8253082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "496.25$",
-            "monthlyCost": "533.5€"
+            "netSalary": "496.25$",
+            "apartmentOneBedroom": "443.47$",
+            "monthlyCost": "533.5€",
+            "mealInexpensive": "4.25$",
+            "taxiStart": "1.50$",
+            "taxiOneKm": "1.50$"
         }
     },
     {
@@ -12617,8 +13017,12 @@
             "large": "https://images.pexels.com/photos/5489599/pexels-photo-5489599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,430.18$",
-            "monthlyCost": "1,215.3€"
+            "netSalary": "4,430.18$",
+            "apartmentOneBedroom": "2,007.42$",
+            "monthlyCost": "1,215.3€",
+            "mealInexpensive": "20.00$",
+            "taxiStart": "2.50$",
+            "taxiOneKm": "1.55$"
         }
     },
     {
@@ -12732,8 +13136,12 @@
             "large": "https://images.pexels.com/photos/5273533/pexels-photo-5273533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,668.05$",
-            "monthlyCost": "1,293.0$"
+            "netSalary": "3,668.05$",
+            "apartmentOneBedroom": "1,851.08$",
+            "monthlyCost": "1,293.0$",
+            "mealInexpensive": "21.04$",
+            "taxiStart": "5.22$",
+            "taxiOneKm": "2.31$"
         }
     },
     {
@@ -12847,8 +13255,12 @@
             "large": "https://images.pexels.com/photos/351283/pexels-photo-351283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "346.74$",
-            "monthlyCost": "620.8$"
+            "netSalary": "346.74$",
+            "apartmentOneBedroom": "463.03$",
+            "monthlyCost": "638.5$",
+            "mealInexpensive": "6.80$",
+            "taxiStart": "1.17$",
+            "taxiOneKm": "1.07$"
         }
     },
     {
@@ -12962,8 +13374,12 @@
             "large": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,830.30$",
-            "monthlyCost": "922.9$"
+            "netSalary": "1,830.30$",
+            "apartmentOneBedroom": "1,160.64$",
+            "monthlyCost": "922.9$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "4.29$",
+            "taxiOneKm": "1.61$"
         }
     },
     {
@@ -13077,8 +13493,12 @@
             "large": "https://images.pexels.com/photos/356993/pexels-photo-356993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "780.22$",
-            "monthlyCost": "535.8$"
+            "netSalary": "780.22$",
+            "apartmentOneBedroom": "537.14$",
+            "monthlyCost": "535.8$",
+            "mealInexpensive": "7.61$",
+            "taxiStart": "1.63$",
+            "taxiOneKm": "0.54$"
         }
     },
     {
@@ -13192,8 +13612,12 @@
             "large": "https://images.pexels.com/photos/2416589/pexels-photo-2416589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,523.07$",
-            "monthlyCost": "1,020.7€"
+            "netSalary": "4,523.07$",
+            "apartmentOneBedroom": "1,718.16$",
+            "monthlyCost": "1,020.7€",
+            "mealInexpensive": "17.00$",
+            "taxiStart": "5.00$",
+            "taxiOneKm": "2.44$"
         }
     },
     {
@@ -13307,8 +13731,12 @@
             "large": "https://images.pexels.com/photos/13733832/pexels-photo-13733832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "310.85$",
-            "monthlyCost": ""
+            "netSalary": "310.85$",
+            "apartmentOneBedroom": "375.61$",
+            "monthlyCost": "",
+            "mealInexpensive": "6.02$",
+            "taxiStart": "0.97$",
+            "taxiOneKm": "?"
         }
     },
     {
@@ -13422,8 +13850,12 @@
             "large": "https://images.pexels.com/photos/2157685/pexels-photo-2157685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "5,592.66$",
-            "monthlyCost": "1,302.9€"
+            "netSalary": "5,592.66$",
+            "apartmentOneBedroom": "2,861.75$",
+            "monthlyCost": "1,302.9€",
+            "mealInexpensive": "22.00$",
+            "taxiStart": "7.50$",
+            "taxiOneKm": "1.86$"
         }
     },
     {
@@ -13537,8 +13969,12 @@
             "large": "https://images.pexels.com/photos/1141853/pexels-photo-1141853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "7,629.41$",
-            "monthlyCost": "1,441.4€"
+            "netSalary": "7,629.41$",
+            "apartmentOneBedroom": "3,268.17$",
+            "monthlyCost": "1,441.4€",
+            "mealInexpensive": "25.00$",
+            "taxiStart": "4.50$",
+            "taxiOneKm": "3.11$"
         }
     },
     {
@@ -13652,8 +14088,12 @@
             "large": "https://images.pexels.com/photos/462331/pexels-photo-462331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "6,689.10$",
-            "monthlyCost": "1,386.4€"
+            "netSalary": "6,689.10$",
+            "apartmentOneBedroom": "2,833.18$",
+            "monthlyCost": "1,386.5€",
+            "mealInexpensive": "20.50$",
+            "taxiStart": "3.50$",
+            "taxiOneKm": "1.86$"
         }
     },
     {
@@ -13767,8 +14207,12 @@
             "large": "https://images.pexels.com/photos/2565221/pexels-photo-2565221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,188.33$",
-            "monthlyCost": "1,118.3€"
+            "netSalary": "2,188.33$",
+            "apartmentOneBedroom": "1,883.33$",
+            "monthlyCost": "1,118.3€",
+            "mealInexpensive": "20.00$",
+            "taxiStart": "10.00$",
+            "taxiOneKm": "1.50$"
         }
     },
     {
@@ -13882,8 +14326,12 @@
             "large": "https://images.pexels.com/photos/2017747/pexels-photo-2017747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "695.09$",
-            "monthlyCost": "731.0$"
+            "netSalary": "695.09$",
+            "apartmentOneBedroom": "525.87$",
+            "monthlyCost": "731.0$",
+            "mealInexpensive": "10.50$",
+            "taxiStart": "0.42$",
+            "taxiOneKm": "1.44$"
         }
     },
     {
@@ -13996,7 +14444,7 @@
             "small": "https://images.pexels.com/photos/97906/pexels-photo-97906.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/97906/pexels-photo-97906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "US",
@@ -14109,8 +14557,12 @@
             "large": "https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "6,455.94$",
-            "monthlyCost": "1,309.6€"
+            "netSalary": "6,455.94$",
+            "apartmentOneBedroom": "2,525.03$",
+            "monthlyCost": "1,309.8€",
+            "mealInexpensive": "20.00$",
+            "taxiStart": "5.00$",
+            "taxiOneKm": "1.82$"
         }
     },
     {
@@ -14224,8 +14676,12 @@
             "large": "https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,878.87$",
-            "monthlyCost": "1,127.8$"
+            "netSalary": "2,878.87$",
+            "apartmentOneBedroom": "851.69$",
+            "monthlyCost": "1,127.8$",
+            "mealInexpensive": "7.64$",
+            "taxiStart": "3.49$",
+            "taxiOneKm": "0.73$"
         }
     },
     {
@@ -14338,7 +14794,7 @@
             "small": "https://images.pexels.com/photos/1143416/pexels-photo-1143416.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/1143416/pexels-photo-1143416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "CN",
@@ -14451,8 +14907,12 @@
             "large": "https://images.pexels.com/photos/745243/pexels-photo-745243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,476.75$",
-            "monthlyCost": "671.2$"
+            "netSalary": "1,476.75$",
+            "apartmentOneBedroom": "1,004.53$",
+            "monthlyCost": "671.3$",
+            "mealInexpensive": "4.14$",
+            "taxiStart": "2.21$",
+            "taxiOneKm": "0.41$"
         }
     },
     {
@@ -14566,8 +15026,12 @@
             "large": "https://images.pexels.com/photos/2416576/pexels-photo-2416576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "165.00$",
-            "monthlyCost": ""
+            "netSalary": "165.00$",
+            "apartmentOneBedroom": "235.00$",
+            "monthlyCost": "",
+            "mealInexpensive": "2.47$",
+            "taxiStart": "0.75$",
+            "taxiOneKm": "1.00$"
         }
     },
     {
@@ -14681,8 +15145,12 @@
             "large": "https://images.pexels.com/photos/777059/pexels-photo-777059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,462.08$",
-            "monthlyCost": "1,110.2$"
+            "netSalary": "4,462.08$",
+            "apartmentOneBedroom": "2,728.07$",
+            "monthlyCost": "1,110.2$",
+            "mealInexpensive": "11.04$",
+            "taxiStart": "3.20$",
+            "taxiOneKm": "0.74$"
         }
     },
     {
@@ -14796,8 +15264,12 @@
             "large": "https://images.pexels.com/photos/3382753/pexels-photo-3382753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,267.61$",
-            "monthlyCost": "678.9$"
+            "netSalary": "1,267.61$",
+            "apartmentOneBedroom": "549.32$",
+            "monthlyCost": "679.0$",
+            "mealInexpensive": "10.96$",
+            "taxiStart": "1.37$",
+            "taxiOneKm": "0.71$"
         }
     },
     {
@@ -14911,8 +15383,12 @@
             "large": "https://images.pexels.com/photos/1065593/pexels-photo-1065593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,256.53$",
-            "monthlyCost": "723.7$"
+            "netSalary": "1,256.53$",
+            "apartmentOneBedroom": "680.66$",
+            "monthlyCost": "723.7$",
+            "mealInexpensive": "11.37$",
+            "taxiStart": "2.15$",
+            "taxiOneKm": "1.07$"
         }
     },
     {
@@ -15025,7 +15501,7 @@
             "small": "https://images.pexels.com/photos/22566/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/22566/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "SE",
@@ -15138,8 +15614,12 @@
             "large": "https://images.pexels.com/photos/1529040/pexels-photo-1529040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,283.29$",
-            "monthlyCost": "1,045.1$"
+            "netSalary": "3,283.29$",
+            "apartmentOneBedroom": "1,532.22$",
+            "monthlyCost": "1,045.0$",
+            "mealInexpensive": "13.84$",
+            "taxiStart": "5.44$",
+            "taxiOneKm": "3.00$"
         }
     },
     {
@@ -15253,8 +15733,12 @@
             "large": "https://images.pexels.com/photos/356567/pexels-photo-356567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,088.05$",
-            "monthlyCost": "1,003.5$"
+            "netSalary": "4,088.05$",
+            "apartmentOneBedroom": "1,094.31$",
+            "monthlyCost": "1,003.5$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "4.50$",
+            "taxiOneKm": "2.68$"
         }
     },
     {
@@ -15368,8 +15852,12 @@
             "large": "https://images.pexels.com/photos/1619854/pexels-photo-1619854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,904.81$",
-            "monthlyCost": "1,175.7$"
+            "netSalary": "3,904.81$",
+            "apartmentOneBedroom": "2,207.74$",
+            "monthlyCost": "1,175.5$",
+            "mealInexpensive": "16.32$",
+            "taxiStart": "5.22$",
+            "taxiOneKm": "2.94$"
         }
     },
     {
@@ -15483,8 +15971,12 @@
             "large": "https://images.pexels.com/photos/260566/pexels-photo-260566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,809.60$",
-            "monthlyCost": "788.2$"
+            "netSalary": "1,809.60$",
+            "apartmentOneBedroom": "655.15$",
+            "monthlyCost": "788.4$",
+            "mealInexpensive": "6.14$",
+            "taxiStart": "2.61$",
+            "taxiOneKm": "0.77$"
         }
     },
     {
@@ -15598,8 +16090,12 @@
             "large": "https://images.pexels.com/photos/1031592/pexels-photo-1031592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,785.07$",
-            "monthlyCost": "916.1$"
+            "netSalary": "1,785.07$",
+            "apartmentOneBedroom": "709.31$",
+            "monthlyCost": "916.1$",
+            "mealInexpensive": "12.87$",
+            "taxiStart": "3.22$",
+            "taxiOneKm": "0.86$"
         }
     },
     {
@@ -15713,8 +16209,12 @@
             "large": "https://images.pexels.com/photos/2759804/pexels-photo-2759804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "536.74$",
-            "monthlyCost": "624.7$"
+            "netSalary": "536.74$",
+            "apartmentOneBedroom": "759.66$",
+            "monthlyCost": "624.9$",
+            "mealInexpensive": "10.82$",
+            "taxiStart": "1.49$",
+            "taxiOneKm": "0.75$"
         }
     },
     {
@@ -15827,7 +16327,7 @@
             "small": "https://images.pexels.com/photos/4038322/pexels-photo-4038322.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/4038322/pexels-photo-4038322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "JP",
@@ -15940,8 +16440,12 @@
             "large": "https://images.pexels.com/photos/2614818/pexels-photo-2614818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,780.60$",
-            "monthlyCost": "938.9$"
+            "netSalary": "2,780.60$",
+            "apartmentOneBedroom": "971.63$",
+            "monthlyCost": "938.9$",
+            "mealInexpensive": "6.42$",
+            "taxiStart": "3.21$",
+            "taxiOneKm": "2.57$"
         }
     },
     {
@@ -16055,8 +16559,12 @@
             "large": "https://images.pexels.com/photos/1519088/pexels-photo-1519088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,437.05$",
-            "monthlyCost": "1,121.7$"
+            "netSalary": "3,437.05$",
+            "apartmentOneBedroom": "1,836.10$",
+            "monthlyCost": "1,121.7$",
+            "mealInexpensive": "18.28$",
+            "taxiStart": "3.66$",
+            "taxiOneKm": "1.28$"
         }
     },
     {
@@ -16170,8 +16678,12 @@
             "large": "https://images.pexels.com/photos/13103311/pexels-photo-13103311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,736.49$",
-            "monthlyCost": "1,029.5$"
+            "netSalary": "2,736.49$",
+            "apartmentOneBedroom": "715.03$",
+            "monthlyCost": "1,029.5$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "2.63$",
+            "taxiOneKm": "1.72$"
         }
     },
     {
@@ -16285,8 +16797,12 @@
             "large": "https://images.pexels.com/photos/256150/pexels-photo-256150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,115.74$",
-            "monthlyCost": "723.5$"
+            "netSalary": "2,115.74$",
+            "apartmentOneBedroom": "1,044.61$",
+            "monthlyCost": "723.5$",
+            "mealInexpensive": "13.67$",
+            "taxiStart": "2.36$",
+            "taxiOneKm": "1.27$"
         }
     },
     {
@@ -16400,8 +16916,12 @@
             "large": "https://images.pexels.com/photos/2382868/pexels-photo-2382868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,131.50$",
-            "monthlyCost": "1,172.4$"
+            "netSalary": "3,131.50$",
+            "apartmentOneBedroom": "2,044.94$",
+            "monthlyCost": "1,172.4$",
+            "mealInexpensive": "18.28$",
+            "taxiStart": "2.93$",
+            "taxiOneKm": "1.74$"
         }
     },
     {
@@ -16515,8 +17035,12 @@
             "large": "https://images.pexels.com/photos/1144265/pexels-photo-1144265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,662.44$",
-            "monthlyCost": ""
+            "netSalary": "1,662.44$",
+            "apartmentOneBedroom": "1,054.66$",
+            "monthlyCost": "",
+            "mealInexpensive": "18.23$",
+            "taxiStart": "3.43$",
+            "taxiOneKm": "1.47$"
         }
     },
     {
@@ -16630,8 +17154,12 @@
             "large": "https://images.pexels.com/photos/161074/vienna-st-charles-s-church-downtown-church-161074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,894.42$",
-            "monthlyCost": "1,082.8$"
+            "netSalary": "2,894.42$",
+            "apartmentOneBedroom": "1,076.80$",
+            "monthlyCost": "1,082.8$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "4.29$",
+            "taxiOneKm": "1.74$"
         }
     },
     {
@@ -16745,8 +17273,12 @@
             "large": "https://images.pexels.com/photos/6642186/pexels-photo-6642186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,531.77$",
-            "monthlyCost": "813.8$"
+            "netSalary": "1,531.77$",
+            "apartmentOneBedroom": "800.21$",
+            "monthlyCost": "813.8$",
+            "mealInexpensive": "12.87$",
+            "taxiStart": "2.68$",
+            "taxiOneKm": "0.75$"
         }
     },
     {
@@ -16860,8 +17392,12 @@
             "large": "https://images.pexels.com/photos/1726246/pexels-photo-1726246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,706.12$",
-            "monthlyCost": "799.1$"
+            "netSalary": "1,706.12$",
+            "apartmentOneBedroom": "1,146.60$",
+            "monthlyCost": "799.1$",
+            "mealInexpensive": "9.93$",
+            "taxiStart": "1.99$",
+            "taxiOneKm": "0.74$"
         }
     },
     {
@@ -16975,8 +17511,12 @@
             "large": "https://images.pexels.com/photos/4350631/pexels-photo-4350631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,436.91$",
-            "monthlyCost": "1,104.0$"
+            "netSalary": "2,436.91$",
+            "apartmentOneBedroom": "1,511.22$",
+            "monthlyCost": "1,103.8$",
+            "mealInexpensive": "14.91$",
+            "taxiStart": "2.24$",
+            "taxiOneKm": "1.79$"
         }
     },
     {
@@ -17089,7 +17629,7 @@
             "small": "https://images.pexels.com/photos/4275888/pexels-photo-4275888.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/4275888/pexels-photo-4275888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "CN",
@@ -17202,8 +17742,12 @@
             "large": "https://images.pexels.com/photos/18184753/pexels-photo-18184753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "667.69$",
-            "monthlyCost": ""
+            "netSalary": "667.69$",
+            "apartmentOneBedroom": "413.95$",
+            "monthlyCost": "",
+            "mealInexpensive": "2.76$",
+            "taxiStart": "1.38$",
+            "taxiOneKm": "0.34$"
         }
     },
     {
@@ -17317,8 +17861,12 @@
             "large": "https://images.pexels.com/photos/1137476/pexels-photo-1137476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "235.38$",
-            "monthlyCost": ""
+            "netSalary": "235.38$",
+            "apartmentOneBedroom": "759.67$",
+            "monthlyCost": "",
+            "mealInexpensive": "1.94$",
+            "taxiStart": "1.29$",
+            "taxiOneKm": "0.87$"
         }
     },
     {
@@ -17432,8 +17980,12 @@
             "large": "https://images.pexels.com/photos/17555537/pexels-photo-17555537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,451.29$",
-            "monthlyCost": "826.2$"
+            "netSalary": "1,451.29$",
+            "apartmentOneBedroom": "702.18$",
+            "monthlyCost": "826.2$",
+            "mealInexpensive": "12.87$",
+            "taxiStart": "2.14$",
+            "taxiOneKm": "0.98$"
         }
     },
     {
@@ -17546,7 +18098,7 @@
             "small": "https://images.pexels.com/photos/17628880/pexels-photo-17628880.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17628880/pexels-photo-17628880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "AU",
@@ -17659,8 +18211,12 @@
             "large": "https://images.pexels.com/photos/15898048/pexels-photo-15898048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,047.57$",
-            "monthlyCost": "1,276.7$"
+            "netSalary": "3,047.57$",
+            "apartmentOneBedroom": "1,439.80$",
+            "monthlyCost": "1,276.6$",
+            "mealInexpensive": "19.59$",
+            "taxiStart": "3.26$",
+            "taxiOneKm": "1.96$"
         }
     },
     {
@@ -17774,8 +18330,12 @@
             "large": "https://images.pexels.com/photos/54124/pexels-photo-54124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "545.42$",
-            "monthlyCost": "372.3$"
+            "netSalary": "545.42$",
+            "apartmentOneBedroom": "193.11$",
+            "monthlyCost": "372.4$",
+            "mealInexpensive": "3.00$",
+            "taxiStart": "1.20$",
+            "taxiOneKm": "0.30$"
         }
     },
     {
@@ -17889,8 +18449,12 @@
             "large": "https://images.pexels.com/photos/3091117/pexels-photo-3091117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,259.36$",
-            "monthlyCost": "1,055.0€"
+            "netSalary": "4,259.36$",
+            "apartmentOneBedroom": "1,582.18$",
+            "monthlyCost": "1,055.0€",
+            "mealInexpensive": "17.00$",
+            "taxiStart": "3.05$",
+            "taxiOneKm": "1.93$"
         }
     },
     {
@@ -18004,8 +18568,12 @@
             "large": "https://images.pexels.com/photos/17125402/pexels-photo-17125402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,549.82$",
-            "monthlyCost": "731.0$"
+            "netSalary": "1,549.82$",
+            "apartmentOneBedroom": "920.60$",
+            "monthlyCost": "731.0$",
+            "mealInexpensive": "13.94$",
+            "taxiStart": "2.12$",
+            "taxiOneKm": "1.29$"
         }
     },
     {
@@ -18119,8 +18687,12 @@
             "large": "https://images.pexels.com/photos/2767815/pexels-photo-2767815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "548.51$",
-            "monthlyCost": "537.0$"
+            "netSalary": "548.51$",
+            "apartmentOneBedroom": "612.86$",
+            "monthlyCost": "537.0$",
+            "mealInexpensive": "9.22$",
+            "taxiStart": "0.86$",
+            "taxiOneKm": "0.77$"
         }
     },
     {
@@ -18234,8 +18806,12 @@
             "large": "https://images.pexels.com/photos/220760/pexels-photo-220760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,552.26$",
-            "monthlyCost": "1,049.7$"
+            "netSalary": "2,552.26$",
+            "apartmentOneBedroom": "965.29$",
+            "monthlyCost": "1,049.7$",
+            "mealInexpensive": "21.45$",
+            "taxiStart": "5.36$",
+            "taxiOneKm": "2.25$"
         }
     },
     {
@@ -18349,8 +18925,12 @@
             "large": "https://images.pexels.com/photos/9637669/pexels-photo-9637669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,796.92$",
-            "monthlyCost": "1,126.4€"
+            "netSalary": "3,796.92$",
+            "apartmentOneBedroom": "2,262.50$",
+            "monthlyCost": "1,126.4€",
+            "mealInexpensive": "23.50$",
+            "taxiStart": "5.00$",
+            "taxiOneKm": "3.11$"
         }
     },
     {
@@ -18464,8 +19044,12 @@
             "large": "https://images.pexels.com/photos/8469339/pexels-photo-8469339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "407.51$",
-            "monthlyCost": "471.7$"
+            "netSalary": "407.51$",
+            "apartmentOneBedroom": "434.07$",
+            "monthlyCost": "471.7$",
+            "mealInexpensive": "4.38$",
+            "taxiStart": "1.08$",
+            "taxiOneKm": "1.35$"
         }
     },
     {
@@ -18579,8 +19163,12 @@
             "large": "https://images.pexels.com/photos/2716795/pexels-photo-2716795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "477.27$",
-            "monthlyCost": "563.4$"
+            "netSalary": "477.27$",
+            "apartmentOneBedroom": "488.43$",
+            "monthlyCost": "563.6$",
+            "mealInexpensive": "10.00$",
+            "taxiStart": "1.47$",
+            "taxiOneKm": "0.59$"
         }
     },
     {
@@ -18694,8 +19282,12 @@
             "large": "https://images.pexels.com/photos/1117211/pexels-photo-1117211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,758.65$",
-            "monthlyCost": ""
+            "netSalary": "4,758.65$",
+            "apartmentOneBedroom": "1,733.33$",
+            "monthlyCost": "",
+            "mealInexpensive": "17.50$",
+            "taxiStart": "1.80$",
+            "taxiOneKm": "1.37$"
         }
     },
     {
@@ -18808,7 +19400,7 @@
             "small": "https://images.pexels.com/photos/4038065/pexels-photo-4038065.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/4038065/pexels-photo-4038065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "BA",
@@ -18921,8 +19513,12 @@
             "large": "https://images.pexels.com/photos/14515044/pexels-photo-14515044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "657.73$",
-            "monthlyCost": "633.6$"
+            "netSalary": "657.73$",
+            "apartmentOneBedroom": "307.31$",
+            "monthlyCost": "633.6$",
+            "mealInexpensive": "8.21$",
+            "taxiStart": "1.37$",
+            "taxiOneKm": "0.99$"
         }
     },
     {
@@ -19036,8 +19632,12 @@
             "large": "https://images.pexels.com/photos/19010136/pexels-photo-19010136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "7,472.17$",
-            "monthlyCost": "1,808.7$"
+            "netSalary": "7,472.17$",
+            "apartmentOneBedroom": "1,851.88$",
+            "monthlyCost": "1,808.6$",
+            "mealInexpensive": "27.39$",
+            "taxiStart": "6.57$",
+            "taxiOneKm": "3.89$"
         }
     },
     {
@@ -19151,8 +19751,12 @@
             "large": "https://images.pexels.com/photos/1650799/pexels-photo-1650799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,609.10$",
-            "monthlyCost": "928.9$"
+            "netSalary": "2,609.10$",
+            "apartmentOneBedroom": "1,142.56$",
+            "monthlyCost": "928.9$",
+            "mealInexpensive": "23.79$",
+            "taxiStart": "5.01$",
+            "taxiOneKm": "2.33$"
         }
     },
     {
@@ -19266,8 +19870,12 @@
             "large": "https://images.pexels.com/photos/2874752/pexels-photo-2874752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,983.01$",
-            "monthlyCost": "1,242.1$"
+            "netSalary": "2,983.01$",
+            "apartmentOneBedroom": "1,157.28$",
+            "monthlyCost": "1,242.1$",
+            "mealInexpensive": "21.71$",
+            "taxiStart": "13.25$",
+            "taxiOneKm": "1.60$"
         }
     },
     {
@@ -19381,8 +19989,12 @@
             "large": "https://images.pexels.com/photos/1291766/pexels-photo-1291766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "6,159.56$",
-            "monthlyCost": "1,649.1$"
+            "netSalary": "6,159.56$",
+            "apartmentOneBedroom": "1,575.92$",
+            "monthlyCost": "1,649.1$",
+            "mealInexpensive": "25.20$",
+            "taxiStart": "7.56$",
+            "taxiOneKm": "5.48$"
         }
     },
     {
@@ -19496,8 +20108,12 @@
             "large": "https://images.pexels.com/photos/18795939/pexels-photo-18795939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,161.41$",
-            "monthlyCost": "828.9$"
+            "netSalary": "2,161.41$",
+            "apartmentOneBedroom": "976.01$",
+            "monthlyCost": "828.9$",
+            "mealInexpensive": "15.02$",
+            "taxiStart": "5.01$",
+            "taxiOneKm": "0.97$"
         }
     },
     {
@@ -19611,8 +20227,12 @@
             "large": "https://images.pexels.com/photos/7245098/pexels-photo-7245098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,073.22$",
-            "monthlyCost": "940.7$"
+            "netSalary": "3,073.22$",
+            "apartmentOneBedroom": "1,218.41$",
+            "monthlyCost": "940.7$",
+            "mealInexpensive": "18.78$",
+            "taxiStart": "6.26$",
+            "taxiOneKm": "1.40$"
         }
     },
     {
@@ -19726,8 +20346,12 @@
             "large": "https://images.pexels.com/photos/3617633/pexels-photo-3617633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,072.46$",
-            "monthlyCost": "675.1$"
+            "netSalary": "1,072.46$",
+            "apartmentOneBedroom": "850.37$",
+            "monthlyCost": "675.1$",
+            "mealInexpensive": "9.11$",
+            "taxiStart": "3.22$",
+            "taxiOneKm": "1.07$"
         }
     },
     {
@@ -19841,8 +20465,12 @@
             "large": "https://images.pexels.com/photos/18722049/pexels-photo-18722049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,226.00$",
-            "monthlyCost": "1,040.9$"
+            "netSalary": "3,226.00$",
+            "apartmentOneBedroom": "897.98$",
+            "monthlyCost": "1,040.9$",
+            "mealInexpensive": "12.87$",
+            "taxiStart": "4.29$",
+            "taxiOneKm": "2.39$"
         }
     },
     {
@@ -19956,8 +20584,12 @@
             "large": "https://images.pexels.com/photos/12290930/pexels-photo-12290930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,630.89$",
-            "monthlyCost": "733.2$"
+            "netSalary": "1,630.89$",
+            "apartmentOneBedroom": "742.97$",
+            "monthlyCost": "733.0$",
+            "mealInexpensive": "7.24$",
+            "taxiStart": "2.55$",
+            "taxiOneKm": "1.28$"
         }
     },
     {
@@ -20071,8 +20703,12 @@
             "large": "https://images.pexels.com/photos/1054650/pexels-photo-1054650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,377.96$",
-            "monthlyCost": "1,221.5€"
+            "netSalary": "3,377.96$",
+            "apartmentOneBedroom": "1,514.00$",
+            "monthlyCost": "1,221.7€",
+            "mealInexpensive": "20.00$",
+            "taxiStart": "5.30$",
+            "taxiOneKm": "2.24$"
         }
     },
     {
@@ -20186,8 +20822,12 @@
             "large": "https://images.pexels.com/photos/17412187/pexels-photo-17412187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "653.06$",
-            "monthlyCost": "487.9$"
+            "netSalary": "653.06$",
+            "apartmentOneBedroom": "520.13$",
+            "monthlyCost": "487.9$",
+            "mealInexpensive": "6.92$",
+            "taxiStart": "0.98$",
+            "taxiOneKm": "0.68$"
         }
     },
     {
@@ -20301,8 +20941,12 @@
             "large": "https://images.pexels.com/photos/3018977/pexels-photo-3018977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,402.88$",
-            "monthlyCost": "980.3$"
+            "netSalary": "2,402.88$",
+            "apartmentOneBedroom": "405.21$",
+            "monthlyCost": "980.3$",
+            "mealInexpensive": "6.55$",
+            "taxiStart": "3.49$",
+            "taxiOneKm": "0.87$"
         }
     },
     {
@@ -20416,8 +21060,12 @@
             "large": "https://images.pexels.com/photos/17531831/pexels-photo-17531831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,552.40$",
-            "monthlyCost": "1,161.6$"
+            "netSalary": "3,552.40$",
+            "apartmentOneBedroom": "1,445.14$",
+            "monthlyCost": "1,164.5$",
+            "mealInexpensive": "18.28$",
+            "taxiStart": "3.29$",
+            "taxiOneKm": "2.56$"
         }
     },
     {
@@ -20531,8 +21179,12 @@
             "large": "https://images.pexels.com/photos/17582203/pexels-photo-17582203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,863.65$",
-            "monthlyCost": "1,355.1$"
+            "netSalary": "2,863.65$",
+            "apartmentOneBedroom": "1,812.18$",
+            "monthlyCost": "1,355.1$",
+            "mealInexpensive": "32.64$",
+            "taxiStart": "3.92$",
+            "taxiOneKm": "1.70$"
         }
     },
     {
@@ -20646,8 +21298,12 @@
             "large": "https://images.pexels.com/photos/6241160/pexels-photo-6241160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,743.06$",
-            "monthlyCost": "981.9$"
+            "netSalary": "2,743.06$",
+            "apartmentOneBedroom": "1,278.95$",
+            "monthlyCost": "981.6$",
+            "mealInexpensive": "17.53$",
+            "taxiStart": "3.76$",
+            "taxiOneKm": "1.48$"
         }
     },
     {
@@ -20761,8 +21417,12 @@
             "large": "https://images.pexels.com/photos/2404046/pexels-photo-2404046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "478.35$",
-            "monthlyCost": "516.6$"
+            "netSalary": "478.35$",
+            "apartmentOneBedroom": "510.38$",
+            "monthlyCost": "516.6$",
+            "mealInexpensive": "4.93$",
+            "taxiStart": "0.79$",
+            "taxiOneKm": "0.79$"
         }
     },
     {
@@ -20875,7 +21535,7 @@
             "small": "https://images.pexels.com/photos/17574438/pexels-photo-17574438.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17574438/pexels-photo-17574438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "US",
@@ -20988,8 +21648,12 @@
             "large": "https://images.pexels.com/photos/13185337/pexels-photo-13185337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,769.06$",
-            "monthlyCost": ""
+            "netSalary": "4,769.06$",
+            "apartmentOneBedroom": "2,166.67$",
+            "monthlyCost": "",
+            "mealInexpensive": "25.00$",
+            "taxiStart": "3.00$",
+            "taxiOneKm": "1.57$"
         }
     },
     {
@@ -21103,8 +21767,12 @@
             "large": "https://images.pexels.com/photos/6967905/pexels-photo-6967905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "862.62$",
-            "monthlyCost": "524.3$"
+            "netSalary": "862.62$",
+            "apartmentOneBedroom": "291.30$",
+            "monthlyCost": "524.4$",
+            "mealInexpensive": "2.76$",
+            "taxiStart": "1.24$",
+            "taxiOneKm": "0.28$"
         }
     },
     {
@@ -21218,8 +21886,12 @@
             "large": "https://images.pexels.com/photos/8572308/pexels-photo-8572308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "865.81$",
-            "monthlyCost": "350.6$"
+            "netSalary": "865.81$",
+            "apartmentOneBedroom": "211.65$",
+            "monthlyCost": "350.6$",
+            "mealInexpensive": "1.80$",
+            "taxiStart": "1.20$",
+            "taxiOneKm": "0.30$"
         }
     },
     {
@@ -21333,8 +22005,12 @@
             "large": "https://images.pexels.com/photos/17900510/pexels-photo-17900510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,974.56$",
-            "monthlyCost": "1,089.3€"
+            "netSalary": "3,974.56$",
+            "apartmentOneBedroom": "1,541.08$",
+            "monthlyCost": "1,089.3€",
+            "mealInexpensive": "20.00$",
+            "taxiStart": "3.00$",
+            "taxiOneKm": "1.26$"
         }
     },
     {
@@ -21448,8 +22124,12 @@
             "large": "https://images.pexels.com/photos/8817955/pexels-photo-8817955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "233.78$",
-            "monthlyCost": "549.2$"
+            "netSalary": "233.78$",
+            "apartmentOneBedroom": "307.90$",
+            "monthlyCost": "549.2$",
+            "mealInexpensive": "3.36$",
+            "taxiStart": "0.40$",
+            "taxiOneKm": "0.34$"
         }
     },
     {
@@ -21563,8 +22243,12 @@
             "large": "https://images.pexels.com/photos/1166647/pexels-photo-1166647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,391.86$",
-            "monthlyCost": "1,108.1$"
+            "netSalary": "3,391.86$",
+            "apartmentOneBedroom": "1,620.54$",
+            "monthlyCost": "1,108.1$",
+            "mealInexpensive": "17.70$",
+            "taxiStart": "5.36$",
+            "taxiOneKm": "2.04$"
         }
     },
     {
@@ -21678,8 +22362,12 @@
             "large": "https://images.pexels.com/photos/1045211/pexels-photo-1045211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "455.72$",
-            "monthlyCost": "548.2$"
+            "netSalary": "455.72$",
+            "apartmentOneBedroom": "351.65$",
+            "monthlyCost": "548.2$",
+            "mealInexpensive": "5.44$",
+            "taxiStart": "1.17$",
+            "taxiOneKm": "0.63$"
         }
     },
     {
@@ -21793,8 +22481,12 @@
             "large": "https://images.pexels.com/photos/17557990/pexels-photo-17557990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "705.60$",
-            "monthlyCost": "521.8$"
+            "netSalary": "705.60$",
+            "apartmentOneBedroom": "275.62$",
+            "monthlyCost": "521.8$",
+            "mealInexpensive": "3.45$",
+            "taxiStart": "1.38$",
+            "taxiOneKm": "0.40$"
         }
     },
     {
@@ -21907,7 +22599,7 @@
             "small": "https://images.pexels.com/photos/18806088/pexels-photo-18806088.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18806088/pexels-photo-18806088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "PH",
@@ -22019,7 +22711,7 @@
             "small": "https://images.pexels.com/photos/20701631/pexels-photo-20701631.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/20701631/pexels-photo-20701631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "BD",
@@ -22132,8 +22824,12 @@
             "large": "https://images.pexels.com/photos/11596373/pexels-photo-11596373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "294.04$",
-            "monthlyCost": "413.8$"
+            "netSalary": "294.04$",
+            "apartmentOneBedroom": "117.71$",
+            "monthlyCost": "413.9$",
+            "mealInexpensive": "2.28$",
+            "taxiStart": "1.37$",
+            "taxiOneKm": "0.46$"
         }
     },
     {
@@ -22247,8 +22943,12 @@
             "large": "https://images.pexels.com/photos/3069345/pexels-photo-3069345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,492.08$",
-            "monthlyCost": "923.4$"
+            "netSalary": "3,508.95$",
+            "apartmentOneBedroom": "1,712.27$",
+            "monthlyCost": "923.5$",
+            "mealInexpensive": "8.24$",
+            "taxiStart": "2.20$",
+            "taxiOneKm": "2.20$"
         }
     },
     {
@@ -22362,8 +23062,12 @@
             "large": "https://images.pexels.com/photos/8050115/pexels-photo-8050115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,683.34$",
-            "monthlyCost": "1,100.7$"
+            "netSalary": "2,683.34$",
+            "apartmentOneBedroom": "807.98$",
+            "monthlyCost": "1,100.7$",
+            "mealInexpensive": "17.16$",
+            "taxiStart": "4.56$",
+            "taxiOneKm": "2.04$"
         }
     },
     {
@@ -22477,8 +23181,12 @@
             "large": "https://images.pexels.com/photos/776102/pexels-photo-776102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,870.17$",
-            "monthlyCost": "1,026.9$"
+            "netSalary": "2,870.17$",
+            "apartmentOneBedroom": "856.24$",
+            "monthlyCost": "1,026.9$",
+            "mealInexpensive": "12.87$",
+            "taxiStart": "4.29$",
+            "taxiOneKm": "2.57$"
         }
     },
     {
@@ -22592,8 +23300,12 @@
             "large": "https://images.pexels.com/photos/2587663/pexels-photo-2587663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "986.05$",
-            "monthlyCost": "542.9$"
+            "netSalary": "986.05$",
+            "apartmentOneBedroom": "329.66$",
+            "monthlyCost": "542.3$",
+            "mealInexpensive": "7.88$",
+            "taxiStart": "1.58$",
+            "taxiOneKm": "0.63$"
         }
     },
     {
@@ -22707,8 +23419,12 @@
             "large": "https://images.pexels.com/photos/10584080/pexels-photo-10584080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,138.44$",
-            "monthlyCost": "1,036.9$"
+            "netSalary": "3,138.44$",
+            "apartmentOneBedroom": "989.16$",
+            "monthlyCost": "1,036.9$",
+            "mealInexpensive": "14.63$",
+            "taxiStart": "3.00$",
+            "taxiOneKm": "1.28$"
         }
     },
     {
@@ -22822,8 +23538,12 @@
             "large": "https://images.pexels.com/photos/849227/pexels-photo-849227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "592.95$",
-            "monthlyCost": "488.2$"
+            "netSalary": "592.95$",
+            "apartmentOneBedroom": "395.27$",
+            "monthlyCost": "488.2$",
+            "mealInexpensive": "7.61$",
+            "taxiStart": "1.90$",
+            "taxiOneKm": "0.29$"
         }
     },
     {
@@ -22937,8 +23657,12 @@
             "large": "https://images.pexels.com/photos/14213936/pexels-photo-14213936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,085.95$",
-            "monthlyCost": "1,074.9$"
+            "netSalary": "3,085.95$",
+            "apartmentOneBedroom": "773.30$",
+            "monthlyCost": "1,074.9$",
+            "mealInexpensive": "14.48$",
+            "taxiStart": "4.29$",
+            "taxiOneKm": "6.44$"
         }
     },
     {
@@ -23052,8 +23776,12 @@
             "large": "https://images.pexels.com/photos/3412103/pexels-photo-3412103.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "237.67$",
-            "monthlyCost": "588.0$"
+            "netSalary": "237.67$",
+            "apartmentOneBedroom": "335.90$",
+            "monthlyCost": "588.1$",
+            "mealInexpensive": "4.86$",
+            "taxiStart": "1.17$",
+            "taxiOneKm": "0.87$"
         }
     },
     {
@@ -23167,8 +23895,12 @@
             "large": "https://images.pexels.com/photos/13680536/pexels-photo-13680536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "953.48$",
-            "monthlyCost": ""
+            "netSalary": "953.48$",
+            "apartmentOneBedroom": "186.28$",
+            "monthlyCost": "",
+            "mealInexpensive": "3.45$",
+            "taxiStart": "1.66$",
+            "taxiOneKm": "0.36$"
         }
     },
     {
@@ -23282,8 +24014,12 @@
             "large": "https://images.pexels.com/photos/11947131/pexels-photo-11947131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,461.16$",
-            "monthlyCost": ""
+            "netSalary": "1,461.16$",
+            "apartmentOneBedroom": "433.60$",
+            "monthlyCost": "",
+            "mealInexpensive": "6.74$",
+            "taxiStart": "3.53$",
+            "taxiOneKm": "5.07$"
         }
     },
     {
@@ -23396,7 +24132,7 @@
             "small": "https://images.pexels.com/photos/2927021/pexels-photo-2927021.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2927021/pexels-photo-2927021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "TR",
@@ -23509,8 +24245,12 @@
             "large": "https://images.pexels.com/photos/15522876/pexels-photo-15522876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "516.58$",
-            "monthlyCost": ""
+            "netSalary": "516.58$",
+            "apartmentOneBedroom": "322.20$",
+            "monthlyCost": "",
+            "mealInexpensive": "4.15$",
+            "taxiStart": "0.98$",
+            "taxiOneKm": "0.70$"
         }
     },
     {
@@ -23623,7 +24363,7 @@
             "small": "https://images.pexels.com/photos/5273641/pexels-photo-5273641.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/5273641/pexels-photo-5273641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "IT",
@@ -23736,8 +24476,12 @@
             "large": "https://images.pexels.com/photos/6125657/pexels-photo-6125657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,894.37$",
-            "monthlyCost": "987.3$"
+            "netSalary": "1,894.37$",
+            "apartmentOneBedroom": "750.78$",
+            "monthlyCost": "987.3$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "5.36$",
+            "taxiOneKm": "1.29$"
         }
     },
     {
@@ -23851,8 +24595,12 @@
             "large": "https://images.pexels.com/photos/18208295/pexels-photo-18208295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "445.58$",
-            "monthlyCost": "754.6$"
+            "netSalary": "445.58$",
+            "apartmentOneBedroom": "805.58$",
+            "monthlyCost": "754.6$",
+            "mealInexpensive": "9.09$",
+            "taxiStart": "2.39$",
+            "taxiOneKm": "2.87$"
         }
     },
     {
@@ -23965,7 +24713,7 @@
             "small": "https://images.pexels.com/photos/13401924/pexels-photo-13401924.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/13401924/pexels-photo-13401924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "SE",
@@ -24078,8 +24826,12 @@
             "large": "https://images.pexels.com/photos/769568/pexels-photo-769568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,922.85$",
-            "monthlyCost": "952.1$"
+            "netSalary": "2,922.85$",
+            "apartmentOneBedroom": "1,053.79$",
+            "monthlyCost": "952.0$",
+            "mealInexpensive": "11.76$",
+            "taxiStart": "5.72$",
+            "taxiOneKm": "1.64$"
         }
     },
     {
@@ -24193,8 +24945,12 @@
             "large": "https://images.pexels.com/photos/3424845/pexels-photo-3424845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,979.76$",
-            "monthlyCost": "993.7$"
+            "netSalary": "2,979.76$",
+            "apartmentOneBedroom": "1,108.74$",
+            "monthlyCost": "993.7$",
+            "mealInexpensive": "15.02$",
+            "taxiStart": "3.51$",
+            "taxiOneKm": "2.61$"
         }
     },
     {
@@ -24307,7 +25063,7 @@
             "small": "https://images.pexels.com/photos/5464062/pexels-photo-5464062.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/5464062/pexels-photo-5464062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "CA",
@@ -24420,8 +25176,12 @@
             "large": "https://images.pexels.com/photos/2887493/pexels-photo-2887493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,580.52$",
-            "monthlyCost": "1,081.4$"
+            "netSalary": "2,580.52$",
+            "apartmentOneBedroom": "1,450.43$",
+            "monthlyCost": "1,081.4$",
+            "mealInexpensive": "16.82$",
+            "taxiStart": "3.55$",
+            "taxiOneKm": "1.28$"
         }
     },
     {
@@ -24535,8 +25295,12 @@
             "large": "https://images.pexels.com/photos/17748652/pexels-photo-17748652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,217.62$",
-            "monthlyCost": ""
+            "netSalary": "3,217.62$",
+            "apartmentOneBedroom": "572.02$",
+            "monthlyCost": "",
+            "mealInexpensive": "12.87$",
+            "taxiStart": "3.22$",
+            "taxiOneKm": "1.66$"
         }
     },
     {
@@ -24650,8 +25414,12 @@
             "large": "https://images.pexels.com/photos/16015506/pexels-photo-16015506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,474.52$",
-            "monthlyCost": ""
+            "netSalary": "2,474.52$",
+            "apartmentOneBedroom": "1,461.40$",
+            "monthlyCost": "",
+            "mealInexpensive": "14.63$",
+            "taxiStart": "3.11$",
+            "taxiOneKm": "1.10$"
         }
     },
     {
@@ -24765,8 +25533,12 @@
             "large": "https://images.pexels.com/photos/14370889/pexels-photo-14370889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "965.16$",
-            "monthlyCost": "565.1$"
+            "netSalary": "965.16$",
+            "apartmentOneBedroom": "564.01$",
+            "monthlyCost": "565.2$",
+            "mealInexpensive": "3.45$",
+            "taxiStart": "1.79$",
+            "taxiOneKm": "0.38$"
         }
     },
     {
@@ -24875,13 +25647,14 @@
                 "avgHumidity": "60.9"
             }
         },
-        "photoUrl": {
-            "small": "test",
-            "large": "test"
-        },
+        "photoUrl": {},
         "costOfLiving": {
-            "apartment": "441.43$",
-            "monthlyCost": "627.9€"
+            "netSalary": "441.43$",
+            "apartmentOneBedroom": "339.29$",
+            "monthlyCost": "628.0€",
+            "mealInexpensive": "8.00$",
+            "taxiStart": "5.00$",
+            "taxiOneKm": "2.00$"
         }
     },
     {
@@ -24995,8 +25768,12 @@
             "large": "https://images.pexels.com/photos/3687869/pexels-photo-3687869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "32.50$",
-            "monthlyCost": "662.7€"
+            "netSalary": "32.50$",
+            "apartmentOneBedroom": "363.87$",
+            "monthlyCost": "662.7€",
+            "mealInexpensive": "6.00$",
+            "taxiStart": "10.00$",
+            "taxiOneKm": "0.41$"
         }
     },
     {
@@ -25109,7 +25886,7 @@
             "small": "https://images.pexels.com/photos/17583925/pexels-photo-17583925.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17583925/pexels-photo-17583925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "AU",
@@ -25222,8 +25999,12 @@
             "large": "https://images.pexels.com/photos/6571862/pexels-photo-6571862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,312.64$",
-            "monthlyCost": "1,158.2$"
+            "netSalary": "3,312.64$",
+            "apartmentOneBedroom": "1,640.38$",
+            "monthlyCost": "1,158.2$",
+            "mealInexpensive": "18.02$",
+            "taxiStart": "4.24$",
+            "taxiOneKm": "1.96$"
         }
     },
     {
@@ -25336,7 +26117,7 @@
             "small": "https://images.pexels.com/photos/92090/pexels-photo-92090.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/92090/pexels-photo-92090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "US",
@@ -25449,8 +26230,12 @@
             "large": "https://images.pexels.com/photos/2342585/pexels-photo-2342585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "5,566.42$",
-            "monthlyCost": "1,245.5€"
+            "netSalary": "5,621.73$",
+            "apartmentOneBedroom": "2,021.54$",
+            "monthlyCost": "1,245.6€",
+            "mealInexpensive": "23.00$",
+            "taxiStart": "5.00$",
+            "taxiOneKm": "2.80$"
         }
     },
     {
@@ -25564,8 +26349,12 @@
             "large": "https://images.pexels.com/photos/4402879/pexels-photo-4402879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "609.06$",
-            "monthlyCost": "706.2$"
+            "netSalary": "609.06$",
+            "apartmentOneBedroom": "982.95$",
+            "monthlyCost": "706.3$",
+            "mealInexpensive": "10.01$",
+            "taxiStart": "1.80$",
+            "taxiOneKm": "0.31$"
         }
     },
     {
@@ -25679,8 +26468,12 @@
             "large": "https://images.pexels.com/photos/16573687/pexels-photo-16573687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "982.33$",
-            "monthlyCost": "374.1$"
+            "netSalary": "982.33$",
+            "apartmentOneBedroom": "224.24$",
+            "monthlyCost": "374.1$",
+            "mealInexpensive": "3.00$",
+            "taxiStart": "1.20$",
+            "taxiOneKm": "0.36$"
         }
     },
     {
@@ -25794,8 +26587,12 @@
             "large": "https://images.pexels.com/photos/14958503/pexels-photo-14958503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,145.55$",
-            "monthlyCost": ""
+            "netSalary": "2,145.55$",
+            "apartmentOneBedroom": "381.83$",
+            "monthlyCost": "",
+            "mealInexpensive": "6.55$",
+            "taxiStart": "3.49$",
+            "taxiOneKm": "0.56$"
         }
     },
     {
@@ -25909,8 +26706,12 @@
             "large": "https://images.pexels.com/photos/6128188/pexels-photo-6128188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,428.98$",
-            "monthlyCost": "1,109.7$"
+            "netSalary": "2,428.98$",
+            "apartmentOneBedroom": "1,159.68$",
+            "monthlyCost": "1,109.7$",
+            "mealInexpensive": "15.55$",
+            "taxiStart": "8.74$",
+            "taxiOneKm": "2.09$"
         }
     },
     {
@@ -26024,8 +26825,12 @@
             "large": "https://images.pexels.com/photos/15817294/pexels-photo-15817294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "224.36$",
-            "monthlyCost": "360.3$"
+            "netSalary": "224.36$",
+            "apartmentOneBedroom": "163.58$",
+            "monthlyCost": "360.4$",
+            "mealInexpensive": "1.44$",
+            "taxiStart": "0.72$",
+            "taxiOneKm": "0.40$"
         }
     },
     {
@@ -26138,7 +26943,7 @@
             "small": "https://images.pexels.com/photos/2656502/pexels-photo-2656502.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2656502/pexels-photo-2656502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "IN",
@@ -26251,8 +27056,12 @@
             "large": "https://images.pexels.com/photos/3581364/pexels-photo-3581364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "520.55$",
-            "monthlyCost": "332.9$"
+            "netSalary": "520.55$",
+            "apartmentOneBedroom": "176.96$",
+            "monthlyCost": "332.9$",
+            "mealInexpensive": "3.60$",
+            "taxiStart": "1.20$",
+            "taxiOneKm": "0.30$"
         }
     },
     {
@@ -26366,8 +27175,12 @@
             "large": "https://images.pexels.com/photos/11355109/pexels-photo-11355109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "6,159.55$",
-            "monthlyCost": ""
+            "netSalary": "6,159.55$",
+            "apartmentOneBedroom": "3,095.83$",
+            "monthlyCost": "",
+            "mealInexpensive": "18.00$",
+            "taxiStart": "3.00$",
+            "taxiOneKm": "2.05$"
         }
     },
     {
@@ -26476,11 +27289,8 @@
                 "avgHumidity": "67.8"
             }
         },
-        "photoUrl": {
-            "small": "test",
-            "large": "test"
-        },
-        "costOfLiving": "no data"
+        "photoUrl": {},
+        "costOfLiving": {}
     },
     {
         "countryCode": "UG",
@@ -26593,8 +27403,12 @@
             "large": "https://images.pexels.com/photos/17567815/pexels-photo-17567815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "200.75$",
-            "monthlyCost": "538.5$"
+            "netSalary": "200.75$",
+            "apartmentOneBedroom": "272.51$",
+            "monthlyCost": "538.5$",
+            "mealInexpensive": "2.63$",
+            "taxiStart": "1.05$",
+            "taxiOneKm": "0.39$"
         }
     },
     {
@@ -26708,8 +27522,12 @@
             "large": "https://images.pexels.com/photos/2104882/pexels-photo-2104882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "231.38$",
-            "monthlyCost": "386.5$"
+            "netSalary": "231.38$",
+            "apartmentOneBedroom": "206.14$",
+            "monthlyCost": "386.5$",
+            "mealInexpensive": "1.65$",
+            "taxiStart": "2.25$",
+            "taxiOneKm": "1.13$"
         }
     },
     {
@@ -26823,8 +27641,12 @@
             "large": "https://images.pexels.com/photos/17542947/pexels-photo-17542947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,333.59$",
-            "monthlyCost": "1,100.1$"
+            "netSalary": "3,333.59$",
+            "apartmentOneBedroom": "1,214.00$",
+            "monthlyCost": "1,100.1$",
+            "mealInexpensive": "17.55$",
+            "taxiStart": "3.11$",
+            "taxiOneKm": "1.65$"
         }
     },
     {
@@ -26938,8 +27760,12 @@
             "large": "https://images.pexels.com/photos/460738/pexels-photo-460738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,970.67$",
-            "monthlyCost": ""
+            "netSalary": "1,970.67$",
+            "apartmentOneBedroom": "449.66$",
+            "monthlyCost": "",
+            "mealInexpensive": "5.78$",
+            "taxiStart": "3.21$",
+            "taxiOneKm": "1.26$"
         }
     },
     {
@@ -27053,8 +27879,12 @@
             "large": "https://images.pexels.com/photos/980180/pexels-photo-980180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "571.10$",
-            "monthlyCost": "317.6$"
+            "netSalary": "571.10$",
+            "apartmentOneBedroom": "213.29$",
+            "monthlyCost": "317.6$",
+            "mealInexpensive": "1.32$",
+            "taxiStart": "0.96$",
+            "taxiOneKm": "0.36$"
         }
     },
     {
@@ -27168,8 +27998,12 @@
             "large": "https://images.pexels.com/photos/2846217/pexels-photo-2846217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "468.71$",
-            "monthlyCost": "330.6$"
+            "netSalary": "468.71$",
+            "apartmentOneBedroom": "155.65$",
+            "monthlyCost": "330.6$",
+            "mealInexpensive": "2.40$",
+            "taxiStart": "0.60$",
+            "taxiOneKm": "0.30$"
         }
     },
     {
@@ -27282,7 +28116,7 @@
             "small": "https://images.pexels.com/photos/15937142/pexels-photo-15937142.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/15937142/pexels-photo-15937142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "KW",
@@ -27395,8 +28229,12 @@
             "large": "https://images.pexels.com/photos/19732295/pexels-photo-19732295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,300.36$",
-            "monthlyCost": "812.5$"
+            "netSalary": "2,300.36$",
+            "apartmentOneBedroom": "936.87$",
+            "monthlyCost": "812.5$",
+            "mealInexpensive": "8.12$",
+            "taxiStart": "3.25$",
+            "taxiOneKm": "3.25$"
         }
     },
     {
@@ -27510,8 +28348,12 @@
             "large": "https://images.pexels.com/photos/17783748/pexels-photo-17783748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "435.61$",
-            "monthlyCost": "523.0$"
+            "netSalary": "435.61$",
+            "apartmentOneBedroom": "273.08$",
+            "monthlyCost": "523.1$",
+            "mealInexpensive": "2.90$",
+            "taxiStart": "1.59$",
+            "taxiOneKm": "1.59$"
         }
     },
     {
@@ -27625,8 +28467,12 @@
             "large": "https://images.pexels.com/photos/2734406/pexels-photo-2734406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "198.88$",
-            "monthlyCost": "347.7$"
+            "netSalary": "198.88$",
+            "apartmentOneBedroom": "108.55$",
+            "monthlyCost": "347.7$",
+            "mealInexpensive": "1.80$",
+            "taxiStart": "0.79$",
+            "taxiOneKm": "0.51$"
         }
     },
     {
@@ -27739,7 +28585,7 @@
             "small": "https://images.pexels.com/photos/15173067/pexels-photo-15173067.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/15173067/pexels-photo-15173067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "FR",
@@ -27852,8 +28698,12 @@
             "large": "https://images.pexels.com/photos/16358837/pexels-photo-16358837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,428.53$",
-            "monthlyCost": "950.4$"
+            "netSalary": "2,428.53$",
+            "apartmentOneBedroom": "788.32$",
+            "monthlyCost": "950.4$",
+            "mealInexpensive": "15.02$",
+            "taxiStart": "2.25$",
+            "taxiOneKm": "1.91$"
         }
     },
     {
@@ -27966,7 +28816,7 @@
             "small": "https://images.pexels.com/photos/2779383/pexels-photo-2779383.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2779383/pexels-photo-2779383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "CN",
@@ -28078,7 +28928,7 @@
             "small": "https://images.pexels.com/photos/4223678/pexels-photo-4223678.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/4223678/pexels-photo-4223678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "SE",
@@ -28190,7 +29040,7 @@
             "small": "https://images.pexels.com/photos/2563411/pexels-photo-2563411.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/2563411/pexels-photo-2563411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "BR",
@@ -28303,8 +29153,12 @@
             "large": "https://images.pexels.com/photos/7903924/pexels-photo-7903924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "516.24$",
-            "monthlyCost": ""
+            "netSalary": "516.24$",
+            "apartmentOneBedroom": "427.42$",
+            "monthlyCost": "",
+            "mealInexpensive": "5.83$",
+            "taxiStart": "0.97$",
+            "taxiOneKm": "0.78$"
         }
     },
     {
@@ -28417,7 +29271,7 @@
             "small": "https://images.pexels.com/photos/17674066/pexels-photo-17674066.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17674066/pexels-photo-17674066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "MX",
@@ -28530,8 +29384,12 @@
             "large": "https://images.pexels.com/photos/12048925/pexels-photo-12048925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,132.06$",
-            "monthlyCost": "853.3$"
+            "netSalary": "1,132.06$",
+            "apartmentOneBedroom": "1,071.04$",
+            "monthlyCost": "853.2$",
+            "mealInexpensive": "12.91$",
+            "taxiStart": "1.91$",
+            "taxiOneKm": "1.17$"
         }
     },
     {
@@ -28645,8 +29503,12 @@
             "large": "https://images.pexels.com/photos/12161968/pexels-photo-12161968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,297.77$",
-            "monthlyCost": "884.6$"
+            "netSalary": "1,297.77$",
+            "apartmentOneBedroom": "608.99$",
+            "monthlyCost": "884.6$",
+            "mealInexpensive": "14.34$",
+            "taxiStart": "1.69$",
+            "taxiOneKm": "2.61$"
         }
     },
     {
@@ -28760,8 +29622,12 @@
             "large": "https://images.pexels.com/photos/691552/pexels-photo-691552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,682.13$",
-            "monthlyCost": "765.6$"
+            "netSalary": "1,682.13$",
+            "apartmentOneBedroom": "642.52$",
+            "monthlyCost": "765.6$",
+            "mealInexpensive": "5.20$",
+            "taxiStart": "3.90$",
+            "taxiOneKm": "0.78$"
         }
     },
     {
@@ -28875,8 +29741,12 @@
             "large": "https://images.pexels.com/photos/17683246/pexels-photo-17683246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,034.46$",
-            "monthlyCost": "882.3$"
+            "netSalary": "2,034.46$",
+            "apartmentOneBedroom": "744.08$",
+            "monthlyCost": "882.3$",
+            "mealInexpensive": "7.71$",
+            "taxiStart": "2.89$",
+            "taxiOneKm": "2.76$"
         }
     },
     {
@@ -28990,8 +29860,12 @@
             "large": "https://images.pexels.com/photos/67918/pexels-photo-67918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,324.30$",
-            "monthlyCost": "857.9$"
+            "netSalary": "1,324.30$",
+            "apartmentOneBedroom": "809.28$",
+            "monthlyCost": "858.4$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "5.36$",
+            "taxiOneKm": "2.15$"
         }
     },
     {
@@ -29104,7 +29978,7 @@
             "small": "https://images.pexels.com/photos/18292449/pexels-photo-18292449.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18292449/pexels-photo-18292449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "BS",
@@ -29217,8 +30091,12 @@
             "large": "https://images.pexels.com/photos/2598635/pexels-photo-2598635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,900.00$",
-            "monthlyCost": "1,469.3€"
+            "netSalary": "1,900.00$",
+            "apartmentOneBedroom": "1,164.29$",
+            "monthlyCost": "1,469.3€",
+            "mealInexpensive": "32.50$",
+            "taxiStart": "6.00$",
+            "taxiOneKm": "3.11$"
         }
     },
     {
@@ -29331,7 +30209,7 @@
             "small": "https://images.pexels.com/photos/12366122/pexels-photo-12366122.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/12366122/pexels-photo-12366122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "RS",
@@ -29444,8 +30322,12 @@
             "large": "https://images.pexels.com/photos/17789374/pexels-photo-17789374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "750.46$",
-            "monthlyCost": "652.7$"
+            "netSalary": "750.42$",
+            "apartmentOneBedroom": "560.93$",
+            "monthlyCost": "652.7$",
+            "mealInexpensive": "8.70$",
+            "taxiStart": "1.74$",
+            "taxiOneKm": "0.78$"
         }
     },
     {
@@ -29559,8 +30441,12 @@
             "large": "https://images.pexels.com/photos/11471987/pexels-photo-11471987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "520.51$",
-            "monthlyCost": "495.6$"
+            "netSalary": "520.51$",
+            "apartmentOneBedroom": "358.66$",
+            "monthlyCost": "495.6$",
+            "mealInexpensive": "6.52$",
+            "taxiStart": "1.09$",
+            "taxiOneKm": "0.22$"
         }
     },
     {
@@ -29674,8 +30560,12 @@
             "large": "https://images.pexels.com/photos/11543950/pexels-photo-11543950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "4,179.00$",
-            "monthlyCost": ""
+            "netSalary": "4,179.00$",
+            "apartmentOneBedroom": "2,056.00$",
+            "monthlyCost": "",
+            "mealInexpensive": "45.00$",
+            "taxiStart": "?",
+            "taxiOneKm": "3.11$"
         }
     },
     {
@@ -29788,7 +30678,7 @@
             "small": "https://images.pexels.com/photos/5656449/pexels-photo-5656449.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/5656449/pexels-photo-5656449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "CA",
@@ -29901,8 +30791,12 @@
             "large": "https://images.pexels.com/photos/7328/building-architecture-historical-tower.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,794.63$",
-            "monthlyCost": "1,148.2$"
+            "netSalary": "2,794.63$",
+            "apartmentOneBedroom": "1,455.98$",
+            "monthlyCost": "1,148.2$",
+            "mealInexpensive": "21.94$",
+            "taxiStart": "3.01$",
+            "taxiOneKm": "2.03$"
         }
     },
     {
@@ -30016,8 +30910,12 @@
             "large": "https://images.pexels.com/photos/1192048/pexels-photo-1192048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,055.75$",
-            "monthlyCost": "1,129.7$"
+            "netSalary": "3,055.75$",
+            "apartmentOneBedroom": "1,828.09$",
+            "monthlyCost": "1,129.7$",
+            "mealInexpensive": "17.53$",
+            "taxiStart": "6.26$",
+            "taxiOneKm": "1.87$"
         }
     },
     {
@@ -30131,8 +31029,12 @@
             "large": "https://images.pexels.com/photos/16648580/pexels-photo-16648580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,014.76$",
-            "monthlyCost": "882.9$"
+            "netSalary": "2,014.76$",
+            "apartmentOneBedroom": "911.66$",
+            "monthlyCost": "882.9$",
+            "mealInexpensive": "13.94$",
+            "taxiStart": "10.19$",
+            "taxiOneKm": "1.93$"
         }
     },
     {
@@ -30241,11 +31143,8 @@
                 "avgHumidity": "78.0"
             }
         },
-        "photoUrl": {
-            "small": "test",
-            "large": "test"
-        },
-        "costOfLiving": "no data"
+        "photoUrl": {},
+        "costOfLiving": {}
     },
     {
         "countryCode": "TH",
@@ -30358,8 +31257,12 @@
             "large": "https://images.pexels.com/photos/1762560/pexels-photo-1762560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "412.08$",
-            "monthlyCost": ""
+            "netSalary": "412.08$",
+            "apartmentOneBedroom": "498.38$",
+            "monthlyCost": "",
+            "mealInexpensive": "2.70$",
+            "taxiStart": "1.01$",
+            "taxiOneKm": "1.28$"
         }
     },
     {
@@ -30473,8 +31376,12 @@
             "large": "https://images.pexels.com/photos/2867732/pexels-photo-2867732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "526.14$",
-            "monthlyCost": "604.6$"
+            "netSalary": "526.14$",
+            "apartmentOneBedroom": "498.34$",
+            "monthlyCost": "604.6$",
+            "mealInexpensive": "4.05$",
+            "taxiStart": "2.70$",
+            "taxiOneKm": "0.99$"
         }
     },
     {
@@ -30588,8 +31495,12 @@
             "large": "https://images.pexels.com/photos/14469884/pexels-photo-14469884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "898.93$",
-            "monthlyCost": "594.4$"
+            "netSalary": "898.93$",
+            "apartmentOneBedroom": "386.82$",
+            "monthlyCost": "594.4$",
+            "mealInexpensive": "8.22$",
+            "taxiStart": "1.04$",
+            "taxiOneKm": "0.66$"
         }
     },
     {
@@ -30703,8 +31614,12 @@
             "large": "https://images.pexels.com/photos/8431629/pexels-photo-8431629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "841.64$",
-            "monthlyCost": "625.6$"
+            "netSalary": "841.64$",
+            "apartmentOneBedroom": "564.58$",
+            "monthlyCost": "625.6$",
+            "mealInexpensive": "7.51$",
+            "taxiStart": "0.64$",
+            "taxiOneKm": "0.64$"
         }
     },
     {
@@ -30817,7 +31732,7 @@
             "small": "https://images.pexels.com/photos/18923572/pexels-photo-18923572.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/18923572/pexels-photo-18923572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "IN",
@@ -30930,8 +31845,12 @@
             "large": "https://images.pexels.com/photos/18496445/pexels-photo-18496445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,260.89$",
-            "monthlyCost": "390.6$"
+            "netSalary": "1,260.89$",
+            "apartmentOneBedroom": "259.94$",
+            "monthlyCost": "390.6$",
+            "mealInexpensive": "6.00$",
+            "taxiStart": "0.60$",
+            "taxiOneKm": "0.36$"
         }
     },
     {
@@ -31045,8 +31964,12 @@
             "large": "https://images.pexels.com/photos/14973612/pexels-photo-14973612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "784.54$",
-            "monthlyCost": ""
+            "netSalary": "784.54$",
+            "apartmentOneBedroom": "275.97$",
+            "monthlyCost": "",
+            "mealInexpensive": "2.83$",
+            "taxiStart": "1.38$",
+            "taxiOneKm": "0.29$"
         }
     },
     {
@@ -31160,8 +32083,12 @@
             "large": "https://images.pexels.com/photos/2226900/pexels-photo-2226900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,645.33$",
-            "monthlyCost": ""
+            "netSalary": "3,645.33$",
+            "apartmentOneBedroom": "1,391.37$",
+            "monthlyCost": "",
+            "mealInexpensive": "10.14$",
+            "taxiStart": "2.80$",
+            "taxiOneKm": "2.44$"
         }
     },
     {
@@ -31275,8 +32202,12 @@
             "large": "https://images.pexels.com/photos/2945595/pexels-photo-2945595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "503.98$",
-            "monthlyCost": "521.2$"
+            "netSalary": "503.98$",
+            "apartmentOneBedroom": "416.30$",
+            "monthlyCost": "521.3$",
+            "mealInexpensive": "3.70$",
+            "taxiStart": "0.54$",
+            "taxiOneKm": "0.94$"
         }
     },
     {
@@ -31390,8 +32321,12 @@
             "large": "https://images.pexels.com/photos/17538972/pexels-photo-17538972.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "602.27$",
-            "monthlyCost": "529.1$"
+            "netSalary": "602.27$",
+            "apartmentOneBedroom": "280.49$",
+            "monthlyCost": "529.3$",
+            "mealInexpensive": "4.37$",
+            "taxiStart": "1.17$",
+            "taxiOneKm": "0.58$"
         }
     },
     {
@@ -31505,8 +32440,12 @@
             "large": "https://images.pexels.com/photos/681405/pexels-photo-681405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,235.85$",
-            "monthlyCost": "899.2$"
+            "netSalary": "1,235.85$",
+            "apartmentOneBedroom": "527.88$",
+            "monthlyCost": "899.2$",
+            "mealInexpensive": "10.73$",
+            "taxiStart": "2.68$",
+            "taxiOneKm": "0.99$"
         }
     },
     {
@@ -31620,8 +32559,12 @@
             "large": "https://images.pexels.com/photos/35761/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,626.92$",
-            "monthlyCost": "863.5$"
+            "netSalary": "2,626.92$",
+            "apartmentOneBedroom": "1,234.96$",
+            "monthlyCost": "863.5$",
+            "mealInexpensive": "8.00$",
+            "taxiStart": "4.00$",
+            "taxiOneKm": "1.33$"
         }
     },
     {
@@ -31735,8 +32678,12 @@
             "large": "https://images.pexels.com/photos/1209521/pexels-photo-1209521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,834.97$",
-            "monthlyCost": "970.7$"
+            "netSalary": "3,834.97$",
+            "apartmentOneBedroom": "1,503.75$",
+            "monthlyCost": "970.7$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "4.29$",
+            "taxiOneKm": "2.15$"
         }
     },
     {
@@ -31849,7 +32796,7 @@
             "small": "https://images.pexels.com/photos/17831967/pexels-photo-17831967.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17831967/pexels-photo-17831967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "FR",
@@ -31961,7 +32908,7 @@
             "small": "https://images.pexels.com/photos/14348452/pexels-photo-14348452.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/14348452/pexels-photo-14348452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
-        "costOfLiving": "no data"
+        "costOfLiving": {}
     },
     {
         "countryCode": "CR",
@@ -32074,8 +33021,12 @@
             "large": "https://images.pexels.com/photos/18854593/pexels-photo-18854593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "6,689.10$",
-            "monthlyCost": "1,386.4€"
+            "netSalary": "6,689.10$",
+            "apartmentOneBedroom": "2,833.18$",
+            "monthlyCost": "1,386.5€",
+            "mealInexpensive": "20.50$",
+            "taxiStart": "3.50$",
+            "taxiOneKm": "1.86$"
         }
     },
     {
@@ -32189,8 +33140,12 @@
             "large": "https://images.pexels.com/photos/15879065/pexels-photo-15879065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,421.11$",
-            "monthlyCost": ""
+            "netSalary": "1,421.11$",
+            "apartmentOneBedroom": "965.29$",
+            "monthlyCost": "",
+            "mealInexpensive": "12.87$",
+            "taxiStart": "2.79$",
+            "taxiOneKm": "1.66$"
         }
     },
     {
@@ -32304,8 +33259,12 @@
             "large": "https://images.pexels.com/photos/12927599/pexels-photo-12927599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "490.44$",
-            "monthlyCost": "718.1$"
+            "netSalary": "490.44$",
+            "apartmentOneBedroom": "841.30$",
+            "monthlyCost": "718.1$",
+            "mealInexpensive": "9.26$",
+            "taxiStart": "3.41$",
+            "taxiOneKm": "2.30$"
         }
     },
     {
@@ -32419,8 +33378,12 @@
             "large": "https://images.pexels.com/photos/17543731/pexels-photo-17543731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "874.00$",
-            "monthlyCost": "600.9$"
+            "netSalary": "874.00$",
+            "apartmentOneBedroom": "322.66$",
+            "monthlyCost": "601.0$",
+            "mealInexpensive": "5.47$",
+            "taxiStart": "1.37$",
+            "taxiOneKm": "0.82$"
         }
     },
     {
@@ -32529,7 +33492,11 @@
                 "avgHumidity": "68.9"
             }
         },
-        "costOfLiving": "no data"
+        "photoUrl": {
+            "small": "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "large": "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "costOfLiving": {}
     },
     {
         "countryCode": "ID",
@@ -32642,8 +33609,12 @@
             "large": "https://images.pexels.com/photos/2810699/pexels-photo-2810699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "223.08$",
-            "monthlyCost": ""
+            "netSalary": "223.08$",
+            "apartmentOneBedroom": "256.93$",
+            "monthlyCost": "",
+            "mealInexpensive": "1.86$",
+            "taxiStart": "0.93$",
+            "taxiOneKm": "0.31$"
         }
     },
     {
@@ -32752,13 +33723,14 @@
                 "avgHumidity": "69.1"
             }
         },
-        "photoUrl": {
-            "small": "test",
-            "large": "test"
-        },
+        "photoUrl": {},
         "costOfLiving": {
-            "apartment": "2,323.24$",
-            "monthlyCost": ""
+            "netSalary": "2,323.24$",
+            "apartmentOneBedroom": "417.54$",
+            "monthlyCost": "",
+            "mealInexpensive": "5.78$",
+            "taxiStart": "5.07$",
+            "taxiOneKm": "1.28$"
         }
     },
     {
@@ -32872,8 +33844,12 @@
             "large": "https://images.pexels.com/photos/431992/pexels-photo-431992.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,540.37$",
-            "monthlyCost": "594.4$"
+            "netSalary": "1,540.37$",
+            "apartmentOneBedroom": "715.79$",
+            "monthlyCost": "594.5$",
+            "mealInexpensive": "3.45$",
+            "taxiStart": "1.66$",
+            "taxiOneKm": "0.36$"
         }
     },
     {
@@ -32987,8 +33963,12 @@
             "large": "https://images.pexels.com/photos/19784010/pexels-photo-19784010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,937.84$",
-            "monthlyCost": ""
+            "netSalary": "2,937.84$",
+            "apartmentOneBedroom": "1,264.64$",
+            "monthlyCost": "",
+            "mealInexpensive": "16.28$",
+            "taxiStart": "3.01$",
+            "taxiOneKm": "1.74$"
         }
     },
     {
@@ -33102,8 +34082,12 @@
             "large": "https://images.pexels.com/photos/2932758/pexels-photo-2932758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "3,396.35$",
-            "monthlyCost": "1,230.2$"
+            "netSalary": "3,396.35$",
+            "apartmentOneBedroom": "1,553.39$",
+            "monthlyCost": "1,230.2$",
+            "mealInexpensive": "22.84$",
+            "taxiStart": "12.34$",
+            "taxiOneKm": "1.49$"
         }
     },
     {
@@ -33217,8 +34201,12 @@
             "large": "https://images.pexels.com/photos/434673/pexels-photo-434673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,393.38$",
-            "monthlyCost": ""
+            "netSalary": "2,393.38$",
+            "apartmentOneBedroom": "648.89$",
+            "monthlyCost": "",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "1.93$",
+            "taxiOneKm": "1.81$"
         }
     },
     {
@@ -33332,8 +34320,12 @@
             "large": "https://images.pexels.com/photos/10271749/pexels-photo-10271749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "345.15$",
-            "monthlyCost": "444.5$"
+            "netSalary": "345.15$",
+            "apartmentOneBedroom": "246.10$",
+            "monthlyCost": "444.5$",
+            "mealInexpensive": "1.55$",
+            "taxiStart": "0.45$",
+            "taxiOneKm": "0.31$"
         }
     },
     {
@@ -33447,8 +34439,12 @@
             "large": "https://images.pexels.com/photos/18781939/pexels-photo-18781939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,121.12$",
-            "monthlyCost": "989.9$"
+            "netSalary": "1,121.12$",
+            "apartmentOneBedroom": "438.12$",
+            "monthlyCost": "989.9$",
+            "mealInexpensive": "4.14$",
+            "taxiStart": "1.79$",
+            "taxiOneKm": "0.34$"
         }
     },
     {
@@ -33562,8 +34558,12 @@
             "large": "https://images.pexels.com/photos/14068313/pexels-photo-14068313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,194.11$",
-            "monthlyCost": ""
+            "netSalary": "1,194.11$",
+            "apartmentOneBedroom": "325.93$",
+            "monthlyCost": "",
+            "mealInexpensive": "4.60$",
+            "taxiStart": "2.61$",
+            "taxiOneKm": "0.77$"
         }
     },
     {
@@ -33677,8 +34677,12 @@
             "large": "https://images.pexels.com/photos/12472552/pexels-photo-12472552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "2,834.18$",
-            "monthlyCost": "923.1$"
+            "netSalary": "2,834.18$",
+            "apartmentOneBedroom": "864.73$",
+            "monthlyCost": "923.1$",
+            "mealInexpensive": "12.87$",
+            "taxiStart": "5.85$",
+            "taxiOneKm": "1.66$"
         }
     },
     {
@@ -33792,8 +34796,12 @@
             "large": "https://images.pexels.com/photos/18090281/pexels-photo-18090281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "1,143.78$",
-            "monthlyCost": ""
+            "netSalary": "1,143.78$",
+            "apartmentOneBedroom": "340.50$",
+            "monthlyCost": "",
+            "mealInexpensive": "3.68$",
+            "taxiStart": "2.61$",
+            "taxiOneKm": "0.77$"
         }
     },
     {
@@ -33907,8 +34915,12 @@
             "large": "https://images.pexels.com/photos/9951246/pexels-photo-9951246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "427.90$",
-            "monthlyCost": "442.8€"
+            "netSalary": "427.90$",
+            "apartmentOneBedroom": "617.18$",
+            "monthlyCost": "442.8€",
+            "mealInexpensive": "5.75$",
+            "taxiStart": "0.65$",
+            "taxiOneKm": "0.30$"
         }
     },
     {
@@ -34022,8 +35034,12 @@
             "large": "https://images.pexels.com/photos/3799176/pexels-photo-3799176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "244.50$",
-            "monthlyCost": "344.5€"
+            "netSalary": "244.50$",
+            "apartmentOneBedroom": "466.22$",
+            "monthlyCost": "344.5€",
+            "mealInexpensive": "4.00$",
+            "taxiStart": "0.50$",
+            "taxiOneKm": "0.40$"
         }
     },
     {
@@ -34137,8 +35153,12 @@
             "large": "https://images.pexels.com/photos/3346826/pexels-photo-3346826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "935.92$",
-            "monthlyCost": "907.3$"
+            "netSalary": "935.92$",
+            "apartmentOneBedroom": "541.22$",
+            "monthlyCost": "907.3$",
+            "mealInexpensive": "16.09$",
+            "taxiStart": "4.29$",
+            "taxiOneKm": "1.39$"
         }
     },
     {
@@ -34252,8 +35272,12 @@
             "large": "https://images.pexels.com/photos/15737902/pexels-photo-15737902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         "costOfLiving": {
-            "apartment": "929.35$",
-            "monthlyCost": ""
+            "netSalary": "929.35$",
+            "apartmentOneBedroom": "275.97$",
+            "monthlyCost": "",
+            "mealInexpensive": "2.76$",
+            "taxiStart": "1.38$",
+            "taxiOneKm": "0.28$"
         }
     }
 ]
