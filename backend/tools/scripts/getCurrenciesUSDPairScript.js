@@ -13,7 +13,7 @@ const fetchCurrencyUSDPairs = async () => {
       (currency) => currency.code === country.currency.code
     );
     if (currency) {
-      country.usdPair = currency.amount;
+      country.currency.usdPair = currency.amount;
     }
   });
   saveFile(JSON.stringify(countries));

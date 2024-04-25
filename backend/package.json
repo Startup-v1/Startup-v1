@@ -27,6 +27,7 @@
   },
   "type": "module",
   "devDependencies": {
+    "@brixtol/country-continent": "^1.0.0",
     "pexels": "^1.4.0"
   }
 }
