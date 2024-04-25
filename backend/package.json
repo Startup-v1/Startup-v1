@@ -29,6 +29,7 @@
     "pexels": "^1.4.0",
     "ts-node": "^10.9.2",
     "ts-node-dev": "^2.0.0",
-    "typescript": "^5.4.2"
+    "typescript": "^5.4.2",
+    "tsx": "^4.7.3"
   }
 }

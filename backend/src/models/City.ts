@@ -37,8 +37,14 @@ const citySchema = new Schema({
       required: true,
     },
     continent: {
-      type: String,
-      required: true,
+      name: {
+        type: String,
+        required: true,
+      },
+      code: {
+        type: String,
+        required: true,
+      },
     },
     currency: {
       code: {
@@ -59,17 +65,7 @@ const citySchema = new Schema({
     type: Number,
     required: true,
   },
-  monthlyCost: {
-    rent: {
-      type: Number,
-      required: true,
-    },
-    otherCosts: {
-      type: Number,
-      required: true,
-    },
-  },
-  photo: {
+  photoUrl: {
     small: {
       type: String,
       required: true,
@@ -94,11 +90,11 @@ const citySchema = new Schema({
           type: Number,
           required: true,
         },
-        totalRainMm: {
+        totalRain: {
           type: Number,
           required: true,
         },
-        totalSnowMm: {
+        totalSnow: {
           type: Number,
           required: true,
         },
@@ -112,4 +108,4 @@ const citySchema = new Schema({
   },
 });
 
-module.exports = model("City", citySchema);
+export default model("City", citySchema);

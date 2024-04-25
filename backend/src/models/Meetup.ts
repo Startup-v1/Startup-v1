@@ -23,4 +23,4 @@ const meetupSchema = new Schema({
   },
 });
 
-module.exports = model("Meetup", meetupSchema);
+export default model("Meetup", meetupSchema);
