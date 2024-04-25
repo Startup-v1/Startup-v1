@@ -1,3 +1,5 @@
+//HOW TO RUN: npx tsx citiesSeeder.ts
+
 import citySchema from "../../src/models/City";
 import mongoose from "mongoose";
 // @ts-ignore
