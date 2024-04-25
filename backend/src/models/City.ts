@@ -15,10 +15,45 @@ const citySchema = new Schema({
       required: true,
     },
   },
-  countryCode: {
-    type: Schema.Types.ObjectId,
-    ref: "Country",
-    required: true,
+  country: {
+    countryCode: {
+      type: String,
+      required: true,
+    },
+    name: {
+      type: String,
+      required: true,
+    },
+    flag: {
+      type: String,
+      required: true,
+    },
+    safetyIndex: {
+      type: Number,
+      required: true,
+    },
+    languages: {
+      type: [String],
+      required: true,
+    },
+    continent: {
+      type: String,
+      required: true,
+    },
+    currency: {
+      code: {
+        type: String,
+        required: true,
+      },
+      symbol: {
+        type: String,
+        required: true,
+      },
+      usdPair: {
+        type: Number,
+        required: true,
+      },
+    },
   },
   population: {
     type: Number,
@@ -32,15 +67,47 @@ const citySchema = new Schema({
     otherCosts: {
       type: Number,
       required: true,
-    }
+    },
   },
   photo: {
-    type: String,
-    required: true,
+    small: {
+      type: String,
+      required: true,
+    },
+    large: {
+      type: String,
+      required: true,
+    },
   },
   weather: {
-    type: Schema.Types.ObjectId,
-    ref: "Weather",
+    type: [
+      {
+        minTemp: {
+          type: Number,
+          required: true,
+        },
+        maxTemp: {
+          type: Number,
+          required: true,
+        },
+        avgTemp: {
+          type: Number,
+          required: true,
+        },
+        totalRainMm: {
+          type: Number,
+          required: true,
+        },
+        totalSnowMm: {
+          type: Number,
+          required: true,
+        },
+        avgHumidity: {
+          type: Number,
+          required: true,
+        },
+      },
+    ],
     required: true,
   },
 });
