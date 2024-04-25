@@ -5,12 +5,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Netherlands.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Dutch"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 8.7304,
         "continent": {
             "name": "Europe",
@@ -23,12 +23,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Greek"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 9.8026,
         "continent": {
             "name": "Europe",
@@ -41,13 +41,13 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Zealand.svg",
         "currency": {
             "code": "NZD",
-            "symbol": "NZ$"
+            "symbol": "NZ$",
+            "usdPair": 1.6849
         },
         "languages": [
             "English (de facto)",
             "Maori"
         ],
-        "usdPair": 1.6744,
         "safetyIndex": 6.4352,
         "continent": {
             "name": "Oceania",
@@ -60,12 +60,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg",
         "currency": {
             "code": "USD",
-            "symbol": "$"
+            "symbol": "$",
+            "usdPair": 1
         },
         "languages": [
             "English"
         ],
-        "usdPair": 1,
         "continent": {
             "name": "North America",
             "code": "NA"
@@ -77,13 +77,13 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indonesia.svg",
         "currency": {
             "code": "IDR",
-            "symbol": "IDR"
+            "symbol": "IDR",
+            "usdPair": 16162.2
         },
         "languages": [
             "Arabic",
             "French"
         ],
-        "usdPair": 15885.7,
         "safetyIndex": 9.8128,
         "continent": {
             "name": "Asia",
@@ -96,12 +96,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg",
         "currency": {
             "code": "THB",
-            "symbol": "THB"
+            "symbol": "THB",
+            "usdPair": 37.02
         },
         "languages": [
             "Thai"
         ],
-        "usdPair": 36.38,
         "safetyIndex": 10.1649,
         "continent": {
             "name": "Asia",
@@ -114,12 +114,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Spanish"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 9.2561,
         "continent": {
             "name": "Europe",
@@ -132,12 +132,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Serbia.svg",
         "currency": {
             "code": "RSD",
-            "symbol": "RSD"
+            "symbol": "RSD",
+            "usdPair": 109.641
         },
         "languages": [
             "Serbian"
         ],
-        "usdPair": 108.747,
         "safetyIndex": 8.8283,
         "continent": {
             "name": "Europe",
@@ -150,12 +150,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "German"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 7.7059,
         "continent": {
             "name": "Europe",
@@ -168,12 +168,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg",
         "currency": {
             "code": "COP",
-            "symbol": "COP"
+            "symbol": "COP",
+            "usdPair": 3904.95
         },
         "languages": [
             "Spanish"
         ],
-        "usdPair": 3865.3,
         "safetyIndex": 14.8461,
         "continent": {
             "name": "South America",
@@ -186,12 +186,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France%20%281958%E2%80%931976%29.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "French"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 9.7914,
         "continent": {
             "name": "Europe",
@@ -204,12 +204,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg",
         "currency": {
             "code": "BRL",
-            "symbol": "R$"
+            "symbol": "R$",
+            "usdPair": 5.1322
         },
         "languages": [
             "Portuguese"
         ],
-        "usdPair": 5.0155,
         "safetyIndex": 14.1011,
         "continent": {
             "name": "South America",
@@ -222,12 +222,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovakia.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Slovak"
         ],
-        "usdPair": 0.9273,
         "continent": {
             "name": "Europe",
             "code": "EU"
@@ -239,12 +239,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg",
         "currency": {
             "code": "AUD",
-            "symbol": "A$"
+            "symbol": "A$",
+            "usdPair": 1.5385
         },
         "languages": [
             "English (de facto)"
         ],
-        "usdPair": 1.5351,
         "safetyIndex": 6.7699,
         "continent": {
             "name": "Oceania",
@@ -257,12 +257,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg",
         "currency": {
             "code": "GBP",
-            "symbol": "£"
+            "symbol": "£",
+            "usdPair": 0.8047
         },
         "languages": [
             "English"
         ],
-        "usdPair": 0.7926,
         "continent": {
             "name": "Europe",
             "code": "EU"
@@ -274,14 +274,14 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium%20%28civil%29.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Dutch",
             "French",
             "German"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 9.9869,
         "continent": {
             "name": "Europe",
@@ -294,12 +294,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hungary.svg",
         "currency": {
             "code": "HUF",
-            "symbol": "HUF"
+            "symbol": "HUF",
+            "usdPair": 368.07
         },
         "languages": [
             "Hungarian"
         ],
-        "usdPair": 365.13,
         "safetyIndex": 11.2723,
         "continent": {
             "name": "Europe",
@@ -312,12 +312,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Romania.svg",
         "currency": {
             "code": "RON",
-            "symbol": "RON"
+            "symbol": "RON",
+            "usdPair": 4.656
         },
         "languages": [
             "Romanian"
         ],
-        "usdPair": 4.6085,
         "safetyIndex": 9.6706,
         "continent": {
             "name": "Europe",
@@ -330,12 +330,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Argentina.svg",
         "currency": {
             "code": "ARS",
-            "symbol": "ARS"
+            "symbol": "ARS",
+            "usdPair": 872.7582
         },
         "languages": [
             "Spanish"
         ],
-        "usdPair": 857.9923,
         "safetyIndex": 11.5349,
         "continent": {
             "name": "South America",
@@ -348,12 +348,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Egypt.svg",
         "currency": {
             "code": "EGP",
-            "symbol": "EGP"
+            "symbol": "EGP",
+            "usdPair": 47.9002
         },
         "languages": [
             "Arabic"
         ],
-        "usdPair": 47.4363,
         "safetyIndex": 9.9841,
         "continent": {
             "name": "Africa",
@@ -366,7 +366,8 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg",
         "currency": {
             "code": "ZAR",
-            "symbol": "ZAR"
+            "symbol": "ZAR",
+            "usdPair": 19.1369
         },
         "languages": [
             "Afrikaans",
@@ -381,7 +382,6 @@
             "Xhosa",
             "Zulu"
         ],
-        "usdPair": 18.9041,
         "safetyIndex": 13.0681,
         "continent": {
             "name": "Africa",
@@ -394,12 +394,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malaysia.svg",
         "currency": {
             "code": "MYR",
-            "symbol": "MYR"
+            "symbol": "MYR",
+            "usdPair": 4.7775
         },
         "languages": [
             "Malay"
         ],
-        "usdPair": 4.7245,
         "safetyIndex": 8.0923,
         "continent": {
             "name": "Asia",
@@ -412,12 +412,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Denmark.svg",
         "currency": {
             "code": "DKK",
-            "symbol": "DKK"
+            "symbol": "DKK",
+            "usdPair": 6.979
         },
         "languages": [
             "Danish"
         ],
-        "usdPair": 6.9177,
         "safetyIndex": 6.2422,
         "continent": {
             "name": "Europe",
@@ -430,14 +430,14 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Peru.svg",
         "currency": {
             "code": "PEN",
-            "symbol": "PEN"
+            "symbol": "PEN",
+            "usdPair": 3.681
         },
         "languages": [
             "Spanish",
             "Quechua",
             "Aymarà"
         ],
-        "usdPair": 3.7221,
         "safetyIndex": 13.7978,
         "continent": {
             "name": "South America",
@@ -450,12 +450,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vietnam.svg",
         "currency": {
             "code": "VND",
-            "symbol": "₫"
+            "symbol": "₫",
+            "usdPair": 25420
         },
         "languages": [
             "Vietnamese"
         ],
-        "usdPair": 24817.5,
         "safetyIndex": 9.615,
         "continent": {
             "name": "Asia",
@@ -468,12 +468,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Arab%20Emirates.svg",
         "currency": {
             "code": "AED",
-            "symbol": "AED"
+            "symbol": "AED",
+            "usdPair": 3.6729
         },
         "languages": [
             "Arabic"
         ],
-        "usdPair": 3.6723,
         "safetyIndex": 4.2043,
         "continent": {
             "name": "Asia",
@@ -486,13 +486,13 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ireland.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "English",
             "Irish Gaelic"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 7.8351,
         "continent": {
             "name": "Europe",
@@ -505,12 +505,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Croatia.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Croatian"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 10.3129,
         "continent": {
             "name": "Europe",
@@ -523,12 +523,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Italian"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 10.7901,
         "continent": {
             "name": "Europe",
@@ -541,13 +541,13 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Philippines.svg",
         "currency": {
             "code": "PHP",
-            "symbol": "₱"
+            "symbol": "₱",
+            "usdPair": 57.575
         },
         "languages": [
             "Filipino",
             "English"
         ],
-        "usdPair": 56.178,
         "safetyIndex": 14.8899,
         "continent": {
             "name": "Asia",
@@ -560,7 +560,8 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg",
         "currency": {
             "code": "CHF",
-            "symbol": "CHF"
+            "symbol": "CHF",
+            "usdPair": 0.9143
         },
         "languages": [
             "French",
@@ -568,7 +569,6 @@
             "Italian",
             "Romansch"
         ],
-        "usdPair": 0.9015,
         "safetyIndex": 7.3316,
         "continent": {
             "name": "Europe",
@@ -581,12 +581,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg",
         "currency": {
             "code": "MXN",
-            "symbol": "MX$"
+            "symbol": "MX$",
+            "usdPair": 16.9746
         },
         "languages": [
             "Spanish (de facto)"
         ],
-        "usdPair": 16.5854,
         "safetyIndex": 14.0531,
         "continent": {
             "name": "North America",
@@ -599,12 +599,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
         "currency": {
             "code": "CNY",
-            "symbol": "CN¥"
+            "symbol": "CN¥",
+            "usdPair": 7.246
         },
         "languages": [
             "Mandarin Chinese"
         ],
-        "usdPair": 7.2204,
         "continent": {
             "name": "Asia",
             "code": "AS"
@@ -616,13 +616,13 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finland.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Finnish",
             "Swedish"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 4.9782,
         "continent": {
             "name": "Europe",
@@ -635,13 +635,13 @@
         "flag": "https://www.wikidata.org/wiki/Q8646#/media/File:Flag_of_Hong_Kong.svg",
         "currency": {
             "code": "HKD",
-            "symbol": "HK$"
+            "symbol": "HK$",
+            "usdPair": 7.8327
         },
         "languages": [
             "Chinese",
             "English"
         ],
-        "usdPair": 7.8259,
         "continent": {
             "name": "Asia",
             "code": "AS"
@@ -653,12 +653,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg",
         "currency": {
             "code": "TRY",
-            "symbol": "TRY"
+            "symbol": "TRY",
+            "usdPair": 32.5191
         },
         "languages": [
             "Turkish"
         ],
-        "usdPair": 32.3759,
         "safetyIndex": 11.8725,
         "continent": {
             "name": "Asia",
@@ -671,12 +671,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ukraine.svg",
         "currency": {
             "code": "UAH",
-            "symbol": "UAH"
+            "symbol": "UAH",
+            "usdPair": 39.385
         },
         "languages": [
             "Ukrainian"
         ],
-        "usdPair": 39.2682,
         "safetyIndex": 12.8897,
         "continent": {
             "name": "Europe",
@@ -689,12 +689,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg",
         "currency": {
             "code": "PLN",
-            "symbol": "PLN"
+            "symbol": "PLN",
+            "usdPair": 4.0454
         },
         "languages": [
             "Polish"
         ],
-        "usdPair": 3.9841,
         "safetyIndex": 10.1538,
         "continent": {
             "name": "Europe",
@@ -707,12 +707,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg",
         "currency": {
             "code": "JPY",
-            "symbol": "¥"
+            "symbol": "¥",
+            "usdPair": 154.93
         },
         "languages": [
             "Japanese"
         ],
-        "usdPair": 151.35,
         "safetyIndex": 7.9247,
         "continent": {
             "name": "Asia",
@@ -725,12 +725,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg",
         "currency": {
             "code": "NGN",
-            "symbol": "NGN"
+            "symbol": "NGN",
+            "usdPair": 1260.5
         },
         "languages": [
             "English"
         ],
-        "usdPair": 1393.51,
         "safetyIndex": 14.2778,
         "continent": {
             "name": "Africa",
@@ -743,12 +743,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Portugal.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Portuguese"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 8.2539,
         "continent": {
             "name": "Europe",
@@ -761,12 +761,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovenia.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Slovenian"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 9.554,
         "continent": {
             "name": "Europe",
@@ -779,12 +779,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Morocco.svg",
         "currency": {
             "code": "MAD",
-            "symbol": "MAD"
+            "symbol": "MAD",
+            "usdPair": 10.0937
         },
         "languages": [
             "Arabic"
         ],
-        "usdPair": 10.1407,
         "safetyIndex": 8.0539,
         "continent": {
             "name": "Africa",
@@ -797,12 +797,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg",
         "currency": {
             "code": "INR",
-            "symbol": "₹"
+            "symbol": "₹",
+            "usdPair": 83.318
         },
         "languages": [
             "Hindi"
         ],
-        "usdPair": 83.362,
         "safetyIndex": 11.2968,
         "continent": {
             "name": "Asia",
@@ -815,13 +815,13 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg",
         "currency": {
             "code": "CAD",
-            "symbol": "CA$"
+            "symbol": "CA$",
+            "usdPair": 1.3682
         },
         "languages": [
             "English",
             "French"
         ],
-        "usdPair": 1.3552,
         "safetyIndex": 6.3129,
         "continent": {
             "name": "North America",
@@ -834,12 +834,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg",
         "currency": {
             "code": "RUB",
-            "symbol": "RUB"
+            "symbol": "RUB",
+            "usdPair": 92.4685
         },
         "languages": [
             "Russian"
         ],
-        "usdPair": 92.5223,
         "safetyIndex": 11.8306,
         "continent": {
             "name": "Europe",
@@ -852,12 +852,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg",
         "currency": {
             "code": "KES",
-            "symbol": "KES"
+            "symbol": "KES",
+            "usdPair": 134.5
         },
         "languages": [
             "English"
         ],
-        "usdPair": 132.61,
         "safetyIndex": 11.4996,
         "continent": {
             "name": "Africa",
@@ -870,13 +870,13 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cyprus.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Greek",
             "Turkish"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 7.2315,
         "continent": {
             "name": "Europe",
@@ -889,12 +889,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg",
         "currency": {
             "code": "NOK",
-            "symbol": "NOK"
+            "symbol": "NOK",
+            "usdPair": 10.9511
         },
         "languages": [
             "Norwegian"
         ],
-        "usdPair": 10.8533,
         "safetyIndex": 5.9003,
         "continent": {
             "name": "Europe",
@@ -907,12 +907,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Panama.svg",
         "currency": {
             "code": "PAB",
-            "symbol": "PAB"
+            "symbol": "PAB",
+            "usdPair": 0.9949
         },
         "languages": [
             "Spanish"
         ],
-        "usdPair": 1.0008,
         "safetyIndex": 11.6456,
         "continent": {
             "name": "North America",
@@ -925,12 +925,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg",
         "currency": {
             "code": "KHR",
-            "symbol": "KHR"
+            "symbol": "KHR",
+            "usdPair": 4041.27
         },
         "languages": [
             "Khmer"
         ],
-        "usdPair": 4045.21,
         "safetyIndex": 10.6824,
         "continent": {
             "name": "Asia",
@@ -943,12 +943,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Czech%20Republic.svg",
         "currency": {
             "code": "CZK",
-            "symbol": "CZK"
+            "symbol": "CZK",
+            "usdPair": 23.6259
         },
         "languages": [
             "Czech"
         ],
-        "usdPair": 23.4596,
         "safetyIndex": 10.8644,
         "continent": {
             "name": "Europe",
@@ -961,13 +961,13 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ecuador.svg",
         "currency": {
             "code": "USD",
-            "symbol": "$"
+            "symbol": "$",
+            "usdPair": 1
         },
         "languages": [
             "Spanish",
             "Quechua"
         ],
-        "usdPair": 1,
         "safetyIndex": 11.9027,
         "continent": {
             "name": "South America",
@@ -980,12 +980,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iceland.svg",
         "currency": {
             "code": "ISK",
-            "symbol": "ISK"
+            "symbol": "ISK",
+            "usdPair": 140.68
         },
         "languages": [
             "Icelandic"
         ],
-        "usdPair": 139.39,
         "safetyIndex": 3.9724,
         "continent": {
             "name": "Europe",
@@ -998,12 +998,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chile.svg",
         "currency": {
             "code": "CLP",
-            "symbol": "CLP"
+            "symbol": "CLP",
+            "usdPair": 956.35
         },
         "languages": [
             "Spanish"
         ],
-        "usdPair": 979.77,
         "safetyIndex": 10.0716,
         "continent": {
             "name": "South America",
@@ -1016,12 +1016,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Korea.svg",
         "currency": {
             "code": "KRW",
-            "symbol": "₩"
+            "symbol": "₩",
+            "usdPair": 1375
         },
         "languages": [
             "Korean"
         ],
-        "usdPair": 1347,
         "safetyIndex": 7.5089,
         "continent": {
             "name": "Asia",
@@ -1034,7 +1034,8 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Singapore.svg",
         "currency": {
             "code": "SGD",
-            "symbol": "SGD"
+            "symbol": "SGD",
+            "usdPair": 1.3613
         },
         "languages": [
             "Mandarin Chinese",
@@ -1042,7 +1043,6 @@
             "Tamil",
             "English"
         ],
-        "usdPair": 1.3494,
         "safetyIndex": 4.6184,
         "continent": {
             "name": "Asia",
@@ -1055,12 +1055,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg",
         "currency": {
             "code": "BGN",
-            "symbol": "BGN"
+            "symbol": "BGN",
+            "usdPair": 1.8292
         },
         "languages": [
             "Bulgarian"
         ],
-        "usdPair": 1.8141,
         "safetyIndex": 12.7019,
         "continent": {
             "name": "Europe",
@@ -1073,12 +1073,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg",
         "currency": {
             "code": "SEK",
-            "symbol": "SEK"
+            "symbol": "SEK",
+            "usdPair": 10.8655
         },
         "languages": [
             "Swedish"
         ],
-        "usdPair": 10.7106,
         "safetyIndex": 8.4163,
         "continent": {
             "name": "Europe",
@@ -1091,12 +1091,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20China.svg",
         "currency": {
             "code": "TWD",
-            "symbol": "NT$"
+            "symbol": "NT$",
+            "usdPair": 32.589
         },
         "languages": [
             "Standard Chinese"
         ],
-        "usdPair": 31.972,
         "continent": {
             "name": "Asia",
             "code": "AS"
@@ -1108,12 +1108,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Estonia.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Estonian"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 7.4615,
         "continent": {
             "name": "Europe",
@@ -1126,12 +1126,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia.svg",
         "currency": {
             "code": "GEL",
-            "symbol": "GEL"
+            "symbol": "GEL",
+            "usdPair": 2.69
         },
         "languages": [
             "Georgian"
         ],
-        "usdPair": 2.693,
         "safetyIndex": 11.0289,
         "continent": {
             "name": "Asia",
@@ -1144,13 +1144,13 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Israel.svg",
         "currency": {
             "code": "ILS",
-            "symbol": "₪"
+            "symbol": "₪",
+            "usdPair": 3.7608
         },
         "languages": [
             "Hebrew",
             "Arabic"
         ],
-        "usdPair": 3.6796,
         "safetyIndex": 8.0181,
         "continent": {
             "name": "Asia",
@@ -1163,12 +1163,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Venezuela.svg",
         "currency": {
             "code": "VES",
-            "symbol": "VES"
+            "symbol": "VES",
+            "usdPair": 36.3017
         },
         "languages": [
             "Spanish"
         ],
-        "usdPair": 36.2886,
         "safetyIndex": 13.3481,
         "continent": {
             "name": "South America",
@@ -1181,12 +1181,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Austria.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "German"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 7.3454,
         "continent": {
             "name": "Europe",
@@ -1199,12 +1199,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lithuania.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Lithuanian"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 8.8327,
         "continent": {
             "name": "Europe",
@@ -1217,12 +1217,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Myanmar.svg",
         "currency": {
             "code": "MMK",
-            "symbol": "MMK"
+            "symbol": "MMK",
+            "usdPair": 2089.35
         },
         "languages": [
             "Burmese"
         ],
-        "usdPair": 2101.712,
         "continent": {
             "name": "Asia",
             "code": "AS"
@@ -1234,13 +1234,13 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Paraguay%20%28reverse%29.svg",
         "currency": {
             "code": "PYG",
-            "symbol": "PYG"
+            "symbol": "PYG",
+            "usdPair": 7382.27
         },
         "languages": [
             "Guaraní",
             "Spanish"
         ],
-        "usdPair": 7399.26,
         "safetyIndex": 11.4676,
         "continent": {
             "name": "South America",
@@ -1253,12 +1253,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Azerbaijan.svg",
         "currency": {
             "code": "AZN",
-            "symbol": "AZN"
+            "symbol": "AZN",
+            "usdPair": 1.7
         },
         "languages": [
             "Azebaijani"
         ],
-        "usdPair": 1.7,
         "safetyIndex": 9.4562,
         "continent": {
             "name": "Asia",
@@ -1271,14 +1271,14 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg",
         "currency": {
             "code": "BAM",
-            "symbol": "BAM"
+            "symbol": "BAM",
+            "usdPair": 1.83
         },
         "languages": [
             "Bosnian",
             "Croatian",
             "Serbian"
         ],
-        "usdPair": 1.814,
         "safetyIndex": 14.1361,
         "continent": {
             "name": "Europe",
@@ -1291,13 +1291,13 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg",
         "currency": {
             "code": "LKR",
-            "symbol": "LKR"
+            "symbol": "LKR",
+            "usdPair": 298.727
         },
         "languages": [
             "Sinhala",
             "Tamil"
         ],
-        "usdPair": 300.791,
         "safetyIndex": 9.3609,
         "continent": {
             "name": "Asia",
@@ -1310,13 +1310,13 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tanzania.svg",
         "currency": {
             "code": "TZS",
-            "symbol": "TZS"
+            "symbol": "TZS",
+            "usdPair": 2597
         },
         "languages": [
             "Kiswahili",
             "English"
         ],
-        "usdPair": 2582.06,
         "safetyIndex": 9.6671,
         "continent": {
             "name": "Africa",
@@ -1329,12 +1329,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg",
         "currency": {
             "code": "BDT",
-            "symbol": "BDT"
+            "symbol": "BDT",
+            "usdPair": 109.194
         },
         "languages": [
             "Bengali"
         ],
-        "usdPair": 109.843,
         "safetyIndex": 11.8453,
         "continent": {
             "name": "Asia",
@@ -1347,12 +1347,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Qatar.svg",
         "currency": {
             "code": "QAR",
-            "symbol": "QAR"
+            "symbol": "QAR",
+            "usdPair": 3.6406
         },
         "languages": [
             "Arabic"
         ],
-        "usdPair": 3.6405,
         "safetyIndex": 4.5609,
         "continent": {
             "name": "Asia",
@@ -1365,12 +1365,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guyana.svg",
         "currency": {
             "code": "GYD",
-            "symbol": "GYD"
+            "symbol": "GYD",
+            "usdPair": 209.3
         },
         "languages": [
             "English"
         ],
-        "usdPair": 209.3,
         "continent": {
             "name": "South America",
             "code": "SA"
@@ -1382,7 +1382,8 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zimbabwe.svg",
         "currency": {
             "code": "ZWL",
-            "symbol": "ZWL"
+            "symbol": "ZWL",
+            "usdPair": 30674.301
         },
         "languages": [
             "Chewa",
@@ -1401,7 +1402,6 @@
             "Venda",
             "Xhosa"
         ],
-        "usdPair": 22081.699,
         "safetyIndex": 10.643,
         "continent": {
             "name": "Africa",
@@ -1414,12 +1414,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cuba.svg",
         "currency": {
             "code": "CUP",
-            "symbol": "CUP"
+            "symbol": "CUP",
+            "usdPair": 23.878
         },
         "languages": [
             "Spanish"
         ],
-        "usdPair": 24.0193,
         "continent": {
             "name": "North America",
             "code": "NA"
@@ -1431,12 +1431,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Armenia.svg",
         "currency": {
             "code": "AMD",
-            "symbol": "AMD"
+            "symbol": "AMD",
+            "usdPair": 390.04
         },
         "languages": [
             "Armenian"
         ],
-        "usdPair": 394.46,
         "safetyIndex": 11.7685,
         "continent": {
             "name": "Asia",
@@ -1449,13 +1449,13 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg",
         "currency": {
             "code": "PKR",
-            "symbol": "PKR"
+            "symbol": "PKR",
+            "usdPair": 277.309
         },
         "languages": [
             "Urdu",
             "English"
         ],
-        "usdPair": 278.223,
         "safetyIndex": 12.7415,
         "continent": {
             "name": "Asia",
@@ -1468,13 +1468,13 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg",
         "currency": {
             "code": "UGX",
-            "symbol": "UGX"
+            "symbol": "UGX",
+            "usdPair": 3796.66
         },
         "languages": [
             "English",
             "Swahili"
         ],
-        "usdPair": 3882.92,
         "safetyIndex": 10.6838,
         "continent": {
             "name": "Africa",
@@ -1487,12 +1487,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg",
         "currency": {
             "code": "NPR",
-            "symbol": "NPR"
+            "symbol": "NPR",
+            "usdPair": 132.704
         },
         "languages": [
             "Nepali"
         ],
-        "usdPair": 133.517,
         "safetyIndex": 9.2971,
         "continent": {
             "name": "Asia",
@@ -1505,12 +1505,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jamaica.svg",
         "currency": {
             "code": "JMD",
-            "symbol": "JMD"
+            "symbol": "JMD",
+            "usdPair": 154.768
         },
         "languages": [
             "English"
         ],
-        "usdPair": 154.025,
         "safetyIndex": 12.3555,
         "continent": {
             "name": "North America",
@@ -1523,12 +1523,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kuwait.svg",
         "currency": {
             "code": "KWD",
-            "symbol": "KWD"
+            "symbol": "KWD",
+            "usdPair": 0.308
         },
         "languages": [
             "Arabic"
         ],
-        "usdPair": 0.3077,
         "safetyIndex": 7.648,
         "continent": {
             "name": "Asia",
@@ -1541,14 +1541,14 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia%20%28state%29.svg",
         "currency": {
             "code": "BOB",
-            "symbol": "BOB"
+            "symbol": "BOB",
+            "usdPair": 6.8753
         },
         "languages": [
             "Spanish",
             "Quechua",
             "Aymarà"
         ],
-        "usdPair": 6.9158,
         "safetyIndex": 11.2715,
         "continent": {
             "name": "South America",
@@ -1561,12 +1561,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uruguay.svg",
         "currency": {
             "code": "UYU",
-            "symbol": "UYU"
+            "symbol": "UYU",
+            "usdPair": 38.3308
         },
         "languages": [
             "Spanish"
         ],
-        "usdPair": 37.5578,
         "safetyIndex": 10.2331,
         "continent": {
             "name": "South America",
@@ -1579,12 +1579,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oman.svg",
         "currency": {
             "code": "OMR",
-            "symbol": "OMR"
+            "symbol": "OMR",
+            "usdPair": 0.385
         },
         "languages": [
             "Arabic"
         ],
-        "usdPair": 0.3855,
         "safetyIndex": 8.0631,
         "continent": {
             "name": "Asia",
@@ -1597,12 +1597,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Bahamas.svg",
         "currency": {
             "code": "BSD",
-            "symbol": "BSD"
+            "symbol": "BSD",
+            "usdPair": 0.9949
         },
         "languages": [
             "English"
         ],
-        "usdPair": 1.0008,
         "continent": {
             "name": "North America",
             "code": "NA"
@@ -1614,12 +1614,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Montenegro.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Serbian/Montenegrin"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 13.0748,
         "continent": {
             "name": "Europe",
@@ -1632,12 +1632,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Latvia.svg",
         "currency": {
             "code": "EUR",
-            "symbol": "€"
+            "symbol": "€",
+            "usdPair": 0.936
         },
         "languages": [
             "Latvian"
         ],
-        "usdPair": 0.9273,
         "safetyIndex": 9.0456,
         "continent": {
             "name": "Europe",
@@ -1650,12 +1650,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saudi%20Arabia.svg",
         "currency": {
             "code": "SAR",
-            "symbol": "SAR"
+            "symbol": "SAR",
+            "usdPair": 3.7507
         },
         "languages": [
             "Arabic"
         ],
-        "usdPair": 3.7519,
         "safetyIndex": 7.6917,
         "continent": {
             "name": "Asia",
@@ -1668,12 +1668,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Costa%20Rica.svg",
         "currency": {
             "code": "CRC",
-            "symbol": "CRC"
+            "symbol": "CRC",
+            "usdPair": 499.27
         },
         "languages": [
             "Spanish"
         ],
-        "usdPair": 503.36,
         "safetyIndex": 11.5232,
         "continent": {
             "name": "North America",
@@ -1686,12 +1686,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Dominican%20Republic.svg",
         "currency": {
             "code": "DOP",
-            "symbol": "DOP"
+            "symbol": "DOP",
+            "usdPair": 58.555
         },
         "languages": [
             "Spanish"
         ],
-        "usdPair": 59.264,
         "safetyIndex": 10.5449,
         "continent": {
             "name": "North America",
@@ -1704,12 +1704,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg",
         "currency": {
             "code": "UZS",
-            "symbol": "UZS"
+            "symbol": "UZS",
+            "usdPair": 12646.77
         },
         "languages": [
             "Uzbek"
         ],
-        "usdPair": 12630.62,
         "continent": {
             "name": "Asia",
             "code": "AS"
@@ -1721,12 +1721,12 @@
         "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iran.svg",
         "currency": {
             "code": "IRR",
-            "symbol": "IRR"
+            "symbol": "IRR",
+            "usdPair": 42075
         },
         "languages": [
             "Persian/Farsi"
         ],
-        "usdPair": 42035,
         "safetyIndex": 11.8461,
         "continent": {
             "name": "Asia",
