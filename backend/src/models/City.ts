@@ -7,11 +7,11 @@ const citySchema = new Schema({
   },
   location: {
     latitude: {
-      type: String,
+      type: Number,
       required: true,
     },
     longitude: {
-      type: String,
+      type: Number,
       required: true,
     },
   },
@@ -24,68 +24,23 @@ const citySchema = new Schema({
     type: Number,
     required: true,
   },
-  populationDensity: {
-    type: Number,
-    required: true,
-  },
-  cost: {
-    food: {
-      type: String,
-      required: true,
-    },
-    hotel: {
-      type: String,
-      required: true,
-    },
+  monthlyCost: {
     rent: {
-      type: String,
+      type: Number,
       required: true,
     },
-    taxi: {
-      type: String,
+    otherCosts: {
+      type: Number,
       required: true,
-    },
+    }
   },
   photo: {
     type: String,
     required: true,
   },
-  reviews: [
-    {
-      type: Schema.Types.ObjectId,
-      ref: "User",
-      required: true,
-    },
-  ],
-  usefulApps: [
-    {
-      type: String,
-      required: true,
-    },
-  ],
   weather: {
     type: Schema.Types.ObjectId,
     ref: "Weather",
-    required: true,
-  },
-  airQualityAnnualAvg: {
-    type: Number,
-    required: true,
-  },
-  drinkableTapWater: {
-    type: Boolean,
-    required: true,
-  },
-  internetSpeed: {
-    type: Number,
-    required: true,
-  },
-  safetyScore: {
-    type: Number,
-    required: true,
-  },
-  gdpPerCapit: {
-    type: Number,
     required: true,
   },
 });
