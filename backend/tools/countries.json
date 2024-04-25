@@ -11,7 +11,11 @@
             "Dutch"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 8.7304
+        "safetyIndex": 8.7304,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "GR",
@@ -25,7 +29,11 @@
             "Greek"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 9.8026
+        "safetyIndex": 9.8026,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "NZ",
@@ -40,7 +48,11 @@
             "Maori"
         ],
         "usdPair": 1.6744,
-        "safetyIndex": 6.4352
+        "safetyIndex": 6.4352,
+        "continent": {
+            "name": "Oceania",
+            "code": "OC"
+        }
     },
     {
         "countryCode": "US",
@@ -53,7 +65,11 @@
         "languages": [
             "English"
         ],
-        "usdPair": 1
+        "usdPair": 1,
+        "continent": {
+            "name": "North America",
+            "code": "NA"
+        }
     },
     {
         "countryCode": "ID",
@@ -68,7 +84,11 @@
             "French"
         ],
         "usdPair": 15885.7,
-        "safetyIndex": 9.8128
+        "safetyIndex": 9.8128,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "TH",
@@ -82,7 +102,11 @@
             "Thai"
         ],
         "usdPair": 36.38,
-        "safetyIndex": 10.1649
+        "safetyIndex": 10.1649,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "ES",
@@ -96,7 +120,11 @@
             "Spanish"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 9.2561
+        "safetyIndex": 9.2561,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "RS",
@@ -110,7 +138,11 @@
             "Serbian"
         ],
         "usdPair": 108.747,
-        "safetyIndex": 8.8283
+        "safetyIndex": 8.8283,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "DE",
@@ -124,7 +156,11 @@
             "German"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 7.7059
+        "safetyIndex": 7.7059,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "CO",
@@ -138,7 +174,11 @@
             "Spanish"
         ],
         "usdPair": 3865.3,
-        "safetyIndex": 14.8461
+        "safetyIndex": 14.8461,
+        "continent": {
+            "name": "South America",
+            "code": "SA"
+        }
     },
     {
         "countryCode": "FR",
@@ -152,7 +192,11 @@
             "French"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 9.7914
+        "safetyIndex": 9.7914,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "BR",
@@ -166,7 +210,11 @@
             "Portuguese"
         ],
         "usdPair": 5.0155,
-        "safetyIndex": 14.1011
+        "safetyIndex": 14.1011,
+        "continent": {
+            "name": "South America",
+            "code": "SA"
+        }
     },
     {
         "countryCode": "SK",
@@ -179,7 +227,11 @@
         "languages": [
             "Slovak"
         ],
-        "usdPair": 0.9273
+        "usdPair": 0.9273,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "AU",
@@ -193,7 +245,11 @@
             "English (de facto)"
         ],
         "usdPair": 1.5351,
-        "safetyIndex": 6.7699
+        "safetyIndex": 6.7699,
+        "continent": {
+            "name": "Oceania",
+            "code": "OC"
+        }
     },
     {
         "countryCode": "GB",
@@ -206,7 +262,11 @@
         "languages": [
             "English"
         ],
-        "usdPair": 0.7926
+        "usdPair": 0.7926,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "BE",
@@ -222,7 +282,11 @@
             "German"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 9.9869
+        "safetyIndex": 9.9869,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "HU",
@@ -236,7 +300,11 @@
             "Hungarian"
         ],
         "usdPair": 365.13,
-        "safetyIndex": 11.2723
+        "safetyIndex": 11.2723,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "RO",
@@ -250,7 +318,11 @@
             "Romanian"
         ],
         "usdPair": 4.6085,
-        "safetyIndex": 9.6706
+        "safetyIndex": 9.6706,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "AR",
@@ -264,7 +336,11 @@
             "Spanish"
         ],
         "usdPair": 857.9923,
-        "safetyIndex": 11.5349
+        "safetyIndex": 11.5349,
+        "continent": {
+            "name": "South America",
+            "code": "SA"
+        }
     },
     {
         "countryCode": "EG",
@@ -278,7 +354,11 @@
             "Arabic"
         ],
         "usdPair": 47.4363,
-        "safetyIndex": 9.9841
+        "safetyIndex": 9.9841,
+        "continent": {
+            "name": "Africa",
+            "code": "AF"
+        }
     },
     {
         "countryCode": "ZA",
@@ -302,7 +382,11 @@
             "Zulu"
         ],
         "usdPair": 18.9041,
-        "safetyIndex": 13.0681
+        "safetyIndex": 13.0681,
+        "continent": {
+            "name": "Africa",
+            "code": "AF"
+        }
     },
     {
         "countryCode": "MY",
@@ -316,7 +400,11 @@
             "Malay"
         ],
         "usdPair": 4.7245,
-        "safetyIndex": 8.0923
+        "safetyIndex": 8.0923,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "DK",
@@ -330,7 +418,11 @@
             "Danish"
         ],
         "usdPair": 6.9177,
-        "safetyIndex": 6.2422
+        "safetyIndex": 6.2422,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "PE",
@@ -346,7 +438,11 @@
             "Aymarà"
         ],
         "usdPair": 3.7221,
-        "safetyIndex": 13.7978
+        "safetyIndex": 13.7978,
+        "continent": {
+            "name": "South America",
+            "code": "SA"
+        }
     },
     {
         "countryCode": "VN",
@@ -360,7 +456,11 @@
             "Vietnamese"
         ],
         "usdPair": 24817.5,
-        "safetyIndex": 9.615
+        "safetyIndex": 9.615,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "AE",
@@ -374,7 +474,11 @@
             "Arabic"
         ],
         "usdPair": 3.6723,
-        "safetyIndex": 4.2043
+        "safetyIndex": 4.2043,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "IE",
@@ -389,7 +493,11 @@
             "Irish Gaelic"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 7.8351
+        "safetyIndex": 7.8351,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "HR",
@@ -403,7 +511,11 @@
             "Croatian"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 10.3129
+        "safetyIndex": 10.3129,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "IT",
@@ -417,7 +529,11 @@
             "Italian"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 10.7901
+        "safetyIndex": 10.7901,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "PH",
@@ -432,7 +548,11 @@
             "English"
         ],
         "usdPair": 56.178,
-        "safetyIndex": 14.8899
+        "safetyIndex": 14.8899,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "CH",
@@ -449,7 +569,11 @@
             "Romansch"
         ],
         "usdPair": 0.9015,
-        "safetyIndex": 7.3316
+        "safetyIndex": 7.3316,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "MX",
@@ -463,7 +587,11 @@
             "Spanish (de facto)"
         ],
         "usdPair": 16.5854,
-        "safetyIndex": 14.0531
+        "safetyIndex": 14.0531,
+        "continent": {
+            "name": "North America",
+            "code": "NA"
+        }
     },
     {
         "countryCode": "CN",
@@ -476,7 +604,11 @@
         "languages": [
             "Mandarin Chinese"
         ],
-        "usdPair": 7.2204
+        "usdPair": 7.2204,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "FI",
@@ -491,7 +623,11 @@
             "Swedish"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 4.9782
+        "safetyIndex": 4.9782,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "HK",
@@ -505,7 +641,11 @@
             "Chinese",
             "English"
         ],
-        "usdPair": 7.8259
+        "usdPair": 7.8259,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "TR",
@@ -519,7 +659,11 @@
             "Turkish"
         ],
         "usdPair": 32.3759,
-        "safetyIndex": 11.8725
+        "safetyIndex": 11.8725,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "UA",
@@ -533,7 +677,11 @@
             "Ukrainian"
         ],
         "usdPair": 39.2682,
-        "safetyIndex": 12.8897
+        "safetyIndex": 12.8897,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "PL",
@@ -547,7 +695,11 @@
             "Polish"
         ],
         "usdPair": 3.9841,
-        "safetyIndex": 10.1538
+        "safetyIndex": 10.1538,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "JP",
@@ -561,7 +713,11 @@
             "Japanese"
         ],
         "usdPair": 151.35,
-        "safetyIndex": 7.9247
+        "safetyIndex": 7.9247,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "NG",
@@ -575,7 +731,11 @@
             "English"
         ],
         "usdPair": 1393.51,
-        "safetyIndex": 14.2778
+        "safetyIndex": 14.2778,
+        "continent": {
+            "name": "Africa",
+            "code": "AF"
+        }
     },
     {
         "countryCode": "PT",
@@ -589,7 +749,11 @@
             "Portuguese"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 8.2539
+        "safetyIndex": 8.2539,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "SI",
@@ -603,7 +767,11 @@
             "Slovenian"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 9.554
+        "safetyIndex": 9.554,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "MA",
@@ -617,7 +785,11 @@
             "Arabic"
         ],
         "usdPair": 10.1407,
-        "safetyIndex": 8.0539
+        "safetyIndex": 8.0539,
+        "continent": {
+            "name": "Africa",
+            "code": "AF"
+        }
     },
     {
         "countryCode": "IN",
@@ -631,7 +803,11 @@
             "Hindi"
         ],
         "usdPair": 83.362,
-        "safetyIndex": 11.2968
+        "safetyIndex": 11.2968,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "CA",
@@ -646,7 +822,11 @@
             "French"
         ],
         "usdPair": 1.3552,
-        "safetyIndex": 6.3129
+        "safetyIndex": 6.3129,
+        "continent": {
+            "name": "North America",
+            "code": "NA"
+        }
     },
     {
         "countryCode": "RU",
@@ -660,7 +840,11 @@
             "Russian"
         ],
         "usdPair": 92.5223,
-        "safetyIndex": 11.8306
+        "safetyIndex": 11.8306,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "KE",
@@ -674,7 +858,11 @@
             "English"
         ],
         "usdPair": 132.61,
-        "safetyIndex": 11.4996
+        "safetyIndex": 11.4996,
+        "continent": {
+            "name": "Africa",
+            "code": "AF"
+        }
     },
     {
         "countryCode": "CY",
@@ -689,7 +877,11 @@
             "Turkish"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 7.2315
+        "safetyIndex": 7.2315,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "NO",
@@ -703,7 +895,11 @@
             "Norwegian"
         ],
         "usdPair": 10.8533,
-        "safetyIndex": 5.9003
+        "safetyIndex": 5.9003,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "PA",
@@ -717,7 +913,11 @@
             "Spanish"
         ],
         "usdPair": 1.0008,
-        "safetyIndex": 11.6456
+        "safetyIndex": 11.6456,
+        "continent": {
+            "name": "North America",
+            "code": "NA"
+        }
     },
     {
         "countryCode": "KH",
@@ -731,7 +931,11 @@
             "Khmer"
         ],
         "usdPair": 4045.21,
-        "safetyIndex": 10.6824
+        "safetyIndex": 10.6824,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "CZ",
@@ -745,7 +949,11 @@
             "Czech"
         ],
         "usdPair": 23.4596,
-        "safetyIndex": 10.8644
+        "safetyIndex": 10.8644,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "EC",
@@ -760,7 +968,11 @@
             "Quechua"
         ],
         "usdPair": 1,
-        "safetyIndex": 11.9027
+        "safetyIndex": 11.9027,
+        "continent": {
+            "name": "South America",
+            "code": "SA"
+        }
     },
     {
         "countryCode": "IS",
@@ -774,7 +986,11 @@
             "Icelandic"
         ],
         "usdPair": 139.39,
-        "safetyIndex": 3.9724
+        "safetyIndex": 3.9724,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "CL",
@@ -788,7 +1004,11 @@
             "Spanish"
         ],
         "usdPair": 979.77,
-        "safetyIndex": 10.0716
+        "safetyIndex": 10.0716,
+        "continent": {
+            "name": "South America",
+            "code": "SA"
+        }
     },
     {
         "countryCode": "KR",
@@ -802,7 +1022,11 @@
             "Korean"
         ],
         "usdPair": 1347,
-        "safetyIndex": 7.5089
+        "safetyIndex": 7.5089,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "SG",
@@ -819,7 +1043,11 @@
             "English"
         ],
         "usdPair": 1.3494,
-        "safetyIndex": 4.6184
+        "safetyIndex": 4.6184,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "BG",
@@ -833,7 +1061,11 @@
             "Bulgarian"
         ],
         "usdPair": 1.8141,
-        "safetyIndex": 12.7019
+        "safetyIndex": 12.7019,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "SE",
@@ -847,7 +1079,11 @@
             "Swedish"
         ],
         "usdPair": 10.7106,
-        "safetyIndex": 8.4163
+        "safetyIndex": 8.4163,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "TW",
@@ -860,7 +1096,11 @@
         "languages": [
             "Standard Chinese"
         ],
-        "usdPair": 31.972
+        "usdPair": 31.972,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "EE",
@@ -874,7 +1114,11 @@
             "Estonian"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 7.4615
+        "safetyIndex": 7.4615,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "GE",
@@ -888,7 +1132,11 @@
             "Georgian"
         ],
         "usdPair": 2.693,
-        "safetyIndex": 11.0289
+        "safetyIndex": 11.0289,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "IL",
@@ -903,7 +1151,11 @@
             "Arabic"
         ],
         "usdPair": 3.6796,
-        "safetyIndex": 8.0181
+        "safetyIndex": 8.0181,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "VE",
@@ -917,7 +1169,11 @@
             "Spanish"
         ],
         "usdPair": 36.2886,
-        "safetyIndex": 13.3481
+        "safetyIndex": 13.3481,
+        "continent": {
+            "name": "South America",
+            "code": "SA"
+        }
     },
     {
         "countryCode": "AT",
@@ -931,7 +1187,11 @@
             "German"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 7.3454
+        "safetyIndex": 7.3454,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "LT",
@@ -945,7 +1205,11 @@
             "Lithuanian"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 8.8327
+        "safetyIndex": 8.8327,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "MM",
@@ -958,7 +1222,11 @@
         "languages": [
             "Burmese"
         ],
-        "usdPair": 2101.712
+        "usdPair": 2101.712,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "PY",
@@ -973,7 +1241,11 @@
             "Spanish"
         ],
         "usdPair": 7399.26,
-        "safetyIndex": 11.4676
+        "safetyIndex": 11.4676,
+        "continent": {
+            "name": "South America",
+            "code": "SA"
+        }
     },
     {
         "countryCode": "AZ",
@@ -987,7 +1259,11 @@
             "Azebaijani"
         ],
         "usdPair": 1.7,
-        "safetyIndex": 9.4562
+        "safetyIndex": 9.4562,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "BA",
@@ -1003,7 +1279,11 @@
             "Serbian"
         ],
         "usdPair": 1.814,
-        "safetyIndex": 14.1361
+        "safetyIndex": 14.1361,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "LK",
@@ -1018,7 +1298,11 @@
             "Tamil"
         ],
         "usdPair": 300.791,
-        "safetyIndex": 9.3609
+        "safetyIndex": 9.3609,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "TZ",
@@ -1033,7 +1317,11 @@
             "English"
         ],
         "usdPair": 2582.06,
-        "safetyIndex": 9.6671
+        "safetyIndex": 9.6671,
+        "continent": {
+            "name": "Africa",
+            "code": "AF"
+        }
     },
     {
         "countryCode": "BD",
@@ -1047,7 +1335,11 @@
             "Bengali"
         ],
         "usdPair": 109.843,
-        "safetyIndex": 11.8453
+        "safetyIndex": 11.8453,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "QA",
@@ -1061,7 +1353,11 @@
             "Arabic"
         ],
         "usdPair": 3.6405,
-        "safetyIndex": 4.5609
+        "safetyIndex": 4.5609,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "GY",
@@ -1074,7 +1370,11 @@
         "languages": [
             "English"
         ],
-        "usdPair": 209.3
+        "usdPair": 209.3,
+        "continent": {
+            "name": "South America",
+            "code": "SA"
+        }
     },
     {
         "countryCode": "ZW",
@@ -1102,7 +1402,11 @@
             "Xhosa"
         ],
         "usdPair": 22081.699,
-        "safetyIndex": 10.643
+        "safetyIndex": 10.643,
+        "continent": {
+            "name": "Africa",
+            "code": "AF"
+        }
     },
     {
         "countryCode": "CU",
@@ -1115,7 +1419,11 @@
         "languages": [
             "Spanish"
         ],
-        "usdPair": 24.0193
+        "usdPair": 24.0193,
+        "continent": {
+            "name": "North America",
+            "code": "NA"
+        }
     },
     {
         "countryCode": "AM",
@@ -1129,7 +1437,11 @@
             "Armenian"
         ],
         "usdPair": 394.46,
-        "safetyIndex": 11.7685
+        "safetyIndex": 11.7685,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "PK",
@@ -1144,7 +1456,11 @@
             "English"
         ],
         "usdPair": 278.223,
-        "safetyIndex": 12.7415
+        "safetyIndex": 12.7415,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "UG",
@@ -1159,7 +1475,11 @@
             "Swahili"
         ],
         "usdPair": 3882.92,
-        "safetyIndex": 10.6838
+        "safetyIndex": 10.6838,
+        "continent": {
+            "name": "Africa",
+            "code": "AF"
+        }
     },
     {
         "countryCode": "NP",
@@ -1173,7 +1493,11 @@
             "Nepali"
         ],
         "usdPair": 133.517,
-        "safetyIndex": 9.2971
+        "safetyIndex": 9.2971,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "JM",
@@ -1187,7 +1511,11 @@
             "English"
         ],
         "usdPair": 154.025,
-        "safetyIndex": 12.3555
+        "safetyIndex": 12.3555,
+        "continent": {
+            "name": "North America",
+            "code": "NA"
+        }
     },
     {
         "countryCode": "KW",
@@ -1201,7 +1529,11 @@
             "Arabic"
         ],
         "usdPair": 0.3077,
-        "safetyIndex": 7.648
+        "safetyIndex": 7.648,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "BO",
@@ -1217,7 +1549,11 @@
             "Aymarà"
         ],
         "usdPair": 6.9158,
-        "safetyIndex": 11.2715
+        "safetyIndex": 11.2715,
+        "continent": {
+            "name": "South America",
+            "code": "SA"
+        }
     },
     {
         "countryCode": "UY",
@@ -1231,7 +1567,11 @@
             "Spanish"
         ],
         "usdPair": 37.5578,
-        "safetyIndex": 10.2331
+        "safetyIndex": 10.2331,
+        "continent": {
+            "name": "South America",
+            "code": "SA"
+        }
     },
     {
         "countryCode": "OM",
@@ -1245,7 +1585,11 @@
             "Arabic"
         ],
         "usdPair": 0.3855,
-        "safetyIndex": 8.0631
+        "safetyIndex": 8.0631,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "BS",
@@ -1258,7 +1602,11 @@
         "languages": [
             "English"
         ],
-        "usdPair": 1.0008
+        "usdPair": 1.0008,
+        "continent": {
+            "name": "North America",
+            "code": "NA"
+        }
     },
     {
         "countryCode": "ME",
@@ -1272,7 +1620,11 @@
             "Serbian/Montenegrin"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 13.0748
+        "safetyIndex": 13.0748,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "LV",
@@ -1286,7 +1638,11 @@
             "Latvian"
         ],
         "usdPair": 0.9273,
-        "safetyIndex": 9.0456
+        "safetyIndex": 9.0456,
+        "continent": {
+            "name": "Europe",
+            "code": "EU"
+        }
     },
     {
         "countryCode": "SA",
@@ -1300,7 +1656,11 @@
             "Arabic"
         ],
         "usdPair": 3.7519,
-        "safetyIndex": 7.6917
+        "safetyIndex": 7.6917,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "CR",
@@ -1314,7 +1674,11 @@
             "Spanish"
         ],
         "usdPair": 503.36,
-        "safetyIndex": 11.5232
+        "safetyIndex": 11.5232,
+        "continent": {
+            "name": "North America",
+            "code": "NA"
+        }
     },
     {
         "countryCode": "DO",
@@ -1328,7 +1692,11 @@
             "Spanish"
         ],
         "usdPair": 59.264,
-        "safetyIndex": 10.5449
+        "safetyIndex": 10.5449,
+        "continent": {
+            "name": "North America",
+            "code": "NA"
+        }
     },
     {
         "countryCode": "UZ",
@@ -1341,7 +1709,11 @@
         "languages": [
             "Uzbek"
         ],
-        "usdPair": 12630.62
+        "usdPair": 12630.62,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     },
     {
         "countryCode": "IR",
@@ -1355,6 +1727,10 @@
             "Persian/Farsi"
         ],
         "usdPair": 42035,
-        "safetyIndex": 11.8461
+        "safetyIndex": 11.8461,
+        "continent": {
+            "name": "Asia",
+            "code": "AS"
+        }
     }
 ]
