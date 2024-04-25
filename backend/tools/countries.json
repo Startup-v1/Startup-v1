@@ -66,6 +66,7 @@
         "languages": [
             "English"
         ],
+        "safetyIndex": 11.4352,
         "continent": {
             "name": "North America",
             "code": "NA"
@@ -228,6 +229,7 @@
         "languages": [
             "Slovak"
         ],
+        "safetyIndex": 9.4352,
         "continent": {
             "name": "Europe",
             "code": "EU"
@@ -263,6 +265,7 @@
         "languages": [
             "English"
         ],
+        "safetyIndex": 9.4352,
         "continent": {
             "name": "Europe",
             "code": "EU"
@@ -605,6 +608,7 @@
         "languages": [
             "Mandarin Chinese"
         ],
+        "safetyIndex": 5.4352,
         "continent": {
             "name": "Asia",
             "code": "AS"
@@ -642,6 +646,7 @@
             "Chinese",
             "English"
         ],
+        "safetyIndex": 8.4352,
         "continent": {
             "name": "Asia",
             "code": "AS"
@@ -1097,6 +1102,7 @@
         "languages": [
             "Standard Chinese"
         ],
+        "safetyIndex": 7.4352,
         "continent": {
             "name": "Asia",
             "code": "AS"
@@ -1223,6 +1229,7 @@
         "languages": [
             "Burmese"
         ],
+        "safetyIndex": 12.4352,
         "continent": {
             "name": "Asia",
             "code": "AS"
@@ -1371,6 +1378,7 @@
         "languages": [
             "English"
         ],
+        "safetyIndex": 10.4352,
         "continent": {
             "name": "South America",
             "code": "SA"
@@ -1420,6 +1428,7 @@
         "languages": [
             "Spanish"
         ],
+        "safetyIndex": 10.4352,
         "continent": {
             "name": "North America",
             "code": "NA"
@@ -1603,6 +1612,7 @@
         "languages": [
             "English"
         ],
+        "safetyIndex": 9.4352,
         "continent": {
             "name": "North America",
             "code": "NA"
@@ -1710,6 +1720,7 @@
         "languages": [
             "Uzbek"
         ],
+        "safetyIndex": 8.4352,
         "continent": {
             "name": "Asia",
             "code": "AS"
