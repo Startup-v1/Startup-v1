@@ -3,6 +3,11 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+// Used to mantain scroll when feedback modal is open
+html{
+    overflow-y: scroll !important;
+}
+
 // UTILITY CLASSES -----------------
 
 // Utility class to add to the body of every page

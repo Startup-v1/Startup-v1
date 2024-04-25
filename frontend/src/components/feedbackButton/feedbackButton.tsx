@@ -13,7 +13,7 @@ export function FeedbackButton() {
   };
 
   return (
-    <div>
+    <div className="feedback-btn-container">
       <button className="btn btn-square feedback-btn" onClick={openModal}>
         <svg
           xmlns="http://www.w3.org/2000/svg"
