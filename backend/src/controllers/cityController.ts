@@ -4,7 +4,8 @@ const City = require("../models/City");
 
 export const getCities = async (req: Request, res: Response) => {
   try {
-    const cities = await City.find();
+    //FIXME REMOVE LIMIT
+    const cities = await City.find().limit(15);
 
     if (cities?.length > 0) {
       return res.status(200).json(cities);

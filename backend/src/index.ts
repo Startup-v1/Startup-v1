@@ -1,19 +1,17 @@
-import express, { Request, Response } from "express";
-import mongoose, { ConnectOptions } from "mongoose";
+import express from "express";
+import mongoose from "mongoose";
+import cityRoutes from "./routes/cityRoutes";
 import * as dotenv from "dotenv";
+import cors from "cors";
 dotenv.config();
 
 const app = express();
 const port = process.env.PORT || 3000;
 const dbUri: any = process.env.DB_URL;
+app.use(cors());
 
-app.get("/", (req: Request, res: Response) => {
-  res.send("Hello World!");
-});
-
-app.get("/hello", (req: Request, res: Response) => {
-  res.send("Hello there!");
-});
+// Use routes
+app.use("/api", cityRoutes);
 
 mongoose
   .connect(dbUri)

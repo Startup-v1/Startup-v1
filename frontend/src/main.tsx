@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./scss/index.scss";
-import { Navbar } from "./components/navbar.tsx";
 import { BrowserRouter } from "react-router-dom";
 import { Router } from "./routes/routes.tsx";
-import { FeedbackButton } from "./components/feedbackButton/feedbackButton.tsx";
+import { FeedbackButton } from "./sharedComponents/feedbackButton/feedbackButton.tsx";
+import { Navbar } from "./sharedComponents/navbar.tsx";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   //FIXME: Remove for production?
