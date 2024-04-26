@@ -5,7 +5,9 @@ const City = require("../models/City");
 export const getCities = async (req: Request, res: Response) => {
   try {
     //FIXME REMOVE LIMIT
-    const cities = await City.find().limit(15);
+    const cities = await City.find()
+      .select("name weather photoUrl.small country.name country.safetyIndex")
+      .limit(15);
 
     if (cities?.length > 0) {
       return res.status(200).json(cities);
@@ -14,6 +16,6 @@ export const getCities = async (req: Request, res: Response) => {
     return res.status(404).json({ message: "No cities found" });
   } catch (err) {
     console.error(err);
-    return res.status(500).json({ message: 'Error' });
+    return res.status(500).json({ message: "Error" });
   }
 };
