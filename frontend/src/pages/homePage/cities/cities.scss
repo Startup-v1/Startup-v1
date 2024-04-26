@@ -1,9 +1,12 @@
 @import "./../../../scss/variables";
 
 .card-body {
+  color: white !important;
   font-family: "Montserrat";
+  text-shadow: 1px 1px black;
 
   .cityName {
+    line-height: 1.5rem;
     font-size: 40px;
     font-weight: bold;
   }
@@ -12,9 +15,22 @@
     font-size: 20px;
   }
 
+  .cityWeather {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+  }
   .cityCost {
     position: absolute;
     bottom: 10px;
+    right: 10px;
+  }
+  .safetyIndex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 10px;
     right: 10px;
   }
 }
