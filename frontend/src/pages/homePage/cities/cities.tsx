@@ -6,7 +6,7 @@ import yellowDot from "./../../../assets/safetyIndexIcons/yellow.png";
 import redDot from "./../../../assets/safetyIndexIcons/red.png";
 import { Sorting } from "./sorting/sorting";
 
-type City = {
+export type City = {
   name: string;
   location: {
     latitude: number;
@@ -54,8 +54,8 @@ export const CitiesGrid = () => {
     let maxTemp = -Infinity;
 
     city.weather.forEach((monthlyWeather) => {
-      minTemp = Math.min(minTemp, monthlyWeather.minTemp);
-      maxTemp = Math.max(maxTemp, monthlyWeather.maxTemp);
+      minTemp = Math.floor(Math.min(minTemp, monthlyWeather.minTemp));
+      maxTemp = Math.ceil(Math.max(maxTemp, monthlyWeather.maxTemp));
     });
 
     return {
@@ -88,7 +88,7 @@ export const CitiesGrid = () => {
 
   return (
     <div className="relative m-auto">
-      <Sorting />
+      <Sorting cities={cities} setCities={setCities} />
       <section className="flex justify-center mt-28 container">
         <div className="grid gap-4 grid-cols-3 gap-x-16 gap-y-16 auto-rows-fr">
           {cities.map((city) => {
@@ -105,10 +105,10 @@ export const CitiesGrid = () => {
                   <h2 className="cityCountry font-bold">{city.country.name}</h2>
                   <div className="cityWeather">
                     <span className="mr-1 font-bold">
-                      Min: {calculateYearlyTemperatures(city).yearlyMinTemp}°
+                      Min {calculateYearlyTemperatures(city).yearlyMinTemp}°
                     </span>
                     <span className="font-bold">
-                      Max: {calculateYearlyTemperatures(city).yearlyMaxTemp}°
+                      Max {calculateYearlyTemperatures(city).yearlyMaxTemp}°
                     </span>
                   </div>
                   <div className="safetyIndex font-bold">

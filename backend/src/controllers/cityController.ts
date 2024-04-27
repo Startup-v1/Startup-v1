@@ -6,7 +6,7 @@ export const getCities = async (req: Request, res: Response) => {
   try {
     //FIXME REMOVE LIMIT
     const cities = await City.find()
-      .select("name weather photoUrl.small country.name country.safetyIndex")
+      .select("name weather population photoUrl.small country.name country.safetyIndex")
       .limit(15);
 
     if (cities?.length > 0) {
