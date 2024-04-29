@@ -58,7 +58,7 @@ export const CitiesGrid = () => {
     let minTemp = Infinity;
     let maxTemp = -Infinity;
 
-    city.weather.forEach((monthlyWeather) => {
+    city?.weather?.forEach((monthlyWeather) => {
       minTemp = Math.floor(Math.min(minTemp, monthlyWeather.minTemp));
       maxTemp = Math.ceil(Math.max(maxTemp, monthlyWeather.maxTemp));
     });
