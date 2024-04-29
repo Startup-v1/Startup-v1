@@ -53,7 +53,7 @@ export const CitiesGrid = () => {
     let minTemp = Infinity;
     let maxTemp = -Infinity;
 
-    city.weather.forEach((monthlyWeather) => {
+    city?.weather?.forEach((monthlyWeather) => {
       minTemp = Math.floor(Math.min(minTemp, monthlyWeather.minTemp));
       maxTemp = Math.ceil(Math.max(maxTemp, monthlyWeather.maxTemp));
     });
@@ -102,7 +102,9 @@ export const CitiesGrid = () => {
                 </figure>
                 <div className="card-body flex-center">
                   <h1 className="cityName">{city.name}</h1>
-                  <h2 className="cityCountry font-bold">{city.country.name}</h2>
+                  <h2 className="cityCountry font-bold">
+                    {city.country?.name}
+                  </h2>
                   <div className="cityWeather">
                     <span className="mr-1 font-bold">
                       Min {calculateYearlyTemperatures(city).yearlyMinTemp}°
@@ -112,7 +114,8 @@ export const CitiesGrid = () => {
                     </span>
                   </div>
                   <div className="safetyIndex font-bold">
-                    Safety {calculateSafetyIndexRange(city.country.safetyIndex)}
+                    Safety{" "}
+                    {calculateSafetyIndexRange(city.country?.safetyIndex)}
                   </div>
                 </div>
               </div>
