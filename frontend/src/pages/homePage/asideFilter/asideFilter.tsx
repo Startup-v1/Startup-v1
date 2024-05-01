@@ -5,7 +5,7 @@ export function AsideFilter() {
     <div className="">
       <div className="w-[360px] h-screen flex flex-col border-r border-gray-300">
         {/* first block */}
-        <div className="p-4 pb-1 flex flex-items-center justify-between ">
+        <div className="p-4 pb-0 flex flex-items-center justify-between ">
           {/* close button */}
           <button className="btn btn-square border border-gray-200">
             <svg
@@ -44,7 +44,7 @@ export function AsideFilter() {
         </div>
 
         {/* test-clean-filters */}
-        <div className="px-4 py-2 border-b border-gray-300">
+        <div className="p-4 border-b border-gray-300">
           {/* clear button */}
           {/* <button className="btn btn-sm">Clear filters</button> */}
           <button className="btn btn-block btn-sm border border-gray-200">
@@ -55,7 +55,7 @@ export function AsideFilter() {
         {/* second block */}
         <div className="p-4">
           <p className="font-bold pb-2">Wheather</p>
-          <div className="flex flex-wrap gap-3 pt-1">
+          <div className="flex flex-wrap gap-3 pt-2">
             <input
               type="checkbox"
               name="weather"
@@ -84,9 +84,9 @@ export function AsideFilter() {
         </div>
 
         {/* thrid block */}
-        <div className=" p-4">
+        <div className=" p-4 pt-1">
           <p className="font-bold pb-2">Where</p>
-          <div className="flex flex-wrap gap-x-3 gap-y-2 pt-1">
+          <div className="flex flex-wrap gap-x-3 gap-y-2 pt-2">
             <input
               type="checkbox"
               name="weather"
@@ -133,9 +133,9 @@ export function AsideFilter() {
         </div>
 
         {/* Four block */}
-        <div className="p-4">
+        <div className="p-4 pt-1">
           <p className="font-bold pb-2">Price</p>
-          <div className="flex gap-10">
+          <div className="flex gap-10 pt-2">
             <label className="">
               <select className="select border border-gray-300">
                 <option disabled selected>
@@ -170,9 +170,9 @@ export function AsideFilter() {
         </div>
 
         {/* fifth block */}
-        <div className="p-4">
+        <div className="p-4 pt-0">
           <p className="font-bold pb-2">Wheather</p>
-          <div className="flex flex-wrap gap-3 pt-1">
+          <div className="flex flex-wrap gap-3 pt-2">
             <input
               type="checkbox"
               name="weather"
