@@ -24081,7 +24081,10 @@
                 "avgHumidity": "60.9"
             }
         },
-        "photoUrl": {}
+        "photoUrl": {
+            "small": "test",
+            "large": "test"
+        }
     },
     {
         "countryCode": "CU",
@@ -25632,7 +25635,10 @@
                 "avgHumidity": "67.8"
             }
         },
-        "photoUrl": {}
+        "photoUrl": {
+            "small": "test",
+            "large": "test"
+        }
     },
     {
         "countryCode": "UG",
@@ -29292,7 +29298,10 @@
                 "avgHumidity": "78.0"
             }
         },
-        "photoUrl": {}
+        "photoUrl": {
+            "small": "test",
+            "large": "test"
+        }
     },
     {
         "countryCode": "TH",
@@ -31731,7 +31740,10 @@
                 "avgHumidity": "69.1"
             }
         },
-        "photoUrl": {}
+        "photoUrl": {
+            "small": "test",
+            "large": "test"
+        }
     },
     {
         "countryCode": "CN",
