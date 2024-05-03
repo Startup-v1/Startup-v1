@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom";
-import { HomePage } from "../pages/homePage/homePage";
-import { ProfilePage } from "../pages/profilePage/profilePage";
-import { MeetupsPage } from "../pages/meetupsPage/meetupsPage";
+import { HomePage } from "@Pages/homePage/homePage.tsx";
+import { ProfilePage } from "@Pages/profilePage/profilePage";
+import { MeetupsPage } from "@Pages/meetupsPage/meetupsPage";
 import { RoutePaths } from "./routePaths.ts";
 
 export const Router = () => {

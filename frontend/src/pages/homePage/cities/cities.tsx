@@ -1,10 +1,11 @@
 import { useEffect, useState } from "react";
 import "./cities.scss";
 import axios from "axios";
-import greenDot from "./../../../assets/safetyIndexIcons/green.png";
-import yellowDot from "./../../../assets/safetyIndexIcons/yellow.png";
-import redDot from "./../../../assets/safetyIndexIcons/red.png";
+import greenDot from "@Assets/safetyIndexIcons/green.png";
+import yellowDot from "@Assets/safetyIndexIcons/yellow.png";
+import redDot from "@Assets/safetyIndexIcons/red.png";
 import { Sorting } from "./sorting/sorting";
+import { urls } from "src/urls";
 
 export type City = {
   name: string;
@@ -75,8 +76,7 @@ export const CitiesGrid = () => {
     const fetchData = async () => {
       try {
         // TODO: Get URL dinamically
-        const cities = (await axios.get("http://localhost:3000/api/cities"))
-          .data;
+        const cities = (await axios.get(urls.cities)).data;
         setCities(cities);
         console.log(cities);
       } catch (error) {
