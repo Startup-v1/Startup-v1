@@ -87,12 +87,18 @@ export const CitiesGrid = () => {
   }, []);
 
   return (
-    <div className="relative m-auto">
+    <div className="relative m-auto mt-0 w-[1280px]">
       <Sorting
         cities={cities}
         setCities={setCities}
         setIsSortActive={setIsSortActive}
       />
+      {!cities.length && (
+        <div className="flex-center flex-col mt-64">
+          <span className="mb-6">Retrieving cities...</span>
+          <span className="loading loading-spinner loading-lg"></span>
+        </div>
+      )}
       <section className="flex justify-center mt-28 container">
         <div className="grid gap-4 grid-cols-3 gap-x-16 gap-y-16 auto-rows-fr">
           {cities.map((city, i) => {
@@ -116,11 +122,11 @@ export const CitiesGrid = () => {
                     </span>
                   </div>
                   {isSortActive && (
-                    <div className="absolute top-4 left-4 flex justify-center items-center font-bold rounded-full w-[35px] h-[35px] bg-[#00d7c059] bg-opacity-25">
+                    <div className="flex-center absolute top-4 left-4 font-bold rounded-full w-[35px] h-[35px] bg-[#00d7c059] bg-opacity-25">
                       {i + 1}
                     </div>
                   )}
-                  <div className="absolute top-5 right-5 flex justify-center items-center font-bold">
+                  <div className="flex-center absolute top-5 right-5 font-bold">
                     Safety {calculateSafetyIndexRange(city.country.safetyIndex)}
                   </div>
                 </div>

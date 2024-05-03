@@ -105,14 +105,14 @@ export const Sorting = ({ cities, setCities, setIsSortActive }: Props) => {
 
   return (
     <div className="dropdown dropdown-bottom dropdown-end sortingContainer mt-12 absolute top-0 right-0 w-[150px] ">
-      <div
+      <button
+        disabled={!cities.length}
         tabIndex={0}
-        role="button"
         className="btn w-full p-0 btn-accent text-white"
       >
         {currentSortValue}
         {isSortedDescending ? <FaSortAmountDown /> : <FaSortAmountDownAlt />}
-      </div>
+      </button>
       <ul
         tabIndex={0}
         className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52"
