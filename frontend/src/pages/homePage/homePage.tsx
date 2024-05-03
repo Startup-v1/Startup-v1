@@ -6,10 +6,10 @@ import "./homePage.scss";
 export function HomePage() {
   return (
     <>
-      <HeroSection />
+      {/* <HeroSection /> */}
       <div className="page page-divider">
         <AsideFilter />
-        <CitiesGrid />
+        {/* <CitiesGrid /> */}
       </div>
     </>
   );

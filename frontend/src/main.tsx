@@ -10,9 +10,9 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
   //FIXME: Remove for production?
   <React.StrictMode>
     <BrowserRouter>
-      <Navbar />
+      {/* <Navbar /> */}
       <Router />
     </BrowserRouter>
-    <FeedbackButton />
+    {/* <FeedbackButton /> */}
   </React.StrictMode>
 );
