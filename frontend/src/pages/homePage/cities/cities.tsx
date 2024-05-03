@@ -47,6 +47,7 @@ type YearlyWeather = {
 
 export const CitiesGrid = () => {
   const [cities, setCities] = useState([] as City[]);
+  const [isSortActive, setIsSortActive] = useState<boolean>(false);
 
   const calculateYearlyTemperatures = (city: City): YearlyWeather => {
     // Set defaults
@@ -88,10 +89,14 @@ export const CitiesGrid = () => {
 
   return (
     <div className="relative m-auto">
-      <Sorting cities={cities} setCities={setCities} />
+      <Sorting
+        cities={cities}
+        setCities={setCities}
+        setIsSortActive={setIsSortActive}
+      />
       <section className="flex justify-center mt-28 container">
         <div className="grid gap-4 grid-cols-3 gap-x-16 gap-y-16 auto-rows-fr">
-          {cities.map((city) => {
+          {cities.map((city, i) => {
             return (
               <div
                 key={city.name}
@@ -103,7 +108,7 @@ export const CitiesGrid = () => {
                 <div className="card-body flex-center">
                   <h1 className="cityName">{city.name}</h1>
                   <h2 className="cityCountry font-bold">{city.country.name}</h2>
-                  <div className="cityWeather">
+                  <div className="absolute bottom-5 left-5">
                     <span className="mr-1 font-bold">
                       Min {calculateYearlyTemperatures(city).yearlyMinTemp}°
                     </span>
@@ -111,7 +116,12 @@ export const CitiesGrid = () => {
                       Max {calculateYearlyTemperatures(city).yearlyMaxTemp}°
                     </span>
                   </div>
-                  <div className="safetyIndex font-bold">
+                  {isSortActive && (
+                    <div className="absolute top-4 left-4 flex justify-center items-center font-bold rounded-full w-[35px] h-[35px] bg-[#00d7c059] bg-opacity-25">
+                      {i + 1}
+                    </div>
+                  )}
+                  <div className="absolute top-5 right-5 flex justify-center items-center font-bold">
                     Safety {calculateSafetyIndexRange(city.country.safetyIndex)}
                   </div>
                 </div>
