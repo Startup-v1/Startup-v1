@@ -1,13 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "./scss/index.scss";
+import "@Scss/index.scss";
 import { BrowserRouter } from "react-router-dom";
-import { Router } from "./routes/routes.tsx";
-import { FeedbackButton } from "./sharedComponents/feedbackButton/feedbackButton.tsx";
-import { Navbar } from "./sharedComponents/navbar.tsx";
+import { FeedbackButton } from "@SharedComponents/feedbackButton/feedbackButton.tsx";
+import { Navbar } from "@SharedComponents/navbar.tsx";
+import { Router } from "./routes/routes";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
-  //FIXME: Remove for production?
+  //FIXME: Remove for production
   <React.StrictMode>
     <BrowserRouter>
       <Navbar />
