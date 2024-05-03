@@ -1,5 +1,6 @@
 export enum RoutePaths {
-  index = "/",
-  profile = "/profile",
+  home = "/",
+  cityDetails = "/city-details",
+  trips = "/profile",
   meetups = "/meetups",
 }
