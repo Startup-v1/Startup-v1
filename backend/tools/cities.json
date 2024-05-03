@@ -445,7 +445,7 @@
     },
     {
         "countryCode": "ID",
-        "population": 0,
+        "population": 4344554,
         "location": {
             "latitude": -7.428611111,
             "longitude": 112.459166666
@@ -26974,7 +26974,7 @@
     },
     {
         "countryCode": "ID",
-        "population": 0,
+        "population": 3963842,
         "location": {
             "latitude": -8.50611111,
             "longitude": 116.6575
@@ -31410,117 +31410,6 @@
         "photoUrl": {
             "small": "https://images.pexels.com/photos/17543731/pexels-photo-17543731.jpeg?auto=compress&cs=tinysrgb&h=350",
             "large": "https://images.pexels.com/photos/17543731/pexels-photo-17543731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
-    },
-    {
-        "countryCode": "US",
-        "population": 0,
-        "location": {
-            "latitude": 34.709821,
-            "longitude": -82.9718158
-        },
-        "name": "Santorini",
-        "weather": {
-            "1": {
-                "totalRain": "224.8",
-                "totalSnow": "0.0",
-                "maxTemp": "10.1",
-                "minTemp": "1.7",
-                "avgTemp": "5.3",
-                "avgHumidity": "70.4"
-            },
-            "2": {
-                "totalRain": "93.9",
-                "totalSnow": "0.0",
-                "maxTemp": "14.0",
-                "minTemp": "4.8",
-                "avgTemp": "9.0",
-                "avgHumidity": "69.5"
-            },
-            "3": {
-                "totalRain": "159.7",
-                "totalSnow": "0.0",
-                "maxTemp": "18.1",
-                "minTemp": "7.8",
-                "avgTemp": "12.5",
-                "avgHumidity": "70.6"
-            },
-            "4": {
-                "totalRain": "262.9",
-                "totalSnow": "0.0",
-                "maxTemp": "21.8",
-                "minTemp": "9.7",
-                "avgTemp": "15.2",
-                "avgHumidity": "71.8"
-            },
-            "5": {
-                "totalRain": "109.9",
-                "totalSnow": "0.0",
-                "maxTemp": "24.0",
-                "minTemp": "13.6",
-                "avgTemp": "18.3",
-                "avgHumidity": "72.0"
-            },
-            "6": {
-                "totalRain": "225.3",
-                "totalSnow": "0.0",
-                "maxTemp": "28.5",
-                "minTemp": "16.6",
-                "avgTemp": "22.2",
-                "avgHumidity": "68.4"
-            },
-            "7": {
-                "totalRain": "48.3",
-                "totalSnow": "0.0",
-                "maxTemp": "33.6",
-                "minTemp": "21.2",
-                "avgTemp": "27.1",
-                "avgHumidity": "66.6"
-            },
-            "8": {
-                "totalRain": "172.7",
-                "totalSnow": "0.0",
-                "maxTemp": "33.3",
-                "minTemp": "20.9",
-                "avgTemp": "26.4",
-                "avgHumidity": "66.6"
-            },
-            "9": {
-                "totalRain": "74.5",
-                "totalSnow": "0.0",
-                "maxTemp": "30.1",
-                "minTemp": "17.0",
-                "avgTemp": "22.8",
-                "avgHumidity": "64.6"
-            },
-            "10": {
-                "totalRain": "46.6",
-                "totalSnow": "0.0",
-                "maxTemp": "24.6",
-                "minTemp": "11.6",
-                "avgTemp": "17.3",
-                "avgHumidity": "62.0"
-            },
-            "11": {
-                "totalRain": "69.3",
-                "totalSnow": "0.0",
-                "maxTemp": "18.1",
-                "minTemp": "6.3",
-                "avgTemp": "11.5",
-                "avgHumidity": "58.3"
-            },
-            "12": {
-                "totalRain": "166.9",
-                "totalSnow": "0.0",
-                "maxTemp": "13.1",
-                "minTemp": "4.0",
-                "avgTemp": "8.0",
-                "avgHumidity": "68.9"
-            }
-        },
-        "photoUrl": {
-            "small": "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "large": "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
     },
     {

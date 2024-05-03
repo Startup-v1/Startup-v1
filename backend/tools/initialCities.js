@@ -282,7 +282,6 @@ const initialCities = new Set([
   "Santa Cruz de Tenerife",
   "Santo Domingo",
   "Sarajevo",
-  "Santorini",
   "Semarang",
   "Sendai",
   "Shenzhen",
