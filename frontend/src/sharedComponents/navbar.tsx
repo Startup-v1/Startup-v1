@@ -11,7 +11,7 @@ export function Navbar() {
       <div className="flex-none">
         <ul className="menu menu-horizontal px-1">
           <li>
-            <Link to={RoutePaths.index}>Discover</Link>
+            <Link to={RoutePaths.home}>Discover</Link>
           </li>
 
           <li>{/* <Link to="/meetups">Meetups</Link> */}</li>
@@ -35,7 +35,7 @@ export function Navbar() {
           className="mt-3 z-[1] p-2 shadow menu menu-sm dropdown-content bg-base-100 rounded-box w-52"
         >
           <li>
-            <Link to={RoutePaths.profile}>Profile</Link>
+            <Link to={RoutePaths.trips}>Profile</Link>
           </li>
           <li>
             <Link to="/">Settings</Link>
