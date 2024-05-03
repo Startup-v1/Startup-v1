@@ -7,7 +7,6 @@
     "start": "node dist/index.js",
     "dev": "ts-node-dev src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "testdb": "npx json-server --watch db.json --port 5999",
     "lint": "tsc --noEmit"
   },
   "keywords": [],
@@ -25,7 +24,6 @@
     "@types/cors": "^2.8.17",
     "@types/express": "^4.17.21",
     "@types/mongoose": "^5.11.97",
-    "json-server": "^1.0.0-alpha.23",
     "pexels": "^1.4.0",
     "ts-node": "^10.9.2",
     "ts-node-dev": "^2.0.0",
