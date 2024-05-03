@@ -1,5 +1,3 @@
-import { useState, useLayoutEffect, useRef } from "react";
-
 export function AsideFilter() {
   return (
     <div className="w-full h-screen flex flex-col relative">
