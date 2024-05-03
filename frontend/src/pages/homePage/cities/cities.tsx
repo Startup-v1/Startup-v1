@@ -75,7 +75,6 @@ export const CitiesGrid = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        // TODO: Get URL dinamically
         const cities = (await axios.get(urls.cities)).data;
         setCities(cities);
         console.log(cities);

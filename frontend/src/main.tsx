@@ -7,7 +7,7 @@ import { Navbar } from "@SharedComponents/navbar.tsx";
 import { Router } from "./routes/routes";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
-  //FIXME: Remove for production?
+  //FIXME: Remove for production
   <React.StrictMode>
     <BrowserRouter>
       <Navbar />

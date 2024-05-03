@@ -4,7 +4,7 @@ const City = require("../models/City");
 
 export const getCities = async (req: Request, res: Response) => {
   try {
-    //FIXME REMOVE LIMIT
+    //FIXME: SET A HIGHER LIMIT
     const cities = await City.find()
       .select("name weather population photoUrl.small country.name country.safetyIndex")
       .limit(15);
