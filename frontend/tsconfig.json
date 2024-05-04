@@ -30,6 +30,9 @@
       "@Scss/*": [
         "src/scss/*"
       ],
+      "@Store/*": [
+        "src/store/*"
+      ],
     },
     /* Linting */
     "strict": true,

@@ -1,4 +1,4 @@
-import video from "./../../../assets/video.mp4";
+import video from "@Assets/video.mp4";
 import "./heroSection.scss";
 
 export const HeroSection = () => {

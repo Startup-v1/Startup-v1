@@ -3,7 +3,7 @@ import { CitiesGrid } from "./cities/cities";
 import { HeroSection } from "./heroSection/heroSection";
 import "./home.scss";
 
-export function HomePage() {
+export function Home() {
   return (
     <>
       <HeroSection />

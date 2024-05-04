@@ -6,6 +6,8 @@ import yellowDot from "@Assets/safetyIndexIcons/yellow.png";
 import redDot from "@Assets/safetyIndexIcons/red.png";
 import { Sorting } from "./sorting/sorting";
 import { urls } from "src/urls";
+import { Link } from "react-router-dom";
+import { useStore } from "@Store/store";
 
 export type City = {
   name: string;
@@ -47,7 +49,8 @@ type YearlyWeather = {
 };
 
 export const CitiesGrid = () => {
-  const [cities, setCities] = useState([] as City[]);
+  const { cities, updateCities } = useStore();
+
   const [isSortActive, setIsSortActive] = useState<boolean>(false);
 
   const calculateYearlyTemperatures = (city: City): YearlyWeather => {
@@ -76,7 +79,7 @@ export const CitiesGrid = () => {
     const fetchData = async () => {
       try {
         const cities = (await axios.get(urls.cities)).data;
-        setCities(cities);
+        updateCities(cities);
         console.log(cities);
       } catch (error) {
         console.error("Error fetching data:", error);
@@ -84,15 +87,11 @@ export const CitiesGrid = () => {
     };
 
     fetchData();
-  }, []);
+  }, [updateCities]);
 
   return (
     <div className="relative m-auto mt-0 w-[1280px]">
-      <Sorting
-        cities={cities}
-        setCities={setCities}
-        setIsSortActive={setIsSortActive}
-      />
+      <Sorting setIsSortActive={setIsSortActive} />
       {!cities.length && (
         <div className="flex-center flex-col mt-64">
           <span className="mb-6">Retrieving cities...</span>
@@ -103,7 +102,8 @@ export const CitiesGrid = () => {
         <div className="grid gap-4 grid-cols-3 gap-x-16 gap-y-16 auto-rows-fr">
           {cities.map((city, i) => {
             return (
-              <div
+              <Link
+                to={`/city/${city.name.toLowerCase()}`}
                 key={city.name}
                 className="card w-96 bg-base-100 shadow-xl image-full"
               >
@@ -130,7 +130,7 @@ export const CitiesGrid = () => {
                     Safety {calculateSafetyIndexRange(city.country.safetyIndex)}
                   </div>
                 </div>
-              </div>
+              </Link>
             );
           })}
         </div>

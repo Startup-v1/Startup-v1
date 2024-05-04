@@ -2,10 +2,9 @@ import { Dispatch, useState } from "react";
 import "./sorting.scss";
 import { City } from "../cities";
 import { FaSortAmountDown, FaSortAmountDownAlt } from "react-icons/fa";
+import { useStore } from "@Store/store";
 
 type Props = {
-  cities: City[];
-  setCities: Dispatch<City[]>;
   setIsSortActive: Dispatch<boolean>;
 };
 
@@ -22,7 +21,9 @@ enum SortingFields {
   Snow = "Snow",
 }
 
-export const Sorting = ({ cities, setCities, setIsSortActive }: Props) => {
+export const Sorting = ({ setIsSortActive }: Props) => {
+  const { cities, updateCities } = useStore();
+
   const [isSortedDescending, setIsSortedDescending] = useState<boolean>(true);
   const [currentSortValue, setCurrentSortValue] =
     useState<string>(defaultSortText);
@@ -99,7 +100,7 @@ export const Sorting = ({ cities, setCities, setIsSortActive }: Props) => {
   };
 
   const updateCitySortOrder = (sortedCities: City[]) => {
-    setCities(sortedCities);
+    updateCities(sortedCities);
     setIsSortActive(true);
   };
 
