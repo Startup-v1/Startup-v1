@@ -108,7 +108,7 @@ export const CitiesGrid = () => {
                 className="card w-96 bg-base-100 shadow-xl image-full"
               >
                 <figure>
-                  <img src={city.photoUrl.small} alt="Shoes" />
+                  <img src={city.photoUrl.small} alt="city" />
                 </figure>
                 <div className="card-body flex-center">
                   <h1 className="cityName">{city.name}</h1>
