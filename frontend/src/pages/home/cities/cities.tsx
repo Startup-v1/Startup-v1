@@ -5,7 +5,7 @@ import greenDot from "@Assets/safetyIndexIcons/green.png";
 import yellowDot from "@Assets/safetyIndexIcons/yellow.png";
 import redDot from "@Assets/safetyIndexIcons/red.png";
 import { Sorting } from "./sorting/sorting";
-import { urls } from "src/urls";
+import { apiUrl } from "src/urls";
 import { Link } from "react-router-dom";
 import { useStore } from "@Store/store";
 
@@ -21,7 +21,7 @@ export type City = {
     flag: string;
     safetyIndex: number;
     languages: string[];
-    continent: string;
+    continent: { name: string; code: string };
     currency: {
       code: string;
       symbol: string;
@@ -78,7 +78,7 @@ export const CitiesGrid = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const cities = (await axios.get(urls.cities)).data;
+        const cities = (await axios.get(apiUrl.cities)).data;
         updateCities(cities);
         console.log(cities);
       } catch (error) {
