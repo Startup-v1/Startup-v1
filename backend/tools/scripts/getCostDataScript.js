@@ -12,6 +12,13 @@ import fs from "fs";
 // modify if needed
 const timeBetweenRequests = 5;
 
+function cleanData(data) {
+  return data
+    .text()
+    .trim()
+    .replace(/\u00A0/g, "");
+}
+
 async function scrapeData(url) {
   try {
     const response = await axios.get(url);
@@ -44,30 +51,11 @@ async function scrapeData(url) {
       .substring(0, monthlyCostData.indexOf("("))
       .trim();
 
-    const mealInexpensiveData = mealInexpensive
-      .text()
-      .trim()
-      .replace(/\u00A0/g, "");
-
-    const taxiStartData = taxiStart
-      .text()
-      .trim()
-      .replace(/\u00A0/g, "");
-
-    const taxiOneKmData = taxiOneKm
-      .text()
-      .trim()
-      .replace(/\u00A0/g, "");
-
-    const apartmentOneBedroomData = apartmentOneBedroom
-      .text()
-      .trim()
-      .replace(/\u00A0/g, "");
-
-    const netSalaryData = netSalary
-      .text()
-      .trim()
-      .replace(/\u00A0/g, "");
+    const mealInexpensiveData = cleanData(mealInexpensive);
+    const taxiStartData = cleanData(taxiStart)
+    const taxiOneKmData = cleanData(taxiOneKm)
+    const apartmentOneBedroomData = cleanData(apartmentOneBedroom)
+    const netSalaryData = cleanData(netSalary)
 
     const cityObject = {
       monthlyCost: monthlyCostData,
@@ -118,16 +106,16 @@ function addCostOfLivingToFile(firstFilePath, secondFilePath, outputPath) {
   data1.forEach((cityData) => {
     const cityName = cityData.name;
     if (data2.hasOwnProperty(cityName)) {
-        cityData.costOfLiving = {
-          netSalary: data2[cityName].netSalary,
-          apartmentOneBedroom: data2[cityName].apartmentOneBedroom,
-          monthlyCost: data2[cityName].monthlyCost,
-          mealInexpensive: data2[cityName].mealInexpensive,
-          taxiStart: data2[cityName].taxiStart,
-          taxiOneKm: data2[cityName].taxiOneKm,
-        };
-      } 
-    });
+      cityData.costOfLiving = {
+        netSalary: data2[cityName].netSalary,
+        apartmentOneBedroom: data2[cityName].apartmentOneBedroom,
+        monthlyCost: data2[cityName].monthlyCost,
+        mealInexpensive: data2[cityName].mealInexpensive,
+        taxiStart: data2[cityName].taxiStart,
+        taxiOneKm: data2[cityName].taxiOneKm,
+      };
+    }
+  });
 
   fs.writeFileSync(outputPath, JSON.stringify(data1, null, 4));
 }
