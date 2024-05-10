@@ -6,8 +6,8 @@ const filterOptions = {
   where: [
     "☁️ North America",
     "☁️ Asia",
-    "⛅ Europe",
     "❄️ Latin America",
+    "⛅ Europe",
     "⛅ Africa",
     "☁️ Antartida",
     "❄️ Oceania",
