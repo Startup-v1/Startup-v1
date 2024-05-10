@@ -8,17 +8,41 @@ const MAX = 10000;
 
 export function FilterPriceRange() {
   const [values, setValues] = useState([MIN, MAX]);
+  const [isMinInputEmpty, setIsMinInputEmpty] = useState(false);
+  const [isMaxInputEmpty, setIsMaxInputEmpty] = useState(false);
 
   const handleMinInputChange = (value: string | undefined) => {
-    const parsedValue = value ? parseInt(value.replace(/[^\d]/g, "")) : MIN;
-    const newMinValue = Math.min(parsedValue, values[1]); // Asegurarse de que el valor mínimo no sea mayor que el valor máximo
-    setValues([newMinValue, values[1]]);
+    if (!value || parseInt(value.toString()) === 0) {
+      setValues([MIN, values[1] > MAX ? MAX : values[1]]);
+      setIsMinInputEmpty(true);
+      return;
+    }
+    setIsMinInputEmpty(false);
+    const parsedValue = parseInt(value!.replace(/[^\d]/g, ""));
+    setValues([parsedValue, values[1] > parsedValue ? values[1] : parsedValue]);
   };
 
   const handleMaxInputChange = (value: string | undefined) => {
-    const parsedValue = value ? parseInt(value.replace(/[^\d]/g, "")) : MAX;
-    const newMaxValue = Math.max(parsedValue, values[0]); // Asegurarse de que el valor máximo no sea menor que el valor mínimo
-    setValues([values[0], newMaxValue]);
+    if (!value || parseInt(value.toString()) === 0) {
+      setValues([values[0] < MIN ? MIN : values[0], MAX]);
+      setIsMaxInputEmpty(true);
+      return;
+    }
+    setIsMaxInputEmpty(false);
+    const parsedValue = parseInt(value!.replace(/[^\d]/g, ""));
+    setValues([values[0] < parsedValue ? values[0] : parsedValue, parsedValue]);
+  };
+
+  const handleMinInputFocus = () => {
+    if (isMinInputEmpty) {
+      setValues(["", values[1] > MAX ? MAX : values[1]]);
+    }
+  };
+
+  const handleMaxInputFocus = () => {
+    if (isMaxInputEmpty) {
+      setValues([values[0] < MIN ? MIN : values[0], ""]);
+    }
   };
 
   return (
@@ -37,8 +61,13 @@ export function FilterPriceRange() {
             <div className="field">
               <CurrencyInput
                 className="input-min"
-                value={values[0].toString()}
+                value={
+                  isMinInputEmpty && values[0] !== ""
+                    ? ""
+                    : values[0].toString()
+                }
                 onValueChange={handleMinInputChange}
+                onFocus={handleMinInputFocus}
                 prefix="€"
                 placeholder="0€"
                 decimalsLimit={0}
@@ -48,8 +77,13 @@ export function FilterPriceRange() {
             <div className="field">
               <CurrencyInput
                 className="input-min"
-                value={values[1].toString()}
+                value={
+                  isMaxInputEmpty && values[1] !== ""
+                    ? ""
+                    : values[1].toString()
+                }
                 onValueChange={handleMaxInputChange}
+                onFocus={handleMaxInputFocus}
                 prefix="€"
                 placeholder="10000€"
                 decimalsLimit={0}

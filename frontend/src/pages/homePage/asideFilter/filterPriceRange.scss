@@ -7,23 +7,35 @@
 
 .slider {
   width: 100%;
-  height: 2px;
+  height: 4px;
   background-color: #cdd9ed;
-  margin-top: 60px;
+  border-radius: 5px;
 }
 
 .slider .thumb {
   width: 23px;
   height: 23px;
   cursor: pointer;
-  background: #fff;
+  background: black;
   border-radius: 50%;
-  border: 2px solid #275efe;
+  border: 2px solid black;
   top: -10px;
 }
 
+.thumb-1 {
+  margin-left: 12px;
+}
+
+.thumb-0 {
+  margin-left: -12px;
+}
+
 .track-1 {
-  background-color: #275efe;
+  background-color: #fe2727;
+}
+
+.track {
+  background-color: black;
 }
 
 .box {
@@ -33,30 +45,6 @@
   background: white;
   border-radius: 10px;
   box-shadow: 0 1px 4px rgba(18, 22, 33, 0.12);
-}
-
-h3 {
-  font-size: 20px;
-  font-weight: 700;
-  margin: 0 0 20px 0;
-  color: #3f4656;
-}
-
-small {
-  font-size: 14px;
-  margin-top: 8px;
-  display: block;
-  color: #99a3ba;
-}
-
-h3 span {
-  font-weight: 500;
-}
-
-.values {
-  margin: 0;
-  font-weight: 500;
-  color: #275efe;
 }
 
 .price-input {
