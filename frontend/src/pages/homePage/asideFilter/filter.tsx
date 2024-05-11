@@ -9,7 +9,7 @@ export function Filter({ label, sizeButton }: Props) {
       type="checkbox"
       name="weather"
       aria-label={label}
-      className={`btn ${sizeButton} border border-gray-200 sm:btn`}
+      className={`btn ${sizeButton} border border-gray-200`}
     />
   );
 }
