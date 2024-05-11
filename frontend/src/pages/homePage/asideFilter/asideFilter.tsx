@@ -13,12 +13,12 @@ export function AsideFilter() {
     setIsHidden(true);
   };
 
-  if (isHidden) {
-    return null;
-  }
-
   return (
-    <div className="w-full h-screen flex flex-col relative md:w-[360px] md:border md:border-r-gray md:fixed md:top-0 md:right-0 xl:left-0">
+    <div
+      className={`w-full h-screen flex flex-col relative md:w-[360px] md:border md:border-r-gray md:fixed md:top-0 md:right-0 xl:left-0 transition-transform duration-500 ease-in-out ${
+        isHidden ? "transform translate-x-full" : ""
+      }`}
+    >
       {/* Sticky-block */}
       <FilterToolbar onHideAsideFilter={handleHideAsideFilter} />
 
