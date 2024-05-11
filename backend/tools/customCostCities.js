@@ -297,7 +297,7 @@ const customCostCities = new Set([
     "Tashkent",
     "Tehran",
     "Thessaloniki",
-    "St. Louis",
+    "Port-Louis", // "St. Louis",
     "Hefei",
   ]);
   
