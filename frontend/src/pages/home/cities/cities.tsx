@@ -39,7 +39,6 @@ export type City = {
     avgTemp: number;
     totalRain: number;
     totalSnow: number;
-    avgHumidity: number;
   }[];
 };
 

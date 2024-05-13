@@ -8,7 +8,7 @@ type Props = {
   setIsSortActive: Dispatch<boolean>;
 };
 
-type WeatherStat = "avgTemp" | "avgHumidity" | "totalRain" | "totalSnow";
+type WeatherStat = "avgTemp" | "totalRain" | "totalSnow";
 
 const defaultSortText = "Sort By";
 
@@ -16,7 +16,6 @@ enum SortingFields {
   Safety = "Safety",
   Population = "Population",
   Temperature = "Temperature",
-  Humidity = "Humidity",
   Rain = "Rain",
   Snow = "Snow",
 }
@@ -91,7 +90,7 @@ export const Sorting = ({ setIsSortActive }: Props) => {
       return total + monthly[weatherStat];
     }, 0);
 
-    if (["avgTemp", "avgHumidity"].includes(weatherStat)) {
+    if (weatherStat === 'avgTemp') {
       return totalYearly / weatherData.length;
     }
 
@@ -144,15 +143,6 @@ export const Sorting = ({ setIsSortActive }: Props) => {
           }}
         >
           <a>{SortingFields.Temperature}</a>
-        </li>
-        <li
-          onClick={(e: any) => {
-            const value = e.target.innerHTML;
-            sortyByWeather("avgHumidity", value);
-            setCurrentSortValue(value);
-          }}
-        >
-          <a>{SortingFields.Humidity}</a>
         </li>
         <li
           onClick={(e: any) => {
