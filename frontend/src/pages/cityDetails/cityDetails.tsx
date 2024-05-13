@@ -5,6 +5,7 @@ import { CityDetailsData } from "./cityDetailsData";
 import { useEffect, useState } from "react";
 import axios from "axios";
 import { apiUrl } from "src/urls";
+import { WeatherCharts } from "./cityDetailsCharts";
 
 export const CityDetails = () => {
   //TODO: Handle url with wrong city name e.g. /city/testCityBlahblah
@@ -31,6 +32,7 @@ export const CityDetails = () => {
         <CityDetailsHeader photoUrl={city.photoUrl.large} />
         <div className="page-container m-auto">
           <CityDetailsData city={city} />
+          <WeatherCharts data={city.weather} />
         </div>
       </>
     )
