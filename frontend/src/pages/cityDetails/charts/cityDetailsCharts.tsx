@@ -1,15 +1,25 @@
-import { City } from "@Pages/home/cities/cities";
+import { Weather } from "@Pages/home/cities/cities";
 import { monthNames } from "src/utils/dates";
-import { PrecipitationChart } from "./charts/precipitationChart";
-import { TemperatureChart } from "./charts/temperatures/temperatureChart";
+import { PrecipitationChart } from "./precipitationChart";
+import { TemperatureChart } from "./temperatures/temperatureChart";
 
 type Props = {
-  data: City["weather"];
+  data: Weather[];
+};
+
+export type ChartUtilKeys = {
+  monthAbv: string;
+  month: string;
+  Min: number;
+  Avg: number;
+  Max: number;
+  Rain: number;
+  Snow: number;
 };
 
 export function WeatherCharts({ data }: Props) {
   // Add additional keys to facilitate displaying user friendly strings in the UI
-  data.forEach((entry: any, index) => {
+  (data as (Weather & ChartUtilKeys)[]).forEach((entry, index) => {
     entry.monthAbv = monthNames[index].abbreviated;
     entry.month = monthNames[index].full;
     entry.Min = entry.minTemp;
@@ -19,6 +29,8 @@ export function WeatherCharts({ data }: Props) {
     entry.Snow = entry.totalSnow;
   });
 
+  const dataWithChartKeys = { ...(data as (Weather & ChartUtilKeys)[]) };
+
   const totalSnow = data.reduce(
     (snowSum, monthData) =>
       // eslint-disable-next-line no-prototype-builtins
@@ -27,12 +39,14 @@ export function WeatherCharts({ data }: Props) {
         : snowSum,
     0
   );
-  console.log("totalSnow :>> ", totalSnow);
+
   return (
     <div className="mt-12">
-      <TemperatureChart data={data} />
-      <PrecipitationChart data={data} type="Rain" color="blue" />
-      {totalSnow !== 0 && <PrecipitationChart data={data} type="Snow" color="cyan" />}
+      <TemperatureChart data={dataWithChartKeys} />
+      <PrecipitationChart data={dataWithChartKeys} type="Rain" color="blue" />
+      {totalSnow !== 0 && (
+        <PrecipitationChart data={dataWithChartKeys} type="Snow" color="cyan" />
+      )}
     </div>
   );
 }
