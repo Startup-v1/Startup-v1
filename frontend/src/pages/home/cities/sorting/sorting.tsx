@@ -1,6 +1,6 @@
 import { Dispatch, useState } from "react";
 import "./sorting.scss";
-import { City } from "../cities";
+import { City, Weather } from "../cities";
 import { FaSortAmountDown, FaSortAmountDownAlt } from "react-icons/fa";
 import { useStore } from "@Store/store";
 
@@ -79,7 +79,7 @@ export const Sorting = ({ setIsSortActive }: Props) => {
   };
 
   const calculateTotalsYearly = (
-    weatherData: City["weather"],
+    weatherData: Weather[],
     weatherStat: WeatherStat
   ) => {
     if (!weatherData || weatherData.length === 0) {

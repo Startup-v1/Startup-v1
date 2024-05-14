@@ -33,13 +33,15 @@ export type City = {
     small: string;
     large: string;
   };
-  weather: {
-    minTemp: number;
-    maxTemp: number;
-    avgTemp: number;
-    totalRain: number;
-    totalSnow: number;
-  }[];
+  weather: Weather[];
+};
+
+export type Weather = {
+  minTemp: number;
+  maxTemp: number;
+  avgTemp: number;
+  totalRain: number;
+  totalSnow: number;
 };
 
 type YearlyWeather = {
@@ -80,7 +82,6 @@ export const CitiesGrid = () => {
         try {
           const cities = (await axios.get(apiUrl.cities)).data;
           updateCities(cities);
-          console.log(cities);
         } catch (error) {
           console.error("Error fetching data:", error);
         }

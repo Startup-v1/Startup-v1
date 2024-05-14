@@ -5,7 +5,7 @@ import { CityDetailsData } from "./cityDetailsData";
 import { useEffect, useState } from "react";
 import axios from "axios";
 import { apiUrl } from "src/urls";
-import { WeatherCharts } from "./cityDetailsCharts";
+import { WeatherCharts } from "./charts/cityDetailsCharts";
 
 export const CityDetails = () => {
   //TODO: Handle url with wrong city name e.g. /city/testCityBlahblah
