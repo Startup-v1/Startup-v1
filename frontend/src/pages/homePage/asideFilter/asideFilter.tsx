@@ -1,13 +1,14 @@
-import { useState, useEffect } from "react";
-import FilterApplyButton from "./filterApplyButton";
-import { FilterGroup } from "./filterGroup";
+import { useState, useEffect, useRef } from "react";
+import FilterApplyButton from "./filters/filterApplyButton";
 import filterOptions from "./filterOptions";
-import { FilterPriceRange } from "./filterPriceRange";
-import { FilterToolbar } from "./filterToolbar";
+import { FilterPriceRange } from "./filters/filterPriceRange/filterPriceRange";
+import { FilterToolbar } from "./filters/filterToolbar";
+import { FilterGroup } from "./filters/filterGroup";
 
 export function AsideFilter() {
   const { weather, where, other } = filterOptions;
   const [isHidden, setIsHidden] = useState(false);
+  const filterRef = useRef<HTMLDivElement>(null); // Asegura que filterRef es de tipo HTMLDivElement
 
   const handleHideAsideFilter = () => {
     setIsHidden(true);
@@ -27,17 +28,54 @@ export function AsideFilter() {
     };
   }, []);
 
+  useEffect(() => {
+    const handleScroll = () => {
+      const filterElement = filterRef.current;
+      if (!filterElement) return;
+
+      const filterRect = filterElement.getBoundingClientRect();
+      const buttonElement = filterElement.querySelector(
+        ".applyButton"
+      ) as HTMLElement; // Tipo HTMLElement
+
+      if (!buttonElement) return;
+
+      const buttonRect = buttonElement.getBoundingClientRect();
+      const windowHeight = window.innerHeight;
+
+      // Check if the filter is about to leave the viewport
+      if (filterRect.bottom < windowHeight) {
+        filterElement.classList.add("sticky");
+        filterElement.style.bottom = `${windowHeight - buttonRect.bottom}px`;
+      } else {
+        filterElement.classList.remove("sticky");
+        filterElement.style.bottom = "";
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll);
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
   return (
     <div
-      className={`w-full h-screen flex flex-col relative md:w-[360px] md:border md:border-r-gray md:fixed top-0 left-0 xl:left-0 transition-transform duration-500 ease-in-out ${
+      ref={filterRef}
+      className={`w-full h-screen flex flex-col relative md:w-[360px] md:border md:border-r-gray transition-transform duration-500 ease-in-out ${
         isHidden ? "transform -translate-x-full" : ""
       }`}
+      style={{ position: "sticky", top: 0 }}
     >
       {/* Sticky-block */}
       <FilterToolbar onHideAsideFilter={handleHideAsideFilter} />
 
       {/* Barra-navegación personalizada */}
-      <div className="overflow-y-auto bg-white flex-1">
+      <div
+        className="overflow-y-auto bg-white flex-1"
+        style={{ position: "sticky", top: "50px" }}
+      >
         <FilterGroup filterOptions={weather} title={"Weather"} size="btn-sm" />
         <FilterGroup filterOptions={where} title="Where" />
         <FilterPriceRange />
@@ -45,7 +83,9 @@ export function AsideFilter() {
       </div>
 
       {/* Sticky-block */}
-      <FilterApplyButton />
+      <div className="applyButton">
+        <FilterApplyButton />
+      </div>
     </div>
   );
 }
