@@ -27,12 +27,12 @@ export function WeatherCharts({ data }: Props) {
         : snowSum,
     0
   );
-
+  console.log("totalSnow :>> ", totalSnow);
   return (
     <div className="mt-12">
       <TemperatureChart data={data} />
       <PrecipitationChart data={data} type="Rain" color="blue" />
-      {totalSnow && <PrecipitationChart data={data} type="Snow" color="cyan" />}
+      {totalSnow != 0 && <PrecipitationChart data={data} type="Snow" color="cyan" />}
     </div>
   );
 }
