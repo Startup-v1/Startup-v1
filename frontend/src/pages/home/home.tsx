@@ -3,11 +3,11 @@ import { CitiesGrid } from "./cities/cities";
 import { HeroSection } from "./heroSection/heroSection";
 import "./home.scss";
 
-export function HomePage() {
+export function Home() {
   return (
     <>
       <HeroSection />
-      <div className="page page-divider">
+      <div className="flex w-full flex-1">
         <AsideFilter />
         <CitiesGrid />
       </div>

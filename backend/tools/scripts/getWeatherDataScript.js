@@ -92,7 +92,6 @@ const fetchCityWeather = async (city) => {
     let maxTemp = 0;
     let minTemp = 0;
     let avgTemp = 0;
-    let avgHumidity = 0;
 
     // Iterate over monthly values
     for (const entry of Object.values(monthWeather)) {
@@ -103,7 +102,6 @@ const fetchCityWeather = async (city) => {
         maxTemp += day.maxtemp_c;
         minTemp += day.mintemp_c;
         avgTemp += day.avgtemp_c;
-        avgHumidity += day.avghumidity;
       }
     }
 
@@ -113,7 +111,6 @@ const fetchCityWeather = async (city) => {
     maxTemp = maxTemp / daysInMonth;
     minTemp = minTemp / daysInMonth;
     avgTemp = avgTemp / daysInMonth;
-    avgHumidity = avgHumidity / daysInMonth;
 
     cityWeatherMonthlyAverages[month] = {
       totalRain: totalRainForMonth.toFixed(1),
@@ -121,7 +118,6 @@ const fetchCityWeather = async (city) => {
       maxTemp: maxTemp.toFixed(1),
       minTemp: minTemp.toFixed(1),
       avgTemp: avgTemp.toFixed(1),
-      avgHumidity: avgHumidity.toFixed(1),
     };
   }
 

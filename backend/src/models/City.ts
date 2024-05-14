@@ -98,10 +98,6 @@ const citySchema = new Schema({
           type: Number,
           required: true,
         },
-        avgHumidity: {
-          type: Number,
-          required: true,
-        },
       },
     ],
     required: true,

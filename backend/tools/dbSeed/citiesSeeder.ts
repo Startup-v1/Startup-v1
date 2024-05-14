@@ -13,7 +13,7 @@ async function seedData() {
       "mongodb+srv://admin:bMXmt84MvvJ5GX20@startup1.inwxclt.mongodb.net/?retryWrites=true&w=majority&appName=Startup1"
     );
 
-    // Delete all companies
+    // Delete all cities
     await (citySchema as any).deleteMany({});
 
     cities.forEach((city: any) => {

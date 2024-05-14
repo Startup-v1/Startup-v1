@@ -1,13 +1,12 @@
+import { City } from "@Pages/home/cities/cities";
 import { create } from "zustand";
 
 interface Store {
-  bears: number;
-  increasePopulation: () => void;
-  removeAllBears: () => void;
+  cities: City[];
+  updateCities: (cities: City[]) => void;
 }
 
 export const useStore = create<Store>((set) => ({
-  bears: 0,
-  increasePopulation: () => set((state) => ({ bears: state.bears + 1 })),
-  removeAllBears: () => set({ bears: 0 }),
+  cities: [],
+  updateCities: (cities) => set({ cities: cities }),
 }));
