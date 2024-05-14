@@ -1,4 +1,7 @@
 import { City } from "@Pages/home/cities/cities";
+import { SafetyIndexIcon } from "@SharedComponents/safetyIndexIcon";
+import { getSafetyString } from "src/utils/safetyIndexUtils";
+import { IoInformationCircleSharp } from "react-icons/io5";
 
 type Props = {
   city: City;
@@ -19,9 +22,15 @@ export const CityDetailsData = ({ city }: Props) => {
           <span className="font-bold">Population: </span>
           {city.population.toLocaleString("en-US")}
         </div>
-        <div className="text-gray-700">
-          <span className="font-bold">Safety index: </span>
-          {city.country.safetyIndex}
+        <div className="flex items-center text-gray-700">
+          <span className="font-bold">Safety: </span>
+          <SafetyIndexIcon safetyIndex={city.country.safetyIndex} />
+          <span className="ml-1">
+            {getSafetyString(city.country.safetyIndex)}
+          </span>
+          <div className="tooltip" data-tip={`Safety index ${city.country.safetyIndex}`}>
+            <IoInformationCircleSharp size={19} className="ml-1 mt-[1px]" />
+          </div>
         </div>
         <div className="text-gray-700">
           <span className="font-bold">Currency: </span>
