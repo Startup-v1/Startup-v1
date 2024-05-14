@@ -1,13 +1,11 @@
 import { useEffect, useState } from "react";
 import "./cities.scss";
 import axios from "axios";
-import greenDot from "@Assets/safetyIndexIcons/green.png";
-import yellowDot from "@Assets/safetyIndexIcons/yellow.png";
-import redDot from "@Assets/safetyIndexIcons/red.png";
 import { Sorting } from "./sorting/sorting";
 import { apiUrl } from "src/urls";
 import { Link } from "react-router-dom";
 import { useStore } from "@Store/store";
+import { SafetyIndexIcon } from "@SharedComponents/safetyIndexIcon";
 
 export type City = {
   name: string;
@@ -70,12 +68,6 @@ export const CitiesGrid = () => {
     };
   };
 
-  const calculateSafetyIndexRange = (safetyIndex: number) => {
-    const imageSource =
-      safetyIndex > 13 ? redDot : safetyIndex > 10.2 ? yellowDot : greenDot;
-    return <img className="ml-1" src={imageSource} alt={`${imageSource}`} />;
-  };
-
   useEffect(() => {
     if (cities.length === 0) {
       const fetchData = async () => {
@@ -128,7 +120,8 @@ export const CitiesGrid = () => {
                     </div>
                   )}
                   <div className="flex-center absolute top-5 right-5 font-bold">
-                    Safety {calculateSafetyIndexRange(city.country.safetyIndex)}
+                    <span>Safety</span>
+                    <SafetyIndexIcon safetyIndex={city.country.safetyIndex} />
                   </div>
                 </div>
               </Link>
