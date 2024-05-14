@@ -12,7 +12,7 @@ const dataFormatter = (number: number) =>
 export const PrecipitationChart = ({ data, type, color }: Prop) => {
   return (
     <>
-      <h3 className="text-tremor-default text-tremor-content dark:text-dark-tremor-content">
+      <h3 className="text-tremor-default text-tremor-content dark:text-dark-tremor-content mb-2">
         Annual {type}
       </h3>
       <BarChart
@@ -23,6 +23,7 @@ export const PrecipitationChart = ({ data, type, color }: Prop) => {
         colors={[color]}
         valueFormatter={dataFormatter}
         yAxisWidth={48}
+        showAnimation={true}
       />
     </>
   );

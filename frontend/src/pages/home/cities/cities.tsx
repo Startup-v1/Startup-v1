@@ -75,18 +75,19 @@ export const CitiesGrid = () => {
   };
 
   useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const cities = (await axios.get(apiUrl.cities)).data;
-        updateCities(cities);
-        console.log(cities);
-      } catch (error) {
-        console.error("Error fetching data:", error);
-      }
-    };
-
-    fetchData();
-  }, [updateCities]);
+    if (cities.length === 0) {
+      const fetchData = async () => {
+        try {
+          const cities = (await axios.get(apiUrl.cities)).data;
+          updateCities(cities);
+          console.log(cities);
+        } catch (error) {
+          console.error("Error fetching data:", error);
+        }
+      };
+      fetchData();
+    }
+  }, [cities, updateCities]);
 
   return (
     <div className="relative m-auto mt-0 w-[1280px]">

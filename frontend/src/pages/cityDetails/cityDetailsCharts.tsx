@@ -1,7 +1,7 @@
 import { City } from "@Pages/home/cities/cities";
 import { monthNames } from "src/utils/dates";
 import { PrecipitationChart } from "./charts/precipitationChart";
-import { TemperatureChart } from "./charts/temperatureChart";
+import { TemperatureChart } from "./charts/temperatures/temperatureChart";
 
 type Props = {
   data: City["weather"];
@@ -29,13 +29,10 @@ export function WeatherCharts({ data }: Props) {
   );
 
   return (
-    <>
-      <p className="text-tremor-metric text-tremor-content-strong dark:text-dark-tremor-content-strong font-semibold mt-24 mb-12">
-        Weather
-      </p>
+    <div className="mt-12">
       <TemperatureChart data={data} />
       <PrecipitationChart data={data} type="Rain" color="blue" />
       {totalSnow && <PrecipitationChart data={data} type="Snow" color="cyan" />}
-    </>
+    </div>
   );
 }
