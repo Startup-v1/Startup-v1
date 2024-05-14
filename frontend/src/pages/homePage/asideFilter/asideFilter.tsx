@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import FilterApplyButton from "./filterApplyButton";
 import { FilterGroup } from "./filterGroup";
 import filterOptions from "./filterOptions";
@@ -13,10 +13,24 @@ export function AsideFilter() {
     setIsHidden(true);
   };
 
+  useEffect(() => {
+    const handleResize = () => {
+      if (window.innerWidth >= 1280) {
+        setIsHidden(false);
+      }
+    };
+
+    window.addEventListener("resize", handleResize);
+
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
+  }, []);
+
   return (
     <div
-      className={`w-full h-screen flex flex-col relative md:w-[360px] md:border md:border-r-gray md:fixed md:top-0 md:right-0 xl:left-0 transition-transform duration-500 ease-in-out ${
-        isHidden ? "transform translate-x-full" : ""
+      className={`w-full h-screen flex flex-col relative md:w-[360px] md:border md:border-r-gray md:fixed top-0 left-0 xl:left-0 transition-transform duration-500 ease-in-out ${
+        isHidden ? "transform -translate-x-full" : ""
       }`}
     >
       {/* Sticky-block */}
