@@ -29,7 +29,7 @@ export function WeatherCharts({ data }: Props) {
     entry.Snow = entry.totalSnow;
   });
 
-  const dataWithChartKeys = { ...(data as (Weather & ChartUtilKeys)[]) };
+  const dataWithChartKeys = [...(data as (Weather & ChartUtilKeys)[])];
 
   const totalSnow = data.reduce(
     (snowSum, monthData) =>
