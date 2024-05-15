@@ -1,10 +1,20 @@
-.feedback-btn {
-  position: fixed;
-  bottom: 1%;
-  right: 0.7%;
-  z-index: 999;
-}
-
-.feedback-btn-container .modal{
-  background-color: #00000063;
+.feedback-btn-container {
+  .feedback-btn {
+    position: fixed;
+    bottom: 1%;
+    right: 0.7%;
+    z-index: 999;
+  }
+  .modal {
+    background-color: #00000063;
+    .modal-box {
+      position: relative;
+      .spinner-container {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+    }
+  }
 }

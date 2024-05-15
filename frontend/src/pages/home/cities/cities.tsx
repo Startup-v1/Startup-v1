@@ -6,6 +6,7 @@ import { apiUrl } from "src/urls";
 import { Link } from "react-router-dom";
 import { useStore } from "@Store/store";
 import { SafetyIndexIcon } from "@SharedComponents/safetyIndexIcon";
+import { LoadingSpinner } from "@SharedComponents/loadingSpinner";
 
 export type City = {
   name: string;
@@ -88,7 +89,7 @@ export const CitiesGrid = () => {
       {!cities.length && (
         <div className="flex-center flex-col mt-64">
           <span className="mb-6">Retrieving cities...</span>
-          <span className="loading loading-spinner loading-lg"></span>
+          <LoadingSpinner />
         </div>
       )}
       <section className="flex justify-center mt-28 container">
