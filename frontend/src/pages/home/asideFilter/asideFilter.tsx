@@ -76,10 +76,10 @@ export function AsideFilter() {
         className="overflow-y-auto bg-white flex-1"
         style={{ position: "sticky", top: "50px" }}
       >
-        <FilterGroup filterOptions={weather} title={"Weather"} size="btn-sm" />
-        <FilterGroup filterOptions={where} title="Where" />
+        <FilterGroup filterOptions={weather} title={"Weather"} />
+        <FilterGroup filterOptions={where} title="Where" size="px-2 py-3" />
         <FilterPriceRange />
-        <FilterGroup filterOptions={other} title="Other" size="btn-sm" />
+        <FilterGroup filterOptions={other} title="Other" />
       </div>
 
       {/* Sticky-block */}
