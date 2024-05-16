@@ -2,6 +2,7 @@ import { useState } from "react";
 import "./feedbackButton.scss";
 import { ButtonSvg } from "./buttonSvg";
 import emailjs from "@emailjs/browser";
+import { LoadingSpinner } from "@SharedComponents/loadingSpinner";
 
 type Form = {
   email: string;
@@ -11,6 +12,7 @@ type Form = {
 export function FeedbackButton() {
   const [isOpen, setIsOpen] = useState(false);
   const [form, setForm] = useState({} as Form);
+  const [isLoading, setIsLoading] = useState(false);
 
   const openModal = () => {
     setIsOpen(true);
@@ -18,6 +20,17 @@ export function FeedbackButton() {
 
   const closeModal = () => {
     setIsOpen(false);
+  };
+
+  const onSubmit = () => {
+    sendFeedBack();
+    setIsLoading(true);
+    // Fake loading for UI/UX
+    setTimeout(() => {
+      closeModal();
+      setForm({} as Form);
+      setIsLoading(false); // Hide loading spinner
+    }, 1500);
   };
 
   const sendFeedBack = () => {
@@ -53,6 +66,11 @@ export function FeedbackButton() {
       {isOpen && (
         <dialog id="my_modal_2" className="modal" open>
           <div className="modal-box">
+            {isLoading && (
+              <div className="spinner-container">
+                <LoadingSpinner />
+              </div>
+            )}
             <h3 className="font-bold text-lg">
               We would love to know your thoughts.
             </h3>
@@ -91,12 +109,9 @@ export function FeedbackButton() {
               ✕
             </button>
             <button
+              disabled={isLoading}
               className="btn btn-accent mt-3 flex justify-center w-full"
-              onClick={() => {
-                sendFeedBack();
-                closeModal();
-                setForm({} as Form);
-              }}
+              onClick={onSubmit}
             >
               Submit
             </button>
