@@ -4,7 +4,7 @@ import "./heroSection.scss";
 export const HeroSection = () => {
   return (
     <>
-      <div id="hero-section" className="hero-video-container">
+      <div className="hero-video-container">
         <div className="curtain"></div>
         <video
           className="hero-video"
