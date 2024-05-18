@@ -1,7 +1,7 @@
 import { City } from "@Pages/home/cities/cities";
 import { create } from "zustand";
-import { Currency } from "src/utils/currencies";
 import { TemperatureMetric } from "@SharedComponents/navbar/userTemperature";
+import { Currency } from "src/utils/currencyUtil";
 
 interface Store {
   cities: City[];

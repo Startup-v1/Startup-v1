@@ -1,3 +1,5 @@
+import { Degrees } from "src/utils/temperatureUtil";
+
 export const TemperaturesTooltip = (props: any) => {
   const { payload, active } = props;
   if (!active || !payload) return null;
@@ -18,7 +20,7 @@ export const TemperaturesTooltip = (props: any) => {
           <div className="space-y-1">
             <p className="text-tremor-content">{category.dataKey}</p>
             <p className="font-medium text-tremor-content-emphasis !mt-0">
-              {category.value}°
+              <Degrees degrees={category.value} />
             </p>
           </div>
         </div>

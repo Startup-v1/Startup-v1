@@ -4,16 +4,27 @@ import { FaHotjar } from "react-icons/fa";
 import { MdSevereCold } from "react-icons/md";
 import { Weather } from "@Pages/home/cities/cities";
 import { ChartUtilKeys } from "../cityDetailsCharts";
+import {
+  Degrees,
+  getDegreeSymbol,
+} from "src/utils/temperatureUtil";
+import { useStore } from "@Store/store";
+import { TemperatureMetric } from "@SharedComponents/navbar/userTemperature";
 
-const valueFormatterYAxis = function (number: number) {
-  return new Intl.NumberFormat("us").format(number).toString() + "° ";
-};
+const valueFormatterYAxis = (
+  number: number,
+  userTemperature: TemperatureMetric
+) =>
+  new Intl.NumberFormat("us").format(number).toString() +
+  getDegreeSymbol(userTemperature);
 
 type Prop = {
   data: (Weather & ChartUtilKeys)[];
 };
 
 export const TemperatureChart = ({ data }: Prop) => {
+  const { userTemperature } = useStore();
+
   const hottestMonth = data.reduce((prev, curr) => {
     return curr.avgTemp > prev.avgTemp ? curr : prev;
   });
@@ -28,12 +39,12 @@ export const TemperatureChart = ({ data }: Prop) => {
         <div className="flex items-center">
           <FaHotjar />
           <span className="font-bold ml-1 mr-1">{hottestMonth.month}</span>
-          <span>{hottestMonth.avgTemp} °C Avg</span>
+          <Degrees degrees={hottestMonth.avgTemp} /> Avg
         </div>
         <div className="flex items-center">
           <MdSevereCold />
           <span className="font-bold  ml-1 mr-1">{coldestMonth.month}</span>
-          <span>{coldestMonth.avgTemp} °C Avg</span>
+          <Degrees degrees={coldestMonth.avgTemp} /> Avg
         </div>
       </h3>
       <LineChart
@@ -44,7 +55,9 @@ export const TemperatureChart = ({ data }: Prop) => {
         categories={["Max", "Avg", "Min"]}
         colors={["red", "gray", "blue"]}
         curveType="natural"
-        valueFormatter={valueFormatterYAxis}
+        valueFormatter={(number) =>
+          valueFormatterYAxis(number, userTemperature)
+        }
         showAnimation={true}
         customTooltip={TemperaturesTooltip}
       />

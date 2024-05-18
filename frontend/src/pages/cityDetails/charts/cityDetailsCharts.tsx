@@ -1,5 +1,5 @@
 import { Weather } from "@Pages/home/cities/cities";
-import { monthNames } from "src/utils/dates";
+import { monthNames } from "src/utils/dateUtil";
 import { PrecipitationChart } from "./precipitationChart";
 import { TemperatureChart } from "./temperatures/temperatureChart";
 

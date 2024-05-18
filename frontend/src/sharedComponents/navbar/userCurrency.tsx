@@ -1,6 +1,6 @@
 import { useStore } from "@Store/store";
 import { useEffect } from "react";
-import { popularCurrencies } from "src/utils/currencies";
+import { popularCurrencies } from "src/utils/currencyUtil";
 
 export const UserCurrency = () => {
   const { userCurrency, updateUserCurrency } = useStore();
