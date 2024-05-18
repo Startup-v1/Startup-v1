@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
-import { RoutePaths } from "../routes/routePaths";
+import { RoutePaths } from "../../routes/routePaths";
+import { UserTemperature } from "./userTemperature";
+import { UserCurrency } from "./userCurrency";
 
 export function Navbar() {
   return (
@@ -7,14 +9,11 @@ export function Navbar() {
       <div className="flex-1">
         <a className="btn btn-ghost text-xl">daisyUI</a>
       </div>
-
+      <UserTemperature />
+      <UserCurrency />
       <div className="flex-none">
         <ul className="menu menu-horizontal px-1">
-          <li>
-            <Link to={RoutePaths.home}>Discover</Link>
-          </li>
-
-          <li>{/* <Link to="/meetups">Meetups</Link> */}</li>
+          <li>{<Link to={RoutePaths.meetups}>Meetups</Link>}</li>
         </ul>
       </div>
       <div className="dropdown dropdown-end">
