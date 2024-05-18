@@ -7,6 +7,7 @@ import { Link } from "react-router-dom";
 import { useStore } from "@Store/store";
 import { SafetyIndexIcon } from "@SharedComponents/safetyIndexIcon";
 import { LoadingSpinner } from "@SharedComponents/loadingSpinner";
+import { Degrees } from "src/utils/temperatureUtil";
 
 export type City = {
   name: string;
@@ -108,11 +109,21 @@ export const CitiesGrid = () => {
                   <h1 className="cityName">{city.name}</h1>
                   <h2 className="cityCountry font-bold">{city.country.name}</h2>
                   <div className="absolute bottom-5 left-5">
-                    <span className="mr-1 font-bold">
-                      Min {calculateYearlyTemperatures(city).yearlyMinTemp}°
+                    <span className="mr-2 font-bold">
+                      Min{" "}
+                      <Degrees
+                        degrees={
+                          calculateYearlyTemperatures(city).yearlyMinTemp
+                        }
+                      />
                     </span>
                     <span className="font-bold">
-                      Max {calculateYearlyTemperatures(city).yearlyMaxTemp}°
+                      Max{" "}
+                      <Degrees
+                        degrees={
+                          calculateYearlyTemperatures(city).yearlyMaxTemp
+                        }
+                      />
                     </span>
                   </div>
                   {isSortActive && (

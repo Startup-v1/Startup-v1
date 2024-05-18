@@ -33,11 +33,6 @@ export const CityDetailsData = ({ city }: Props) => {
           </div>
         </div>
         <div className="text-gray-700">
-          <span className="font-bold">Currency: </span>
-          {city.country.currency.usdPair}
-          {city.country.currency.symbol} = 1$
-        </div>
-        <div className="text-gray-700">
           <span className="font-bold">Official languages: </span>
           {city.country.languages}
         </div>
