@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import FilterApplyButton from "./filters/filterApplyButton";
 import filterOptions from "./filterOptions";
-import { FilterPriceRange } from "./filters/filterPriceRange/filterPriceRange";
+import { FilterPriceRange } from "./filters/filterPriceRange";
 import { FilterToolbar } from "./filters/filterToolbar";
 import { FilterGroup } from "./filters/filterGroup";
 
