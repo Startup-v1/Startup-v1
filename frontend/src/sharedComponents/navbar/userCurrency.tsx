@@ -39,7 +39,7 @@ export const UserCurrency = () => {
               onClick={() => {
                 handleClick();
                 updateUserCurrency(currency.code);
-                localStorage.setItem("userCurrency", JSON.stringify(currency));
+                localStorage.setItem("userCurrency", currency.code);
               }}
             >
               {currency.code} - {currency.symbol}
