@@ -6,17 +6,15 @@ import { Weather } from "@Pages/home/cities/cities";
 import { ChartUtilKeys } from "../cityDetailsCharts";
 import {
   Degrees,
-  getDegreeSymbol,
+  getDegrees,
 } from "src/utils/temperatureUtil";
 import { useStore } from "@Store/store";
 import { TemperatureMetric } from "@SharedComponents/navbar/userTemperature";
 
 const valueFormatterYAxis = (
-  number: number,
+  degrees: number,
   userTemperature: TemperatureMetric
-) =>
-  new Intl.NumberFormat("us").format(number).toString() +
-  getDegreeSymbol(userTemperature);
+) => getDegrees(degrees, userTemperature);
 
 type Prop = {
   data: (Weather & ChartUtilKeys)[];

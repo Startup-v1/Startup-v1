@@ -3,7 +3,7 @@ import { RiFahrenheitLine } from "react-icons/ri";
 import { useStore } from "@Store/store";
 import { useEffect } from "react";
 
-export type TemperatureMetric = "Celsius" | "Farenheit";
+export type TemperatureMetric = "Celsius" | "Fahrenheit";
 
 export const UserTemperature = () => {
   const { userTemperature, updateUserTemperature } = useStore();
@@ -25,7 +25,7 @@ export const UserTemperature = () => {
         onChange={(e) => {
           const selectedTemperature = e.target.checked
             ? "Celsius"
-            : "Farenheit";
+            : "Fahrenheit";
           updateUserTemperature(selectedTemperature);
           localStorage.setItem("userTemperature", selectedTemperature);
         }}
