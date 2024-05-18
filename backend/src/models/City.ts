@@ -55,10 +55,6 @@ const citySchema = new Schema({
         type: String,
         required: true,
       },
-      usdPair: {
-        type: Number,
-        required: true,
-      },
     },
   },
   population: {
