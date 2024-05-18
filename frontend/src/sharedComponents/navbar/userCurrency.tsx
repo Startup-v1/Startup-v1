@@ -16,7 +16,7 @@ export const UserCurrency = () => {
   }, []);
 
   return (
-    <div className="dropdown dropdown-bottom dropdown-end">
+    <div className="dropdown dropdown-bottom dropdown-end mr-3">
       <div tabIndex={0} role="button" className="btn m-1 p-2 rounded-sm min-h-8 max-h-8 font-normal">
         {userCurrency.code}
       </div>
