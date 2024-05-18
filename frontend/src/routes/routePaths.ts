@@ -1,6 +1,6 @@
 export enum RoutePaths {
   home = "/",
   cityDetails = "/city/:name",
-  trips = "/profile",
+  trips = "/trips",
   meetups = "/meetups",
 }

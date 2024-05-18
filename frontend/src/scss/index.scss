@@ -1,23 +1,27 @@
 @import "variables";
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
 // Used to mantain scroll when feedback modal is open
-html{
-    overflow-y: scroll !important;
+html {
+  overflow-y: scroll !important;
 }
 
 // UTILITY CLASSES -----------------
 
 // Utility class to add to the body of every page
 .page-container {
-    width: 1200px;
-    margin: 0 auto;
+  width: 1200px;
+  margin: 0 auto;
 }
 
 .flex-center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-light-gray {
+  background-color: $light-gray;
 }
