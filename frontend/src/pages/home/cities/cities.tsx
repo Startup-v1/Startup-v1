@@ -25,7 +25,6 @@ export type City = {
     currency: {
       code: string;
       symbol: string;
-      usdPair: number;
     };
   };
   population: number;

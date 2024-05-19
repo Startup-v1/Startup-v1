@@ -37,9 +37,8 @@ export const CityDetailsData = ({ city }: Props) => {
           {city.country.languages}
         </div>
         <div className="text-gray-700">
-          <span className="font-bold">Lat, Long: </span>
-          {city.location.latitude.toFixed(2)},{" "}
-          {city.location.longitude.toFixed(2)}
+          <span className="font-bold">Currency: </span>
+          {city.country.currency.code} - {city.country.currency.symbol}
         </div>
       </div>
     </>

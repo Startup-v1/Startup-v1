@@ -14,11 +14,9 @@ export const UserCurrency = () => {
   };
 
   useEffect(() => {
-    const userCurrencyFromStorage = JSON.parse(
-      localStorage.getItem("userCurrency") || "{}"
-    );
+    const userCurrencyFromStorage = localStorage.getItem("userCurrency");
 
-    if (Object.keys(userCurrencyFromStorage).length !== 0) {
+    if (userCurrencyFromStorage) {
       updateUserCurrency(userCurrencyFromStorage);
     }
   }, []);
@@ -27,9 +25,9 @@ export const UserCurrency = () => {
     <div className="dropdown dropdown-bottom dropdown-end mr-3">
       <label
         tabIndex={0}
-        className="m-1 btn p-2 rounded-sm min-h-8 max-h-8 font-normal"
+        className="m-1 btn p-2 rounded-md min-h-8 max-h-8 font-normal"
       >
-        {userCurrency.code}
+        {userCurrency}
       </label>
       <ul
         tabIndex={0}
@@ -40,8 +38,8 @@ export const UserCurrency = () => {
             <a
               onClick={() => {
                 handleClick();
-                updateUserCurrency(currency);
-                localStorage.setItem("userCurrency", JSON.stringify(currency));
+                updateUserCurrency(currency.code);
+                localStorage.setItem("userCurrency", currency.code);
               }}
             >
               {currency.code} - {currency.symbol}
