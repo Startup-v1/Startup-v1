@@ -15,37 +15,30 @@ export function Navbar() {
   return (
     <div className="navbar bg-base-100 absolute z-10 p-0">
       <div className="navbar-start">
-        <a className="btn btn-ghost text-xl ml-4">Name+Logo</a>
+        <Link className="btn btn-ghost text-xl ml-4" to={RoutePaths.home}>
+          Name+Logo
+        </Link>
         <ul className="menu menu-horizontal px-1">
           <li className="ml-3 text-base">
-            {
-              <Link
-                className={getBgClass(RoutePaths.home)}
-                to={RoutePaths.home}
-              >
-                Cities
-              </Link>
-            }
+            <Link className={getBgClass(RoutePaths.home)} to={RoutePaths.home}>
+              Cities
+            </Link>
           </li>
           <li className="ml-3 text-base">
-            {
-              <Link
-                className={getBgClass(RoutePaths.trips)}
-                to={RoutePaths.trips}
-              >
-                Trips
-              </Link>
-            }
+            <Link
+              className={getBgClass(RoutePaths.trips)}
+              to={RoutePaths.trips}
+            >
+              Trips
+            </Link>
           </li>
           <li className="ml-3 text-base">
-            {
-              <Link
-                className={getBgClass(RoutePaths.meetups)}
-                to={RoutePaths.meetups}
-              >
-                Meetups
-              </Link>
-            }
+            <Link
+              className={getBgClass(RoutePaths.meetups)}
+              to={RoutePaths.meetups}
+            >
+              Meetups
+            </Link>
           </li>
         </ul>
       </div>

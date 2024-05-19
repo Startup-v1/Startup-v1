@@ -17,7 +17,7 @@ export const UserTemperature = () => {
   }, []);
 
   return (
-    <label className="swap btn p-2 rounded-sm min-h-8 max-h-8">
+    <label className="swap btn p-2 rounded-md min-h-8 max-h-8 mr-1">
       <input
         className="hidden"
         type="checkbox"
