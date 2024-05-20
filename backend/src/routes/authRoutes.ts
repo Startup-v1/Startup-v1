@@ -1,5 +1,5 @@
 import express from "express";
-import { login, authenticateUser, changePassword } from "../controllers/authController";
+import { login, authenticateUser } from "../controllers/authController"; // TODO add change password controller
 const router = express.Router();
 
 router.post("/login", login);
