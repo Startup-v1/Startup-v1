@@ -1,7 +1,7 @@
 import { Request, Response } from "express";
 import jwt, { Secret } from "jsonwebtoken";
 import bcrypt from "bcrypt";
-const User = require("../models/User"); // TODO add usertype & last login to user model 
+const User = require("../models/User");
 import formatDate from "../utils/dateUtils";
 import { defaultErrMessage } from "../utils/errorMessages";
 
