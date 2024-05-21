@@ -1,14 +1,51 @@
 import video from "@Assets/video.mp4";
 import "./heroSection.scss";
-// import { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 
 export const HeroSection = () => {
+  const [windowHeight, setWindowHeight] = useState(window.innerHeight);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setWindowHeight(window.innerHeight);
+    };
+
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
+
+  const setViewPortHeight = () => {
+    if (windowHeight <= 700) {
+      return "small-height";
+    } else if (windowHeight > 700 && windowHeight <= 750) {
+      return "medium-height";
+    } else if (windowHeight > 750 && windowHeight <= 799) {
+      return "large-height";
+    } else {
+      return "standard-height";
+    }
+  };
+
+  const setMargin = () => {
+    if (windowHeight <= 700) {
+      return "small-height-margin";
+    } else if (windowHeight > 700 && windowHeight <= 750) {
+      return "medium-height-margin";
+    } else if (windowHeight > 750 && windowHeight <= 799) {
+      return "large-height-margin";
+    } else if (windowHeight > 799 && windowHeight < 883) {
+      return "galaxy-z-fold-5-margin";
+    } else {
+      return "standard-height-margin";
+    }
+  };
+
   return (
     <>
       <div className="hero-video-container">
-        <div className="curtain min-h-[780px] xl:h-screen"></div>
+        <div className={`curtain xl:h-screen ${setViewPortHeight()}`}></div>
         <video
-          className="hero-video min-h-[780px] xl:h-screen"
+          className={`hero-video xl:h-screen ${setViewPortHeight()}`}
           autoPlay
           loop
           muted
@@ -18,7 +55,9 @@ export const HeroSection = () => {
           <source src={video} type="video/mp4"></source>
           Your browser does not support HTML5 video.
         </video>
-        <div className="absolute top-0 flex flex-col items-start text-white mx-6 mt-40 md:mx-12 xl:mx-56 xl:mt-56">
+        <div
+          className={`absolute top-0 flex flex-col items-start text-white mx-6 md:mx-12 xl:mx-56 xl:mt-56 ${setMargin()}`}
+        >
           <h1 className="text-4xl font-bold sm:text-6xl">
             <div className="mb-3 min-[348px]:hidden">Work</div>
             <div className="mb-3 min-[348px]:hidden">Remote.</div>
