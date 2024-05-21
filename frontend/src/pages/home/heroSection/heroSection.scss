@@ -36,3 +36,31 @@ h2,
 div {
   letter-spacing: 1px;
 }
+
+// estilos aplicados al detectar la altura de un dispositivo
+
+.standard-height {
+  height: 100vh;
+}
+
+.standard-height-margin {
+  margin-top: 205px;
+}
+
+.large-height {
+  height: 104vh;
+}
+
+.medium-height {
+  height: 105vh;
+}
+
+.galaxy-z-fold-5-margin,
+.small-height-margin,
+.medium-height-margin {
+  margin-top: 160px;
+}
+
+.small-height {
+  height: 117vh;
+}
