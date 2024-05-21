@@ -1,64 +1,33 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useRef } from "react";
 import FilterApplyButton from "./filters/filterApplyButton";
-import filterOptions from "./filterOptions";
 import { FilterPriceRange } from "./filters/filterPriceRange";
 import { FilterToolbar } from "./filters/filterToolbar";
 import { FilterGroup } from "./filters/filterGroup";
+import filterValues from "./utils/filterValues";
+import { useResizeEffect } from "./hooks/useResizeEffect";
+import { useScrollEffect } from "./hooks/useScrollEffect";
 
 export function AsideFilter() {
-  const { weather, where, other } = filterOptions;
+  const {
+    temperature,
+    precipitations,
+    environment,
+    travel,
+    size,
+    safety,
+    continent,
+    language,
+  } = filterValues;
+
   const [isHidden, setIsHidden] = useState(false);
-  const filterRef = useRef<HTMLDivElement>(null); // Asegura que filterRef es de tipo HTMLDivElement
+  const filterRef = useRef<HTMLDivElement>(null);
+
+  useResizeEffect(setIsHidden);
+  useScrollEffect(filterRef);
 
   const handleHideAsideFilter = () => {
     setIsHidden(true);
   };
-
-  useEffect(() => {
-    const handleResize = () => {
-      if (window.innerWidth >= 1280) {
-        setIsHidden(false);
-      }
-    };
-
-    window.addEventListener("resize", handleResize);
-
-    return () => {
-      window.removeEventListener("resize", handleResize);
-    };
-  }, []);
-
-  useEffect(() => {
-    const handleScroll = () => {
-      const filterElement = filterRef.current;
-      if (!filterElement) return;
-
-      const filterRect = filterElement.getBoundingClientRect();
-      const buttonElement = filterElement.querySelector(
-        ".applyButton"
-      ) as HTMLElement; // Tipo HTMLElement
-
-      if (!buttonElement) return;
-
-      const buttonRect = buttonElement.getBoundingClientRect();
-      const windowHeight = window.innerHeight;
-
-      // Check if the filter is about to leave the viewport
-      if (filterRect.bottom < windowHeight) {
-        filterElement.classList.add("sticky");
-        filterElement.style.bottom = `${windowHeight - buttonRect.bottom}px`;
-      } else {
-        filterElement.classList.remove("sticky");
-        filterElement.style.bottom = "";
-      }
-    };
-
-    window.addEventListener("scroll", handleScroll);
-
-    return () => {
-      window.removeEventListener("scroll", handleScroll);
-    };
-  }, []);
 
   return (
     <div
@@ -68,21 +37,21 @@ export function AsideFilter() {
       }`}
       style={{ position: "sticky", top: 0 }}
     >
-      {/* Sticky-block */}
       <FilterToolbar onHideAsideFilter={handleHideAsideFilter} />
-
-      {/* Barra-navegación personalizada */}
       <div
         className="overflow-y-auto bg-white flex-1"
         style={{ position: "sticky", top: "50px" }}
       >
-        <FilterGroup filterOptions={weather} title={"Weather"} />
-        <FilterGroup filterOptions={where} title="Where" size="px-2 py-3" />
         <FilterPriceRange />
-        <FilterGroup filterOptions={other} title="Other" />
+        <FilterGroup filterValues={temperature} title="Temperature" />
+        <FilterGroup filterValues={precipitations} title="Precipitations" />
+        <FilterGroup filterValues={environment} title="Environment" />
+        <FilterGroup filterValues={travel} title="Travel" />
+        <FilterGroup filterValues={size} title="Size" />
+        <FilterGroup filterValues={safety} title="Safety" />
+        <FilterGroup filterValues={continent} title="Continent" />
+        <FilterGroup filterValues={language} title="Language spoken" />
       </div>
-
-      {/* Sticky-block */}
       <div className="applyButton">
         <FilterApplyButton />
       </div>

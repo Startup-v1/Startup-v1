@@ -4,7 +4,7 @@ export function FilterPriceRange() {
   const [value, setValue] = useState("0");
   return (
     <div className="p-4">
-      <p className="font-bold pb-2">Price &lt; {value}$</p>
+      <p className="font-bold pb-2">Cost of living &lt; {value}$</p>
       <div className="flex flex-wrap gap-3 pt-2">
         <input
           type="range"
