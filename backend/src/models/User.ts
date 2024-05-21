@@ -75,6 +75,15 @@ const userSchema = new Schema({
       },
     },
   ],
+  userType: {
+    type: String,
+    required: true,
+    enum: ["free", "paid"],
+  },
+  lastLogin: {
+    type: String,
+    required: false,
+  },
 });
 
 export default model("User", userSchema);
