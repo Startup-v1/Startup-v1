@@ -7,8 +7,8 @@ import { FilterGroup } from "./filters/filterGroup";
 
 export function AsideFilter() {
   const { weather, where, other } = filterOptions;
-  const [isHidden, setIsHidden] = useState(false);
-  const filterRef = useRef<HTMLDivElement>(null); // Asegura que filterRef es de tipo HTMLDivElement
+  const [isHidden, setIsHidden] = useState(true); // Comienza oculto por defecto
+  const filterRef = useRef<HTMLDivElement>(null);
 
   const handleHideAsideFilter = () => {
     setIsHidden(true);
@@ -16,15 +16,29 @@ export function AsideFilter() {
 
   useEffect(() => {
     const handleResize = () => {
-      if (window.innerWidth >= 1280) {
-        setIsHidden(false);
-      }
+      setIsHidden(window.innerWidth < 1280); // Ocultar cuando el ancho de la ventana sea menor que 1280px
     };
 
+    handleResize(); // Verificar el ancho inicial en el montaje del componente
     window.addEventListener("resize", handleResize);
 
     return () => {
       window.removeEventListener("resize", handleResize);
+    };
+  }, []);
+
+  useEffect(() => {
+    const showAsideFilterHandler = () => {
+      setIsHidden(false);
+    };
+
+    window.addEventListener("showAsideFilterEvent", showAsideFilterHandler);
+
+    return () => {
+      window.removeEventListener(
+        "showAsideFilterEvent",
+        showAsideFilterHandler
+      );
     };
   }, []);
 
@@ -36,14 +50,13 @@ export function AsideFilter() {
       const filterRect = filterElement.getBoundingClientRect();
       const buttonElement = filterElement.querySelector(
         ".applyButton"
-      ) as HTMLElement; // Tipo HTMLElement
+      ) as HTMLElement;
 
       if (!buttonElement) return;
 
       const buttonRect = buttonElement.getBoundingClientRect();
       const windowHeight = window.innerHeight;
 
-      // Check if the filter is about to leave the viewport
       if (filterRect.bottom < windowHeight) {
         filterElement.classList.add("sticky");
         filterElement.style.bottom = `${windowHeight - buttonRect.bottom}px`;
@@ -73,7 +86,9 @@ export function AsideFilter() {
 
       {/* Barra-navegación personalizada */}
       <div
-        className="overflow-y-auto bg-white flex-1"
+        className={`overflow-y-auto bg-white flex-1 ${
+          isHidden ? "hidden md:block" : "" // Ocultar en tamaños de pantalla pequeños, mostrar solo en md (o el breakpoint deseado)
+        }`}
         style={{ position: "sticky", top: "50px" }}
       >
         <FilterGroup filterOptions={weather} title={"Weather"} />
@@ -83,7 +98,7 @@ export function AsideFilter() {
       </div>
 
       {/* Sticky-block */}
-      <div className="applyButton">
+      <div className={`applyButton ${isHidden ? "hidden md:block" : ""}`}>
         <FilterApplyButton />
       </div>
     </div>
