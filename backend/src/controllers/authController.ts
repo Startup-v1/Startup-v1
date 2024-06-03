@@ -53,21 +53,26 @@ export const authenticateUser = async (req: Request, res: Response) => {
     return res.status(404).json({ message: "Token error" });
   }
 
-  jwt.verify(token, process.env.JWT_SECRET as Secret, async (err: any, decoded: { userName: string; userType: string; }) => {
-    if (err) {
-      return res.status(401).json({ message: "Token error" });
+  jwt.verify(
+    token,
+    process.env.JWT_SECRET as Secret,
+    // @ts-ignore
+    async (err: any, decoded: { userName: string; userType: string }) => {
+      if (err) {
+        return res.status(401).json({ message: "Token error" });
+      }
+
+      const { userName, userType } = decoded as {
+        userName: string;
+        userType: string;
+      };
+
+      const user = await User.findOne({ userName }).lean();
+
+      return res.status(200).json({
+        userName,
+        userType,
+      });
     }
-
-    const { userName, userType } = decoded as {
-      userName: string;
-      userType: string;
-    };
-
-    const user = await User.findOne({ userName }).lean();
-
-    return res.status(200).json({
-      userName,
-      userType,
-    });
-  });
+  );
 };

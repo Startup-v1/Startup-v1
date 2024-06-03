@@ -12,6 +12,11 @@ export function Navbar() {
     return (currentRoute === url && "bg-light-gray") || "";
   };
 
+  const handleClick = () => {
+    const event = new Event("showAsideFilterEvent");
+    window.dispatchEvent(event);
+  };
+
   return (
     <div className="navbar bg-base-100 absolute z-10 p-0">
       <div className="navbar-start">
@@ -39,6 +44,13 @@ export function Navbar() {
             >
               Meetups
             </Link>
+          </li>
+
+          {/* boton para activar el AsideFilter */}
+          <li className="ml-3 text-base">
+            <button className="xl:hidden" onClick={handleClick}>
+              Filtros
+            </button>
           </li>
         </ul>
       </div>
